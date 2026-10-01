@@ -1,0 +1,1212 @@
+Flexible Retrieval: When True Inferences Produce False 
+Memories
+Alexis C. Carpenter and Daniel L. Schacter
+Department of Psychology and Center for Brain Science, Harvard University
+Abstract
+Episodic memory involves flexible retrieval processes that allow us to link together distinct 
+episodes, make novel inferences across overlapping events, and recombine elements of past 
+experiences when imagining future events. However, the same flexible retrieval and recombination 
+processes that underpin these adaptive functions may also leave memory prone to error or 
+distortion, such as source misattributions in which details of one event are mistakenly attributed to 
+another related event. To determine whether the same recombination-related retrieval mechanism 
+supports both successful inference and source memory errors, we developed a modified version of 
+an associative inference paradigm in which participants encoded everyday scenes comprised of 
+people, objects, and other contextual details. These scenes contained overlapping elements (AB, 
+BC) that could later be linked to support novel inferential retrieval regarding elements that had not 
+appeared together previously (AC). Our critical experimental manipulation concerned whether 
+contextual details were probed before or after the associative inference test, thereby allowing us to 
+assess whether a) false memories increased for successful versus unsuccessful inferences, and b) 
+any such effects were specific to after as compared to before participants received the inference 
+test. In each of four experiments that used variants of this paradigm, participants were more 
+susceptible to false memories for contextual details after successful than unsuccessful inferential 
+retrieval, but only when contextual details were probed after the associative inference test. These 
+results suggest that the retrieval-mediated recombination mechanism that underlies associative 
+inference also contributes to source misattributions that result from combining elements of distinct 
+episodes.
+Keywords
+Inference; False Memory; Episodic Memory; Memory; Associative Processes
+Episodic memory allows individuals to recollect particular past experiences (Tulving, 2002). 
+It has been well established that episodic memories are not literal representations of past 
+experiences, but instead depend on constructive processes that are sometimes prone to error 
+and distortion (cf., Bartlett, 1932; Brainerd & Reyna, 2005; Loftus, Miller, & Burns, 1978; 
+McClelland, 1995; Roediger, 1996; Schacter, 1996). Such memory errors can arise as a 
+consequence of multiple processes, including: knowledge- or schema-based inferences made 
+Address Correspondence to: Alexis C. Carpenter, Harvard University, Department of Psychology, 33 Kirkland Street, Cambridge, MA 
+02138, 763-772-6095, alexiscarpenter@g.harvard.edu. 
+HHS Public Access
+Author manuscript
+Published in final edited form as:
+J Exp Psychol Learn Mem Cogn. 2017 March ; 43(3): 335–349. doi:10.1037/xlm0000340.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+about the meaning of observed actions or events, which are later integrated into memories of 
+presented materials, such as sentences and stories (e.g., Alba & Hasher, 1983; Bransford, 
+Barclay, & Franks, 1972; Bransford & Franks, 1971); activation of associations to 
+semantically related words that may produce subsequent false recognition of a nonpresented 
+word that is strongly associated to the list items that were presented (e.g., Gallo, 2006; 
+Roediger & McDermott, 1995); and a variety of influences that operate during retrieval of 
+past experiences, such as misleading suggestions or instructions to imagine what might have 
+happened earlier (Loftus, 2003, 2005; Shaw & Porter, 2015).
+While these and other forms of memory distortion could be viewed as flaws or defects in 
+episodic memory, a number of researchers have built on Bartlett’s (1932) seminal insights 
+and suggest instead that such errors can be viewed as byproducts of adaptive constructive 
+processes (Schacter, 2012) that play a functional role in memory but produce errors or 
+distortions as a direct consequence of doing so (cf., Howe, 2011; Howe, Wilkinson, Garner, 
+& Ball, 2016; Newman & Lindsay, 2009; Schacter, 2001; Schacter, Guerin, & Jacques, 
+2011). Bartlett (1932), of course, focused on the functional role of schemata in guiding 
+constructive retrieval, which he maintained “must always be supposed to be operating in any 
+well-adapted organic response (1932, p. 201)” but also contributed to the memory 
+distortions that he documented. Others have argued that such well established memory errors 
+as the misinformation effect and associative false recognition may reflect, respectively, the 
+operation of adaptive memory updating processes and retention of themes and meanings (for 
+review, see Schacter et al., 2011). More recently, it has become increasingly clear that 
+episodic memory supports a variety of cognitive functions, including imagining future 
+experiences (e.g., Schacter et al., 2012; Szpunar, 2010), inferential processing (e.g., 
+Zeithamova, Dominick & Preston, 2012; Zeithamova & Preston, 2010), means-end problem 
+solving (e.g., Madore & Schacter, 2014; Sheldon, McAndrews, & Moscovitch, 2011), and 
+divergent creative thinking (e.g., Madore, Addis, & Schacter, 2015). An important feature of 
+episodic memory that supports these and other adaptive functions is the capacity to flexibly 
+retrieve and recombine information from distinct past experiences into novel representations. 
+For example, according to the constructive episodic simulation hypothesis (Schacter & 
+Addis, 2007a, 2007b) the capacity to flexibly recombine elements of past experiences is 
+crucial for our ability to imagine or simulate new situations that might occur in the future. 
+Similarly, recent evidence suggests that flexible recombination plays a key role in our 
+capacity to make inferences based on distinct past events that share a common feature 
+(Zeithamova, Dominick & Preston, 2012; Zeithamova & Preston, 2010).
+In line with the theoretical perspectives noted earlier that emphasize the close link between 
+adaptive aspects of episodic memory and susceptibility to memory errors, the constructive 
+episodic simulation hypothesis also holds that the functional benefits of flexible retrieval and 
+recombination are accompanied by a cost: vulnerability to memory errors such as source 
+misattribution and false recognition that can result from mistakenly combining elements of 
+distinct past experiences (Schacter & Addis, 2007a, 2007b; for related views, see Dudai & 
+Carruthers, 2005; Suddendorf & Corballis, 2007). There is indeed evidence that memory 
+errors can result from mistakenly combining features of distinct episodic or autobiographical 
+memories (e.g., Burt, Kemp, & Conway, 2004; Devitt, Monk-Fromont, Schacter, & Addis, 
+2015; Odegard & Lampinen, 2004). However, we are not aware of any study that has 
+Page 2
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+directly tested the central idea of the constructive episodic simulation hypothesis that the 
+same flexible recombination process that supports an adaptive cognitive process can also 
+produce memory errors that result from miscombining elements of distinct past experiences.
+To test this idea, we required a task that both requires flexible recombination and supports an 
+adaptive cognitive process. The associative inference task used by Preston and colleagues 
+fits these requirements (e.g., Preston, Shrager, Dudukovic, & Gabrieli, 2004; Zeithamova, 
+Dominick & Preston, 2012; Zeithamova & Preston, 2010). Associative inference is an 
+adaptive process that allows people to link together related information acquired in distinct 
+episodes to make novel connections that they have not directly experienced (Zeithamova, 
+Schlichting, & Preston, 2012). For example, if one sees two different individuals entering 
+the same house on different days, retrieving and recombining details of the two episodes 
+allows one to infer that the two individuals are related in some way by their relationship with 
+the house. This kind of flexible recombination is quite similar to the kind of flexible 
+recombination that is required to draw on elements of past experiences in order to construct 
+simulations of novel future events, as discussed by Schacter and Addis (2007a, 2007b). In 
+previous studies using the associative inference procedure, participants learned direct 
+associations between two items (AB) and then learned direct associations between two items 
+that included one member of the previously studied pair (BC) and also learned indirect 
+associations based on the overlapping pairs (AC). Later, participants received a memory test 
+for both the direct AB and direct BC associations. In addition, participants received an 
+associative inference test for the indirect association (AC). Here, they are told that the link 
+between the two items is mediated by a third item (B) that was previously associated with 
+both the A and C items, and to choose which of two items was linked to A via the shared B 
+association.
+There are two ways that participants can perform successfully on the associative inference 
+test. First, during study of BC, participants may bring to mind the related AB pair and 
+encode an integrated representation (ABC) that is later retrieved during the associative 
+inference test (integrative encoding; e.g., Shohamy & Wagner, 2008). Second, participants 
+may engage in flexible recombination at the time of retrieval, bringing to mind and 
+combining the previously studied AB and BC pairs during the associative inference task. 
+Neuroimaging evidence suggests that both mechanisms contribute to associative inference 
+(Zeithamova, Dominick & Preston, 2012; Zeithamova & Preston, 2010). In the present 
+study, we adapted the associative inference paradigm developed by Zeithamova and Preston 
+(2010) to assess whether mechanisms linked with inferential processing (i.e., retrieval-
+related recombination and encoding-related integration) also contribute to source memory 
+errors. As noted earlier, pioneering studies on memory distortion have already shown that 
+knowledge- or schema-driven inferences about sentences and stories can contribute to 
+memory errors (e.g., Alba & Hasher, 1983; Branford & Franks, 1971) but the kind of 
+inferential processing tapped by Zeithamova and Preston’s associative inference task focuses 
+specifically on combining elements from distinct episodes that are not linked by pre-existing 
+knowledge or schemas, and thus likely draws on different processes than the meaning-based 
+inferences elicited in classic studies of sentence and story processing. Indeed, it is precisely 
+because the associative inference paradigm developed by Zeithamova and Preston (2010) 
+targets flexible recombination processes which link elements of distinct episodes that their 
+Page 3
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+paradigm is well suited for testing the key claim of the constructive episodic simulation 
+hypothesis - that the same flexible retrieval processes that are used to combine elements of 
+distinct episodes into functionally useful, novel representations can also produce memory 
+errors that result from mixing up elements of these episodes. More generally, we attempt to 
+determine whether the domain of adaptive memory distortions, where a memory error 
+results from carrying out a cognitive operation that has demonstrably beneficial 
+consequences on another aspect of performance, extends to associative inference. Although 
+the literature on associative inference has grown considerably during the past decade (for 
+review, see Schlichting & Preston, 2015), we are not aware of any studies using the 
+associative inference paradigm, which requires combining elements of distinct episodes, that 
+have linked successful associative inference with memory errors.
+In our version of the associative inference paradigm, during an initial session participants 
+study scenes that include AB items (e.g., a person (A) and a toy (B) in a room with a white 
+couch; see Figure 1) and then study scenes comprised of BC items (e.g., the toy (B) and a 
+different person (C) in a room with a brown couch). Participants are instructed to try to learn 
+both the direct association between each person and object (AB and BC) and the indirect 
+association between the two people based on the shared object (AC). After a delay, 
+participants return for a second session in which they are tested for direct associations (AB, 
+BC) and perform an associative inference test for novel combinations that are linked via the 
+B item (AC). To test whether retrieval-related recombination processes underlying 
+successful inference can also contribute to memory errors, memory for contextual details 
+from both the AB and BC scenes is also probed (e.g., What color was the couch?) followed 
+immediately by a source memory test (In which set of images do you remember seeing this 
+information?). For one half of the AB and BC scenes, detail/source memory tests were given 
+before the test of direct (AB, BC) and indirect (AC) associations, and for the other half, the 
+detail/source memory tests were given after the tests of direct and indirect associations. For 
+the detail/source test, a true memory is defined as a response in which the participants both 
+chose the correct item and attributed the source of their memory correctly (e.g., white couch 
+attributed to AB scene), whereas a false memory is defined as a response for which the 
+participant both chose the item from the overlapping image (e.g., BC) and misattributed its 
+source (e.g., brown couch attributed to AB scene; see Methods for further details).
+The critical comparison concerns the proportions of false memories on the detail/source tests 
+given before versus after the associative inference test, for correct as compared to incorrect 
+associative inference trials (i.e., AC). We distinguish among three competing hypotheses:
+1.
+If recombination during retrieval both enhances associative inference 
+performance and also increases susceptibility to false memories, then the 
+proportion of false memories should be higher for correct than incorrect 
+inference trials, but only when the detail/source test is given after the associative 
+inference test (during which recombination occurs); there should be no 
+difference in the proportion of false memories for correct vs. incorrect inference 
+trials when the detail/source test is given before the associative inference test.
+Page 4
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+2.
+If the proportion of false memories is higher for correct than incorrect inference 
+trials both when the detail/source tests are given before and after the associative 
+tests, then these effects would be attributable to integrative encoding processes.
+3.
+If there is no link at all between source memory misattributions and associative 
+inference, then there should be no difference between the proportion of false 
+memories for correct and incorrect inference trials regardless of when the detail/
+source test is given.
+To test these hypotheses, and determine the reliability of the results across variations in 
+procedure and experimental parameters, we conducted three initial experiments that used the 
+same basic paradigm and differed only in methodological details. Experiment 1 used a 24-
+hour study-test delay and a two-alternative forced choice on the associative inference test, 
+whereas Experiment 2 used a 48-hour study-test delay and included an additional “neither” 
+option on the forced-choice test (see below for rationale regarding these changes). In 
+Experiment 3, we increased the delay between the directly learned (AB and BC) and 
+associative inference trials (AC) on the one hand, and the second set of detail and source 
+questions on the other, in order to assess the durability of the effects observed in 
+Experiments 1 and 2. All three of these experiments provided evidence in favor of the first 
+hypothesis outlined above: the proportion of false memories was higher for correct than 
+incorrect inference trials, and only when the detail/source test was given after the associative 
+inference test, during which recombination occurs. These findings implicate recombination 
+during retrieval in both associative inference and memory misattribution, in line with the 
+constructive episodic simulation hypothesis. To further test the hypothesis, in Experiment 4 
+we eliminated tests of directly learned associations (AB and BC), which in theory could 
+have contributed to the effects that we attributed to flexible recombination. However, 
+Experiment 4 again replicated the major findings of Experiments 1–3, providing further 
+evidence that recombination during retrieval is responsible for the observed pattern of false 
+memory effects.
+Experiments 1 and 2
+Because Experiments 1 and 2 used nearly identical procedures with only minor differences, 
+we report the methods and results for these experiments together. To provide an overview of 
+the basic procedure, participants came to the lab for two sessions, separated by a 24-hour 
+(Experiment 1) or a 48-hour (Experiment 2) delay. The delay in Experiment 2 was extended 
+from 24- to 48-hours in order to more closely replicate accuracy levels on the directly 
+learned and associative inference test reported in the standard associative inference paradigm 
+designed by Preston and colleagues (Preston et al., 2004; Zeithamova, Dominick & Preston, 
+2012; Zeithamova & Preston, 2010; Zeithamova, Schlichting & Preston, 2012). Participants 
+completed a modified version of an associative inference paradigm based on prior studies by 
+the Preston group (Preston et al., 2004; Zeithamova, Dominick & Preston, 2012; Zeithamova 
+& Preston, 2010; Zeithamova, Schlichting & Preston, 2012). In the first session, participants 
+intentionally encoded directly learned associations between individual “A” and object “B” 
+followed by a second list with overlapping associations between object “B” and individual 
+“C” (see Fig. 1); participants were also presented with non-overlapping X-Y individual-
+Page 5
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+object pairs in order to reduce performance for directly learned associations below ceiling 
+levels. A total of 24 ABC triads and 12 XY pairs were used in the experiment. In the second 
+session, participants were tested on directly learned associations (i.e., AB, BC, XY) and 
+associative inference trials consisting of novel combinations of person pairings (i.e., AC). 
+Additionally, for one half of the ABC triads, participants answered ten detail and source 
+monitoring questions per triad before they were tested on directly learned and associative 
+inference trials. For the alternate half of the triads, participants answered these detail and 
+source monitoring questions after the directly learned and associative inference trials for all 
+items. As noted earlier, the contrast between performance on the detail and source memory 
+tests given before as compared to after the directly learned/associative inference trials is 
+critical to testing the three key hypotheses we outlined.
+Method
+Participants—For both experiments, participants were recruited via advertisements at 
+Boston University and Harvard University. All had normal vision and no history of 
+neurological impairment. They gave informed consent, were treated in accordance with 
+guidelines approved by the ethics committee at Harvard University, and received either 
+course credit or pay for completing the study. Experiment 1 included 26 young adults (mean 
+age = 21.20, SD = 2.19; 15 female). Two participants were excluded from the true, false and 
+foil memory analyses because they were 100 percent accurate on the associative inference 
+trials; thus, our final sample consisted of 24 participants. Participants who were 100 percent 
+accurate on the associative inference trials were removed from the true, false, and foil 
+memory analyses because they did not have any trials for which they correctly recalled the 
+directly learned relationships and incorrectly inferred the relationship between item A and 
+item C, thereby precluding meaningful comparisons of successful inference to unsuccessful 
+inference both before and after flexible retrieval. Experiment 2 included 25 young adults 
+(mean age = 20, SD = 1.93; 14 female). One participant was excluded from all analyses for 
+having prior experience with several of the task stimuli; thus, our final sample consisted of 
+24 participants. Prior to the experiment, we decided on a sample size of 24 based on 
+previous work utilizing a similar source monitoring paradigm (Okado & Stark, 2005). We 
+stopped data collection after reaching the target of 24 participants with analyzable data.
+AB and BC Encoding—All experimental sessions were executed on an Apple desktop 
+computer using PsychoPy2 (v1.80.03). Stimuli consisted of 72 still color images depicting 
+everyday life events (e.g., walking to work). Color images of common objects (e.g., toy 
+truck) and individuals were superimposed on outdoor and indoor scenes. Scenes were 
+counterbalanced across participants such that each scene was used equally often for both AB 
+and BC pairs. Using Adobe Photoshop CC 2015, 48 overlapping pairs (24 AB pairs, 24 BC 
+pairs – 24 total ABC triads) and 24 unique, non-overlapping pairs (XY) were constructed. 
+Overlapping AB and BC pairs were constructed such that two individuals (A and C) shared 
+an association with an overlapping object (B; i.e., one ABC triad). XY pairs were 
+constructed of unique individual – object pairs that did not share an overlapping association 
+with other pairings.
+Page 6
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Participants received one of two versions of the AB encoding task, which consisted of 36 
+images (i.e., AB and XY) followed by the corresponding BC encoding task, which consisted 
+of 36 images (i.e., BC and XY; Fig. 1). Each image was randomly presented for 10 seconds 
+within each encoding block (i.e., AB encoding and BC encoding). Participants were 
+instructed to learn both the direct associations (i.e., AB, BC) and the indirect associations 
+(i.e., AC) along with the contextual information presented. Following each image, 
+participants were asked to provide a judgment of learning on a scale from 1 to 4 (1 = 
+definitely forget, 4 = definitely remember). These judgments were collected in order to 
+ensure participants’ attention during the encoding phase.
+Detail and Source Monitoring—Ten detail and source monitoring questions were 
+constructed for each of the 24 ABC triads (5 questions related to image AB and 5 questions 
+related to image BC). Detail questions were directly related to background details that were 
+present but contradictory in the AB and BC scenes and did not reference the overlapping 
+“B” object (see Fig. 1). A cutout of the cue individual (i.e., either “A” or “C”) was presented 
+to the right of each detail question in order to indicate which scene the question was 
+referring to (Fig. 1). For each detail question, participants were given three options: the 
+correct item, a misinformation item, and an unrelated foil item. The misinformation item 
+consisted of information from the overlapping image in the triad (e.g., if the detail question 
+were related to the AB image, the misinformation item would be a contradicting detail from 
+the BC image, such as a brown couch when a white couch had appeared in the AB image). 
+Foil items were details that were not presented in either of the overlapping images (e.g., grey 
+couch). Following each detail question, participants indicated where they remember seeing 
+this contextual detail (i.e., the source of the information; Fig. 1). Participants were given four 
+possible answer choices: 1) the first set of images – AB, 2) the second set of images – BC, 
+3) both sets of images, or 4) unsure. Immediately following participants’ source monitoring 
+response, they were asked to rate their confidence in their response on a scale from 1 to 4 (1 
+= very unsure, 4 = very sure). The presentation order of each set of questions (i.e., detail, 
+source, confidence) was randomized for each participant and the questions were self-paced.
+Participants answered the ten detail and source monitoring questions for one half of the 24 
+ABC triads before being tested on the directly learned and associative inference trials. After 
+participants were tested on the directly learned and associative inference trials, they 
+completed the ten detail and source monitoring questions for the alternate half of the 24 
+ABC triads.
+Directly Learned and Associative Inference Trials—Following the first half of the 
+detail and source questions, participants were tested on directly learned (AB and BC) and 
+associative inference trials (AC). During each directly learned trial, a single cue individual 
+(e.g., an “A” or “C” individual) was presented at the top of the screen and two choice objects 
+were presented at the bottom of the screen (e.g., two “B” objects from different ABC triads; 
+Fig. 1). On the associative inference trials, a cue individual (A) was presented along with 
+two individuals at the bottom of the screen (i.e., the correct “C” individual from the ABC 
+triad and a lure “C” individual from another triad). Participants were instructed on 
+associative inference trials that the association between the cue (A) and the correct choice 
+Page 7
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+(C) was indirect, mediated through an object (B) that shared an association with both the cue 
+and the correct choice during encoding. In Experiment 1, participants were required to make 
+a forced-choice decision indicating which of the two choice objects/individuals was 
+associated with the cue individual. In Experiment 2, participants were given a third option to 
+respond “neither” when they believed that the items had not been previously paired, in order 
+to reduce the possible influences of guessing on the associative inference task. If participants 
+could not recall which of the two options given was paired with the cue individual, they were 
+allowed to guess in Experiment 1, which could add noise to the source memory data by 
+including triads for which participants were not actually able to successfully infer the 
+relationship between item A and item C, but appeared to do so because of guessing. Thus, in 
+an attempt to replicate the results of Experiment 1 and also control for the potential effects 
+of guessing, a neither option was included for Experiment 2. Importantly, for both directly 
+learned and associative inference trials, the incorrect choice was a familiar item that had 
+been studied in the context of another individual independent from the cue. Thus, correct 
+responses required retrieval of learned associations and could not be made based on the 
+familiarity of the choice. The presentation order of the trials was randomized with the only 
+constraint being that AC associative inference trials were shown before their corresponding 
+AB and BC directly learned trials in order to ensure that participants were not able to form 
+an association between “A” and “C” individuals during test. Following each of the directly 
+learned and associative inference trials, participants rated their confidence in their response 
+on a scale from 1 to 4 (1 = very unsure, 4 = very sure).
+Coding of True and False Memories—Consistent with previous work using a similar 
+detail and source monitoring paradigm (Okado & Stark, 2005), true memories were defined 
+as detail questions for which the participant both chose the correct detail and attributed the 
+source of their memory correctly to the currently cued image. False memories were defined 
+as detail questions for which the participant both chose the misinformation detail and 
+attributed the misinformation detail incorrectly to either the currently cued image or both 
+images in the triad (Fig. 1). False memories were analyzed for ABC triads for which 
+participants correctly inferred the relationship between “A” and “C” compared to triads for 
+which the inference was not correctly made. Additionally, false memories were evaluated 
+both before explicit retrieval of the inference (i.e., before AC associative inference trials) and 
+after the retrieval of the inference in order to selectively compare the distinct effects of 
+integration during encoding and flexible recombination at retrieval on subsequent memory 
+errors.
+Results
+Directly Learned and Associative inference Trials
+Experiment 1: First we evaluated overall accuracy on directly learned and associative 
+inference trials. Performance on both directly learned and associative inference trials was 
+generally accurate, and there was no significant difference in the proportion of directly 
+learned (Mdirect = 0.78, SE = 0.02) as compared to associative inference trials 
+(Massociative inference = 0.80, SE = 0.03) that participants answered correctly (t(25) = −.99, p 
+> .250, mean difference = −0.02, 95% confidence interval (CI) = [−0.06, 0.02], d = .19). 
+Consistent with previous research (Zeithamova & Preston, 2010), we found significantly 
+Page 8
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+longer reaction times on associative inference trials (Massociative inference = 4425 msec, SE = 
+341) as compared to directly learned trials (Mdirect = 3306 msec, SE = 314), suggesting that 
+there may be an additional recombination-related retrieval mechanism necessary for 
+inferential versus direct retrieval (t(25) = 9.48, p < .001, mean difference = 1.12, 95% CI = 
+[0.88, 1.36], d = 1.85). Further, participants assigned significantly higher confidence ratings 
+to their responses on directly learned (Mdirect = 3.34, SE = 0.07) as compared to associative 
+inference trials (Massociative inference = 2.87, SE = 0.09), suggesting that participants were 
+more confident in their memory for events that they had directly experienced as compared to 
+those resulting from recombination (t(25) = 9.38, p < .001, mean difference = 0.47, 95% CI 
+= [0.37, 0.58], d = 1.89).
+Experiment 2: Again we evaluated overall accuracy on directly learned and associative 
+inference trials. There was a trend toward a significant difference in the proportion of 
+directly learned (Mdirect = 0.69, SE = 0.03) as compared to associative inference trials 
+(Massociative inference = 0.64, SE = 0.03) that participants answered correctly (t(23) = 2.00, p 
+= .057, mean difference = 0.05, 95% confidence interval (CI) = [−0.002, 0.10], d = .42). 
+While this trend is slightly different from the results reported in Experiment 1, it does not 
+affect the main hypotheses of interest, which are related to the false memory analyses. 
+Consistent with results from Experiment 1, we found significantly longer reaction times on 
+associative inference trials (Massociative inference = 4401 msec, SE = 185) compared to directly 
+learned trials (Mdirect = 3052 msec, SE = 129), suggesting an additional recombination-
+related retrieval mechanism for inferential versus direct retrieval (t(23) = 5.66, p < .001, 
+mean difference = 1.35, 95% CI = [0.99, 1.71], d = 1.62). Further, results revealed that 
+participants were significantly more confident in their responses on directly learned (Mdirect 
+= 3.22, SE = .09) as compared to associative inference trials (Massociative inference = 2.83, SE 
+= .08;(t(23) = 5.67, p < .001, mean difference = 0.39, 95% CI = [0.25, 0.53], d = 1.18). 
+Thus, results from Experiment 2 replicate those in Experiment 1.
+False Memory
+Experiment 1: To assess the effects of integrative encoding and recombination mechanisms 
+at retrieval on subsequent memory errors, we examined source memory errors for the detail 
+and source monitoring questions with a 2 (time: before vs. after inference retrieval) X 2 
+(inference: correct vs. incorrect inference) repeated measures analysis of variance 
+(ANOVA). Importantly, only trials for which participants correctly remembered the directly 
+learned association were included in subsequent analyses. See supplementary table 1 for the 
+raw number of trials per bin for each experiment. Results revealed a trend toward a main 
+effect of time, F(1,23) = 3.04, p = .095, ηp2 = .12, no main effect of inference, F(1,23) = 
+2.40, p = .135, ηp2 = .10, and a significant time by inference interaction, F(1,23) = 7.05, p 
+= .014, ηp2 = .24 (see Fig. 2a). Participants falsely attributed more details to the overlapping 
+event after successful inference retrieval (Mafter = 0.27, SE = 0.01) than before successful 
+inference retrieval (Mbefore = 0.21, SE = 0.02; t(23) = 4.05, p < .001, mean difference = 0.06, 
+95% CI = [0.03, 0.08], d = .83). Further, participants did not falsely attribute more details to 
+the overlapping event after unsuccessful inference retrieval (Mafter = 0.21, SE = 0.02) than 
+before unsuccessful inference retrieval (Mbefore = 0.22, SE = 0.02; t(23) = .385, p > .250, 
+mean difference = −0.01, 95% CI = [−0.05, 0.04], d = .08). Participants did not falsely 
+Page 9
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+= 0.21, SE = 0.02) than before unsuccessful inference retrieval (Mincorrect = 0.22, SE = 0.02; 
+t(23) = .143, p > .250, mean difference = 0.003, 95% CI = [−0.04, 0.05], d = .03). Critically, 
+retrieval (Mcorrect = 0.27, SE = 0.01) than after unsuccessful inference retrieval (Mincorrect = 
+0.21, SE = 0.02; t(23) = 2.73, p = .012, mean difference = 0.06, 95% CI = [0.01, 0.10], d = .
+56), suggesting that recombination processes underlying successful inference at retrieval 
+may also lead to source memory errors.
+Experiment 2: Identical to Experiment 1, we examined source memory errors for the detail 
+and source monitoring questions with a 2 (time: before vs. after inference retrieval) X 2 
+(inference: correct vs. incorrect inference) repeated measures ANOVA. Results revealed no 
+main effect of time, F(1,23) = .357, p > .250, ηp2 = .02, no main effect of inference, F(1,23) 
+= .57, p > .250, ηp2 = .02, and a significant time by inference interaction, F(1,23) = 7.40, p 
+= .012, ηp2 = .24 (see Fig. 2b). Participants falsely attributed more details to the overlapping 
+event after successful inference retrieval (Mafter = 0.28, SE = 0.02) than before successful 
+inference retrieval (Mbefore = 0.22, SE = 0.02; t(23) = 2.48, p = .021, mean difference = 0.06, 
+95% CI = [0.01, 0.11], d = .51). Further, participants did not falsely attribute more details to 
+the overlapping event after unsuccessful inference retrieval (Mafter = 0.22, SE = 0.02) than 
+before unsuccessful inference retrieval (Mbefore = 0.25, SE = 0.03; t(23) = −1.022, p > .250, 
+mean difference = −0.03, 95% CI = [−0.10, 0.03], d = .21). Participants did not falsely 
+= 0.22, SE = 0.02) than before unsuccessful inference retrieval (Mincorrect = 0.25, SE = 0.03; 
+t(23) = 1.40, p = .175, mean difference = 0.03, 95% CI = [−0.02, 0.08], d = .29). Critically, 
+retrieval (Mcorrect = 0.28, SE = 0.02) than after unsuccessful inference retrieval (Mincorrect = 
+0.22, SE = 0.02; t(23) = 2.56, p = .018, mean difference = 0.06, 95% CI = [0.01, 0.11], d = .
+52), replicating results from Experiment 1 and suggesting that recombination during 
+retrieval required for successful inference may be linked to source memory errors.
+True Memory
+Experiment 1: To examine the effects of integrative encoding and recombination 
+mechanisms at retrieval on successful source memory, we examined correct responses on the 
+detail and source monitoring questions with a 2 (time: before vs. after inference retrieval) X 
+2 (inference: correct vs. incorrect inference) repeated measures ANOVA. Results revealed no 
+main effect of time, F(1,23) = 2.33, p = .141, ηp2 = .09, no main effect of inference, F(1,23) 
+= .10, p > .250, ηp2 = .02, but a significant time by inference interaction, F(1,23) = 6.83, p 
+= .016, ηp2 = .23. Participants attributed more details to the correct source after successful 
+inference retrieval (Mafter = 0.23, SE = 0.02) than before successful inference retrieval 
+Mbefore = 0.17 SE = 0.02; t(23) = 3.82, p = .001, mean difference = 0.06, 95% CI = [0.03, 
+0.09], d = .82). By contrast, participants did not attribute more details to the correct source 
+after successful inference retrieval (Mcorrect = 0.23 SE = 0.02) than after unsuccessful 
+inference retrieval (Mincorrect = 0.20 SE = 0.03; t(23) = 1.04, p > .250, mean difference = 
+0.03, 95% CI = [−0.03, 0.08], d = .21) and did not attribute more details to the correct source 
+before successful inference retrieval (Mcorrect = 0.17 SE = 0.02) than before unsuccessful 
+Page 10
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+inference retrieval (Mincorrect = 0.22 SE = 0.03; t(23) = 1.50, p = .146, mean difference = 
+0.04, 95% CI = [−0.02, 0.10], d = .31). Further, participants did not attribute more details to 
+the correct source after unsuccessful inference retrieval (Mafter = 0.20 SE = 0.03) than before 
+unsuccessful inference retrieval (Mbefore = 0.22 SE = 0.03; t(23) < 1, p > .250, mean 
+difference = 0.01, 95% CI = [−0.03, 0.06], d = .12). The increase in true memory from 
+before inference retrieval to after appears to be attributable to changes in ‘unsure’ responses 
+on the source monitoring test following recognition of the correct item: Participants were 
+significantly less likely to respond unsure following successful inference when they 
+correctly recognized the detail (Mafter = 0.12 SE = 0.05) than before successful inference 
+(Mbefore = 0.26 SE = 0.06; t(23) = 3.04, p = .008, mean difference = 0.14, 95% CI = [0.04, 
+0.23], d = .18).
+Experiment 2: A 2 (time: before vs. after inference retrieval) X 2 (inference: correct vs. 
+monitoring questions revealed no main effect of time, F(1,23) = .40, p > .250, ηp2 = .02, no 
+main effect of inference, F(1,23) = .55, p > .250, ηp2 = .02, and no time by inference 
+interaction, F(1,23) = 1.34, p > .250, ηp2 = .06. Thus, true memory scores were similar both 
+before (Mbefore = .18, SE = .029) and after successful inference retrieval (Mafter = 0.21, SE = 
+0.03). Additionally, true memory scores were similar both before (Mbefore = 0.16, SE = 0.03) 
+and after unsuccessful inference retrieval (Mafter = 0.20, SE = 0.03).
+Foil Memory
+Experiment 1: To assess whether critical patterns of source misattribution errors are 
+specific to related items from previously studied episodes, we examined foil memories, 
+which were defined as detail questions for which participants chose the unrelated foil option 
+(e.g., grey couch) and attributed the information to either the currently cued image or both 
+images in the triad. We conducted a 2 (time: before vs. after inference retrieval) X 2 
+(inference: correct vs. incorrect inference) repeated measures ANOVA to evaluate 
+participants’ foil memory scores. Results revealed no main effect of time, F(1,23) = 1.16, p 
+> .250, ηp2 = .05, no main effect of inference, F(1,23) = 1.71, p = .204, ηp2 = .07, and no 
+time by inference interaction, F(1,23) = 1.59, p = .220, ηp2 = .07. Thus, foil memory scores 
+were similar both before (Mbefore = 0.18, SE = 0.01) and after successful inference retrieval 
+(Mafter = 0.18, SE = 0.01). Additionally, foil memory scores were similar both before 
+(Mbefore = 0.14, SE = 0.03) and after unsuccessful inference retrieval (Mafter = 0.17, SE = 
+0.02).
+Experiment 2: We conducted a 2 (time: before vs. after inference retrieval) X 2 (inference: 
+memory scores. Results revealed no main effect of time, F(1,23) = 1.04, p > .250, ηp2 = .04, 
+no main effect of inference, F(1,23) = 1.28, p > .250, ηp2 = .05, and no time by inference 
+interaction, F(1,23) = 1.22, p > .250, ηp2 = .05. Thus, foil memory scores were similar both 
+before (Mbefore = 0.21, SE = 0.02) and after successful inference retrieval (Mafter = 0.17, SE 
+= 0.02). Additionally, foil memory scores were similar both before (Mbefore = 0.21, SE = 
+0.03) and after unsuccessful inference retrieval (Mafter = 0.21, SE = 0.02).
+Page 11
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Discussion
+The results of Experiments 1 and 2 provide evidence that flexible retrieval processes 
+required for successful associative inference also produce increases in false memories as a 
+result of source misattributions: memory errors increased significantly after but not before 
+successful compared to unsuccessful inferential retrieval. This pattern was observed both 
+when the test of directly learned and associative inference items was two-alternative forced-
+choice (Experiment 1), and also when a third “neither” option was provided (Experiment 2); 
+the effect was also robust across both a 24-hour study-test delay (Experiment 1) and a 48-
+hour study-test delay (Experiment 2).
+The finding that source misattributions occurred more often for correct versus incorrect 
+inferences constitutes evidence for a link between processes that support associative 
+inference and those that contribute to false memories; if there were no such link, then source 
+memory errors would not differ for correct and incorrect inferences. This finding alone, 
+however, does not allow us to distinguish whether integrative encoding or flexible retrieval is 
+responsible for the observed increased of source memory errors related to successful 
+inference. However, the finding that the observed increase in false memories for correct 
+inference occurred only after the associative inference test was given implicates flexible 
+retrieval, rather than integrative encoding, as the key process responsible for the boost in 
+false memories. Furthermore, foil memory scores (i.e., detail questions for which 
+participants chose the unrelated foil option) showed no relationship to correct vs. incorrect 
+inferences either before or after the associative inference test was given. This finding 
+indicates that the observed source memory error effects are selective to previously 
+experienced details, details that seemingly migrated between the AB and BC episodes as a 
+consequence of successful inference.
+Experiment 3
+In Experiments 1 and 2, we replicated the key effect of successful inference on false 
+memories across minor variations in procedure, suggesting that the effect is reliable. 
+However, the absolute magnitude of the effect is not large, and because the critical tests in 
+Experiments 1 and 2 were administered in immediate succession, we do not know whether 
+the process of recombination during retrieval that supports successful inference results in 
+only a transient change in participants’ susceptibility to source memory errors. To further 
+assess the reliability of the key effect, and to determine whether the effects of recombination 
+allowing for successful associative inference on subsequent source memory error lasts 
+beyond the brief interval between the main tests and further shows a longer-lasting effect on 
+participants susceptibility to source memory error, in Experiment 3 we introduced a 30-
+minute delay between the directly learned (AB and BC)/associative inference trials (AC) on 
+the one hand and the second set of detail and source questions on the other.
+Methods
+Participants—Experiment 3 included 24 young adults (mean age = 20, SD = 2.07; 15 
+female). No participants were excluded from the analyses; thus, our final sample consisted 
+of 24 participants.
+Page 12
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Summary of the Procedure—Participants came to the lab for two sessions, separated by 
+a 48-hour delay. The design parameters, stimuli, and coding of true and false memories were 
+exactly the same in Experiment 3 as in Experiment 2 with one exception. During the second 
+session, following the test of the directly learned (AB and BC) and associative inference 
+trials (AC), participants completed 30-minutes of unrelated filler tasks (e.g., simple math 
+problems) before completing the second half of the detail and source questions. As noted 
+earlier, in Experiment 3 we introduced a 30-minute delay between the directly learned/
+associative inference trials and the second set of detail and source questions.
+Results and Discussion
+Directly Learned and Associative Inference Trials—First we evaluated overall 
+accuracy on directly learned and associative inference trials. Performance on both directly 
+learned and associative inference trials was generally accurate, and there was no significant 
+difference in the proportion of directly learned (Mdirect = 0.72, SE = 0.02) as compared to 
+associative inference trials (Massociative inference = 0.71, SE = 0.02) that participants answered 
+correctly (t(23) = 0.62, p > .250, mean difference = 0.01, 95% confidence interval (CI) = 
+[−0.03, 0.06], d = .13). Consistent with previous research (Zeithamova & Preston, 2010) and 
+results from Experiment 1 and 2, we found significantly longer reaction times on associative 
+inference trials (Massociative inference = 4186 msec, SE = 196) as compared to directly learned 
+trials (Mdirect = 3057 msec, SE = 123), suggesting that there may be an additional 
+recombination-related retrieval mechanism necessary for inferential versus direct retrieval 
+(t(23) = −7.46, p < .001, mean difference = −1.13, 95% CI = [−1.44, −.82], d = 1.52). 
+Further, participants assigned significantly higher confidence ratings to their responses on 
+directly learned (Mdirect = 3.23, SE = 0.08) as compared to associative inference trials 
+(Massociative inference = 2.83, SE = 0.10), suggesting that participants were more confident in 
+their memory for events that they had directly experienced as compared to those resulting 
+from recombination (t(23) = 8.97, p < .001, mean difference = 0.40, 95% CI = [0.31, 0.50], d 
+= 1.83).
+False Memory—Identical to Experiments 1 and 2, we examined source memory errors for 
+the detail and source monitoring questions with a 2 (time: before vs. after inference retrieval) 
+X 2 (inference: correct vs. incorrect inference) repeated measures ANOVA. Results revealed 
+no main effect of time, F(1,23) = 0.46, p > .250, ηp2 = .02, no main effect of inference, 
+F(1,23) = 1.17, p > .250, ηp2 = .05, and a significant time by inference interaction, F(1,23) = 
+5.89, p = .023, ηp2 = .20 (see Fig. 3). Participants falsely attributed more details to the 
+overlapping event after successful inference retrieval (Mafter = 0.27, SE = 0.02) than before 
+successful inference retrieval (Mbefore = 0.22, SE = 0.02; t(23) = 3.46, p = .002, mean 
+difference = 0.05, 95% CI = [0.02, 0.08], d = .71). Further, participants did not falsely 
+attribute more details to the overlapping event after unsuccessful inference retrieval (Mafter = 
+0.21, SE = 0.03) than before unsuccessful inference retrieval (Mbefore = 0.23, SE = 0.03; 
+t(23) = −0.63, p > .250, mean difference = −0.02, 95% CI = [−0.09, 0.05], d = .13). 
+Participants did not falsely attribute more details to the overlapping event before successful 
+inference retrieval (Mcorrect = 0.22, SE = 0.02) than before unsuccessful inference retrieval 
+(Mincorrect = 0.23, SE = 0.03; t(23) = .829, p > .250, mean difference = 0.02, 95% CI = 
+[−0.03, 0.06], d = .17). Critically, participants falsely attributed more details to the 
+Page 13
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+overlapping event after successful inference retrieval (Mcorrect = 0.27, SE = 0.02) than after 
+unsuccessful inference retrieval (Mincorrect = 0.21, SE = 0.03; t(23) = 2.49, p = .021, mean 
+difference = 0.05, 95% CI = [0.009, 0.10], d = .51), replicating results from Experiment 1 
+and 2, suggesting again that recombination during retrieval required for successful inference 
+may be linked to source memory errors.
+True Memory—A 2 (time: before vs. after inference retrieval) X 2 (inference: correct vs. 
+monitoring questions revealed no main effect of time, F(1,23) = 0.46, p > .250, ηp2 = .02, no 
+main effect of inference, F(1,23) = 0.91, p > .250, ηp2 = .04, and no time by inference 
+interaction, F(1,23) = .042, p > .250, ηp2 = .002. Thus, true memory scores were similar 
+both before (Mbefore = .22, SE = .02) and after successful inference retrieval (Mafter = 0.24, 
+SE = 0.02). Additionally, true memory scores were similar both before (Mbefore = 0.21, SE = 
+0.04) and after unsuccessful inference retrieval (Mafter = 0.22, SE = 0.02).
+Foil Memory—We conducted a 2 (time: before vs. after inference retrieval) X 2 (inference: 
+memory scores. Results revealed no main effect of time, F(1,23) = 1.74, p = .200, ηp2 = .07, 
+no main effect of inference, F(1,23) = 0.62, p > .250, ηp2 = .03, and no time by inference 
+interaction, F(1,23) = 2.23, p = .150, ηp2 = .09. Thus, foil memory scores were similar both 
+before (Mbefore = 0.20, SE = 0.02) and after successful inference retrieval (Mafter = 0.16, SE 
+= 0.01). Additionally, foil memory scores were similar both before (Mbefore = 0.16, SE = 
+0.02) and after unsuccessful inference retrieval (Mafter = 0.17, SE = 0.02).
+Overall, the pattern of results from Experiment 3 was essentially identical to that observed in 
+Experiments 1 and 2: participants made significantly more source misattributions for correct 
+than incorrect inferences, but only when the detail and source monitoring test was given 
+after the test of directly learned and associative inference items. Because the second source 
+test was administered 30 minutes after completion of the directly learned and associative 
+inference test, Experiment 3 indicates that the effects we have attributed to flexible 
+recombination during retrieval are not simply transient influences that disappear following a 
+filled delay.
+Experiment 4
+Although our central theoretical claim of Experiments 1–3 focuses on retrieval-related 
+recombination processes that occurred during the associative inference test for previously 
+unpaired AC items, participants were also tested for AB and BC items that did appear 
+together previously. Thus, it is conceivable that the increase in source memory errors 
+following the associative inference test is attributable to direct retrieval of previously studied 
+pairs (AB, BC) as opposed to retrieval-related recombination processes. Two key features of 
+the data from Experiments 1–3 speak against this possibility. First, if retrieval of directly 
+learned associations were responsible for the increase in false memories, then false memory 
+rates should have been similar for successful and unsuccessful inferential retrieval after the 
+associative inference test, but as noted above memory errors increased significantly 
+following successful compared to unsuccessful inferential retrieval. Second, neither 
+Page 14
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+experiment revealed significant differences in the number false memories before as 
+compared to after unsuccessful inferential retrieval. If testing of directly learned pairs during 
+the associative inference test were responsible for the increased false memory effects after as 
+compared to before the associative inference test, then those effects should have been 
+observed for unsuccessful inference trials. However, no such effects were observed. While 
+the results of Experiments 1–3 thus suggest that the testing of directly learned associations is 
+not responsible for the key effects of successful inference on false memories, in Experiment 
+4 we assess this possibility empirically by testing directly learned associations only after 
+both sets of detail and source monitoring tests were completed. If, as we have suggested, 
+recombination during retrieval is responsible for observed increases in false memories, then 
+the same critical pattern of results from previous experiments – more source misattributions 
+for correct than incorrect inference items, after but not before the inference test – should be 
+observed in Experiment 4, even though directly learned associations were not tested prior to 
+the detail and source memory tests.
+Methods
+Participants—Experiment 4 included 26 young adults (mean age = 20.70, SD = 2.19; 16 
+female). Two participants were excluded from the true and false memory analyses. One 
+participant was excluded from the true, false, and foil memory analyses because they were 
+100 percent accurate on the associative inference trials and one participant was excluded 
+from all analyses for non-compliance during the second session (e.g., did not make 
+responses during the detail and source monitoring questions); thus, our final sample 
+consisted of 24 participants.
+Summary of the Procedure—Participants came to the lab for two sessions, separated by 
+a 48-hour delay. The design parameters, stimuli, and coding of true and false memories were 
+exactly the same in Experiment 4 as in Experiment 2 with the one exception. During the 
+second session, following the first half of the detail and source questions, participants were 
+only tested on associative inference trials (AC), thus, eliminating the potential effect of 
+retrieving directly learned associations on false memory following successful associative 
+inference. However, to ensure that we still obtained a measure of performance on directly 
+learned items, following the second half of the detail and source questions, participants were 
+tested on directly learned trials (AB and BC).
+Results and Discussion
+Directly Learned and Associative Inference Trials—First we evaluated overall 
+accuracy on directly learned and associative inference trials. Performance on both directly 
+learned and associative inference trials was generally accurate, and there was no significant 
+difference in the proportion of directly learned (Mdirect = 0.66, SE = 0.03) as compared to 
+associative inference trials (Massociative inference = 0.70, SE = 0.03) that participants answered 
+correctly (t(24) = −1.01, p > .250, mean difference = −0.04, 95% confidence interval (CI) = 
+[−0.11, 0.04], d = .20). Consistent with previous research (Zeithamova & Preston, 2010) and 
+results from Experiments 1–3, we found significantly longer reaction times on associative 
+inference trials (Massociative inference = 5140 msec, SE = 242) as compared to directly learned 
+trials (Mdirect = 3300 msec, SE = 148), suggesting that there may be an additional 
+Page 15
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+recombination-related retrieval mechanism necessary for inferential versus direct retrieval 
+(t(24) = −10.18, p < .001, mean difference = −1.84, 95% CI = [−2.21, −1.47], d = 2.04). 
+Further, participants assigned significantly higher confidence ratings to their responses on 
+directly learned (Mdirect = 3.15, SE = 0.12) as compared to associative inference trials 
+(Massociative inference = 2.87, SE = 0.11), suggesting that participants were more confident in 
+their memory for events that they had directly experienced as compared to those resulting 
+from recombination (t(24) = 3.06, p = .005, mean difference = 0.27, 95% CI = [0.89, 0.46], d 
+= 0.61).
+False Memory—Identical to Experiments 1–3, we examined source memory errors for the 
+detail and source monitoring questions with a 2 (time: before vs. after inference retrieval) X 
+2 (inference: correct vs. incorrect inference) repeated measures ANOVA. Results revealed no 
+main effect of time, F(1,23) = 1.60, p = .219, ηp2 = .07, no main effect of inference, F(1,23) 
+= .011, p > .250, ηp2 = .00, and a significant time by inference interaction, F(1,23) = 4.79, p 
+= .039, ηp2 = .17 (see Fig. 4). Participants falsely attributed more details to the overlapping 
+event after successful inference retrieval (Mafter = 0.26, SE = 0.02) than before successful 
+inference retrieval (Mbefore = 0.19, SE = 0.01; t(23) = 3.20, p = .004, mean difference = 0.07, 
+95% CI = [0.03, 0.12], d = .65). Further, participants did not falsely attribute more details to 
+the overlapping event after unsuccessful inference retrieval (Mafter = 0.23, SE = 0.03) than 
+before unsuccessful inference retrieval (Mbefore = 0.23, SE = 0.04; t(23) = .010, p > .250, 
+mean difference = 0.0004, 95% CI = [−0.09, 0.09], d = .002). Participants did not falsely 
+= 0.19, SE = 0.01) than before unsuccessful inference retrieval (Mincorrect = 0.23, SE = 0.04; 
+t(23) = 1.22, p = .231, mean difference = 0.04, 95% CI = [−0.03, 0.10], d = .25). Critically, 
+retrieval (Mcorrect = 0.26, SE = 0.02) than after unsuccessful inference retrieval (Mincorrect = 
+0.23, SE = 0.03; t(23) = 2.37, p = .027, mean difference = 0.03, 95% CI = [0.004, 0.64], d 
+= .48), replicating results from Experiments 1–3, suggesting that recombination during 
+retrieval required for successful inference may be linked to source memory errors.
+True Memory—A 2 (time: before vs. after inference retrieval) X 2 (inference: correct vs. 
+monitoring questions revealed no main effect of time, F(1,23) = 2.53, p = .13, ηp2 = .10, no 
+main effect of inference, F(1,23) = 1.68, p = .21, ηp2 = .07, and no time by inference 
+interaction, F(1,23) = .43, p > .250, ηp2 = .02. Thus, true memory scores were similar both 
+before (Mbefore = .22, SE = .031) and after successful inference retrieval (Mafter = 0.17, SE = 
+0.02). Additionally, true memory scores were similar both before (Mbefore = 0.18, SE = 0.03) 
+and after unsuccessful inference retrieval (Mafter = 0.16, SE = 0.03).
+Foil Memory—We conducted a 2 (time: before vs. after inference retrieval) X 2 (inference: 
+memory scores. Results revealed no main effect of time, F(1,23) = 3.67, p = .068, ηp2 = .14, 
+no main effect of inference, F(1,23) = 2.47, p = .130, ηp2 = .10, and no time by inference 
+interaction, F(1,23) = 0.59, p > .250, ηp2 = .03. Thus, foil memory scores were similar both 
+before (Mbefore = 0.18, SE = 0.02) and after successful inference retrieval (Mafter = 0.19, SE 
+Page 16
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+= 0.02). Additionally, foil memory scores were similar both before (Mbefore = 0.14, SE = 
+0.02) and after unsuccessful inference retrieval (Mafter = 0.18, SE = 0.02).
+In summary, the results of Experiment 4 replicated the results of Experiment 1–3, while also 
+providing additional evidence that testing of directly learned pairs during the associative 
+inference test was not responsible for the increased false memory effects after as compared 
+to before successful associative inference. During the associative inference test for 
+Experiment 4, participants were only tested on previously unpaired AC items (i.e., inference 
+items) before the second set of detail and source questions. Thus, the increase in source 
+memory errors following the associative inference test in Experiment 4 cannot be 
+attributable to direct retrieval of previously studied pairs; rather, the current results support 
+the role of recombination-related retrieval processes in subsequent source memory errors.
+General Discussion
+The four experiments reported here each provide evidence that flexible retrieval processes 
+that support successful associative inference also produce increases in false memories that 
+result from source misattributions: memory errors increased significantly after but not before 
+successful compared to unsuccessful inferential retrieval. Experiments 1 and 2 provided 
+evidence that flexible retrieval processes required for successful associative inference also 
+produce increases in source misattributions when the detail/source memory test immediately 
+followed the test of directly learned and associative inference items, whereas Experiment 3 
+revealed that these effects persisted across a 30-minute delay between the associative 
+inference tests and the second source memory test. Experiment 4 revealed the same 
+significant increase in source memory error after but not before successful compared to 
+unsuccessful inferential retrieval as observed in Experiment 1–3 even when directly learned 
+associations were not tested until participants completed all of the detail and source 
+monitoring questions. Further, across all four experiments results revealed that both foil 
+memory and correct memory scores showed no relationship to correct as compared to 
+incorrect inference either before or after the directly learned and associative inference test, 
+thereby indicating that the observed effects are specific to the misattribution of previously 
+experienced details to the related event rather than to a general decrease of detail with which 
+the original event was remembered. Thus, the results of all four experiments provide direct 
+evidence supporting the role of flexible retrieval and recombination processes in both 
+successful associative inference and subsequent source memory error. These data thus 
+provide, for the first time, direct experimental support for a key claim of the constructive 
+episodic simulation hypothesis (Schacter & Addis, 2007a, 2007b), namely that the same 
+flexible recombination process that supports an adaptive cognitive process can also increase 
+memory errors that result from combining elements of distinct episodes. More generally, our 
+results add to the mounting evidence that certain kinds of memory errors result from the 
+operation of adaptive constructive processes that are linked to beneficial effects (for reviews, 
+see Howe, 2011; Howe et al., 2016; Newman & Lindsay, 2009; Schacter, 2012; Schacter et 
+al., 2011).
+As noted in the Introduction, previous research (cf., Shohamy & Wagner, 2008; Zeithamova 
+& Preston, 2010) indicates that successful associative inference in the AB, BC paradigm 
+Page 17
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+used here can result from flexible retrieval and/or integrative encoding (i.e., during study of 
+BC, participants recall the related AC pair and encode an integrated representation (ABC) 
+that they later retrieve on the associative inference test). If integrative encoding contributes 
+to false memories in our paradigm, then there should be more false memories for successful 
+than unsuccessful inference trials before the associative inference test, but such effects were 
+observed only after the associative inference test. Note, however, that previous research 
+suggests that integrative encoding primarily supports associative inference when learning 
+occurs across multiple repetitions, by affording multiple opportunities for cross-episode 
+binding (Shohamy & Wagner, 2008; Zeithamova & Preston, 2010). By contrast, our 
+experimental design utilized a single-trial learning paradigm that elicits an additional 
+recombination mechanism during successful inference retrieval (Zeithamova & Preston, 
+2010). It is thus possible that when there are multiple repetitions during the learning phase, 
+or under other experimental conditions that heighten the contribution of integrative encoding 
+to associative inference, integrative encoding processes contribute to the type of source 
+memory errors observed here. Thus, while the present data provide evidence for a link 
+between flexible retrieval and false memories, they by no means rule out a similar link to 
+integrative encoding under a different set of experimental parameters that are more likely to 
+elicit successful associative inference as a result of integration during encoding. Future 
+research should aim to examine the role of integration during encoding on subsequent source 
+memory error.
+Why does successful inferential retrieval result in heightened susceptibility to source 
+memory errors? We suggest that the effects that we have documented here reflect the joint 
+operation of two related but distinct mechanisms: cross-episode binding (e.g., Bridge & 
+Voss, 2014a, 2014b) and retrieval-based reactivation and recombination (e.g., Bridge & 
+Voss, 2014a, 2014b; Hupbach, Gomez, Hardt, & Nadel, 2007; St. Jacques & Schacter, 
+2013). Binding processes that link disparate elements of an episode into a unified 
+representation have been extensively studied in recent years, and have been linked closely to 
+the operation of the hippocampus (e.g., Eichenbaum & Cohen, 2001; Hannula & Ranganath, 
+2008; Shimamura, 2010). As Bridge and Voss (2014b) point out, however, most such studies 
+have focused on binding of elements within an episode. Bridge and Voss (2014b) studied 
+cross-episode binding processes, and provided evidence that participants sometimes bind 
+elements from distinct episodes (e.g., a face from one episode and a scene from another), 
+resulting in memory error (for additional evidence linking binding processes to memory 
+distortions, see Lew & Howe, in press). We suggest that such cross-episode binding in our 
+paradigm occurs most often and most extensively for episodes that result in successful, as 
+opposed to unsuccessful, associative inference. That is, when people make a correct 
+inference about the relationship between elements of events that have not been experienced 
+together previously (i.e., AC), they may more fully bind details from the two episodes, such 
+that details from one episode (AB) migrate to and become incorporated in the overlapping 
+(BC) episode.
+However, this binding account alone cannot explain the key finding from our experiments 
+that increased false memories were observed for successful compared to unsuccessful 
+inference trials only when the detail/source memory test was given after the associative 
+inference test, and it is this finding that has led us to implicate a role for flexible retrieval 
+Page 18
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+and recombination processes in increased source memory errors. These observations fit well 
+with prior findings that reactivating or retrieving memories can be a potent source of 
+memory distortion if novel information is incorporated into a memory during the retrieval 
+process (e.g., Chan, Thomas, & Bulevich, 2009; Gerschman, Schapiro, Hupbach, Norman, 
+2013; Gordon, Thomas, & Bulevich, 2015; Hupbach et al., 2007; Hupbach, Gomez, & 
+Nadel, 2011; St. Jacques, Olm, & Schacter, 2013; St. Jacques & Schacter, 2013), possibly 
+related to processes associated with memory reconsolidation that render a memory labile 
+and prone to distortion during retrieval (Chan & Lapaglia, 2013; Dudai, 2012; Hardt, 
+Einarsson, & Nader, 2010). From this perspective, in our experimental paradigm source 
+memory errors arise when overlapping AB and BC relationships (along with their 
+corresponding contextual details) are reactivated and flexibly recombined in order to encode 
+the novel inference between the previously unrelated A and C items. Indeed, and consistent 
+with our results, Bridge and Voss (2014b) only observed evidence for memory distortion 
+associated with cross-episode binding following an active (versus passive) retrieval 
+condition. In line with the current results, retrieval-related recombination may thus result in 
+heightened rates of source memory error following successful compared to unsuccessful 
+inference because inferring the relationship between the nonoverlapping A and C items 
+requires both a) reactivating distinct AB and BC episodes and b) flexibly recombining the 
+nonoverlapping A and C items – during which contextual details from the AB episode are 
+more fully bound to the BC episode and visa versa – resulting in memory distortions 
+associated with cross-episode binding as a consequence of flexible retrieval and 
+recombination processes. An important task for future research is to explore and clarify 
+exactly how the recombination process supporting successful inference produces such 
+erroneous memories. While previous evidence supports the idea that memory errors can 
+result from erroneously combining details of individual episodic or autobiographical 
+memories (e.g., Burt et al., 2004; Devitt et al., 2015; Odegard & Lampinen, 2004), the 
+present studies provide novel evidence that the same flexible recombination mechanism that 
+supports an adaptive cognitive process, such as associative inference, also increases 
+subsequent memory errors.
+Although we are not aware of any prior studies that have specifically linked successful 
+associative inference with memory errors, as noted earlier previous research has linked 
+memory reactivation processes with source misattributions and related kinds of memory 
+errors. The studies noted earlier by Bridge and Voss (2014a, 2014b) suggest that simply co-
+activating memories during retrieval can lead to source misattributions, wherein co-
+activation of existing memory traces produces cross-episode binding of peripheral features 
+from each episode. Although these results are consistent with the results reported here, it is 
+unlikely that simple co-activation of elements from different episodes is sufficient to account 
+for our key results. Our data speak against a simple co-activation hypothesis specifically 
+because only trials for which participants were able to successfully reactivate both AB and 
+BC episodes (as assessed by the test for directly learned associations) were used in the false 
+memory analyses. Thus, both AB and BC events should have been successfully reactivated 
+during the inference test. Accordingly, if co-activation of AB and BC events accounted for 
+the increase in source memory error, we would not expect to see a significant difference 
+between successful inference and unsuccessful inference after the associative inference test. 
+Page 19
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Because we observed such a difference, we suggest that successful inference requires an 
+additional retrieval-related recombination process that results in increased source memory 
+error. Indeed, in each of our experiments we observed significantly longer reaction times on 
+associative inference trials than on directly learned trials, which is in line with the arguments 
+of Zeithamova and Preston (2010), suggesting that there is an additional retrieval mechanism 
+necessary for inferential versus direct retrieval following single-trial learning. Co-activation 
+of memories at test clearly can lead to source misattributions (Bridge & Voss, 2014a, 
+2014b), and it may be a contributing factor and perhaps even a necessary condition for 
+increased source memory errors in the current paradigm. Nonetheless, co-activation of 
+elements from distinct episodes during retrieval does not appear to a sufficient condition for 
+producing the increase in source misattributions in the current paradigm. Alternatively, co-
+activation may have an effect during encoding such that participants bring to mind 
+overlapping AB pairs during BC encoding thereby linking the two related events. However, 
+if this were the case we would expect to see elevated source memory error before successful 
+inference, which was not the case in our experiments, as we emphasized in the discussion of 
+integrative encoding.
+Although we have emphasized throughout the distinction between integrative encoding and 
+flexible retrieval, and provided in the Introduction explicit predictions regarding outcomes 
+that distinguish between these processes, it is important to emphasize we are not advocating 
+that a simple encoding-retrieval dichotomy can account for the results observed here. 
+Students of memory have long recognized that that encoding processes involve retrieval and 
+vice versa. With respect to the present paradigm, integrative encoding requires some amount 
+of retrieval (i.e., during study of BC, participants retrieve an overlapping AB pair in order to 
+encode an integrated ABC representation), and flexible retrieval results in some degree of 
+encoding (i.e., cross-episode binding). Nonetheless, the pattern of results observed here 
+indicates a sharp difference in patterns of false memory before and after the associative 
+inference test, which we have attempted to characterize in terms of the joint operation of 
+cross-episode binding and flexible retrieval processes.
+We have emphasized throughout that the current results fit well with an emerging theoretical 
+picture in which various kinds of memory distortions are viewed as products of adaptive 
+constructive processes (Schacter, 2012) that serve a range of cognitive functions, including 
+simulating future experiences (Dudai & Carruthers, 2005; Schacter & Addis, 2007a, 2007b; 
+Suddendorf & Corballis, 2007), solving problems (Howe, Garner, Charlesworth, & Knott, 
+2011), memory updating (Hardt et al., 2010; Hupbach et al., 2007, 2011; St. Jacques et al., 
+2013), and extracting gist or meaning (Brainerd & Reyna, 1990; Koutstaal, 2006; Schacter, 
+2001; for recent reviews, see Howe, 2011; Howe et al., 2016; Newman & Lindsay, 2009; 
+Schacter et al, 2011; Schlichting & Preston, 2015). Here we have focused on associative 
+inference, which serves the adaptive function of allowing us to make new connections, and 
+decisions about novel situations, based on flexibly retrieving and recombining information 
+acquired in distinct though related prior experiences (Zeithamova, Schlichting, & Preston, 
+2012). Neuroimaging studies have linked the retrieval-based recombination process that 
+supports associative inference to hippocampal function (Zeithamova & Preston, 2010; 
+Zeithamova, Dominick, & Preston, 2012), but the nature of hippocampal contributions to the 
+kinds of false memories associated with successful inference is unknown. Future research 
+Page 20
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+aimed at delineating the neural basis of the costs and benefits associated with flexible 
+retrieval and recombination would enhance our understanding of the nature and functions of 
+episodic memory.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+This research was supported by National Institute of Mental Health grant MH060941 and National Institute on 
+Aging grant AG08441 to D.L.S. We thank Karen Campbell, Aleea Devitt, Alison Preston, and Preston Thakral for 
+helpful comments on an earlier draft of the manuscript.
+References
+Alba JW, Hasher L. Is memory schematic? Psychological Bulletin. 1983; 93(2):203–231. http://
+doi.org/10.1037/0033-2909.93.2.203. 
+Bartlett, FC. Remembering: A study in experimental and social psychology. Cambridge: Cambridge 
+University Press; 1932. 
+Brainerd CJ, Reyna VF. Gist is the grist: Fuzzy-trace theory and the new intuitionism. Developmental 
+Review. 1990; 10:3–47. http://doi.org/10.1016/0273-2297(90)90003-M. 
+Brainerd, CJ., Reyna, VF. The science of false memory. Oxford University Press; 2005. http://doi.org/
+10.1093/acprof:oso/9780195154054.001.0001
+Bransford JD, Barclay JR, Franks JJ. Sentence memory: A constructive versus interpretive approach. 
+Cognitive Psychology. 1972; 3(2):193–209. http://doi.org/10.1016/0010-0285(72)90003-5. 
+Bransford JD, Franks JJ. The abstraction of linguistic ideas. Cognitive Psychology. 1971; 2(4):331–
+350. http://doi.org/10.1016/0010-0285(71)90019-3. 
+Bridge DJ, Voss JL. Hippocampal binding of novel information with dominant memory traces can 
+support both memory stability and change. Journal of Neuroscience. 2014a; 34:2203–13. http://
+doi.org/10.1523/JNEUROSCI.3819-13.2014. [PubMed: 24501360] 
+Bridge DJ, Voss JL. Active retrieval facilitates across-episode binding by modulating the content of 
+memory. Neuropsychologia. 2014b; 63:154–64. http://doi.org/10.1016/j.neuropsychologia.
+2014.08.024. [PubMed: 25173711] 
+Burt CDB, Kemp S, Conway M. Memory for true and false autobiographical event descriptions. 
+Memory. 2004; 12:545–52. http://doi.org/10.1080/09658210344000071. [PubMed: 15615313] 
+Chan JCK, LaPaglia JA. Impairing existing declarative memory in humans by disrupting 
+reconsolidation. Proceedings of the National Academy of Sciences. 2013; 110(23):9309–9313. 
+http://doi.org/10.1073/pnas.1218472110. 
+Chan JCK, Thomas AK, Bulevich JB. Recalling a witnessed event increases eyewitness suggestibility: 
+The reversed testing effect. Psychological Science. 2009; 20:66–73. http://doi.org/10.1111/j.
+1467-9280.2008.02245.x. [PubMed: 19037905] 
+Devitt AL, Monk-Fromont E, Schacter DL, Addis DR. Factors that influence the generation of 
+autobiographical memory conjunction errors. Memory. 2015; 24:204–22. http://doi.org/
+10.1080/09658211.2014.998680. [PubMed: 25611492] 
+Dudai Y. The restless engram: Consolidations never end. Annual Review of Neuroscience. 2012; 
+35(1):227–247. http://doi.org/10.1146/annurev-neuro-062111-150500. 
+Dudai Y, Carruthers M. The Janus face of Mnemosyne. Nature. 2005; 434:567. http://doi.org/
+10.1038/434567a. [PubMed: 15800602] 
+Eichenbaum, H., Cohen, NJ. From conditioning to conscious recollection: Memory systems of the 
+brain. Oxford: Oxford University Press; 2001. 
+Gallo, DA. Associative illusions of memory: False memory research in DRM and related tasks. New 
+York, NY, US: Psychology Press; 2006. 
+Page 21
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Gershman SJ, Schapiro AC, Hupbach A, Norman KA. Neural context reinstatement predicts memory 
+misattribution. Journal of Neuroscience. 2013; 33(20):8590–5. http://doi.org/10.1523/
+JNEUROSCI.0096-13.2013. [PubMed: 23678104] 
+Gordon LT, Thomas AK, Bulevich JB. Looking for answers in all the wrong places: How testing 
+facilitates learning of misinformation. Journal of Memory and Language. 2015; 83:140–151. 
+http://doi.org/10.1016/j.jml.2015.03.007. 
+Hannula DE, Ranganath C. Medial temporal lobe activity predicts successful relational memory 
+binding. Journal of Neuroscience. 2008; 28(1):116–124. http://doi.org/10.1523/JNEUROSCI.
+3086-07.2008. [PubMed: 18171929] 
+Hardt O, Einarsson EO, Nader K. A bridge over troubled water: Reconsolidation as a link between 
+cognitive and neuroscientific memory research traditions. Annual Review of Psychology. 2010; 
+61:141–67. http://doi.org/10.1146/annurev.psych.093008.100455. 
+Howe ML. The adaptive nature of memory and its illusions. Current Directions in Psychological 
+Science. 2011; 20:312–315. http://doi.org/10.1177/0963721411416571. 
+Howe ML, Garner SR, Charlesworth M, Knott L. A brighter side to memory illusions: False memories 
+prime children’s and adults’ insight-based problem solving. Journal of Experimental Child 
+Psychology. 2011; 108:383–393. http://doi.org/10.1016/j.jecp.2010.08.012. [PubMed: 21044791] 
+Howe ML, Wilkinson S, Garner SR, Ball LJ. On the adaptive function of children’s and adults’ false 
+memories. Memory. 2016; 24(8):1062–77. http://doi.org/10.1080/09658211.2015.1068335. 
+[PubMed: 26230151] 
+Hupbach A, Gomez R, Hardt O, Nadel L. Reconsolidation of episodic memories: A subtle reminder 
+triggers integration of new information. Learning and Memory. 2007; 14:47–53. http://doi.org/
+10.1101/lm.365707. [PubMed: 17202429] 
+Hupbach A, Gomez R, Nadel L. Episodic memory updating: The role of context familiarity. 
+Psychological Bulletin & Review. 2011; 18:787–797. http://doi.org/10.3758/s13423-011-0117-6. 
+Koutstaal W. Flexible remembering. Psychonomic Bulletin & Review. 2006; 13:84–91. http://doi.org/
+10.3758/BF03193817. [PubMed: 16724773] 
+Lew, AR., Howe, ML. Out of place, out of mind: Schema-driven false memory effects for object-
+location bindings. Journal of Experimental Psychology: Learning, Memory, and Cognition. in 
+presshttp://dx.doi.org/10.1037/xlm0000317
+Loftus E. Make-believe memories. American Psychologist. 2003; 58:555–583. http://dx.doi.org/
+10.1037/0003-066X.58.11.867. 
+Loftus, EF. Planting misinformation in the human mind: A 30-year investigation of the malleability of 
+memory; Learning and Memory. 2005. p. 361-366.http://doi.org/10.1101/lm.94705
+Loftus EF, Miller DG, Burns HJ. Semantic integration of verbal information into a visual memory. 
+Journal of Experimental Psychology: Human Learning and Memory. 1978; 4(1):19–31. http://
+dx.doi.org/10.1037/0278-7393.4.1.19. [PubMed: 621467] 
+Madore KP, Addis DR, Schacter DL. Creativity and memory: Effects of an episodic-specificity 
+induction on divergent thinking. Psychological Science. 2015; 26:1461–8. http://doi.org/
+10.1177/0956797615591863. [PubMed: 26205963] 
+Madore KP, Schacter DL. An episodic specificity induction enhances means-end problem solving in 
+young and older adults. Psychology and Aging. 2014; 29:913–24. http://doi.org/10.1037/
+a0038209. [PubMed: 25365688] 
+McClelland, JL. Constructive memory and memory distortions: A parallel-distributed processing 
+approach. In: Schacter, DL., editor. Memory distortion. Cambridge, MA: Harvard University 
+Press; 1995. p. 69-90.
+Newman EJ, Lindsay SD. False memories: What the hell are they for? Applied Cognitive Psychology. 
+2009; 23:1105–1121. http://doi.org/10.1002/acp.1613. 
+Odegard TN, Lampinen JM. Memory conjunction errors for autobiographical events: More than just 
+familiarity. Memory. 2004; 12:288–300. http://doi.org/10.1080/09658210244000621. [PubMed: 
+15279433] 
+Okado Y, Stark CEL. Neural activity during encoding predicts false memories created by 
+misinformation. Learning and Memory. 2005; 12:3–11. http://doi.org/10.1101/lm.87605. 
+[PubMed: 15687227] 
+Page 22
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Preston AR, Shrager Y, Dudukovic NM, Gabrieli JDE. Hippocampal contribution to the novel use of 
+relational information in declarative memory. Hippocampus. 2004; 14:148–52. http://doi.org/
+10.1002/hipo.20009. [PubMed: 15098720] 
+Roediger HL. Memory illusions. Journal of Memory and Language. 1996; 35:76–100. http://doi.org/
+10.1006/jmla.1996.0005. 
+Roediger HL, McDermott KB. Creating false memories: Remembering words not presented in lists. 
+Journal of Experimental Psychology: Learning, Memory, & Cognition. 1995; 21(4):803–814. 
+http://doi.org/10.1037/0278-7393.21.4.803. 
+Shaw J, Porter S. Constructing rich false memories of committing crime. Psychological Science. 2015; 
+26(3):291–301. http://doi.org/10.1177/0956797614562862. [PubMed: 25589599] 
+Schacter, DL. Searching for memory: The brain, the mind, and the past. New York: Basic Books; 1996. 
+Schacter, DL. The seven sins of memory: How the mind forgets and remembers. Boston and New 
+York: Houghton Mifflin; 2001. 
+Schacter DL. Adaptive constructive processes and the future of memory. American Psychologist. 2012; 
+67:603–613. http://doi.org/10.1037/a0029869. [PubMed: 23163437] 
+Schacter DL, Addis DR. The cognitive neuroscience of constructive memory: Remembering the past 
+and imagining the future. Philosophical Transactions of the Royal Society B: Biological Sciences. 
+2007a; 362:773–786. http://doi.org/10.1098/rstb.2007.2087. 
+Schacter DL, Addis DR. The ghosts of past and future. Nature. 2007b; 445:27.doi: 10.1038/445027a 
+[PubMed: 17203045] 
+Schacter DK, Addis DR, Hassabis D, Martin VC, Spreng RN, Szpunar KK. The future of memory: 
+Remembering, imagining, and the brain. Neuron. 2012; 76:677–694. http://doi.org/10.1016/
+j.neuron.2012.11.001. [PubMed: 23177955] 
+Schacter DL, Guerin SA, St Jacques PL. Memory distortion: An adaptive perspective. Trends in 
+Cognitive Sciences. 2011; 15:467–474. http://doi.org/10.1016/j.tics.2011.08.004. [PubMed: 
+21908231] 
+Schlichting ML, Preston AR. Memory integration: Neural mechanisms and implicatioms for 
+beheavior. Current Opinion in Behavioral Sciences. 2015; 1:1–8. http://doi.org/10.1016/j.cobeha.
+2014.07.005. [PubMed: 25750931] 
+Sheldon S, McAndrews MP, Moscovitch M. Episodic memory processes mediated by the medial 
+temporal lobes contribute to open-ended problem solving. Neuropsychologia. 2011; 49:2439–47. 
+http://doi.org/10.1016/j.neuropsychologia.2011.04.021. [PubMed: 21550352] 
+Shimamura AP. Hierarchical relational binding in the medial temporal lobe: The strong get stronger. 
+Hippocampus. 2010; 20(11):1206–16. http://doi.org/10.1002/hipo.20856. [PubMed: 20824723] 
+Shohamy D, Wagner AD. Integrating memories in the human brain: Hippocampal-midbrain encoding 
+of overlapping events. Neuron. 2008; 60:378–89. http://doi.org/10.1016/j.neuron.2008.09.023. 
+[PubMed: 18957228] 
+St Jacques PL, Olm C, Schacter DL. Neural mechanisms of reactivation-induced updating that enhance 
+and distort memory. Proceedings of the National Academy of Sciences. 2013; 110:19671–19678. 
+http://doi.org/10.1073/pnas.1319630110. 
+St Jacques PL, Schacter DL. Modifying memory: Selectively enhancing and updating personal 
+memories for a museum tour by reactivating them. Psychological Science. 2013; 24:537–543. 
+http://doi.org/10.1177/0956797612457377. [PubMed: 23406611] 
+Suddendorf T, Corballis MC. The evolution of foresight: What is mental time travel, and is it unique to 
+humans? Behavioral and Brain Sciences. 2007; 30:299–313. discussion 313–51. http://doi.org/
+10.1017/S0140525X07001975. [PubMed: 17963565] 
+Szpunar KK. Episodic future thought: An emerging concept. Perspectives on Psychological Science. 
+2010; 5(2):142–62. http://doi.org/10.1177/1745691610362350. [PubMed: 26162121] 
+Tulving E. Episodic memory: From mind to brain. Annual Review of Psychology. 2002; 53:1–25. 
+http://doi.org/10.1146/annurev.psych.53.100901.135114. 
+Zeithamova D, Dominick AL, Preston AR. Hippocampal and ventral medial prefrontal activation 
+during retrieval-mediated learning supports novel inference. Neuron. 2012; 75:168–79. http://
+doi.org/10.1016/j.neuron.2012.05.010. [PubMed: 22794270] 
+Page 23
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Zeithamova D, Preston AR. Flexible memories: Differential roles for medial temporal lobe and 
+prefrontal cortex in cross-episode binding. Journal of Neuroscience. 2010; 30:14676–84. http://
+doi.org/10.1523/JNEUROSCI.3250-10.2010. [PubMed: 21048124] 
+Zeithamova D, Schlichting ML, Preston AR. The hippocampus and inferential reasoning: Building 
+memories to navigate future decisions. Frontiers in Human Neuroscience. 2012; 6:70. http://
+doi.org/10.3389/fnhum.2012.00070. [PubMed: 22470333] 
+Page 24
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Fig. 1. 
+Overview of Experimental Procedure
+Illustration of materials, stimuli, and test displays from Experiments 1a and 1b. The Session 
+1 section shows one example of an AB image in which the man is item “A” and the toy truck 
+is item “B” and the corresponding BC image in which the boy is item “C.” The Session 2 
+section shows one example of a detail and source monitoring question linked to the example 
+AB image. For each detail question, participants saw a cutout of the “A” or “C” individual 
+presented to the right of the question in order to indicate to which event the question 
+referred. False memories occurred when participants chose both the misinformation detail 
+(e.g., brown couch) during the detail question and attributed the misinformation detail 
+incorrectly to either the original event or both events – as indicated by the red (dark) circles. 
+True memories occurred when participants both chose the correct detail during the detail 
+question (e.g., white couch) and attributed the correct detail correctly to the original event – 
+Page 25
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+as indicated by the green (light) circles. Other example detail questions for this ABC triad 
+included: Where were the stairs located?; What color were the walls in the room?; What was 
+this individual sitting/standing on?; What was hanging on the wall directly behind this 
+individual?; etc. Importantly, all of these questions relate to two contradictory details from 
+images AB and BC (e.g., stairs directly behind vs. to the far left; yellow vs. white walls; 
+wood floors vs. carpet; potted plants vs. picture frames; etc.). The green (light) circles 
+indicate the correct answer for the associative inference and directly learned questions. 
+Participants saw these images without the red (dark) and green (light) circles.
+Page 26
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Fig. 2. 
+Proportion of false memories in Experiment 1 (a) and Experiment 2 (b). Performance on 
+detail and source monitoring questions was examined both before and after either successful 
+or unsuccessful inference. Importantly, only trials for which participants responded correctly 
+to directly learned trials were included in this analysis. Results revealed a significant time by 
+inference interaction in both Experiment 1 and 2. Subsequent t-tests confirm that false 
+memories selectively increased only following successful associative inference. Error bars 
+represent ± 1 SEM.
+Page 27
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Fig. 3. 
+Proportion of false memories in Experiment 3. Performance on detail and source monitoring 
+questions was examined both before and after either successful or unsuccessful inference. 
+Importantly, only trials for which participants responded correctly to directly learned trials 
+were included in this analysis. Results revealed a significant time by inference interaction in 
+Experiment 3. Subsequent t-tests confirm that false memories selectively increased only 
+following successful associative inference. Error bars represent ± 1 SEM.
+Page 28
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Fig. 4. 
+Proportion of false memories in Experiment 4. Performance on detail and source monitoring 
+questions was examined both before and after either successful or unsuccessful inference. 
+Importantly, only trials for which participants responded correctly to directly learned trials 
+were included in this analysis. Results revealed a significant time by inference interaction in 
+Experiment 4. Subsequent t-tests confirm that false memories selectively increased only 
+following successful associative inference. Error bars represent ± 1 SEM.
+Page 29
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript

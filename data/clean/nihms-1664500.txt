@@ -1,0 +1,503 @@
+The Seven Sins of Memory: An Update
+Daniel L. Schactera
+aDepartment of Psychology, Harvard University, Cambridge, MA, USA
+Abstract
+Memory serves critical functions in everyday life, but it is also vulnerable to error and 
+illusion. Two decades ago, I proposed that memory errors could be classified into seven basic 
+categories or “sins”: transience, absent-mindedness, blocking, misattribution, suggestibility, bias, 
+and persistence. I argued that each of the seven sins provides important insights concerning the 
+fundamentally constructive nature of human memory, while at the same time reflecting its adaptive 
+features. In this article I briefly summarize some key developments during the past two decades 
+that have increased our understanding of the nature, consequences, and adaptive functions of the 
+memory sins.
+Keywords
+Constructive memory; memory errors; misattribution; suggestibility; adaptive functions
+Psychologists have long known that memory is subject to various forms of error and 
+illusion. These observations played a key role in the emergence of the view that memory 
+is fundamentally constructive rather than reproductive (Bartlett, 1932; Neisser, 1967). But 
+even by the end of the 20th century, there were few systematic attempts to organize or 
+classify the ways in which memory can go awry. To fill the gap, I argued (Schacter 
+1999, 2001) that memory’s misdeeds could be classified into seven basic categories or 
+“sins”. Three “sins of omission” refer to different kinds of forgetting: transience (decreasing 
+accessibility of information over time), absent-mindedness (breakdown at the interface of 
+attention and memory), and blocking (temporary inaccessibility of information that is stored 
+in memory). Three “sins of commission” refer to different kinds of distortion: misattribution 
+(attributing a memory or idea to the wrong source), suggestibility (implanted memories 
+that result from suggestion or misinformation), and bias (retrospective distortions produced 
+by current knowledge, beliefs, and feeling). The seventh sin, also one of commission, is 
+persistence (intrusive or pathological remembering of events). Although each of the sins can 
+wreak havoc in everyday life, a key idea in the seven sins framework is that rather than 
+reflecting fatal flaws in the architecture of memory, the sins are more usefully conceived 
+as consequences of processes that contribute importantly to the adaptive functioning of 
+memory in everyday life (Schacter, 2001, Chapter 8).
+CONTACT Daniel L. Schacter dls@wjh.harvard.edu Department of Psychology, Harvard University, Cambridge 02138, MA, USA. 
+HHS Public Access
+Author manuscript
+Published in final edited form as:
+Memory. 2022 January ; 30(1): 37–42. doi:10.1080/09658211.2021.1873391.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Two decades have now passed since the original proposal of the seven sins of memory, 
+and during that time there has been much progress in documenting their causes and 
+consequences. I recently completed a revision of the 2001 edition of The Seven Sins of 
+Memory that discusses noteworthy new developments related to each sin (Schacter, in 
+press). In this article, I will briefly summarize a few of these developments regarding the 
+six forgetting and distortion-related sins that speak most directly to the reliability of human 
+memory, and also consider the current status of an adaptive perspective on the memory sins.
+The Seven Sins of Memory: Some New and Noteworthy Developments
+Transience
+The observation that memory performance typically declines over time famously dates 
+to the beginning of the experimental investigation of memory pioneered by Ebbinghaus 
+(1885/1964). It is therefore perhaps ironic that one of the more intriguing observations 
+concerning transience during the past two decades concerns evidence for “anti-transience”: 
+individual differences and experimental manipulations that selectively mitigate forgetting 
+over time. The individual differences evidence comes from observations of individuals 
+identified in studies by McGaugh and colleagues who have come to be known by the term 
+Highly Superior Autobiographical Memory (HSAM; LePort et al., 2012). Beginning with 
+a case study of a woman with a remarkable ability to recall her specific past personal 
+experiences (Parker, Cahill, & McGaugh, 2006), and extending to larger groups of similar 
+individuals (e.g., Patihis et al. 2013, Santangelo et al., 2018), research concerning HSAM 
+has begun to unravel some of the cognitive and neural features that characterize these 
+individuals’ exceptional abilities to recall personal experiences.
+Most relevant to the present discussion, LePort et al. (2016) studied 30 HSAM individuals 
+and found that they did not recall any more details than non-HSAM controls about personal 
+events that had occurred a day or a week earlier. By contrast, the HSAM group did recall 
+significantly more details about personal events that had occurred a month, a year, and 10 
+years earlier, thus indicating reduced forgetting over time. In a separate line of research, 
+studies on the benefits of retrieval practice (also known as the testing effect) have shown a 
+similar kind of anti-transience: In research on story recall, Roediger and Karpicke (2006) 
+showed that compared with restudying, retrieval practice/testing did not benefit recall after 
+a 5-minute delay, but did significantly boost recall relative to re-study after delays of 2 
+days and 1 week. These observations concerning HSAM and retrieval practice are probably 
+not unrelated: HSAM individuals are known to repeatedly retrieve their past personal 
+experiences, and this self-initiated form of retrieval practice is likely part of the explanation 
+for their reduced transience at long delays. At the same time, these findings highlight 
+the pervasiveness of transience in normal forgetting that is not mitigated by an unusual 
+condition such as HSAM or a specific technique such as retrieval practice.
+Absent-mindedness
+A characteristic of absent-minded forgetting I emphasized in the first edition of The Seven 
+Sins of Memory (Schacter, 2001) emerged from everyday examples and experimental 
+research showing that when a person’s task is to remember to carry out a specific action at a 
+Schacter
+Page 2
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+specific time in the future, if retrieval cues are not available at the moment the action needs 
+to be carried out, and attention is not focused on the task goal, absent-minded forgetting can 
+be severe (e.g., Vortac et al., 1995).
+However, neither the prospective memory research nor everyday examples I cited presaged 
+a phenomenon that was little known prior to 2001 but has become all too familiar since: 
+parents who forget that their infant is in a car seat in the back of a hot car, often resulting 
+in the death of the child. Such cases regularly appear each summer, and typically involve 
+a “perfect storm” of circumstances that support catastrophic absent-minded forgetting: a 
+change in routine, absorption with pressing concerns unrelated to the child, reliance on 
+automatic behavior, and an absence of retrieval cues at the moment they are needed. As 
+Weingarten (2009) pointed out in his compelling discussion of these cases, they began to 
+increase after experts recommended moving infant car seats to the rear of the car in order 
+to avoid dangers posed to young children by front seat airbags: “If few foresaw the tragic 
+consequence of the lessened visibility of the child ... well, who can blame them? What kind 
+of person forgets a baby?”.
+We now know that almost anyone can exhibit such forgetting, including many highly 
+functional and responsible parents. Fortunately, in recent years a variety of external cuing 
+systems have been developed that provide the missing retrieval cue that is crucial to 
+avoiding such tragedies (e.g., Baldwin, 2019; for further discussion of hot car cases and 
+cuing systems, see Schacter, in press). These horrific cases of cue-dependent absent-minded 
+forgetting represent a costly vulnerability of human memory, and yet they reflect the same 
+principles previously demonstrated in the laboratory and in less consequential everyday 
+examples.
+Another important post-2001 development related to absent-minded forgetting concerns the 
+phenomenon of mind wandering: when attention drifts away from the task at hand, and 
+focuses instead on task-unrelated thoughts (for conceptual discussion of varieties of mind 
+wandering, see Seli et al., 2018). Mind wandering, which emerged as a major topic of 
+research in cognitive psychology and neuroscience during the first decade of the 21st century 
+(e.g., Smallwood & Schooler, 2006), can operate as a source of divided attention that 
+results in absent-minded forgetting of task-related information. This consequence of mind 
+wandering has been examined in relation to educational settings, where studies of classroom 
+and video-recorded lectures have demonstrated that mind wandering occurs frequently, and 
+that more frequent mind wandering is associated with poorer retention of lecture material 
+(e.g., Lindquist & McLean, 2011; Risko, Anderson, Sarwal, Engelhardt, & Kingstone, 2012; 
+Szpunar, Khan, & Schacter, 2013; for review, see Schacter & Szpunar, 2015). Interpolating 
+brief quizzes regarding lecture content in video-recorded lectures can reduce the frequency 
+of mind wandering and enhance retention of lecture content (Szpunar et al., 2013; see Pan, 
+Schmitt, Bjork, & Sana, 2020, for similar benefits from pretesting lecture content).
+Despite the negative educational consequences of mind wandering during lectures, and 
+the tragic costs of forgetting young children in hot cars, it is encouraging that simple 
+interventions can reduce both forms of absent-minded memory lapses.
+Schacter
+Page 3
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Blocking
+By 2001, much research had been published on various forms of retrieval blocking, 
+including tip-of-the tongue states (e.g., Burke, MacKay, Worthley, & Wade, 1991) and 
+retrieval-induced forgetting (e.g., Anderson, Bjork, & Bjork, 1994). But it was only during 
+2001 that a new kind of retrieval inhibition was introduced by Anderson and Greene’s 
+(2001) seminal paper using the now well-known think/no-think paradigm to show that 
+trying to suppress retrieval of the target word from a paired-associate (‘no think’ condition) 
+produced a small but significant reduction in later recall of the target compared with both 
+‘think’ words (i.e., target items recalled in response to the paired cue) and, critically, 
+baseline items that were studied but not presented during the think/no think phase. The 
+phenomenon engendered controversy because of some failures to replicate (e.g., Bulevich, 
+Balota, Roediger, & Butler, 2006), but subsequent meta-analyses have revealed evidence 
+for a modest but significant impairment of recall of “suppress” items in the think-no think 
+paradigm (Anderson & Huddleston, 2012; Stramaccia, Meyer, Rischer, Fawcett, & Benoit, 
+2020).
+Importantly, the effect has proven robust enough to study with neuroimaging procedures 
+that have provided new insights into its neural basis. For example, Anderson et al. 
+(2004) found that when people are trying to suppress a target item during the “no think” 
+phase, a) prefrontal regions associated with cognitive control showed increased activity, 
+b) the hippocampus, a brain region often linked to successful recollection, showed some 
+evidence for decreased activity; and c) these brain changes predicted the extent to which 
+a specific item suffered from impaired recall that is attributable to retrieval inhibition. A 
+more recent study (Schmitz et al., 2017) revealed a possible role for GABA, an inhibitory 
+neurotransmitter, in modulating retrieval inhibition in the think-no think paradigm: there was 
+a positive association between a higher resting concentration of GABA in the hippocampus 
+and a greater ability to suppress “no think” items, and stronger coupling between the 
+hippocampus and prefrontal cortex during attempted suppression. These and related findings 
+provide new insights into the brain mechanisms that produce the kind of retrieval blocking 
+elicited by the think/no think paradigm.
+Misattribution
+Misattribution can take various forms, including source memory confusion, false recall, and 
+false recognition, which had all been studied extensively by 2001. By contrast, one of the 
+most dramatic forms of misattribution, déjà vu, was still largely a clinical curiosity. That 
+is no longer the case, however, as experimental studies have developed systematic methods 
+to elicit and analyze déjà vu. For example, Cleary and colleagues developed novel virtual 
+reality paradigms to show that déjà vu can result from structural similarity between a new, 
+current visual configuration and a previously experienced one (Cleary et al., 2012), which 
+in turn can provide a basis for an illusory conviction that one knows what will happen 
+next when navigating a virtual environment (Cleary & Claxton, 2018). The development 
+of systematic methods for eliciting déjà vu has even made it possible to study it using 
+fMRI (Urquhart, Sivakurmaran, Macfarlane, & O’Connor, 2018). These kinds of studies are 
+adding to our theoretical understanding of déjà vu and its implications for constructive views 
+of memory (Aitken & O’Connor, 2020).
+Schacter
+Page 4
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+More generally, fMRI studies of misattribution, especially false recognition, have increased 
+dramatically during the past two decades. Early evidence discussed in Schacter (2001) 
+suggested that true recognition could be distinguished from false recognition based 
+on increased activation in brain regions associated with sensory-perceptual processing, 
+and numerous recent studies have delineated the conditions under which such sensory 
+reactivation effects are and are not observed (Schacter, Carpenter, Devitt, & Thakral, in 
+press). Importantly, such studies have also begun to identify brain regions consistently 
+associated with false retrieval (for a meta-analysis, see Kurkela & Dennis, 2016), thereby 
+clarifying the basis of certain kinds of subjectively compelling but illusory memories.
+Suggestibility
+During the 1990s, psychologists developed experimental paradigms for inducing through 
+suggestion what Loftus (2003) later called “rich false memories” – detailed but inaccurate 
+recollections of everyday experiences. By the end of the 1990s, studies using procedures 
+based on Loftus and Pickrell’s (1995) “lost-in-the-mall” paradigm showed that suggestive 
+procedures (e.g., visualization, social influence) resulted in false memories of various kinds 
+of everyday events for 20–30% of participants (e.g., Hyman & Pentland, 1996; Porter, 
+Yuille, & Lehmann, 1999).
+More recently, Shaw and Porter (2015) reported that a potent suggestive procedure drawing 
+on visualization and social pressure induced 70% of their college student sample to develop 
+a false memory of committing a crime as an adolescent, which greatly exceeded the 
+proportion of false memories previously produced in similar paradigms. However, the 
+interpretation of this striking result was questioned by Wade, Garry, and Pezdek (2018), who 
+identified problems with the criteria that Shaw and Porter used to classify a participant’s 
+report as a “false memory.” Citing earlier work that distinguished between false memories 
+and false beliefs, Wade et al. argued that most of the reports that Shaw and Porter 
+classified as “false memories” are more appropriately characterized as “false beliefs”, i.e., 
+people accepted a suggestion as true and speculated about specifics of what might have 
+happened, but did not report a subjective experience of remembering the event (for empirical 
+and conceptual considerations regarding the relation between belief and recollection, see 
+Scorboria, Jackson, Talarico, Hanczakowski, Wysman, & Mazzoni, 2014). After re-scoring 
+Shaw and Porter’s results using criteria from previous studies that distinguish between 
+false memories and false beliefs, they found that only about 25–30% of Shaw and Porter’s 
+participants falsely remembered committing a crime, in line with earlier results.
+Despite this important qualification, Shaw and Porter’s (2015) findings nonetheless provide 
+a notable extension of previous work on suggestibility by showing that a combination of 
+social coercion and imagination can lead a surprisingly high proportion of young adults to 
+develop a false belief that they committed a crime. Wade et al.’s (2018) observation that only 
+a much smaller proportion develop full-blown false memories is important theoretically, but 
+the high proportion of false beliefs in this study nonetheless highlights the vulnerability of 
+memory reports to corruption from suggestive influence.
+Schacter
+Page 5
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Bias
+A common form of retrospective bias is known as consistency bias, where people rewrite 
+the past to make it consistent with their current knowledge, beliefs, and feelings (e.g., Ross 
+& Wilson, 1999). During the past decade, evidence has emerged linking consistency bias 
+with false recollections in the domain of political cognition. For example, Frenda, Knowles, 
+Saletan, and Loftus (2013) used an online survey to examine memory for three actual 
+political events and five fabricated ones. They found that 27% claimed to remember seeing 
+the fabricated events on the news (and about 50% claimed some type of memory for the 
+fabricated event). Consistency biases influenced these false memories, with conservative 
+participants especially likely to report false memories for fabricated events that depicted 
+President Obama in a negative light, and liberal participants especially likely to report false 
+memories for fabricated events that depicted President Bush in a negative light.
+More recently, Murphy, Loftus, Grady, Levine, and Greene (2019) reported related data in 
+a study conducted just prior to the May 2018 referendum in Ireland concerning abortion 
+rights. The eighth amendment to the constitution of Ireland guaranteed the unborn a right 
+to life, resulting in extremely restrictive abortion laws. The “yes” side voted to repeal the 
+eighth amendment and won a landslide victory over the “no” side that voted to preserve 
+it. The week before the election, Murphy and colleagues administered an online survey to 
+over 3000 adults, most of whom indicated that they would be voting in the referendum. 
+The survey included photos and headlines of four true and two fake new stories pertaining 
+to both the “yes” and “no” campaigns. Critically, there were two versions of each of the 
+fake news stories, one that reflected negatively on the “yes” side and another that reflected 
+negatively on the “no” side.
+Participants were asked to choose among five options regarding their memory for the news 
+stories: 1) I remember seeing/hear this; 2) I don’t remember seeing/hearing this but I 
+remember it happening; 3) I don’t remember this but I believe it happened; 4) I remember 
+this differently; 5) I don’t remember this. False memories occurred frequently for the fake 
+news stories: 48% of participants choose either option 1 or 2, and the percentage increased 
+to 63% when option 3 (i.e., false belief) was included. There was also some evidence that 
+consistency bias played a role: “yes” supporters were more likely than “no” supporters to 
+falsely “remember” fake news involving a fabricated scandal about the “no” side, whereas 
+“no” supporters showed the opposite pattern. These findings are not only relevant to current 
+political divisions in the United States, where the nature and even existence of “truth” has 
+become a partisan issue, but also highlight a novel role for consistency bias in shaping the 
+emergence of false memories.
+An Adaptive Perspective
+As noted earlier, a key concept in the seven sins framework is that rather than reflecting fatal 
+flaws in the architecture of memory, the sins can be viewed as consequences of adaptive 
+features of memory that contribute to its usefulness in everyday life. In the initial articulation 
+of this perspective (Schacter, 1999, 2001), I relied on functional and evolutionary analyses of 
+memory, some developed in previous work on adaptive aspects of forgetting (e.g., Anderson 
+Schacter
+Page 6
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+& Milson, 1989; Anderson & Schooler, 1991; Bjork & Bjork, 1988), to make the case for 
+this approach to conceptualizing the seven sins.
+However, whereas there was little experimental evidence to support this adaptive perspective 
+in 2001, during the past two decades an increasingly impressive body of such evidence 
+has emerged. Much of this evidence has been reviewed elsewhere and I refer the 
+interested reader to those sources for in-depth discussion (Ditta & Storm, 2018; Fawcett 
+& Hulbert, 2020; Howe, 2011; Schacter, in press; Schacter et al., in press; Schacter, 
+Guerin, & St. Jacques, 2011). Recent evidence is particularly strong for misattribution 
+errors, including findings that a) false memories in the Deese-Roediger-McDermott false 
+recognition paradigm (Roediger & McDermott, 1995) can boost performance on subsequent 
+tests of creative problem solving (Howe & Garner, 2018) and analogical reasoning (Howe, 
+Garner, Threadgold, & Ball, 2015); b) source misattributions are increased when people 
+make correct (vs. incorrect) associative inferences regarding overlapping features of related 
+episodes (AB, BC) by retrieving and recombining elements of those episodes, including 
+contextual features that are mistakenly combined (Carpenter & Schacter, 2017, 2018); 
+and c) episodic simulation and retrieval processes that support the adaptive function of 
+future thinking can also increase memory errors and biases (Devitt & Schacter, 2018, 2019; 
+Dewhurst, Anderson, Grace, & van Esch, 2016; Dewhurst, Anderson, Grace, & Howe, 2019; 
+Thakral, Madore, Devitt, & Schacter, 2019; for a theoretical analysis, see Schacter & Addis, 
+2007, 2020).
+Conclusion
+Overall, the picture of the memory sins painted during the past twenty years supports 
+a constructive perspective on memory by providing new examples of the manifestations 
+and consequences of each of the sins, as well as novel insights into the mechanisms that 
+produce them. The emerging evidence on the benefits of the memory sins supports the 
+view that they reflect the operation of adaptive constructive processes (Schacter, 2012), 
+which play a functional role in memory but produce errors and distortions as a consequence 
+of doing their adaptive jobs. A constructive memory is not always a reliable one, but it 
+need not be a dysfunctional one either: the same processes that can undermine memory’s 
+reliability sometimes do so while contributing to the effective operation of a variety of 
+mental functions.
+Funding
+Preparation of this manuscript was supported by National Institute on Aging [grant number R01 AG008441] and 
+National Institute of Mental Health [grant number RO1MH060941] to DLS. I thank Ethan Harris for assistance.
+References
+Aitken CBA, & O’Connor AR (2020). Converging on an understanding of the déjà vu experience. In 
+Cleary AM & Schwartz BL (Eds.) Memory quirks: The study of odd phenomena in memory (pp. 
+288–305). London: Routledge.
+Anderson JR, & Milson R (1989). Human memory: An adaptive perspective. Psychological Review, 
+96, 703–719.
+Schacter
+Page 7
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Anderson JR, & Schooler LJ (1991). Reflections of the environment in memory. Psychological 
+Science, 2, 396–408.
+Anderson MC, Bjork RA, & Bjork EL (1994). Remembering can cause forgetting: Retrieval dynamics 
+in long-term memory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 20, 
+1063–1087.
+Anderson MC, & Greene C (2001). Suppressing unwanted memories by executive control. Nature, 
+410, 366–369. [PubMed: 11268212] 
+Anderson MC, & Huddleston E (2012). Toward a cognitive and biological model of motivated 
+forgetting. In Belli RF (Ed.), True and false recovered memories: A reconciliation of the debate 
+(pp.53–120). New York: Springer
+Anderson MC, Ochsner KN, Kulh B, Cooper J, Gabrieli SW, Glover GH, and Gabrieli JDE 
+(2004). Neural systems underlying the suppression of unwanted memories. Science, 303, 232–235. 
+[PubMed: 14716015] 
+Baldwin D (2019, August 21). Life-saving car seat alarms that remind parents there’s a baby in the 
+back seat. https://www.fatherly.com/gear/best-car-seat-alarms/
+Bartlett FC (1932). Remembering Cambridge: Cambridge University Press.
+Bjork RA, & Bjork EL (1988). On the adaptive aspects of retrieval failure in autobiographical memory. 
+In Gruneberg MM, Morris RE, and Sykes RN (Eds.), Practical aspects of memory: Current 
+research and issues, 1 (pp. 283–288). Chichester, England: John Wiley.
+Bulevich JB, Roediger HL, Balota DA, & Butler AC (2006). Failures to find suppression of episodic 
+memories in the think/no think paradigm. Memory & Cognition, 34, 1569–1577. [PubMed: 
+17489284] 
+Burke D MacKay DG, Worthley JS, & Wade E (1991). On the tip of the tongue: What causes word 
+failure in young and older adults? Journal of Memory and Language, 30, 237–246.
+Carpenter AC, & Schacter DL (2017). Flexible retrieval: When true inferences produce false 
+memories. Journal of Experimental Psychology: Learning, Memory, and Cognition, 43, 335–349.
+Carpenter AC, & Schacter DL (2018). False memories, false preferences: Flexible retrieval 
+mechanisms supporting successful inference bias novel decisions. Journal of Experimental 
+Psychology: General, 147, 988–1004. [PubMed: 29419307] 
+Cleary AM, Brown AS, Sawyer BD, Nomi JS, Ajoku AC, & Ryals AJ (2012). Familiarity from 
+the configuration of objects in 3-dimensional space and its relation to déjà vu: A virtual reality 
+investigation. Consciousness and Cognition, 21, 969–975. [PubMed: 22322010] 
+Cleary AM, & Claxton AB (2018). Déjà vu: An illusion of prediction. Psychological Science, 29, 
+635–644. [PubMed: 29494276] 
+Devitt AL & Schacter DL (2018). An optimistic outlook creates a rosy past: The impact of episodic 
+simulation on subsequent memory. Psychological Science, 29, 936–946. [PubMed: 29648928] 
+Devitt AL & Schacter DL (2019). Looking on the bright side: Aging and the impact of emotional 
+future simulation on subsequent memory. The Journals of Gerontology: Series B doi:10.1093/
+geronb/gbz041
+Dewhurst SA Anderson RJ, Grace L & van Esch L (2016). Adaptive false memories: Imagining future 
+scenarios increases false memories in the DRM paradigm. Memory & Cognition, 44, 1076–1084. 
+[PubMed: 27173584] 
+Dewhurst SA, Anderson RJ, Grace L, & Howe D (2019). Simulation, false memories, and the planning 
+of future events. Journal of Experimental Psychology: Learning, Memory, and Cognition, 45, 
+26–36.
+Ditta AS, & Storm BC (2018). A consideration of the seven sins of memory in the context of creative 
+cognition. Creativity Research Journal, 30, 402–417.
+Ebbinghaus H (1885/1964). Memory: A contribution to experimental psychology. New York: Dover.
+Fawcett JM, & Hulbert JC (2020). The many faces of forgetting: Toward a constructive view of 
+forgetting in everyday life. Journal of Applied Research in Memory and Cognition, 9, 1–18.
+Frenda SJ, Knowles ED, Saletan W, & Loftus EF (2013). False memories of fabricated political events. 
+Journal of Experimental Social Psychology, 49, 280–286.
+Schacter
+Page 8
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Howe ML (2011). The adaptive nature of memory and its illusions. Current Directions in 
+Psychological Science, 20, 312–315.
+Howe ML, & Garner SR (2018). Can false memories prime alternative solutions tambiguous 
+problems? Memory, 26, 96–105. [PubMed: 28553746] 
+Hyman IE Jr., & Pentland J (1996). The role of mental imagery in the creation of false childhood 
+memories. Journal of Memory and Language, 35, 101–17.
+Howe ML, Garner SR, Threadgold E, & Ball LJ (2015). Priming analogical reasoning with false 
+memories. Memory & Cognition, 43, 879–895. [PubMed: 25784574] 
+Kurkela KA, & Dennis NA 2016. Event-related fMRI studies of false memory: An activation 
+likelihood estimation meta-analysis. Neuropsychologia, 81, 149–67. [PubMed: 26683385] 
+LePort AKR, Mattfield AT, Dickinson-Anson H, Fallon JH, Stark CEL, Kruggel F, Cahill L, 
+& McGaugh JL (2012). Behavioral and neuroanatomical investigation of Highly Superior 
+Autobiographical Memory (HSAM). Neurobiology of Learning and Memory, 98, 78–92. 
+[PubMed: 22652113] 
+LePort AKR, Stark SM, McGaugh JL, & Stark CEL (2016). Highly Superior Autobiographical 
+Memory: Quality and quantity of retention over time. Frontiers in Psychology. 10.3389/
+fpsyg.2015.02017
+Lindquist SL, & McLean JP (2011). Daydreaming and its correlates in an educational environment. 
+Learning and Individual Differences, 21, 158–167.
+Loftus EF (2003). Make-believe memories. American Psychologist, 58, 867–873.
+Loftus EF, & Pickrell JE (1995). The formation of false memories. Psychiatric Annals, 25, 720–725.
+Murphy G, Loftus EF, Grady RH, Levine LJ, & Greene CM (2019). False memories for fake 
+news during Ireland’s abortion referendum. Psychological Science, 30, 1449–1459. [PubMed: 
+31432746] 
+Neisser U (1967). Cognitive psychology. New York: Appleton-Century-Crofts.
+Pan SC, Schmitt AG, Bjork EL, & Sana F (2020). Pretesting reduces mind wandering and enhances 
+learning during online lectures. Journal of Applied Research in Memory and Cognition, 9, 542–
+5534.
+Parker ES, Cahill L, & McGaugh JL (2006). A case of unusual autobiographical remembering. 
+Neurocase, 12, 35–49. [PubMed: 16517514] 
+Patihis L, Frenda SJ, LePort AKE, Petersen N, Nichols RM, Stark CEL, McGaugh JL, & Loftus EF 
+(2013). False memories in highly superior autobiographical memory individuals. Proceedings of 
+the National Academy of Sciences USA, 110, 20947–20952.
+Porter S, Yuille JC, & Lehman DR (1999). The nature of real, implanted, and fabricated memories 
+for emotional childhood events: Implications for the re-covered memory debate. Law and Human 
+Behavior, 23, 317–337.
+Risko EF, Anderson N, Sarwal A, Engelhardt M, and Kingstone A (2012). Everyday attention: 
+Variation in mind wandering and memory in a lecture. Applied Cognitive Psychology, 26, 234–
+242.
+Roediger HL III, & Karpicke J (2006). Test-enhanced learning: Taking memory tests improves long-
+term retention. Psychological Science, 17, 249–255. [PubMed: 16507066] 
+Roediger HL III, & McDermott KB (1995). Creating false memories: Remembering words not 
+presented in lists. Journal of Experimental Psychology: Learning, Memory, & Cognition, 21, 
+803–814.
+Ross M, & Wilson AE (1999). Constructing and appraising past selves. In Schacter DL and Scarry E 
+(Eds.), Memory, brain, and belief. Cambridge, Mass.: Harvard University Press.
+Santangelo V, Cavallina C, Colucci C, Santori A, Macri S, McGaugh JL, & Campolongo P (2018). 
+Enhanced brain activity associated with memory access in highly superior autobiographical 
+memory. Proceedings of the National Academy of Sciences USA, 115, 7795–7800.
+Schacter DL (1999). The seven sins of memory: Insights from psychology and cognitive \neuroscience. 
+American Psychologist, 54, 182–203.
+Schacter DL (2001). The seven sins of memory: How the mind forgets and remembers. Boston and 
+New York: Houghton Mifflin.
+Schacter
+Page 9
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Schacter DL (2012). Adaptive constructive processes and the future of memory. American 
+Psychologist, 67, 603–613.
+Schacter DL (in press). The seven sins of memory: How the mind forgets and remembers (2nd 
+edition). Boston and New York: Houghton Mifflin Harcourt.
+Schacter DL & Addis DR (2007). The cognitive neuroscience of constructive memory: Remembering 
+the past and imagining the future. Philosophical Transactions of the Royal Society (B), 362, 773–
+786.
+Schacter DL & Addis DR (2020). Memory and imagination: Perspectives on constructive episodic 
+simulation. In Abraham A (Ed.), The Cambridge Handbook of the Imagination (pp. 111–131). 
+Cambridge: Cambridge University Press.
+Schacter DL, Carpenter AC, Devitt AL, & Thakral PP (in press). Memory errors and distortion. In 
+Kahana MJ and Wagner AD (Eds.), The Oxford Handbook of Human Memory. New York: Oxford 
+University Press.
+Schacter DL & Szpunar KK (2015). Enhancing attention and memory during video-recorded lectures. 
+Scholarship of Teaching and Learning in Psychology, 1, 60–71.
+Schacter DL, Guerin SA, & Jacques PL St. (2011). Memory distortion: An adaptive perspective. 
+Trends in Cognitive Sciences, 15, 467–474. [PubMed: 21908231] 
+Schmitz TW, Correia MM, Ferreira CS, Prescot AP, & Anderson MC 2017. Hippocampal GABA 
+enables inhibitory control over unwanted thoughts. Nature Communications. 8, 1311 DOI: 
+10.1038/s41467-017-00956-z
+Scorboria A, Jackson DL, Talarico J, Hanczakowski M, Wysman L, & Mazzoni G (2014). Journal of 
+Experimental Psychology: General, 143, 1242–1258. [PubMed: 23957284] 
+Seli P, Kane MJ, Smallwood J, Schacter DL, Maillet D, Schooler JW, & Smilek D (2018). Mind-
+wandering as a natural kind: A family-resemblances view. Trends in Cognitive Sciences, 22, 479–
+490. [PubMed: 29776466] 
+Shaw J, & Porter S (2015). Constructing rich false memories of committing crime. Psychological 
+Science, 26, 291–301. [PubMed: 25589599] 
+Smallwood J, and Schooler JW (2006). The restless mind. Psychological Bulletin, 132, 946–958. 
+[PubMed: 17073528] 
+Stramaccia DF, Meyer A-K, Rischer KM, Fawcett JM, & Benoit RG (2020). Memory suppression 
+and its deficiency in psychological disorders: A focused meta-analysis. Journal of Experimental 
+Psychology: General. 10.1037/xge0000971
+Szpunar KK, Kahn NY, & Schacter DL (2013). Interpolated memory tests reduce mind wandering and 
+improve learning of online lectures. Proceedings of the National Academy of Sciences USA, 110, 
+6313–6317.
+Thakral PP, Madore KP, Devitt AL, & Schacter DL (2019). Adaptive constructive processes: An 
+episodic specificity induction impacts false recall in the Deese-Roediger-McDermott paradigm. 
+Journal of Experimental Psychology: General, 148, 1480–1493. [PubMed: 30829522] 
+Vortac OU, Edwards MB, & Manning CA (1995). Functions of external cues in prospective memory. 
+Memory, 3, 201–219. [PubMed: 7796305] 
+Urquhart JA, Sivakurmaran MH, Macfarlane JA, & O’Connor A (2018). FMRI evidence supporting 
+the role of memory conflict in the déjà vu experience. Memory. 10.1080/09658211.2018.1524496
+Wade KA, Garry M, & Pezdek K (2018). Deconstructing rich false memories of committing 
+crime: Commentary on Shaw and Porter (2015). Psychological Science, 29, 471–476. [PubMed: 
+29315022] 
+Weingarten G (2009, March 8). Fatal distraction. https://www.washingtonpost.com/lifestyle/
+magazine/fatal-distraction-forgetting-a-child-in-thebackseat-of-a-car-is-a-horrifying-mistake-is-it-
+a-crime/2014/06/16/8ae0fe3a-f580-11e3-a3a5-42be35962a52_story.html?noredirect=on
+Schacter
+Page 10
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript

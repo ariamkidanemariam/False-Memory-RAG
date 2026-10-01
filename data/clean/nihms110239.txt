@@ -1,0 +1,1214 @@
+Age-related Differences in Brain Activity during True and False
+Memory Retrieval
+Nancy A. Dennis1, Hongkeun Kim2, and Roberto Cabeza1
+1Duke University, Durham, NC
+2Daegu University, Daegu, South Korea
+Abstract
+Compared to young adults, older adults show not only a reduction in true memories but also an
+increase in false memories. We investigated the neural bases of these age effects using functional
+magnetic resonance imaging and a false memory task that resembles the Deese–Roediger–
+McDermott (DRM) paradigm. Young and older participants were scanned during a word
+recognition task that included studied words and new words that were strongly associated with
+studied words (critical lures). During correct recognition of studied words (true memory), older
+adults showed weaker activity than young adults in the hippocampus but stronger activity than
+young adults in the retrosplenial cortex. The hippocampal reduction is consistent with age-related
+deficits in recollection, whereas the retrosplenial increase suggests compensatory recruitment of
+alternative recollection-related regions. During incorrect recognition of critical lures (false
+memory), older adults displayed stronger activity than young adults in the left lateral temporal
+cortex, a region involved in semantic processing and semantic gist. Taken together, the results
+suggest that older adults’ deficits in true memories reflect a decline in recollection processes
+mediated by the hippocampus, whereas their increased tendency to have false memories reflects
+their reliance on semantic gist mediated by the lateral temporal cortex.
+INTRODUCTION
+One of the most frequent cognitive complaints in older adults is poor memory for everyday
+events. Supporting this casual observation, research has shown a decline in episodic memory
+performance across the lifespan (for reviews, see Prull, Gabrieli, & Bunge, 2000; Zacks,
+Hasher, & Li, 2000). Furthermore, in addition to exhibiting deficits in true memories, older
+adults are also more prone to false memories than young adults (Tun, Wingfield, Rosen, &
+Blanchard, 1998; Koutstaal & Schacter, 1997; Norman & Schacter, 1997). Although the
+neural bases of age-related deficits in true memory has been previously investigated using
+functional neuroimaging (for a review, see Dennis & Cabeza, 2008), to our knowledge, no
+neuroimaging study has examined the age-related changes in brain activity that are
+associated with false memories. This was the goal of the present functional magnetic
+resonance imaging (fMRI) study.
+We investigated true and false memory retrieval in the scanner using a false memory task
+that resembles the Deese–Roediger–McDermott (DRM) paradigm (Roediger & McDermott,
+1995; Deese, 1959). In the typical DRM paradigm, participants study lists of words in which
+all the words in the list are semantically related to a word that is not presented (the critical
+© 2008 Massachusetts Institute of Technology
+Reprint requests should be sent to Nancy A. Dennis, Center for Cognitive Neuroscience, Duke University, Box 90999, LSRC Bldg.,
+Durham, NC 27705, or via ndennis@duke.edu.
+NIH Public Access
+Author Manuscript
+Published in final edited form as:
+J Cogn Neurosci. 2008 August ; 20(8): 1390–1402. doi:10.1162/jocn.2008.20096.
+
+lure). At test, participants show a tendency to falsely recall or recognize the critical lure, and
+this tendency is stronger for older than for young adults (Watson, McDermott, & Balota,
+2004; Balota et al., 1999; Tun et al., 1998). Age-related increases in false memories have
+been attributed to both a deficit in memory for item-specific details (LaVoie & Faulkner,
+2000; Tun et al., 1998; Koutstaal & Schacter, 1997; Norman & Schacter, 1997; Spencer &
+Raz, 1995) and to an increased reliance on semantic gist (Balota et al., 1999; Tun et al.,
+1998).
+Behavioral studies have demonstrated that older adults are impaired in memory for item-
+specific details, and neuroimaging evidence has associated this deficit with a dysfunction of
+the hippocampus (Cabeza, 2006). Compared to young adults, older adults show difficulties
+in retrieving the context (Bayen, Phelps, & Spaniol, 2000; Spencer & Raz, 1995; Park &
+Puglisi, 1985) and perceptual features of studied items (Bastin & Van der Linden, 2003).
+Retrieval of such item-specific details is defined as “recollection,” whereas memory in the
+absence of item-specific contextual information is referred to as “familiarity.”
+Neuropsychological and neuroimaging studies indicate that recollection and familiarity are
+two separate, dissociable mechanisms and depend on different brain regions (Yonelinas,
+2002). In the case of true memories, aging has been shown to impair recollection more so
+than familiarity (Bastin & Van der Linden, 2003; Davidson & Glisky, 2002; Parkin &
+Walter, 1992). Lesion and functional neuroimaging studies have associated recollection with
+the hippocampus (Eichenbaum, Yonelinas, & Ranganath, 2007; Yonelinas, 2002; Aggleton
+& Brown, 1999), which is a region that shows significant atrophy in older adults (Raz,
+Rodrigue, Kennedy, & Acker, 2007; Raz et al., 2005; Raz, Rodrigue, Head, Kennedy, &
+Acker, 2004). Linking behavioral and neuroscientific evidence, functional neuroimaging
+studies have associated older adults’ recollection deficits with reductions in hippocampal
+activity (Daselaar, Fleck, Dobbins, Madden, & Cabeza, 2006; Cabeza et al., 2004).
+Despite the aforementioned deficits in recollection and hippocampal functioning during
+episodic memory tasks, older adults compared to young adults often show increased
+recruitment of other brain regions such as frontal lobes (e.g., Dennis, Daselaar, & Cabeza,
+2006; Gutchess et al., 2005; Cabeza et al., 2004) or cortical medial-temporal lobe (MTL)
+regions (e.g., rhinal cortex: Daselaar, Fleck, Dobbins, et al., 2006). The idea that older adults
+compensate for declining processes with the recruitment of resources not typically recruited
+by young adults is a common finding in the aging literature (for a review, see Dennis &
+Cabeza, 2008). However, direct evidence linking performance and neural compensation is
+scarce. Although the current study will investigate age deficits in hippocampal-mediated
+recollection, it will also investigate the notion of compensation within the retrieval network,
+specifically related to recollection and retrieval of item-specific details.
+As noted above, however, older adults’ memory impairments are assumed to reflect not only
+a deficit in memory for item-specific details associated with true memories but also greater
+reliance on semantic gist associated with false memories (Balota et al., 1999; Kensinger &
+Schacter, 1999; Koutstaal & Schacter, 1997). According to fuzzy trace theory, two different
+kinds of memory traces are created during encoding: item-specific traces and gist traces
+(Schacter, Verfaellie, & Pradere, 1996; Brainerd & Reyna, 1990). Item-specific traces retain
+the distinctive features of the individual items, whereas gist traces retain only the general
+meaning of the event, lacking any perceptual details or information pertaining to the
+encoding event.1 In the case of DRM lists, item-specific traces are stored for the details
+1There is extensive evidence for separate, independent memory processes that support recollection (verbatim memory) versus gist
+memory. That evidence includes independent parameters in mathematical models required by the data for goodness of fit (e.g., the
+conjoint recognition model; Brainerd et al., 1999); selective responsiveness of these parameters to theoretically predicted factors; and
+a host of single and double dissociations in behavioral data. Therefore, memory for item-specific details associated with true memories
+is theoretically independent of memory for semantic gist associated with false memories.
+Dennis et al.
+Page 2
+
+associated with each item in the list, and a gist trace is stored for the general semantic theme
+of the list. During retrieval, recovery of truly encoded item-specific traces should result in
+the successful recognition of studied items, whereas recovery of gist traces may result in the
+tendency to respond “old” not only to studied items but also to the nonstudied critical lures,
+which strongly matches the semantic theme of the studied list. The fuzzy trace theory can
+account for age-related increases in false memories by postulating that older adults have a
+deficit in memory for item-specific traces but not for gist traces (Tun et al., 1998).
+Given that semantic processes are relatively well preserved in older adults (Light, 1992;
+Light & Burke, 1988; Salthouse, 1982), they may rely more on these processes to
+compensate for deficits in episodic memory. Although relying on semantic gist may, at
+times, enhance true memories, it may also lead to false memories when lures are
+semantically associated to encoded items. Functional neuroimaging studies have associated
+semantic processing with the left temporal cortex (for reviews, see Thompson-Schill, Kan,
+& Oliver, 2006; Wise & Price, 2006). Supporting the role of this area in processing semantic
+gist, patients with semantic dementia (and damage to this region) are impaired at extracting
+and/or utilizing semantic gist (Simons, Verfaellie, et al., 2005). Finally, there is also some
+evidence that older adults show enhanced activation in this region during lexical decision
+tasks (Whiting et al., 2003; Madden et al., 2002). In sum, increased false memories in older
+adults may reflect greater reliance on semantic gist processes mediated by the left temporal
+cortex.
+The current study used fMRI and a categorized word-list task, which, similar to the DRM
+paradigm, has been studied extensively in the context of false memories and fuzzy trace
+theory (Brainerd & Reyna, 2007; Budson et al., 2006; Brainerd, Wright, Reyna, & Mojardin,
+2001; Brainerd, Reyna, & Mojardin, 1999) in order to investigate the effects of aging on
+retrieval activity associated with both true and false memories. As illustrated by Figure 1, on
+each encoding trial, participants studied a “mini word-list” comprising four instances (e.g.,
+horse, chicken, sheep, goat) of a semantic category (e.g., farm animals). During the memory
+test, participants performed an old–new recognition test with confidence ratings that
+included studied words (targets: e.g., horse, chicken) as well as novel words from studied
+categories (critical lures: e.g., cow, pig). At test, participants not only responded with their
+memory for the word but also how confident they were in their decision. Because we were
+interested in assessing age differences in retrieval processes most impaired in aging (i.e.,
+recollection), we focused on high confidence responses. When assessing memory with
+confidence ratings, recollection has been associated with responses assigned the highest
+level of confidence (Daselaar, Fleck, & Cabeza, 2006; Yonelinas, 2001) and contrasts
+between high and low confidence responses have been related to recollection (see Diana,
+Yonelinas, & Ranganath, 2007). Thus, the current analysis approach of contrasting high
+versus low confidence hits was adopted to isolate memory processes associated with
+recollection-based retrieval processes (see Methods for additional reasoning). In keeping
+with the analysis for true retrieval, a similar analysis was used in assessing age differences
+in false retrieval. We recognize that in the case of false memories in particular, high versus
+low confidence memories may include a high level of familiarity compared to the true
+memory contrast; we address this issue in our interpretation of results. Specifically, we
+defined “true retrieval activity” (TRA) as greater activity for high than low confidence “old”
+responses to targets, and “false retrieval activity” (FRA) as greater activity for high than for
+low confidence “old” responses to critical lures.
+On the basis of the aforementioned evidence and the fuzzy trace theory of false memories,
+we predicted that compared to young adults, older adults would show reduced TRA in the
+hippocampus but increased FRA in the left temporal cortex. Additionally, we investigated
+the idea suggested by previous functional neuroimaging studies that older adults may
+Dennis et al.
+Page 3
+
+compensate for deficits in a network component by relying more on other components of the
+same network (for a review, see Dennis & Cabeza, 2008). Thus, we explored the possibility
+that older adults would compensate for TRA reductions in the hippocampus by showing
+greater TRA in other regions associated with recollection, such as retrosplenial, posterior
+parietal, or left prefrontal regions.
+METHODS
+Participants
+Sixteen young adults and 17 older adults participated in the experiment. They were healthy,
+right-handed, native English speakers, with no history of neurological or psychiatric
+disorders. All participants gave informed consent to a protocol approved by the Duke
+University Institutional Review Board. Due to scanner error resulting in missing data, two
+older adults were excluded from analyses; in addition, five young and one older adult were
+excluded from the analyses due to a sparse number of trials (<10) in one of the four
+conditions of interest (high-confidence true, low-confidence true, high-confidence false, and
+low-confidence false trials). Thus, the reported results are based on the data from 11 young
+[6 women; mean age: 23.45 (3.30) years] and 14 older adults [5 women; mean age: 68.41
+(6.50) years]. In a separate session from the scanning session described below, all older
+adults completed a battery of neuropsychology tests derived from the Cambridge
+Neuropsychological Test Automated Battery (CANTAB; Cambridge Cognition). Results
+and group characteristics are reported in Table 1.
+Behavioral Methods
+The present encoding task was an adaptation of the DRM paradigm (Roediger &
+McDermott, 1995). Materials consisted of 72 categorical six-word lists selected from
+category norms (Yoon et al., 2004; Battig & Montague, 1969). Each list consisted of the six
+most typical instances (e.g., cow, pig, horse, chicken, sheep, goat) of a category (e.g., farm
+animals), with minor exceptions. In each list, the third to the sixth most typical instances
+were used as encoding stimuli (targets); the first and the second most typical instances were
+used as critical lures (related lures) in the test phase and were not included in the study
+phase. Additionally, semantically unrelated words, matched in letter number, frequency, and
+concreteness to the category words, were used as control words (unrelated lures) in the test
+phase. The categories were carefully chosen so that their instances did not overlap. Thus,
+both “farm animal” and “wild animal” categories were included in the stimulus set, but
+“four-legged animal” was not included. To make sure there was minimal associative overlap
+between the categories, the probability that the related lures would be generated as an
+associative response to the other categories (e.g., the probability that “cow” would be
+generated as an associative response to “wild animal”) was examined using the “frequency
+of 1st occurrence” calculation from Carolyn Yoon’s normative database
+(http://agingmind.cns.uiuc.edu/Cat_Norms/; Yoon et al., 2004). The associative response
+probability was less than 1% in 10,211 out of 10,224 [72 (category number) × 2 (two related
+lures per category) × 71 (72 − 1)] examined word pairs (i.e., target word and related lure)
+and less than 5% in the remaining 13.
+The study phase consisted of a single scan of 82 trials/lists: 72 encoding trials and 10
+“catch” trials. Each encoding trial simultaneously showed a category name followed by four
+category members (see Figure 1). For each “catch” trial, only three of the four examples
+belonged to the category. Each encoding trial was presented for 4 sec, followed by a fixation
+cross for 2 sec. The participants’ task was to decide whether all four or only three examples
+belonged to the category. Responses were made by pressing one of two keys on a response
+box using the first two fingers of the right hand. The words were displayed in colors to
+Dennis et al.
+Page 4
+
+promote the encoding of sensory/perceptual information (Cabeza, Rao, Wagner, Mayer, &
+Schacter, 2001). Each trial consisted of all words presented in one of five randomly assigned
+colors.
+The test phase, which began approximately 10 min after completion of the study phase,
+consisted of six scans. There were a total of 288 targets, 144 related lures, and 144 unrelated
+lures across all six scans. Trials were presented in a predetermined, pseudorandom order. In
+each trial, a word was shown for 2 sec, followed by a fixation cross for 1 sec. All trials were
+separated using an intertrial fixation period, which varied randomly from 1.5 to 4.5 sec,
+allowing for event-related fMRI analyses. All words in the test phase were displayed in
+white color against black background. Participants responded by pressing one of four keys
+according to whether the word was judged to be “definitely old,” “probably old,” “probably
+new,” or “definitely new” (see Figure 1). Responses were made with the right hand and the
+mapping between response and keypresses/finger was held constant across all trials (with
+the index finger assigned to “definitely old” through the small finger assigned to “definitely
+new”).
+fMRI Methods
+Images were collected using a 4-T GE scanner. Stimuli were presented using liquid crystal
+display goggles (Resonance Technology, Northridge, CA), and behavioral responses were
+recorded using a four-button fiber-optic response box (Resonance Technology). Scanner
+noise was reduced with earplugs, and head motion was minimized using foam pads and a
+headband. Anatomical scanning started with a T2-weighted sagittal localizer series. The
+anterior (AC) and posterior commissures (PC) were identified in the midsagittal slice, and
+34 contiguous oblique slices were prescribed parallel to the AC–PC plane. High-resolution
+T1-weighted structural images were collected with a 500-msec repetition time (TR), a 14-
+msec echo time (TE), a 24-cm field of view (FOV), a 2562 matrix, 68 slices, and a slice
+thickness of 1.9 mm. Functional images were acquired using an inverse spiral sequence with
+a 1500-msec TR, a 31-msec TE, a 24-cm FOV, a 642 matrix, and a 60° flip angle. Thirty-
+four contiguous slices were acquired with the same slice prescription as the anatomical
+images. Slice thickness was 3.75 mm, resulting in cubic 3.75 mm3 isotropic voxels.
+fMRI analyses focused on data collected from the retrieval phase; data from the encoding
+phase were reported in a previous publication (Dennis, Kim, & Cabeza, 2007).
+Preprocessing and data analyses were performed using SPM2 software implemented in
+Matlab (www.fil.ion.ucl.ac.uk/spm/). After discarding the first six volumes, the functional
+images were slice-timing corrected and motion-corrected, and then spatially normalized to
+the Montreal Neurological Institute (MNI) template and spatially smoothed using an 8-mm
+isotropic Gaussian kernel, and resliced to a resolution of 3.75 mm3 isotropic voxels.
+True and False Retrieval Analysis—Trial-related fMRI activity was first modeled by
+convolving a vector of the onset times of each trial with a canonical hemodynamic response
+function within the context of the general linear model, as implemented in SPM2.
+Confounding factors (head motion, magnetic field drift) were also included in the model. No
+participant moved more than 3 mm in any direction either within or across runs. Thus, no
+data were eliminated in either age group due to motion artifacts. Trials were coded based
+upon memory status: (1) high-confidence true retrieval, (2) low-confidence true retrieval, (3)
+high-confidence false retrieval, and (4) low-confidence false retrieval. Trials related to
+misses and correct rejections were also modeled, but treated as effects of no interest. For
+each participant, Statistical Parametric Maps pertaining to the effects of interest were
+calculated and subsequently integrated across participants using a random-effects model for
+each age group.
+Dennis et al.
+Page 5
+
+In order to identify TRA, direct contrasts were made between high- and low-confidence true
+retrieval and, to identify FRA, contrasts were made between high- and low-confidence false
+retrieval. Although previous studies have tended to use correct rejections or misses as the
+baseline in identifying memory success, we prefer the high versus low contrast in this
+instance for several reasons. First, as correct rejections are actually true memories, they
+present a confound in memory success when used to contrast both hits (true vs. true
+contrast) and false alarms (false vs. true contrast). Second, as correct rejections also involve
+novelty detection, they have been shown to elicit MTL activity (e.g., Daselaar, Fleck, &
+Cabeza, 2006; Gonsalves, Kahn, Curran, Norman, & Wagner, 2005; Grunwald, Lehnertz,
+Heinze, Helmstaedter, & Elger, 1998). Using misses as the baseline actually presents the
+same problem as using correct rejections, in that misses for false memories are actually true
+memories (correct rejections). Third, given that confidence was generally greater for true
+than for false memories, the hit-correct rejection contrast would tend to confound
+differences in memory veridicality with differences in confidence. The high versus low
+confidence contrast, on the other hand, provides an excellent control for these issues as it
+subtracts out (a) differences in stimuli (e.g., normative familiarity, category association
+strength) by comparing list items to list items for true memories and critical lures to critical
+lures for false memories, and (b) response processing (e.g., error detection) by comparing
+correct to correct responses for true memories and incorrect to incorrect responses for false
+memories, thus placing true and false memories on a comparable scale.
+For assessing common areas of activation associated with retrieval across age groups, a
+conjunction map was created thresholding each age group’s random effects of the true
+retrieval contrast at p = .05 and 10 voxels (joint probability = .05 * .05 = .0025). This
+procedure yielded an activation map containing only those voxels that showed true retrieval
+in both age groups. A similar analysis was conducted for false retrieval. These results are
+reported in Table 3.
+In order to identify regions that showed significant group differences, we used a multiple
+contrast approach. We first identified those regions that showed significant between-group
+effects at p < .05 with a minimum of 10 contiguous voxels by directly contrasting the
+statistical maps of older and young adults (The voxelwise probability for false positive
+activation within these regions is p = .033; Forman et al., 1995). We then also required that
+those regions showed a significant within-group effect at p < .005 with minimum cluster size
+of 10 voxels. This was done by inclusively masking the between-group contrast (e.g., TRA
+for young greater than old) with the main effects of the group contrast (e.g., TRA in young).
+(The voxelwise probability for false positive activation within these regions is p = .00013;
+Forman et al., 1995.) Results of age effects are reported in Table 4.
+Individual Trial Analysis—To examine the compensatory relationship between different
+recollection network regions in older adults, we conducted a second analysis based on
+individual trial activity. As a first step, we created a general linear model in which each
+individual trial was modeled by a separate covariate, yielding different parameter estimates
+for each individual trial, for each individual subject (see Daselaar, Fleck, & Cabeza, 2006;
+Rissman, Gazzaley, & D’Esposito, 2004). As a second step, mean cluster activity for high-
+confidence TRA was extracted for all voxels within the MTL ROIs identified in the age
+group comparisons described above (specifically, a hippocampal and a retrosplenial cluster;
+see fMRI results). Correlations were calculated both across participants and within
+participants (across trials).
+Dennis et al.
+Page 6
+
+RESULTS
+Behavioral Results
+Table 2 (column a) breaks down the hit rate by confidence (e.g., dividing all low-confidence
+hits by all old items and doing the same for high-confidence hits). Adding the two
+confidence-based hit rates provides the total hit rate for each age group (i.e., 0.74 for young
+and 0.72 for older adults). The same analysis was done for related lures and unrelated lures.
+Unpaired t tests on each measure revealed no significant age-related differences in
+recognition performance or response bias (d′). However, in order to better understand age
+differences in classifying an item as “old,” we conducted the analyses shown in Table 2
+(column b). Here we broke down all the trials to which participants responded “old” by trial
+type (targets, related lures, unrelated lures) and confidence (high, low) (e.g., proportion of
+high confidence targets was calculated by dividing all high confidence “old” response to a
+target by the total number of “old” responses). From this latter analysis, we found that older
+adults made more high-confidence “old” responses to related lures than did younger adults
+(0.13 and 0.09, respectively). The significance of this age difference in false memories was
+confirmed by an unpaired t test [t(23) = 2.15, p < .05]. No other age difference was found to
+be significant. These results are consistent with previous studies investigating age
+differences using the DRM paradigm, indicating that older adults exhibit an increased
+propensity for making false memories. Finally, confirming that the time allotted for
+responding was sufficient, both age groups responded well with the 3-sec response interval
+[mean reaction time (RT): 1.46 sec for young and 1.71 sec for older adults; Table 2 (column
+c) breaks down RT by response type].
+fMRI Results
+Regions showing TRA and FRA in both age groups are listed in Table 3. Common TRA
+regions included the anterior and posterior cingulate cortex, bilateral hippocampus and
+parahippocampal areas, and several regions within the prefrontal cortex (PFC). Common
+FRA regions included the inferior parietal cortex, the fronto-polar cortex, the superior
+frontal cortex, and cingulate regions.
+Age Differences in TRA—Regions showing age-related differences in TRA are listed in
+the top panel of Table 4. Consistent with our predictions, older adults showed weaker TRA
+than young adults in the hippocampus. This effect was specific to TRA as indicated by a
+significant three-way interaction (p < .01) in a 2 (young vs. old) × 2 (high vs. low
+confidence) × 2 (true vs. false) ANOVA performed on data from the hippocampal cluster.
+At the same time, older adults exhibited stronger TRA than young adults in the retrosplenial
+cortex. The age-related increase in the retrosplenial cortex was significant for true but not
+for false memory. The retrosplenial cortex is a region strongly associated with recollection,
+hence, it may help older adults compensate for hippocampal deficits.
+To test this compensation account, we investigated functional connectivity between the
+hippocampus and the retrosplenial cortex. We calculated correlations between activity in
+these regions across participants and across trials in older adults (see Methods). Both
+analyses yielded a significant negative correlation between the two regions [across
+participants: r = −.57, p < .05; across trials: r = −.47, p < .001]. Thus, supporting the
+compensation account, those older adults who showed the weakest hippocampal activation
+also showed the strongest retrosplenial activation, and the activity in these two regions
+fluctuated in opposite directions across trials. Confirming age differences in the recruitment
+of these regions, the correlation in young adults failed to reach significance.
+Dennis et al.
+Page 7
+
+Age-related TRA reductions were also found in other brain regions including the posterior
+parahippocampal gyrus, the posterior cingulate, and the right PFC, whereas age-related
+increases in TRA were also observed in the medial PFC, thalamus, and occipito-temporal
+cortex. These results are consistent with the idea that older adults exhibit deficits in
+recollection processes.
+Age Differences in FRA—Regions showing age-related differences in FRA are listed in
+the bottom panel of Table 4. Confirming our second prediction, older compared to younger
+adults exhibited greater FRA activity in the left middle temporal gyrus. Given that this
+region is associated with semantic processing, this activation is consistent with the idea that
+increased false memories in older adults reflect greater reliance on semantic gist. This effect
+was specific to FRA as indicated by a significant three-way interaction (p < .01) in a 2
+(young vs. old) × 2 (high vs. low confidence) × 2 (true vs. false) ANOVA performed on data
+from the left temporal cortex.
+Older compared to young adults also exhibited increased FRA activity in the fronto-polar
+cortex, caudate, amygdala, and insula regions. Fronto-polar activity has been associated with
+several functions, including the directing of attention between sensory input internal
+thoughts (e.g., Gilbert, Frith, & Burgess, 2005; Christoff & Gabrieli, 2000). On the other
+hand, young compared to older adults exhibited increased FRA activity in the precuneus and
+several regions of the PFC. This activity may reflect greater processing of familiarity in
+younger adults, leading to false memories.
+DISCUSSION
+The current study investigated the effects of aging on brain activity associated with true and
+false retrieval using a categorized word-list task. Behavioral results showed that older adults
+exhibited poorer memory performance than young adults, specifically reflected in their
+increased propensity to make high-confidence false alarms to critical lures. Regarding TRA,
+the results showed an age-related decrease in hippocampal activity coupled with an age-
+related increase in retrosplenial activity. Given that both regions have been associated with
+recollection processes, these findings suggest that older adults compensated for hippocampal
+deficits by additional recruitment of the retrosplenial cortex. Regarding FRA, the results
+yielded an age-related increase in activity in the left middle temporal gyrus, a region that has
+previously been associated with semantic processing. Taken together, our results suggest
+that older adults’ memory impairment reflects the combination of a deficit in retrieving
+item-specific details for studied items, coupled with greater reliance on semantic gist leading
+to false memories.
+Effects of Aging on True Retrieval Activity
+Compared to young adults, older adults exhibited a reduction in TRA in a number of brain
+regions including the hippocampus (see Figure 2A). Evidence from lesion studies and
+functional neuroimaging studies has strongly linked the hippocampus to memory for item-
+specific details and recollection (for reviews, see Eichenbaum et al., 2007; Yonelinas, 2002;
+Brown & Aggleton, 2001). Behavioral studies have clearly demonstrated that older adults
+are particularly impaired in context memory and recollection (for reviews, see Dennis &
+Cabeza, 2008; Cabeza, 2006; Zacks et al., 2000). These data fit with evidence that the
+hippocampus shows substantial structural decline not only in Alzheimer’s disease (AD) but
+also in healthy aging (for a review, see Dennis & Cabeza, 2008). Finally, linking the effects
+of aging on behavior and brain structure, recent functional neuroimaging studies have
+associated recollection deficits in older adults with reduced hippocampal activity (Daselaar,
+Fleck, Dobbins, et al., 2006; Cabeza et al., 2004). The current results support previous
+Dennis et al.
+Page 8
+
+findings suggesting that hippocampal dysfunction is a key component of age-related
+memory impairments.
+Despite their weaker hippocampal activity, older adults exhibited greater activity than young
+adults in the posterior midline, and particularly, in the retrosplenial cortex (see Figure 2B).
+The retrosplenial cortex is a region frequently activated during episodic retrieval (for
+reviews, see Squire, Stark, & Clark, 2004; Cabeza & Nyberg, 2000), and recent fMRI
+studies have associated its role specifically with recollection (Daselaar, Fleck, & Cabeza,
+2006; Yonelinas, Otten, Shaw, & Rugg, 2005). Anatomically, the retrosplenial cortex is
+directly connected to medial-temporal lobe regions, including the hippocampus (Kobayashi
+& Amaral, 2003). Moreover, functional connectivity analyses in young adults have shown
+that the hippocampus and the retrosplenial cortex operate together as a network during
+recollection (Daselaar, Fleck, & Cabeza, 2006). Thus, although older adults failed to recruit
+the hippocampus as much as young adults during true memory retrieval, they recruited
+another important component of the recollection network, namely, the retrosplenial cortex,
+to a greater extent than young adults. This finding suggests that older adults may
+compensate for hippocampal deficits by relying more on the retrosplenial cortex.
+To test this compensation account, we investigated functional connectivity between the
+hippocampus and the retrosplenial cortex in older adults. We calculated correlations in TRA
+between these regions across participants (collapsed across trials) and across trials (within-
+participants). Both analyses yielded significant negative correlations between high-
+confidence TRA in the hippocampus and the retrosplenial cortex in older adults. In other
+words, those elderly who showed the weakest hippocampal activations also showed the
+strongest retrosplenial activations (see Figure 3A), and activity in these two regions
+fluctuated in opposite directions across trials (see Figure 3B). Moreover, as this
+compensatory activity was associated with high-confidence true retrieval, results speak
+directly to recollection-related processing. These results strongly support the compensation
+account of the age-related increase in retrosplenial activity.
+The correlation between the hippocampus and the retrosplenial cortex was not significant in
+younger adults. The lack of a negative correlation in younger adults suggests that
+compensatory recruitment of the retrosplenial cortex occurs only when hippocampal
+functions are impaired. Alternatively, it may reflect limited variability in hippocampal
+activity within the young group.
+An open question is why aging impaired hippocampal function but not retrosplenial
+function. As noted above, these two regions are closely related components of the
+recollection network, and they are linked by direct anatomical connections. Thus, it is
+interesting that aging had opposite effects on these two regions, dissociating their roles in
+episodic retrieval. It is notable that in two separate studies examining retrieval processes in
+healthy aging, we found compensatory activity in extended MTL regions, outside of the
+hippocampus (current: retrosplenial cortex and Daselaar, Fleck, & Cabeza, 2006; Daselaar,
+Fleck, Dobbins, et al., 2006: rhinal cortex). Although these cortical MTL regions are the first
+affected in AD (Braak & Braak, 1996; Braak, Braak, & Bohl, 1993), they appear to be those
+utilized in healthy older adults to offset declining hippocampal function. Contrary to atrophy
+seen in AD, healthy aging is marked by greater atrophy within the hippocampus proper
+compared to more cortical regions (e.g., entorhinal or retrosplenial cortex) (e.g., Raz et al.,
+2005). Thus, it may be the case that as volume loss influences functional loss in the
+hippocampus in healthy older adults, less affected neighboring cortical regions increase their
+functionality in a compensatory fashion. Further research regarding differences between the
+memory functions of the hippocampus and cortical MTL regions and their sensitivity to
+aging is warranted.
+Dennis et al.
+Page 9
+
+Finally, age-related reductions in hippocampal activity for TRA are consistent with results
+from the encoding data of this same study (Dennis et al., 2007). During encoding, older
+adults also exhibited reduced activity in the hippocampus associated with subsequent
+retrieval success (i.e., encoding items that were subsequently remembered compared to
+those forgotten). Taken together, results from the two studies indicate that age-related
+deficits in hippocampal function affect episodic memory processes both during encoding
+and during retrieval.
+Effects of Aging on False Retrieval Activity
+Behavioral results replicated previous false memory studies in which older adults showed
+significantly greater false memory for related lures than did young adults (Tun et al., 1998;
+Koutstaal & Schacter, 1997).
+Confirming our predictions, older compared to young adults showed greater FRA in the left
+middle temporal gyrus (see Figure 4), a region previously associated with semantic
+processing (Wise & Price, 2006;Tyler et al., 2003;Kable, Lease-Spellmeyer, & Chatterjee,
+2002;Martin, 2001). Activity in this region may be engaged in the recovery of semantic
+information associated with the critical lure—such as category membership or associated
+category exemplars. As previously noted, the role of this region in mediating semantic gist is
+supported by evidence from patients with semantic dementia who show both damage to this
+region and impairments in extracting and/or utilizing semantic gist (Simons, Verfaellie, et
+al., 2005). Age-related increases in left lateral temporal activity for FRA are consistent with
+results from the encoding data of the same study (Dennis et al., 2007). During encoding,
+older adults also showed age-related increases in this region associated with the production
+of subsequent false alarms to related lures. Results support theoretical accounts of age-
+related increases in false memories stemming from increased gist or semantic processing.
+Additionally of interest, an age-related increase in FRA was also found in the fronto-polar
+cortex. Functional neuroimaging studies have associated fronto-polar activity with several
+processes, including the directing of one’s attention between current sensory input and
+internally generated thought processes (Gilbert, Spengler, Simons, Frith, & Burgess, 2006;
+Gilbert et al., 2005; Simons, Owen, Fletcher, & Burgess, 2005; Christoff, Ream, Geddes, &
+Gabrieli, 2003; Christoff & Gabrieli, 2000). In accord with this interpretation of fronto-polar
+function, older adults in the current study may be recruiting this area along with the middle
+temporal gyrus by internally generating associations between the critical lure and encoding
+items—with these associations leading to a false recognition response. More work is
+necessary in order to confirm this interpretation.
+Conclusion
+Consistent with our predictions, older compared to young adults exhibited a decrease in
+hippocampal activity during true retrieval but an increase in left temporal activity during
+false retrieval. The hippocampal reduction is consistent with previous evidence that older
+adults are impaired in the retrieval of item-specific details and that this form of memory
+depends on the hippocampus. Despite deficits in hippocampal activity, we found an age-
+related increase in retrosplenial activity during true retrieval. The significant negative
+correlation found in older adults between the two regions supports the idea that recruitment
+of the retrosplenial cortex may partly compensate for the deficit in hippocampal function.
+During false retrieval, older adults recruited the left middle temporal gyrus to a greater
+extent than young adults. This finding is consistent with the role of this region in semantic
+processing, and the idea that older adults’ false memories reflect their greater reliance on
+semantic gist.
+Dennis et al.
+Page 10
+
+Taken together, the age-related reduction in hippocampal activity and the age-related
+increase in left temporal activity fit very well with the fuzzy trace theory of false memory, as
+it pertains to aging. As noted in the Introduction, the fuzzy trace theory posits that older
+adults experience deficits in their memory for item-specific details as well as an increased
+reliance on gist memory. Within the framework of the fuzzy trace theory, our results suggest
+that age-related decreases in recollection, associated with true memories, and age-related
+increases in semantic gist, associated with false memories, each contribute to age deficits in
+memory retrieval.
+Acknowledgments
+We thank Amber Baptiste Tarter for help in preparation of this manuscript and Steve Prince, Sander Daselaar, and
+Florin Dolcos for helpful comments. This work was supported by NIH grant AG19731 awarded to R. C. and NIA
+grant T32 AG000029 awarded to N. A. D.
+REFERENCES
+Aggleton JP, Brown MW. Episodic memory, amnesia, and the hippocampal–anterior thalamic axis.
+Behavioral and Brain Sciences. 1999; 22:425–444. discussion 444–489. [PubMed: 11301518]
+Balota DA, Cortese MJ, Duchek JM, Adams D, Roediger HL, McDermott KB, et al. Veridical and
+false memories in healthy older adults and in dementia of the Alzheimer’s type. Cognitive
+Neuropsychology. 1999; 16:361–384.
+Bastin C, Van der Linden M. The contribution of recollection and familiarity to recognition memory:
+A study of the effects of test format and aging. Neuropsychology. 2003; 17:14–24. [PubMed:
+12597069]
+Battig WF, Montague WE. Category norms for verbal items in 56 categories: A replication and
+extension of the Connecticut norms. Journal of Experimental Psychology. 1969; 80:1–46.
+Bayen UJ, Phelps MP, Spaniol J. Age-related differences in the use of contextual information in
+recognition memory: A global matching approach. Journal of Gerontology: Series B, Psychological
+Sciences and Social Sciences. 2000; 55:P131–P141.
+Braak H, Braak E. Evolution of the neuropathology of Alzheimer’s disease. Acta Neurologica
+Scandinavica Supplement. 1996; 165:3–12.
+Braak H, Braak E, Bohl J. Staging of Alzheimer-related cortical destruction. European Neurology.
+1993; 33:403–408. [PubMed: 8307060]
+Brainerd CJ, Reyna VF. Gist is the gist: The fuzzy-trace theory and new intuitionism. Developmental
+Review. 1990; 10:3–47.
+Brainerd CJ, Reyna VF. Explaining developmental reversals in false memory. Psychological Science.
+2007; 18:442–448. [PubMed: 17576285]
+Brainerd CJ, Reyna VF, Mojardin AH. Conjoint recognition. Psychological Review. 1999; 106:160–
+179. [PubMed: 10197365]
+Brainerd CJ, Wright R, Reyna VF, Mojardin AH. Conjoint recognition and phantom recollection.
+Journal of Experimental Psychology: Learning, Memory, and Cognition. 2001; 27:307–327.
+Brown MW, Aggleton JP. Recognition memory: What are the roles of the perirhinal cortex and
+hippocampus? Nature Reviews Neuroscience. 2001; 2:51–61.
+Budson AE, Todman RW, Chong H, Adams EH, Kensinger EA, Krangel TS, et al. False recognition
+of emotional word lists in aging and Alzheimer disease. Cognitive and Behavioral Neurology.
+2006; 19:71–78. [PubMed: 16783129]
+Cabeza, R. Prefrontal and medial temporal lobe contributions to relational memory in young and older
+adults. In: Zimmer, D.; Mecklinger, A.; Lindenberger, U., editors. Binding in human memory: A
+neurocognitive approach. New York: Oxford University Press; 2006.
+Cabeza R, Daselaar SM, Dolcos F, Prince SE, Budde M, Nyberg L. Task-independent and task-
+specific age effects on brain activity during working memory, visual attention and episodic
+retrieval. Cerebral Cortex. 2004; 14:364–375. [PubMed: 15028641]
+Dennis et al.
+Page 11
+
+Cabeza R, Nyberg L. Imaging cognition: II. An empirical review of 275 PET and fMRI studies.
+Journal of Cognitive Neuroscience. 2000; 12:1–47. [PubMed: 10769304]
+Cabeza R, Rao SM, Wagner AD, Mayer AR, Schacter DL. Can medial temporal lobe regions
+distinguish true from false? An event-related functional MRI study of veridical and illusory
+recognition memory. Proceedings of the National Academy of Sciences, U.S.A. 2001; 98:4805–
+4810.
+Christoff K, Gabrieli JDE. The frontopolar cortex and human cognition: Evidence for a rostrocaudal
+hierarchical organization within the human prefrontal cortex. Psychobiology. 2000; 28:168–186.
+Christoff K, Ream JM, Geddes LP, Gabrieli JD. Evaluating self-generated information: Anterior
+prefrontal contributions to human cognition. Behavioral Neuroscience. 2003; 117:1161–1168.
+[PubMed: 14674837]
+Daselaar SM, Fleck MS, Cabeza RE. Triple dissociation in the medial temporal lobes: Recollection,
+familiarity, and novelty. Journal of Neurophysiology. 2006; 96:1902–1911. [PubMed: 16738210]
+Daselaar SM, Fleck MS, Dobbins IG, Madden DJ, Cabeza R. Effects of healthy aging on hippocampal
+and rhinal memory functions: An event-related fMRI study. Cerebral Cortex. 2006; 16:1771–1782.
+[PubMed: 16421332]
+Davidson PS, Glisky EL. Neuropsychological correlates of recollection and familiarity in normal
+aging. Cognitive, Affective & Behavioral Neuroscience. 2002; 2:174–186.
+Deese J. On the prediction of occurrence of particular verbal intrusions in immediate recall. Journal of
+Experimental Psychology. 1959; 58:17–22. [PubMed: 13664879]
+Dennis, NA.; Cabeza, R. Neuroimaging of healthy cognitive aging. In: Salthouse, TA.; Craik, FEM.,
+editors. Handbook of aging and cognition. 3rd ed.. 2008. p. 1-54.
+Dennis NA, Daselaar S, Cabeza R. Effects of aging on transient and sustained successful memory
+encoding activity. Neurobiology of Aging. 2006; 28:1749–1758. [PubMed: 16919850]
+Dennis NA, Kim HK, Cabeza R. Effects of aging on the neural correlates of true and false memory
+formation. Neuropsychologia. 2007; 45:3157–3166. [PubMed: 17716696]
+Diana RA, Yonelinas AP, Ranganath C. Imaging recollection and familiarity in the medial temporal
+lobe: A three-component model. Trends in Cognitive Sciences. 2007; 11:379–386. [PubMed:
+17707683]
+Eichenbaum H, Yonelinas AP, Ranganath C. Medial temporal lobes and recognition in memory.
+Annual Review of Neuroscience. 2007; 30:123–152.
+Forman SD, Cohen JD, Fitzgerald M, Eddy WF, Mintun MA, Noll DC. Improved assessment of
+significant activation in functional magnetic resonance imaging (fMRI): Use of a cluster-size
+threshold. Magnetic Resonance in Medicine. 1995; 33:636–647. [PubMed: 7596267]
+Gilbert SJ, Frith CD, Burgess PW. Involvement of rostral prefrontal cortex in selection between
+stimulus-oriented and stimulus-independent thought. European Journal of Neuroscience. 2005;
+21:1423–1431. [PubMed: 15813952]
+Gilbert SJ, Spengler S, Simons JS, Frith CD, Burgess PW. Differential functions of lateral and medial
+rostral prefrontal cortex (area 10) revealed by brain–behavior associations. Cerebral Cortex. 2006;
+16:1783–1789. [PubMed: 16421331]
+Gonsalves BD, Kahn I, Curran T, Norman KA, Wagner AD. Memory strength and repetition
+suppression: Multimodal imaging of medial temporal cortical contributions to recognition.
+Neuron. 2005; 47:751–761. [PubMed: 16129403]
+Grunwald T, Lehnertz K, Heinze HJ, Helmstaedter C, Elger CE. Verbal novelty detection within the
+human hippocampus proper. Proceedings of the National Academy of Sciences, U.S.A. 1998;
+95:3193–3197.
+Gutchess AH, Welsh RC, Hedden T, Bangert A, Minear M, Liu LL, et al. Aging and the neural
+correlates of successful picture encoding: Frontal activations compensate for decreased medial-
+temporal activity. Journal of Cognitive Neuroscience. 2005; 17:84–96. [PubMed: 15701241]
+Kable JW, Lease-Spellmeyer J, Chatterjee A. Neural substrates of action event knowledge. Journal of
+Cognitive Neuroscience. 2002; 14:795–805. [PubMed: 12167263]
+Kensinger EA, Schacter D. When true memories suppress false memories: Effects of aging. Cognitive
+Neuropsychology. 1999; 16:399–415.
+Dennis et al.
+Page 12
+
+Kobayashi Y, Amaral DG. Macaque monkey retrosplenial cortex: II. Cortical afferents. Journal of
+Comparative Neurology. 2003; 466:48–79. [PubMed: 14515240]
+Koutstaal W, Schacter DL. Gist-based false recognition of pictures in older and younger adults.
+Journal of Memory and Language. 1997; 37:555–583.
+LaVoie DJ, Faulkner K. Age differences in false recognition using a forced choice paradigm.
+Experimental Aging Research. 2000; 26:367–381. [PubMed: 11091942]
+Light, LL. The organization of memory in old age. In: Salthouse, TA.; Craik, FIM., editors. The
+handbook of aging and cognition. Hillsdale, NJ: Erlbaum; 1992. p. 111-165.
+Light, LL.; Burke, DM. Patterns of language and memory in old age. In: Light, LL.; Burke, DM.,
+editors. Language, memory, and aging. New York: Cambridge University Press; 1988. p. 244-271.
+Madden DJ, Langley LK, Denny LL, Turkington TG, Provenzale JM, Hawk TC, et al. Adult age
+differences in visual word identification: Functional neuroanatomy by positron emission
+tomography. Brain and Cognition. 2002; 49:297–321. [PubMed: 12139956]
+Martin, A. Functional neuroimaging of semantic memory. In: Cabeza, R.; Kingstone, A., editors.
+Handbook of functional neuroimaging. Cambridge, MA: The MIT Press; 2001.
+Norman KA, Schacter DL. False recognition in younger and older adults: Exploring the characteristics
+of illusory memories. Memory & Cognition. 1997; 25:838–848.
+Park DC, Puglisi JT. Older adults’ memory for the color of pictures and words. Journal of
+Gerontology. 1985; 40:198–204. [PubMed: 3973361]
+Parkin AJ, Walter BM. Recollective experience, normal aging, and frontal dysfunction. Psychology
+and Aging. 1992; 7:290–298. [PubMed: 1610518]
+Prull, MW.; Gabrieli, JDE.; Bunge, SA. Age-related changes in memory: A cognitive neuroscience
+perspective. In: Craik, FIM.; Salthouse, TA., editors. The handbook of aging and cognition. 2nd
+ed.. Mahwah, NJ: Erlbaum; 2000.
+Raz N, Lindenberger U, Rodrigue KM, Kennedy KM, Head D, Williamson A, et al. Regional brain
+changes in aging healthy adults: General trends, individual differences and modifiers. Cerebral
+Cortex. 2005; 15:1676–1689. [PubMed: 15703252]
+Raz N, Rodrigue KM, Head D, Kennedy KM, Acker JD. Differential aging of the medial temporal
+lobe: A study of a five-year change. Neurology. 2004; 62:433–438. [PubMed: 14872026]
+Raz N, Rodrigue KM, Kennedy KM, Acker JD. Vascular health and longitudinal changes in brain and
+cognition in middle-aged and older adults. Neuropsychology. 2007; 21:149–157. [PubMed:
+17402815]
+Rissman J, Gazzaley A, D’Esposito M. Measuring functional connectivity during distinct stages of a
+cognitive task. Neuroimage. 2004; 23:752–763. [PubMed: 15488425]
+Roediger HL, McDermott KB. Creating false memories: Remembering words not presented in lists.
+Journal of Experimental Psychology: Learning, Memory, and Cognition. 1995; 21:8033–8814.
+Salthouse, TA. Adult cognition: An experimental psychology of human aging. New York: Springer-
+Verlag; 1982.
+Schacter D, Verfaellie M, Pradere D. The neuropsychology of memory illusions: False recall and
+recognition in amnesiac patients. Journal of Memory and Language. 1996; 35:319–334.
+Simons JS, Owen AM, Fletcher PC, Burgess PW. Anterior prefrontal cortex and the recollection of
+contextual information. Neuropsychologia. 2005; 43:1774–1783. [PubMed: 16154453]
+Simons JS, Verfaellie M, Hodges JR, Lee AC, Graham KS, Koutstaal W, et al. Failing to get the gist:
+Reduced false recognition of semantic associates in semantic dementia. Neuropsychology. 2005;
+19:353–361. [PubMed: 15910121]
+Spencer WD, Raz N. Differential effects of aging on memory for content and context: A meta-
+analysis. Psychology and Aging. 1995; 10:527–539. [PubMed: 8749580]
+Squire LR, Stark CE, Clark RE. The medial temporal lobe. Annual Review of Neuroscience. 2004;
+27:279–306.
+Thompson-Schill, SL.; Kan, IP.; Oliver, RT. Functional neuroimaging of semantic memory. In:
+Cabeza, R.; Kingstone, A., editors. Handbook of functional neuroimaging of cognition.
+Cambridge, MA: MIT Press; 2006. p. 149-190.
+Dennis et al.
+Page 13
+
+Tun PA, Wingfield A, Rosen MJ, Blanchard L. Response latencies for false memories: Gist-based
+processes in normal aging. Psychology and Aging. 1998; 13:230–241. [PubMed: 9640584]
+Tyler LK, Stamatakis EA, Dick E, Bright P, Fletcher P, Moss H. Objects and their actions: Evidence
+for a neurally distributed semantic system. Neuroimage. 2003; 18:542–557. [PubMed: 12595206]
+Watson JM, McDermott KB, Balota DA. Attempting to avoid false memories in the Deese/Roediger–
+McDermott paradigm: Assessing the combined influence of practice and warnings in young and
+old adults. Memory & Cognition. 2004; 32:135–141.
+Whiting WL, Madden DJ, Langley LK, Denny LL, Turkington TG, Provenzale JM, et al. Lexical and
+sublexical components of age-related changes in neural activation during visual word
+identification. Journal of Cognitive Neuroscience. 2003; 15:475–487. [PubMed: 12729497]
+Wise, RJS.; Price, CJ. Functional imaging of language. In: Cabeza, R.; Kingstone, A., editors.
+Handbook of functional neuroimaging of cognition. 2nd ed.. Cambridge, MA: MIT Press; 2006. p.
+191-228.
+Yonelinas AP. Components of episodic memory: The contribution of recollection and familiarity.
+Philosophical Transactions of the Royal Society of London, Series B, Biological Sciences. 2001;
+356:1363–1374.
+Yonelinas AP. The nature of recollection and familiarity: A review of 30 years of research. Memory
+and Language. 2002; 46:441–517.
+Yonelinas AP, Otten LJ, Shaw KN, Rugg MD. Separating the brain regions involved in recollection
+and familiarity in recognition memory. Journal of Neuroscience. 2005; 25:3002–3008. [PubMed:
+15772360]
+Yoon C, Feinberg F, Hu P, Gutchess AH, Hedden T, Chen HY, et al. Category norms as a function of
+culture and age: Comparisons of item responses to 105 categories by American and Chinese
+adults. Psychology of Aging. 2004; 19:379–393.
+Zacks, RT.; Hasher, L.; Li, KZH. Human memory. In: Craik, FIM.; Salthouse, TA., editors. The
+handbook of aging and cognition. 2nd ed.. Mahwah, NJ: Erlbaum; 2000. p. 293-358.
+Dennis et al.
+Page 14
+
+Figure 1.
+During encoding, participants were presented with short DRM lists. At retrieval, they
+viewed words from the list (targets), new words from different, unpresented categories
+(unrelated lures), and new words from presented categories (related lures). Participants were
+asked to make a recognition with confidence decision for each word presented at retrieval.
+Dennis et al.
+Page 15
+
+Figure 2.
+Age-related differences in TRA. The hippocampus (A) shows an age-related decrease in true
+retrieval, whereas the retrosplenial cortex (B) shows an age-related increase in true activity.
+Bar graphs represent functional activation (and standard error) associated with high- and
+low-confidence true memory for both age groups (see Table 4 for coordinates).
+Dennis et al.
+Page 16
+
+Figure 3.
+Negative correlation between activity associated with high-confidence true memory in the
+hippocampus and in the retrosplenial cortex in older adults (A) across participants and (B)
+across trials (in one randomly chosen participant).
+Dennis et al.
+Page 17
+
+Figure 4.
+Age-related increase in false retrieval in the left middle temporal gyrus. Bar graphs represent
+functional activation (and standard error) associated with high- and low-confidence false
+memories for both age groups (see Table 4 for coordinates).
+Dennis et al.
+Page 18
+
+Dennis et al.
+Page 19
+Table 1
+Demographics: Older Adults
+Mean
+SD
+Education (years)
+17
+2.18
+Shipley Vocabulary
+37.5
+1.65
+CANTAB
+ Spatial working memory: A self-ordered task which also assesses heuristic strategy
+0.61
+1.23
+ Pattern recognition memory: A test of visual pattern recognition memory
+0.64
+0.77
+ Reaction time: A latency task with a comparative history
+0.29
+0.94
+ Rapid information processing: A test of sustained attention
+0.06
+0.92
+ Spatial span: A computerized version of the Corsi Blocks task
+1.11
+0.98
+ Intra–extra dimensional set shifting: A computerized analog of the Wisconsin Card Sorting Test
+0.38
+0.43
+ Paired associates learning: Assesses visual memory and new learning
+0.33
+0.79
+Mean and standard deviation for age, years of education, Shipley vocabulary score, and several standard (z) scores from the Cambridge
+Neuropsychological Test Automated Battery (CANTAB).
+
+Dennis et al.
+Page 20
+Table 2
+Behavioral Results
+(a) Based on ‘‘Old’’ Items
+(b) Based on “Old” Responses
+(c) RT
+Y
+O
+Y
+O
+Y
+O
+LC
+Targets
+0.26 (0.10)
+0.24 (0.09)
+0.23 (0.07)
+0.22 (0.11)
+1.48 (0.14)
+1.80 (0.18)
+Related lures
+0.32 (0.14)
+0.27 (0.12)
+0.15 (0.05)
+0.12 (0.06)
+1.53 (0.17)
+1.81 (0.18)
+Unrelated lures
+0.15 (0.11)
+0.13 (0.08)
+0.07 (0.04)
+0.06 (0.03)
+1.54 (0.23)
+1.88 (0.25)
+HC
+Targets
+0.48 (0.16)
+0.48 (0.12)
+0.44 (0.01)
+0.45 (0.11)
+1.21 (0.14)
+1.43 (0.19)
+Related lures
+0.18 (0.14)
+0.28 (0.16)
+0.09 (0.04)
+0.13 (0.05)
+1.29 (0.16)
+1.56 (0.23)
+Unrelated lures
+0.04 (0.05)
+0.04 (0.04)
+0.02 (0.02)
+0.02 (0.01)
+1.23 (0.70)
+1.55 (0.49)
+LC = low confidence; HC = high confidence; RT = reaction time; Y = young; O = old; bolded scores represent a significant age difference (p < .05); mean and standard deviations are reported.
+
+Dennis et al.
+Page 21
+Table 3
+Common Areas of Activation for True (TRA) and False (FRA) Retrieval
+Young
+Old
+H
+BA
+x
+y
+z
+t
+x
+y
+z
+t
+TRA—Common Areas
+Frontal
+ Superior
+L
+ 8
+−38
+24
+44
+4.01
+−34
+21
+44
+2.95
+ Ventromedial
+PFC
+R
+11/47
+34
+33
+−2
+4.06
+19
+29
+−14
+5
+Anterior cingulate
+M
+32/10
+−8
+37
+−5
+5.32
+ 8
+44
+1
+8.51
+Hippocampus/PHG
+L
+−26
+−19
+−12
+4.58
+−19
+−8
+−19
+4.22
+R
+30
+−23
+−8
+3.7
+30
+−19
+−5
+3.43
+Posterior cingulate/Precuneus
+M
+31/24
+−8
+−16
+39
+5.78
+0
+−9
+39
+6.24
+Inferior parietal
+L
+39/40
+−41
+−58
+24
+2.97
+−49
+−50
+24
+6.29
+Cuneus
+M
+19/18
+8
+−87
+29
+3.89
+−4
+−87
+32
+7.85
+FRA—Common Areas
+Frontal
+ Fronto-polar
+M
+10
+0
+45
+12
+5.25
+−8
+55
+−3
+4.84
+ Superior
+L
+ 8
+−34
+21
+51
+3.65
+−34
+24
+44
+3.69
+Cingulate gyrus
+R
+23
+11
+−39
+23
+2.52
+19
+−39
+23
+2.4
+Inferior parietal
+L
+ 7/40/39
+−30
+−50
+31
+6.9
+−41
+−64
+42
+4.64
+The table reports common areas of activation for both young and old groups associated with true retrieval and false retrieval (conjunction analysis at p = .05 with a minimum cluster size ≥10 in each age
+group).
+PFC = prefrontal cortex; PHG = parahippocampal gyrus; BA = Brodmann’s area; T = statistical t value; H = hemisphere; Talairach and Tournoux (T&T) coordinates are reported.
+
+Dennis et al.
+Page 22
+Table 4
+Age Differences Associated with True and False Retrieval
+H
+BA
+x
+y
+z
+t
+TRA—Group Differences
+Y > O
+ MTL
+ Hippocampus/PHG
+L
+−26
+−27
+−18
+2.36
+ Posterior PHG
+L
+19/30
+−30
+−44
+−1
+3.73
+ Frontal
+ Medial PFC
+R
+10
+19
+59
+1
+3.37
+ Ventrolateral PFC
+R
+45/47
+26
+33
+2
+2.78
+ Ventromedial PFC
+M
+25
+−4
+29
+−17
+3.75
+ Rostral PFC
+M
+25
+ 4
+14
+−13
+2.62
+ Insula
+R
+45
+0
+3
+4.05
+ Superior temporal gyrus
+R
+20
+41
+−1
+−16
+2.47
+ Posterior cingulate
+L
+31
+−11
+−20
+40
+3.29
+ Supramarginal gyrus
+L
+40
+−45
+−32
+30
+3.12
+ Postcentral gyrus
+R
+ 7
+26
+−41
+62
+2.84
+L
+ 7
+−15
+−44
+72
+3.74
+ Precuneus
+R
+ 7
+19
+−50
+31
+3.13
+O > Y
+ Retrosplenial cortex
+M
+23/31
+−4
+−47
+16
+2.65
+ Superior medial PFC
+M
+ 8/9
+−4
+35
+37
+4.11
+ Thalamus
+M
+0
+7
+0
+3.12
+ Postcentral sulcus
+M
+ 4
+0
+−37
+65
+2.51
+ Occipito-temporal cortex
+M
+18
+0
+−62
+10
+2.93
+M
+18
+0
+−70
+4
+3.62
+ Cuneus
+L
+19/7
+−23
+−83
+29
+3.24
+FRA—Group Differences
+Y > O
+ Frontal
+ Superior medial PFC
+L
+ 9
+−11
+35
+33
+4.32
+
+Dennis et al.
+Page 23
+H
+BA
+x
+y
+z
+t
+ Orbito-frontal cortex
+L
+47/10
+−30
+51
+−9
+3.09
+ Dorsolateral PFC
+L
+ 9
+−34
+24
+37
+3.63
+L
+44/45
+−45
+19
+17
+2.87
+R
+ 9/6
+30
+6
+38
+3.02
+ Precuneus
+L
+19/7
+−23
+−61
+31
+3.67
+O > Y
+ Middle temporal gyrus
+L
+37
+−38
+−26
+−8
+3.06
+ Fronto-polar cortex
+M
+25
+−8
+11
+−10
+2.61
+ Caudate
+R
+19
+22
+6
+2.83
+ Amygdala
+L
+34
+−15
+0
+−10
+2.98
+ Insula
+L
+−38
+−18
+4
+2.56
+The table reports age differences in regions significant at p < .05, uncorrected, with a minimum cluster size ≥10; inclusively masked with the primary analysis of interest (e.g., young true retrieval, old true
+retrieval, young false retrieval, or old false retrieval) at p > .005 with a minimum cluster size ≥10.
+PFC = prefrontal cortex; PHG = parahippocampal gyrus; BA = Brodmann’s area; t = statistical t value; H = hemisphere; Talairach and Tournoux (T&T) coordinates are reported.

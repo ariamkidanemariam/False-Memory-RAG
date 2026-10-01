@@ -1,0 +1,1091 @@
+Creating Emotional False Recollections: Perceptual 
+Recombination and Conceptual Fluency Mechanisms
+Manoj K. Doss1,2, Jamila K. Picart1, David A. Gallo1
+1Department of Psychology, University of Chicago
+2Department of Psychiatry and Behavioral Science, Johns Hopkins University
+Abstract
+We investigated the impact of two hypothetical mechanisms of episodic memory reconstruction—
+perceptual recombination and conceptual fluency—on objectively measured recollection accuracy 
+and false recollections of neutral and emotional stimuli. Participants encoded negative, neutral, 
+and positive pictures depicting objects and scenes (i.e., target pictures), each accompanied with a 
+descriptive verbal label (e.g., “boy crying at funeral”, “wooden basket on floor,” “four 
+chimpanzees laughing together”). Next, they encoded fragmented pictures of some of the scenes 
+they did and did not earlier see (perceptual misinformation), or they received multiple 
+presentations of the corresponding verbal labels (conceptual misinformation). Recollection of 
+target pictures was then tested, using labels as retrieval cues. We had three key findings in each of 
+two experiments. First, as in our prior work, both perceptual and conceptual misinformation 
+significantly increased false recollection judgments of nonstudied pictures, including high 
+confidence errors. These effects implicate perceptual recombination and conceptual fluency 
+mechanisms. Second, these misinformation effects generalized across all emotional categories, 
+implicating separable roles of these two mechanisms on emotional recollections. Finally, 
+conceptual misinformation was less likely to influence negative than neutral recollection errors, 
+providing new evidence that emotion can improve retrieval monitoring accuracy and reduce false 
+memories based on conceptual fluency (i.e., an emotional distinctiveness heuristic).
+Keywords
+emotional memory; false memory; false recollection; perceptual recombination; conceptual 
+fluency
+Introduction
+The recollection of emotional events is often accompanied with a subjective sense of 
+vividness but research indicates that emotional events are susceptible to false recollection, or 
+the subjective experience of conscious recalling some detail or event that did not actually 
+happen. One complexity of this research literature is that emotional events have sometimes 
+been found to be more prone to false recollection and other times less prone for reasons that 
+Correspondence to: Manoj K. Doss, Department of Psychiatry and Behavioral Sciences, Johns Hopkins University, 5510 Nathan 
+Shock Drive, Baltimore, MD 21224, mdoss3@jhmi.edu. 
+HHS Public Access
+Author manuscript
+Published in final edited form as:
+Emotion. 2020 August ; 20(5): 750–760. doi:10.1037/emo0000590.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+are not yet fully understood. For example, on episodic memory tests for words or pictures, a 
+common finding is greater false recognition of nonstudied emotional than neutral items (e.g., 
+Bessette-Symons, 2018; Bookbinder & Brainerd, 2017; Brainerd et al., 2008; Gallo, Foster, 
+& Johnson, 2009; Gong, Xiao, & Wang, 2016; White, et al., 2014). Such findings have been 
+attributed to the propensity for emotional events to share conceptual or semantic features or 
+otherwise share an “emotional gist”. As a result, emotional studied events are more likely to 
+activate nonstudied emotional events relative to neutral events, increasing false recognition 
+for emotional events.
+In contrast to these findings, it also has been found that emotional events can be less prone 
+to memory distortion than neutral events, at least for negative emotional content (e.g., Farris 
+& Toglia, 2018; Kensinger et al., 2007; Kensinger & Schacter, 2006; Pesta, Murphy, & 
+Sanders, 2001; Zheng et al., 2018). According to Schacter, Gallo, and Kensinger (2007), 
+people often expect emotional events to be recollected more vividly, and expecting vivid or 
+perceptually detailed recollections might help reduce false recognition of nonstudied events 
+that only feel familiar or vaguely recollected (i.e., an emotional distinctiveness heuristic). 
+Although some studies relevant to this issue have conflated emotional and conceptual or 
+semantic distinctiveness (Pesta et al., 2001), Choi, Kensinger, and Rajaram (2013) avoided 
+these issues by testing recognition for emotional pictures and controlling for conceptual 
+relatedness across emotional categories, and they found that emotional items were equally or 
+less likely to be falsely recognized as emotionally neutral items on a recognition memory 
+test. This study, therefore, provided stronger support for the emotional distinctiveness 
+hypothesis, although the effect was not obtained in all of the experiments.
+As articulated by Bookbinder and Brainerd (2016), emotion can simultaneously impact 
+multiple (and sometimes competing) cognitive processes, and emotion itself has different 
+facets, thereby making generalizations across areas of emotional memory research difficult. 
+For example, the aforementioned research indicates that emotional events can be more prone 
+to gist-based influences that can drive false remembering, but these events also may trigger 
+heightened memorial expectations that might reduce false remembering. Because of this 
+complexity, researchers have started to move away from asking questions like “are 
+emotional events more or less susceptible to memory distortion?” and, instead, they are now 
+asking how the multiple processes that contribute to memory accuracy and distortion might 
+differentially contribute to emotional and neutral events. In this spirit, the current 
+experiments aimed to investigate the extent that two hypothetical mechanisms of memory 
+reconstruction might differentially contribute to the recollection of emotional and neutral 
+events.
+Two Reconstructive Mechanisms
+Doss, Bluestone, and Gallo (2016) proposed two hypothetical mechanisms of memory 
+construction that occur during retrieval. The first mechanism is perceptual recombination. 
+According to this hypothesis, the erroneous perceptual content that characterizes false 
+recollections can originate from previously experienced events that are stored in episodic 
+memory. These perceptual details can be fragmented or dissociated from their instantiating 
+events in memory, providing fuel for reconstructive processes that cause false memories. 
+Doss et al.
+Page 2
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+The idea that different kinds of features or details can be erroneously confused across 
+different events in memory has been proposed by many researchers (e.g., Dodson, Bawa, & 
+Slotnick, 2007; Gallo & Roediger, 2003; Lampinen, Neuschatz, & Payne, 1999; Lyle & 
+Johnson, 2006), although the perceptual recombination hypothesis focuses exclusively on 
+perceptual features from prior experience to differentiate it from a conceptual fluency 
+mechanism.
+The second mechanism is conceptual fluency. According to this hypothesis, the erroneous 
+perceptual content of false recollections originates from mental imagery, as opposed to 
+actually perceived events. People might mentally imagine events and then later falsely 
+retrieve them, or they might mentally imagine events as part of the retrieval process itself, as 
+when someone uses mental imagery to cue or trigger their memories and monitor them for 
+accuracy. In either case, if these mentally imagined perceptual details are generated in a way 
+that makes them seem familiar or fluent, potentially due to increased semantic activation or 
+conceptual priming, then they also might provide the fuel for a reconstructive process that 
+causes false memories. The idea that conceptual fluency can be misattributed to prior 
+experience has been proposed by many researchers (e.g., Gallo & Roediger, 2003; Kurilla & 
+Westerman, 2008; Rajaram & Geraci, 2000; Whittlesea, 2002), although these ideas 
+sometimes focus on familiarity-based false recognition as opposed to perceptually-detailed 
+false recollection.
+Doss et al. (2016) reported the first set of experiments that were specifically designed to 
+isolate perceptual recombination and conceptual fluency effects on the false recollection of 
+nonstudied pictures. To do this, Doss et al. developed a multi-phase misinformation task that 
+involved the presentation of two kinds of misinformation: perceptual and conceptual. In the 
+first phase (encoding phase), participants studied verbal labels corresponding to pictures of 
+objects (e.g., “wine,” “puppy,” “lemon”) with half of these labels followed by the 
+corresponding picture. These items would later serve as targets on the recollection test, 
+whereas on the other half of trials, the verbal label was presented alone, later to serve as 
+studied lures. In the next phase (misinformation phase), stimuli were presented to distort 
+memory, though from the participants’ perspective, this was just additional information. 
+There were two kinds of misinformation: perceptual misinformation (nonstudied pictures 
+that had been scrambled) and conceptual misinformation (nonstudied verbal labels). Finally, 
+an episodic memory test was given (cued recollection phase). On this test, participants were 
+presented with all of the previously studied verbal labels as memory cues, and they were 
+asked to press “yes” only if they recollected having studied an associated target picture 
+during the encoding phase.
+Doss et al. (2016) reported three key effects for present purposes. First, false alarms were 
+greater for lures associated with conceptual misinformation compared to a no 
+misinformation foil baseline, showing that the activation of the concept at the semantic level 
+(without picture features) was sufficient to increase false alarms. Second, false alarms on the 
+recollection test were greater for lures associated with perceptual than conceptual 
+misinformation, even though each kind of lure had been earlier studied and hence was highly 
+familiar. Doss et al. argued that the presentation of fragmented pictures fueled a perceptual 
+recombination process that, in turn, increased false alarms above the conceptual 
+Doss et al.
+Page 3
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+misinformation baseline. Finally, false alarms to misinformation lures were made with 
+medium confidence on average (e.g., 2 out of 3), despite instructions to only respond “yes” 
+when recollecting an intact target picture from the original encoding phase. These findings 
+suggest that a false recollection process had influenced participants’ false alarms, driving 
+high confidence errors in some cases, in addition to any potential effects of a more vague 
+sense of guessing based on familiarity alone, which might elicit relatively low levels of 
+confidence. (Of course, false recollections may be made with either high or low confidence, 
+our point here is that by comparison, familiarity-based guesses on a picture recollection test 
+should be made with lower confidence.)
+The Current Experiments
+The main goal of the current experiments was to investigate the impact of perceptual 
+recombination and conceptual fluency on neutral and emotional recollections. Doss et al. 
+(2016) found significant effects of perceptual and conceptual misinformation on emotionally 
+neutral recollections, and here we aimed to replicate and extend these effects across a 
+broader range of picture stimuli, including emotionally positive and negative as well as 
+neutral pictures of common objects and scenes. Such replication and extension would further 
+establish the robust and reliable nature of the empirical effects reported by Doss et al. and 
+provide a test for our specific hypotheses. Based on the emotional memory literature, we had 
+two contrasting (but not mutually inconsistent) hypotheses: the emotional enhancement 
+hypothesis and the emotional distinctiveness heuristic hypothesis.
+According to the emotional enhancement hypothesis, the same processes that tend to 
+improve memory encoding for emotional over neutral items (e.g., enhanced attention, 
+elaboration, and physiological arousal) also would benefit the encoding of misinformation, 
+making this misinformation more accessible at retrieval and hence, more likely to drive false 
+recollections. All other factors being equal, this hypothesis predicted greater perceptual 
+recombination and conceptual fluency effects on false alarms for the emotional relative to 
+neutral items.
+According to the emotional distinctiveness heuristic hypothesis, people are more likely to 
+expect perceptually detailed recollections for emotionally arousing events compared to 
+neutral ones, thereby helping them avoid recollection errors to new events that are only 
+familiar or vaguely recollected. This hypothesis predicted reduced perceptual recombination 
+and conceptual fluency effects on false alarms for emotional items relative to neutral items, 
+again all other factors being equal. Alternatively, such an emotional distinctiveness heuristic 
+might help people monitor all sources of memory distortion (e.g., misinformation for studied 
+lures and idiosyncratic item associations for nonstudied foils), thereby reducing false alarms 
+to all emotional lures regardless of the misinformation condition. In each case, this 
+hypothesis claims that emotion will increase a retrieval monitoring process to reduce false 
+recollections, in contrast to the emotional enhancement hypothesis.
+To investigate these hypotheses we conducted two experiments, reported here as 
+Experiments 1 and 2. Each of these two experiments used the same modified version of the 
+Doss et al. (2016) procedures, described below in the context of Experiment 1. By design, 
+Doss et al.
+Page 4
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+the only difference between Experiments 1 and 2 reported here was in the timing of the 24-
+hour delay period, which allowed us to investigate the effects of delay on the reconstructive 
+mechanisms of episodic memory. Doss et al. found a significant effect of perceptual and 
+conceptual misinformation on an immediate memory test, but there was no effect of 
+conceptual misinformation when a 24-hour delay was introduced between the 
+misinformation and testing, indicating that conceptual fluency effects fade more rapidly over 
+time than perceptual recombination effects. We sought to further explore these timing effects 
+across Experiments 1 and 2 and evaluate how they might interact with emotional memory 
+effects which tend to be more prominent after a delay (Yonelinas & Ritchey, 2015).
+Experiment 1
+Experiment 1 used a modification of the Doss et al. (2016) procedure to investigate the 
+susceptibility of emotionally negative, neutral, and positive recollections to perceptual 
+recombination and conceptual fluency. To do this, we constructed a new set of neutral and 
+emotional picture stimuli, and we developed a four-phase misinformation task.
+With respect to the stimuli, our goal with these experiments was to investigate the impact of 
+emotion on recollection accuracy and distortion, independent from the semantic or 
+conceptual relatedness shared between the pictures and concepts represented in the set of 
+stimuli. Prior work has shown that emotional items can be more conceptually related than 
+neutral items (e.g., Talmi & Moscovitch, 2004). To the extent that this factor can drive false 
+recollection differences between emotional categories (see Gallo et al., 2009), it would 
+represent a confound in the current procedure. To avoid this potential confound, the labels 
+developed for the current experiments were created so that the same kinds of concepts (e.g., 
+people, animals, objects, scenes) would be represented with similar frequency in each of the 
+three emotional valence categories (negative, neutral, positive). Moreover, we selected labels 
+and stimuli to be conceptually distinct from one another, so that memory errors were 
+unlikely to be attributed to participants making label confusion errors between studied and 
+nonstudied stimuli.
+With respect to the task, there were four phases. The first was the picture encoding phase. 
+Participants were presented with emotional and neutral scenes and their verbal labels (these 
+would later be targets) intermixed with verbal labels without pictures (these would later be 
+lures). The second phase was a perceptual misinformation list, which presented verbal labels 
+and scrambled versions of the corresponding picture. The third phase was the conceptual 
+misinformation list, which presented verbal labels without any other perceptual information. 
+In this way, the familiarity of items presented in the two misinformation lists was quite high, 
+requiring recollection to accurately discriminate between them. Importantly, as in Doss et al. 
+(2016), misinformation was presented for both targets and lures to preclude a recall-to-reject 
+strategy. The final phase was the picture recollection test, which presented labels from the 
+first list, as well as brand new labels (nonstudied foils), as possible retrieval cues. On this 
+test, participants were instructed to say “yes” if they recollected seeing an intact picture of 
+the scene from the first list, regardless of what they may remember from a different list and 
+then to rate their confidence.
+Doss et al.
+Page 5
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Participants
+Thirty-two individuals (10 males) aged 18- to 22-years-old (M = 19.63, SD = 1.03) 
+participated in this study. We chose this sample size because it completed four rounds of 
+counterbalancing (see Stimuli section below) and because our previous study with a similar 
+design used an N of 28 (Doss et al., 2016). All individuals were native English speakers and 
+had normal or corrected-to-normal vision. The institutional review board at the University of 
+Chicago approved all experimental procedures in this study. Participants were compensated 
+for their time with class credit.
+Stimuli
+Three hundred sixty pictures were selected from both the International Affective Picture 
+System (Lang, Bradley, & Cuthbert, 2008) and the Nencki Affective Picture System 
+(Marchewka, Żurawski, Jednoróg, & Grabowska, 2014) in an effort to balance the semantic 
+relatedness between valence conditions. There were 120 pictures in each valence condition, 
+and these pictures had the following mean (SD) normed valences and arousals, respectively: 
+negative 3.18 (.53) and 5.87 (.50), neutral 5.15 (.48) and 3.71 (.88), positive 6.92 (.54) and 
+5.47 (.41). Negative pictures were more arousing than neutral (95% CI = [1.978, 2.342], 
+t(238) = 23.412, p < .001, d = 3.023) and positive (95% CI = [.277, .509], t(238) = 6.692, p 
+< .001, d = .864) pictures, and positive pictures were more arousing than neutral pictures 
+(95% CI = [1.592, 1.942], t(238) = 19.911, p < .001, d = 2.571). Each picture was ascribed 
+to a three- to five-word label to describe the content of the picture (e.g., “orangutan hanging 
+from electrical wire”). See Supplemental Materials (SM) showing that the arousal of these 
+labels, as well as their corresponding pictures, were rated in accordance with the normed 
+arousal ratings of the pictures (i.e., negative > positive > neutral). In order to create the 
+stimuli that were presented during the perceptual misinformation phase, the original 360 
+pictures were scrambled by segmenting each one into quadrants and then segmenting these 
+quadrants further by subdividing them into smaller quadrants. Each smaller quadrant was 
+then rotated in a counterclockwise fashion within the larger quadrants (Figure 1). This 
+method for scrambling the pictures allows key features described by the label to be 
+discerned but also prevents the participant from mistaking the scrambled version of the 
+picture for the intact version.
+The pictures were divided into 8 lists of 45 pictures (15 of each valence) based on 
+conceptual similarities (e.g., food, animals, vehicles). The lists were rotated through the 
+experimental conditions in a Latin square design such that for each participant there were 
+135 targets (45 of each valence), 135 lures (45 of each valence), and 90 nonstudied foils (30 
+of each valence). For both targets and lures, 90 of the 135 items (30 of each valence) were 
+presented in the perceptual misinformation phase, and the other 45 items (15 of each 
+valence) were presented in the conceptual misinformation phase (see below).
+Procedure
+The experiment consisted of four phases: an incidental encoding phase, two misinformation 
+phases (perceptual and conceptual), and a cued recollection phase separated by a 24-hr delay 
+from the preceding three phases. At the beginning of each phase, a researcher read the 
+Doss et al.
+Page 6
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+instructions to participants, and participants also read the instructions on the computer 
+screen.
+During the encoding phase, participants were presented with 270 labels in black font on a 
+grey background in random order. Each label was presented for 2,000 ms during which 
+participants were instructed to rate its emotional intensity (i.e., arousal) on a 5-point scale. 
+Emotional intensity was defined as the strength of the emotional reaction regardless of 
+negative or positive content. For half the trials (targets), a picture was presented after the 
+label for 2,000 ms during which participants were again to make an emotional intensity 
+rating. For the other half of trials (lures), no picture was presented. Across all phases, each 
+trial ended with a fixation cross for a random duration that was on average 2,000 ms and 
+never shorter than 500 ms.
+During the perceptual misinformation phase, participants were presented with 180 
+scrambled picture and label pairings in random order. Each trial consisted of the 
+simultaneous presentation of a scrambled picture and its corresponding label near the bottom 
+of the screen for 2,000 ms. Participants were instructed to mentally unscramble each picture 
+described by the label and rate the clarity of their mental image on a five-point scale. Half of 
+the scrambled picture and label pairings corresponded to target trials and the other half 
+corresponded to lure trials. Labels were the same as those presented during the encoding 
+phase.
+During the conceptual misinformation phase, participants were presented with 90 labels 
+from the encoding phase in random order. Each label was presented for 2,000 ms during 
+which participants were instructed to rate the emotional intensity. Each label was presented 
+twice to increase familiarity of the conceptual misinformation trials relative to the perceptual 
+misinformation (which was only presented once), thereby providing a high-familiarity 
+baseline for the perceptual misinformation trials. Half of the labels corresponded to target 
+trials and the other half to lure trials. After this phase, participants left the testing room and 
+returned the following day for the cued recollection phase.
+During the retrieval phase, participants’ picture memory was tested by cueing them with 270 
+familiar labels (135 targets and 135 lures) and 90 new labels (nonstudied foils). Participants 
+were asked to remember whether they saw the intact version of the picture described by the 
+label (“yes”/“no”). Participants were told that recollection of a scrambled picture was 
+irrelevant to their recollection of an intact picture because it was possible that both an intact 
+and a scrambled picture were presented or just a scrambled picture was presented. This 
+procedure was intended to minimize the use of a recall-to-reject strategy. After each memory 
+decision, participants were then asked to rate their confidence on a five-point scale. This 
+phase was self-paced.
+Code and Data Availability
+Raw data and MATLAB code for scrambling pictures can be found at https://osf.io/az7wp/ 
+(Doss, 2018).
+Doss et al.
+Page 7
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Experiment 1 Results and Discussion
+Full data for Experiment 1 can be found in Table 1. In the following results sections, our 
+primary analyses are on recollection errors (i.e., false alarms on the recollection task, which 
+we assume are indicative of false recollection of nonstudied pictures, although familiarity-
+based guessing also may contribute). We show perceptual and conceptual misinformation 
+impacted recollection errors across all emotional categories, demonstrating the two key 
+effects of Doss et al. (2016) and extending these mechanisms to emotional recollection. We 
+also show reduced recollection errors for negative lures compared to positive and neutral 
+lures, consistent with an emotional distinctiveness heuristic. There was some evidence that 
+this heuristic reduced the impact of the conceptual fluency for negative items, although this 
+effect was stronger in Experiment 2. Finally, we also report more traditional measures of 
+target-lure discrimination to objectively measure recollection accuracy, and analyses of those 
+results are consistent with the analyses of recollection errors.
+To measure the potential impact of a perceptual recombination mechanism, we directly 
+compared false alarms to the two kinds of studied lures: those that had been studied in the 
+perceptual misinformation list (thereby boosting the activation of perceptual and conceptual 
+information) and those that had been studied in the conceptual misinformation list (thereby 
+boosting the activation of conceptual information alone). Greater false alarms to lures from 
+the perceptual misinformation list are taken as evidence for a perceptual recombination 
+process while controlling for the possible influence of conceptual information, which is 
+assessed using the conceptual misinformation lures as a baseline.
+repeated measures ANOVA revealed a main effect of misinformation on false alarms (F(1, 
+31) = 30.369, p < .001, ηP2 = . 495). As is seen in Figure 2a, false alarms were greater for 
+perceptual misinformation lures compared to the conceptual misinformation baseline. This 
+misinformation effect was robust and did not interact with emotional valence (F(1.390, 
+43.103) = .198, p > .250; a Greenhouse-Geisser correction was applied here and for all 
+subsequent violations of sphericity), demonstrating a perceptual recombination effect across 
+all emotional categories. There also was a main effect of valence (F(2, 62) = 5.877, p = .005, 
+ηP2 = . 159), as false alarms were lower for negative compared to neutral items and positive 
+items. The reduction in false alarms for negative lures is consistent with the operation of an 
+emotional distinctiveness heuristic: participants expected negative pictures to be recollected 
+especially well, helping them to avoid false alarms to negative lures associated with either 
+perceptual or conceptual misinformation. However, because this valence effect did not 
+interact with the misinformation manipulation, there was no evidence that an emotional 
+distinctiveness heuristic suppressed the operation of perceptual recombination.
+To measure the conceptual fluency mechanism, false alarms to lures studied with conceptual 
+misinformation were compared to nonstudied foils that did not have such conceptual 
+activation (i.e., a no misinformation baseline). A 3 (valence: negative, neutral, positive) × 2 
+Doss et al.
+Page 8
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+(misinformation: conceptual, no misinformation) repeated measures ANOVA revealed a 
+main effect of misinformation (F(1, 31) = 19.174, p < .001, ηP2 = . 382). As is seen in Figure 
+2a, activating conceptual misinformation increased false alarms compared to the nonstudied 
+foil baseline. There also was a main effect of valence (F(2, 62) = 9.699, p < .001, ηP2 = . 238), 
+as false alarms for negative lures were overall lower than those for neutral and positive lures, 
+and there was a marginal valence by misinformation interaction (F(2, 62) = 2.736, p = .073, 
+ηP2 = . 081). This interaction was explained by fewer false alarms for negative compared to 
+neutral misinformation lures (95% CI [.013, .078], t(31) = 2.871, p = .007, d = .508), with 
+no corresponding difference in false alarms to negative and neutral nonstudied foils with no 
+misinformation (95% CI [−.016, .003], t(31) = 1.359, p = .184), which were near floor. This 
+pattern of effects for negative emotion suggests that an emotional distinctiveness heuristic 
+may be especially useful in suppressing the influence of conceptual fluency on false 
+recollection.
+High Confidence Responses
+We also considered high confidence false alarms to studied lures (i.e., the top two 
+confidence bins). As can be seen in Figure 3, such high confidence false alarms almost never 
+occurred for nonstudied foils, though they occurred for about 2 to 3% of lures with 
+conceptual misinformation and 9 to 11% of lures with perceptual misinformation. A 3 
+(valence: negative, neutral, positive) × 2 (misinformation: perceptual, conceptual) repeated 
+measures ANOVA revealed a main effect of misinformation type on false alarm rates (F(1, 
+31) = 15.100, p < .001, ηP2 = . 328, owing to perceptual misinformation eliciting greater 
+recollection errors than conceptual misinformation. Neither the main effect of valence (F(2, 
+62) = .723, p > .250) nor the valence by misinformation interaction were significant (F(2, 
+62) = .087, p > .250), demonstrating a perceptual recombination effect for all emotional 
+categories. A similar high confidence analysis of conceptual fluency was not conducted 
+because of fewer high confidence false alarms to nonstudied foils, though inspection of 
+Figure 3 indicates that this mechanism also increased high confidence errors relative to 
+baseline for each emotional category.
+Recollection Accuracy Analysis
+In addition to our primary analysis of false recollection effects, we also calculated target-lure 
+discrimination scores as a more traditional measure of recollection accuracy. Within each 
+emotional and misinformation condition, recollection accuracy was calculated as the hit 
+rates for targets minus the false alarm rates for studied lures (i.e., p(“yes”|target) - p(“yes”|
+lure)). Because each of these targets and lures were initially studied in two different lists 
+(i.e., the initial label/picture study list and one of the subsequent misinformation lists), they 
+should have been highly familiar so that the accurate discrimination between the targets and 
+studied lures should have relied primarily on recollection of the target picture.
+Analysis of these recollection accuracy scores yielded effects that were consistent with those 
+which we have already presented and discussed. A 3 (valence: negative, neutral, positive) × 
+2 (misinformation: perceptual, conceptual) repeated measures ANOVA on memory accuracy 
+Doss et al.
+Page 9
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+revealed a main effect of valence on memory accuracy (F(2, 62) = 13.524, p < .001, 
+ηP2 = . 304).
+As can be seen in Figure 2b, there was greater memory accuracy for negative compared to 
+neutral and positive items. This finding demonstrates an emotional superiority effect in 
+recollection observed especially for negative material (Bowen, Kark, & Kensinger, 2018), 
+and here it was at least partly driven by reduced recollection errors to negative lures. There 
+also was a main effect of misinformation (F(1, 31) = 19.276, p < .001, ηP2 = . 383), as 
+participants were more accurate at differentiating targets and lures associated with 
+conceptual compared to perceptual misinformation. This effect suggests that perceptual 
+misinformation manipulation was more effective at generating false recollections than the 
+conceptual fluency manipulation, at least under the conditions of this experiment. Finally, 
+the valence by misinformation interaction was not significant on recollection accuracy 
+scores (F(2, 62) = .637, p > .250), although as discussed we did find a marginal interaction 
+with our conceptual fluency analysis, and we revisit this effect in Experiment 2.
+Experiment 2
+The goal of Experiment 2 was to investigate the impact of perceptual and conceptual 
+misinformation when the misinformation occurred on the same day as retrieval instead of 
+immediately after the encoding phase as in Experiment 1. This experiment was identical to 
+Experiment 1 except the 24-hour delay was introduced before the misinformation phases 
+rather than before the retrieval phase. Doss et al. (2016) found that the effect of conceptual 
+misinformation on recollection errors was larger when conceptual activation occurred just 
+before the test phase as opposed to the day before (cf. Doss, Picart, & Gallo, 2018 in which 
+activating conceptual associations, via context reinstatement, prior to memory retrieval at the 
+trial level robustly increased high confidence false memories). Because perceptual 
+misinformation was not affected by such a timing manipulation, these findings suggest that 
+conceptual fluency fades more rapidly over time. This experiment, therefore, provided a 
+replication attempt of Experiment 1 under conditions where conceptual misinformation 
+effects might be even greater.
+Participants
+Thirty-two individuals (18 males) aged 18- to 22-years-old (M = 19.84, SD = 1.13) were 
+recruited from the University of Chicago and surrounding community with the same 
+inclusion criteria as Experiment 1.
+Stimuli
+The stimuli were identical to those used in Experiment 1.
+Procedure
+The experiment was identical to Experiment 1 except the 24-hour delay was introduced 
+immediately after the encoding phase so that the misinformation phases always occurred on 
+the second day (i.e., just prior to the retrieval phase).
+Doss et al.
+Page 10
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Experiment 2 Results and Discussion
+Full data for Experiment 2 can be found in Table 2. Our results sections follow the same 
+format as Experiment 1. To anticipate these results, Experiment 2 replicated all of the key 
+effects from Experiment 1 and also yielded stronger evidence that emotion can suppress the 
+impact of conceptual fluency on recollection errors.
+To investigate the impact of perceptual misinformation, we conducted a 3 (valence: negative, 
+neutral, positive) × 2 (misinformation: perceptual, conceptual) repeated measures ANOVA 
+(Figure 2a). There was a main effect of misinformation (F(1, 31) = 44.526, p < .001, 
+ηP2 = . 590), as perceptual misinformation increased false alarms above the conceptual 
+misinformation baseline. Second, this effect did not interact with valence (F(2, 62) = 1.793, 
+p = .175), again demonstrating a robust perceptual recombination effect for all emotional 
+categories. Finally, there was a main effect of valence (F(2, 62) = 4.571, p = .014, 
+ηP2 = . 129), owing to fewer false alarms to negative compared to neutral and positive items. 
+As in Experiment 1, this effect is consistent with an emotional distinctiveness heuristic.
+To investigate conceptual fluency, we conducted a 3 (valence: negative, neutral, positive) × 2 
+(misinformation: conceptual, no misinformation) repeated measures ANOVA. This analysis 
+revealed a main effect of misinformation (F(1, 32) = 24.688, p < .001, ηP2 = . 443). As is 
+shown in Figure 2a, conceptual misinformation increased false alarms above the nonstudied 
+baseline, implicating a conceptual fluency mechanism. There also was a main effect of 
+valence (F(2, 62) = 3.816, p = .027, ηP2 = . 110), as false alarms were lowest for negative 
+items. There was also a significant interaction between misinformation type and valence 
+(F(2, 62) = 3.340, p = .042, ηP2 = . 097), consistent with the similar (albeit marginal) pattern 
+observed in Experiment 1. There were fewer false alarms for negative compared to neutral 
+misinformation items (95% CI = [.019, .127], t(31) = 2.752, p = .010, d = .486) with no 
+corresponding difference between negative and neutral nonstudied foils with no 
+misinformation, which were near floor (95% CI = [−.027, .005], t(31) = 1.457, p = .155). A 
+similar pattern of findings was observed when comparing positive and neutral false alarms 
+(conceptual misinformation: 95% CI = [−.005, .122], t(31) = 1.877, p = .070, d = .332; no 
+misinformation: 95% CI = [−.011, .044], t(31) = 1.245, p = .223, d = .220). These effects of 
+negative and positive emotion suggest that, when the misinformation occurred just prior to 
+the test, an emotional distinctiveness heuristic reduced the conceptual fluency effect on 
+recollection errrors.
+High Confidence Responses
+repeated measures ANOVA on high confidence false alarms revealed a main effect of 
+misinformation (F(1, 31) = 32.262, p < .001, ηP2 = . 510), as perceptual misinformation 
+increased high confidence false alarms relative to conceptual misinformation (Figure 3). 
+Doss et al.
+Page 11
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+There was no significant effect of valence (F(2, 62) = .885, p > .250) and no significant 
+interaction (F(1.643, 50.942) = .175, p > .250), demonstrating a robust effect of perceptual 
+recombination for all emotional categories. Similar to Experiment 1, inspection of Figure 3 
+reveals elevated high confidence false alarms as a result of conceptual misinformation, 
+though we again did not analyze these data due to the floor levels of high confidence false 
+alarms to nonstudied foils.
+Recollection Accuracy Analysis
+repeated measures ANOVA on recollection accuracy scores revealed a main effect of valence 
+(F(2, 62) = 22.619, p < .001, ηP2 = . 422). As in Experiment 1, recollection accuracy was 
+greater for negative than neutral and positive items (Figure 2b). Unlike Experiment 1, there 
+was no significant effect of misinformation on recollection accuracy (F(1, 31) = .023, p 
+> .250), potentially indicating that the two manipulations were equally likely to cause 
+recollection errors under the conditions of this experiment. The valence by misinformation 
+interaction failed to reach significance (F(2, 62) = 2.608, p = .082, ηP2 = . 078), although 
+differences in effect sizes suggest that the superiority of recollection accuracy for negative 
+material was greater for items with conceptual (negative vs. neutral: 95% CI = [.140, .290], 
+t(31) = 5.839, p < .001, d = 1.032) compared to perceptual (negative vs. neutral: 95% CI = 
+[.033, .163], t(31) = 3.088, p = .004, d = .546) misinformation. This pattern is consistent 
+with the idea that negative recollections were less impacted by the corrupting influence of 
+conceptual fluency than neutral recollections.
+Between-Experiments Comparisons
+In Experiments 1 and 2 we found evidence that perceptual recombination and conceptual 
+fluency increased recollection errors across all emotional categories. Although the 
+perceptual recombination effect was robust for all emotional categories in both experiments, 
+there was evidence in both experiments that the conceptual misinformation effect was 
+reduced for emotional items, especially negative items, relative to neutral items. The 
+interaction associated with this effect was marginal in Experiment 1 and significant in 
+Experiment 2. To directly test differences between the timing of misinformation and increase 
+power in detecting emotional interactions, we did a combined analysis of Experiments 1 and 
+2.
+A 3 (valence: negative, neutral, positive) × 2 (misinformation: perceptual, conceptual) × 2 
+(experiment: pre-delay misinformation, post-delay misinformation) mixed ANOVA on false 
+alarms revealed a main effect of misinformation type (F(1, 62) = 71.908, p < .001, 
+ηP2 = . 537), as perceptual misinformation increased recollection errors above the conceptual 
+misinformation baseline (Figure 2a). There also was a main effect of valence (F(2, 124) = 
+8.924, p < .001, ηP2 = . 126) because false alarms for negative items were lower than neutral 
+and positive items. The main effect of experiment was not significant (F(1, 62) = 2.764, p 
+= .101), and none of the two- or three-way interactions were significant (all Fs < 1.250, all 
+Doss et al.
+Page 12
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+ps > .250), demonstrating that the perceptual recombination effect was not dependent on the 
+timing of the misinformation, and also demonstrating that the perceptual recombination 
+effect was of similar magnitude for each emotional condition. Finally, this combined 
+analysis also yielded a similar pattern of effects in high confidence responses, including a 
+robust perceptual recombination effect (Figure 3; F(1, 62) = 40.543, p < .001, ηP2 = . 395).
+A 3 (valence: negative, neutral, positive) × 2 (misinformation: conceptual, no 
+misinformation) × 2 (experiment: pre-delay misinformation, post-delay misinformation) 
+mixed ANOVA on false alarms revealed a main effect of misinformation condition (F(1, 62) 
+= 43.288, p < .001, ηP2 = . 411), as conceptual misinformation increased false alarms relative 
+to the nonstudied foil baseline. There also was a main effect of experiment (F(1, 62) = 5.606, 
+p = .021, ηP2 = . 083), as false alarms were overall greater in Experiment 2. Unlike Doss et al. 
+(2016), the size of the conceptual misinformation effect did not interact with the timing of 
+misinformation (F(1, 62) = 2.493, p = .119), although inspection of Figure 2a suggests that 
+for neutral items (as in Doss et al.) this effect was larger in Experiment 2 than in Experiment 
+1. The main effect of valence was also significant (F(1, 32) = 8.849, p < .001, ηP2 = . 125), as 
+false alarms for negative items were lower than those for neutral items or positive items. 
+Finally, there was a significant interaction between misinformation and valence (F(2, 124) = 
+4.283, p = .016, ηP2 = . 065), but the timing of misinformation did not interact with valence 
+(F(2, 124) = 1.730, p = .181) nor was the three-way interaction significant (F(2, 124) = 
+2.071, p = .130). The interaction between misinformation and valance indicates that false 
+alarms were greater for neutral compared to negative items with conceptual misinformation 
+(95% CI = [.029, .090], t(63) = 3.846, p < .001, d = .481), but this effect was only marginal 
+for items with no misinformation (95% CI = [−.000, .018], t(63) = 1.954, p = .055, d 
+= .244). By contrast, neither of these effects reached significance when comparing positive 
+and neutral items (conceptual misinformation: 95% CI = [−.013, 060], t(63) = 1.312, p 
+= .194; no misinformation: 95% CI = [−.001, .031], t(63) = 1.915, p = .060, d = .239). These 
+results thus provide additional evidence that the conceptual fluency effect was reduced for 
+negative items relative to neutral items. A high confidence analysis testing the conceptual 
+fluency mechanism was not conducted, as high confidence false alarms for nonstudied foils 
+were at floor.
+General Discussion
+This study investigated the impact of two hypothetical mechanisms of memory construction
+—perceptual recombination and conceptual fluency—on the accuracy of neutral and 
+emotional recollections. Here we highlight three key findings from each of the two 
+experiments. First, we found evidence that the two mechanisms increased recollection 
+errors, using different pictorial materials and other modifications of the Doss et al. (2016) 
+procedure, thereby replicating those effects and demonstrating the robust nature of these two 
+mechanisms across the emotional categories. Perceptual recombination, in particular, was 
+found to drive high confidence errors, implicating a role in creating vivid false recollections. 
+Second, in each experiment, we found that the size of the perceptual misinformation effect 
+Doss et al.
+Page 13
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+on recollection errors was of similar magnitude across the emotional categories. Third, we 
+found that the size of the conceptual fluency effect was reduced for negative (and to some 
+degree positive) compared to neutral items, especially when the conceptual fluency 
+manipulation occurred just prior to memory retrieval. This finding was consistent with the 
+use of an emotional distinctiveness heuristic, as was the overall lower recollection error rate 
+for negative compared to neutral lures. Below we elaborate on the theoretical significance of 
+each of these findings.
+Independent from our emotional manipulations, our experiments provide a conceptual 
+replication of several key findings from Doss et al. (2016). False alarms were elevated for 
+lures that had been associated with perceptual misinformation compared to the conceptual 
+fluency baseline, suggesting a perceptual recombination effect on false recollection. 
+Moreover, false alarms were elevated for lures that had been associated with conceptual 
+fluency relative to the nonstudied foil baseline, suggesting a conceptual fluency effect on 
+false recollection. Similar to Doss et al., we also found that the perceptual misinformation 
+effect was not affected by the timing of the misinformation (i.e., pre- or post-delay), 
+although evidence was mixed with respect to the extent that conceptual misinformation had 
+a larger effect when administered post-delay compared to pre-delay. In addition to extending 
+these effects to a different set of materials, the current experiments demonstrate that mental 
+imagery of pictures during the initial study phase is unnecessary to obtain these effects, as 
+we eliminated this aspect of the Doss et al. procedure.
+With respect to the impact of emotion on these effects, we found that the perceptual 
+misinformation effect was a similar magnitude across all emotional categories, but the size 
+of the conceptual misinformation effect varied with emotionality. In Experiment 2, we found 
+a reduced conceptual misinformation effect for both negative and positive items, and the 
+combined analysis found a reduced effect for negative items. This effect implicates a 
+reduced conceptual fluency effect for emotional items compared to neutral items, as 
+predicted by the distinctiveness heuristic hypothesis and consistent with some of the results 
+of Choi et al (2013). The lack of a similar reduction of the perceptual misinformation effect 
+suggests that this effect may benefit less from a distinctiveness heuristic than the conceptual 
+fluency effect, potentially because the presentation of fragmented pictures provides more 
+perceptually detailed false recollections that mitigates the logic of a distinctiveness heuristic 
+(i.e., “I would remember a perceptually detailed picture if it had been studied.”). By 
+contrast, there was no evidence for the emotional enhancement hypothesis or the idea that 
+emotional misinformation might be better remembered than neutral misinformation and 
+hence have a larger effect on either of the two constructive mechanisms.
+Related to the idea of an emotional distinctiveness heuristic, in each experiment we also 
+found an overall tendency for fewer false alarms to negative lures, including those that had 
+been associated with perceptual misinformation, conceptual misinformation, or no 
+misinformation (nonstudied foils). Each of these effects is consistent with reduced impact of 
+concept fluency or familiarity on negative false recollections, potentially owing to a 
+distinctiveness heuristic because all lures could have been somewhat affected by concept 
+fluency including nonstudied foils that could be familiar from idiosyncratic conceptual or 
+semantic associations across items. Positive items did not consistently show this effect, 
+Doss et al.
+Page 14
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+potentially because these items were less arousing than negative items and/or because they 
+were more easily envisioned, as demonstrated in the analysis of clarity ratings for scrambled 
+pictures from the perceptual misinformation phase (see SM). The overall impact of a 
+distinctiveness heuristic may also have been greater for negative items because these items 
+elicited stronger recollections as demonstrated by a concurrent increase in hit rates and 
+recollection accuracy.
+To summarize, we found evidence that both perceptual recombination and conceptual 
+fluency can drive recollection errors of neutral and emotional events. We also found 
+evidence that an emotional distinctiveness heuristic can mitigate the impact of conceptual 
+fluency on recollection errors, but there was no evidence that an emotional distinctiveness 
+heuristic affected perceptual recombination. Outside of the lab, these results suggest that 
+detailed false recollections of negative events are more difficult to implant based on hearsay 
+or misleading statements alone, compared to the presentation of perceptual misinformation, 
+though certainly not impossible, as the effects of conceptual fluency were still quite apparent 
+regardless of how a memory is emotionally charged. These results indicate that emotion can 
+differentially impact the different constructive mechanisms that drive episodic recollection, 
+and they help to explain why emotion sometimes enhances and other times diminishes 
+memory distortion.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+References
+Bessette-Symons BA (2018). The robustness of false memory for emotional pictures. Memory, 26, 
+171–188. 10.1080/09658211.2017.1339091 [PubMed: 28625103] 
+Bowen HJ, Kark SM, & Kensinger EA (2018). NEVER forget: Negative emotional valence enhances 
+recapitulation. Psychonomics Bulletin & Review, 25, 870–891. 10.3758/s13423-017-1313-9
+Bookbinder SH, & Brainerd CJ (2016). Emotion and false memory: The context–content paradox. 
+Psychological Bulletin, 142, 1315–1351. 10.1037/bul0000077 [PubMed: 27748610] 
+Bookbinder SH, & Brainerd CJ (2017). Emotionally negative pictures enhance gist memory. Emotion, 
+17, 102–119. 10.1037/emo0000171 [PubMed: 27454002] 
+Brainerd CJ, Stein LM, Silveira RA, Rohenkohl G, & Reyna VF (2008). How does negative emotion 
+cause false memories? Psychological Science, 19, 919–925. 10.1111/j.1467-9280.2008.02177.x 
+[PubMed: 18947358] 
+Choi H-Y, Kensinger EA, & Rajaram S (2013). Emotional content enhances true but not false memory 
+for categorized stimuli. Memory & Cognition, 41, 403–15. 10.3758/s13421-012-0269-2 [PubMed: 
+23196385] 
+Cook GI, Hicks JL, & Marsh RL (2007). Source monitoring is not always enhanced for valenced 
+material. Memory & Cognition, 35, 222–230. 10.3758/BF03193443 [PubMed: 17645163] 
+Dodson CS, Bawa S, & Slotnick SD (2007). Aging, source memory, and misrecollections. Journal of 
+Experimental Psychology: Learning, Memory, and Cognition, 33, 169–181. 
+10.1037/0278-7393.33.1.169
+Doss MK (2018). Creating emotional false recollections: Perceptual recombination and conceptual 
+fluency mechanisms. 10.17605/OSF.IO/AZ7WP
+Doss MK, Bluestone MR, & Gallo DA (2016). Two mechanisms of constructive recollection: 
+Perceptual recombination and conceptual fluency. Journal of Experimental Psychology: Learning, 
+Memory, and Cognition, 42, 1747–1758. 10.1037/xlm0000273
+Doss et al.
+Page 15
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Doss MK, Picart JK, & Gallo DA (2018). The dark side of context: Context reinstatement can distort 
+memory. Psychological Science, 29, 914–925. 10.1177/0956797617749534 [PubMed: 29671680] 
+Duke D, Fiacconi CM, & Köhler S (2014). Parallel effects of processing fluency and positive affect on 
+familiarity-based recognition decisions for faces. Frontiers in Psychology, 5, 328. 10.3389/
+fpsyg.2014.00328 [PubMed: 24795678] 
+Farris EA, & Toglia MP (2018). Conjoint recognition procedures reveal verbatim processing enhances 
+memory for emotionally valenced pictorial stimuli. Emotion, advance online publication. 10.1037/
+emo0000458
+Gallo DA (2013). Retrieval expectations affect false recollection: Insights from a criterial recollection 
+task. Current Directions in Psychological Science, 22, 316–323. 10.1177/0963721413481472 
+[PubMed: 24659863] 
+Gallo DA, Foster KT, & Johnson EL (2009). Elevated false recollection of emotional pictures in young 
+and older adults. Psychology and Aging, 24, 981–988. 10.1037/a0017545 [PubMed: 20025411] 
+Gallo DA, & Roediger HL (2003). The effects of associations and aging on illusory recollection. 
+Memory & Cognition, 31, 1036–1044. 10.3758/BF03196124 [PubMed: 14704018] 
+Gong X, Xiao H, & Wang D (2016). Emotional valence of stimuli modulates false recognition: Using a 
+modified version of the simplified conjoint recognition paradigm. Cognition, 156, 95–105. 
+10.1016/j.cognition.2016.08.002 [PubMed: 27592144] 
+Kensinger EA (2009). Remembering the details: Effects of emotion. Emotion Review, 1, 99–113. 
+10.1177/1754073908100432 [PubMed: 19421427] 
+Kensinger EA, O’Brien JL, Swanberg K, Garoff-Eaton RJ, & Schacter DL (2007). The effects of 
+emotional content on reality-monitoring performance in young and older adults. 
+10.1037/0882-7974.22.4.752
+Kensinger EA, & Schacter DL (2006). Reality monitoring and memory distortion: Effects of negative, 
+arousing content. Memory & Cognition, 34, 251–260. 10.3758/BF03193403 [PubMed: 16752589] 
+Kurilla BP, & Westerman DL (2008). Processing fluency affects subjective claims of recollection. 
+Memory & Cognition, 36, 82–92. 10.3758/MC.36.1.82 [PubMed: 18323065] 
+Lampinen JM, Neuschatz JS, & Payne DG (1999). Source attributions and false memories: A test of 
+the demand characteristics account. Psychonomic Bulletin & Review, 6, 130135. 10.3758/
+BF03210820
+Lang PJ, Bradley MM, & Cuthbert BN (2008). International affective picture system (IAPS): Affective 
+ratings of pictures and instruction manual. Technical Report A-8. University of Florida, 
+Gainesville, FL.
+Lyle K, & Johnson M (2006). Importing perceived features into false memories. Memory, 14, 197–
+213. 10.1080/09658210544000060 [PubMed: 16484110] 
+MacKenzie G, Powell TF, & Donaldson DI (2015). Positive emotion can protect against source 
+memory impairment. Cognition and Emotion, 29, 236–250. 10.1080/02699931.2014.911145 
+[PubMed: 24784151] 
+Marchewka A, Żurawski Ł, Jednoróg K, & Grabowska A (2014). The Nencki Affective Picture System 
+(NAPS): Introduction to a novel, standardized, wide-range, high-quality, realistic picture database. 
+Behavior Research Methods, 46, 596–610. 10.3758/s13428-013-0379-1 [PubMed: 23996831] 
+Mather M (2007). Emotional arousal and memory binding: An object-based framework. Perspectives 
+on Psychological Science, 2, 33–52. 10.1111/j.1745-6916.2007.00028.x [PubMed: 26151918] 
+Pesta BJ, Murphy MD, & Sanders RE (2001). Are emotionally charged lures immune to false 
+memory? Journal of Experimental Psychology: Learning, Memory, and Cognition, 27, 328–38. 
+10.1037/0278-7393.27.2.328
+Rajaram S, & Geraci L (2000). Conceptual fluency selectively influences knowing. Journal of 
+Experimental Psychology: Learning, Memory, and Cognition, 26, 1070–1074. 
+10.1037/0278-7393.26.4.1070
+Reber R, Winkielman P, & Schwarz N (1998). Effects of perceptual fluency on affective judgments. 
+Psychological Science, 9, 45–48. 10.1111/1467-9280.00008
+Schacter DL, Gallo DA, & Kensinger EA (2007). The cognitive neuroscience of implicit and false 
+memories: Perspectives on processing specificity. In Nairne JS (Ed.), The Foundations of 
+Doss et al.
+Page 16
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Remembering: Essays in Honor of Henry L. Roediger, III (pp. 353–377). New York: Psychology 
+Press.
+Talmi D, & Moscovitch M (2004). Can semantic relatedness explain the enhancement of memory for 
+emotional words? Memory & Cognition, 32, 742–751. 10.3758/BF03195864 [PubMed: 
+15552351] 
+Van Damme I, & Smets K (2014). The power of emotion versus the power of suggestion: Memory for 
+emotional events in the misinformation paradigm. Emotion, 14, 310. 10.1037/a0034629 [PubMed: 
+24219394] 
+White CN, Kapucu A, Bruno D, Rotello CM, & Ratcliff R (2014). Memory bias for negative emotional 
+words in recognition memory is driven by effects of category membership. Cognition & Emotion, 
+28, 867–80. 10.1080/02699931.2013.858028 [PubMed: 24303902] 
+Whittlesea BWA (2002). Two routes to remembering (and another to remembering not). Journal of 
+Experimental Psychology: General, 131, 325–348. 10.1037/0096-3445.131.3.325 [PubMed: 
+12214750] 
+Yonelinas AP, & Ritchey M (2015). The slow forgetting of emotional episodic memories: An 
+emotional binding account. Trends in Cognitive Sciences, 19, 259–267. 10.1016/j.tics.2015.02.009 
+[PubMed: 25836045] 
+Zheng Z, Lang M, Wang W, Xiao F, & Li J (2018). Electrophysiological evidence for the effects of 
+emotional content on false recognition memory. Cognition, 179, 298–310. 10.1016/
+j.cognition.2018.06.013 [PubMed: 30064656] 
+Doss et al.
+Page 17
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 1. 
+Examples of both the intact and scrambled version of pictures from the stimulus set.
+Doss et al.
+Page 18
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 2. 
+False alarm rates (a) and memory accuracy (b) on the cued recollection task for each 
+emotional valence with pre-delay (Experiment 1) and post-delay (Experiment 2) 
+misinformation.
+Doss et al.
+Page 19
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 3. 
+High confidence (top two levels of confidence) false alarm rates on the cued recollection 
+task for each emotional valence with pre-delay (Experiment 1) and post-delay (Experiment 
+2) misinformation.
+Doss et al.
+Page 20
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Doss et al.
+Page 21
+Table 1.
+Average arousal ratings for labels and pictures during encoding phase, average clarity ratings for scrambled pictures during perceptual misinformation 
+phase, average arousal ratings for labels during conceptual misinformation phase, hit rates, false alarm rates, and memory accuracy (hit rate - false alarm 
+rates) for Experiment 1 (i.e., pre-delay misinformation). Mean [95% confidence interval].
+Perceptual
+Conceptual
+No Misinformation
+Negative
+Neutral
+Positive
+Negative
+Neutral
+Positive
+Negative
+Neutral
+Positive
+Enc Lab Aro Rating (targets)
+2.93 [2.63, 3.23]
+1.78 [1.59, 1.98]
+2.15 [1.90, 2.40]
+2.90 [2.59, 3.22]
+1.91 [1.68, 2.14]
+2.21 [1.95, 2.48]
+-
+-
+-
+Enc Lab Aro Rating (lures)
+2.82 [2.55, 3.09]
+1.83 [1.63, 2.03]
+2.18 [1.94, 2.43]
+2.83 [2.52, 3.14]
+1.84 [1.59, 2.08]
+2.22 [1.92, 2.52]
+-
+-
+-
+Enc Pic Aro Rating (targets)
+3.50 [3.23, 3.77]
+1.96 [1.72, 2.19]
+2.74 [2.46, 3.01]
+3.71 [3.42, 4.00]
+2.06 [1.79, 2.32]
+2.71 [2.39, 3.03]
+-
+-
+-
+Mis Rating (targets)
+3.46 [3.25, 3.68]
+3.42 [3.22, 3.61]
+3.67 [3.47, 3.86]
+3.31 [3.01, 3.61]
+1.87 [1.63, 2.11]
+2.42 [2.12, 2.72]
+-
+-
+-
+Mis Rating (lures)
+2.61 [2.40, 2.82]
+2.78 [2.58, 2.98]
+2.99 [2.79, 3.19]
+3.01 [2.72, 3.31]
+1.78 [1.56, 1.99]
+2.27 [1.99, 2.55]
+-
+-
+-
+Hit Rate
+.82 [.78, .86]
+.79 [.74, .84]
+.77 [.72, .82]
+.81 [.75, .87]
+.75 [69, .81]
+.74 [.67, .80]
+-
+-
+-
+FA Rate
+.24 [16, .31]
+.27 [.19, .34]
+.28 [.20, .36]
+.05 [.02, .08]
+.10 [.06, .14]
+.11 [.07, .14]
+.01 [.00, .02]
+.02 [.01, .03]
+.03 [.02, .04]
+Accuracy
+.59 [.52, .66]
+.52 [.44, .60]
+.49 [.42, .57]
+.76 [69, .83]
+.65 [.58, .72]
+.63 [.55, .70]
+-
+-
+-
+Hi Conf Hit Rate
+.65 [.59, .71]
+.57 [.50, .64]
+.59 [.52, .65]
+.67 [.61, .74]
+.55 [.48, .62]
+.55 [.48, .63]
+-
+-
+-
+Hi Conf FA Rate
+.09 [.05, .14]
+.11 [06, .16]
+.10 [.06, .15]
+.02 [.00, .03]
+.03 [.01, .05]
+.02 [.00, .04]
+.00 [.00, .01]
+.00 [.00, .01]
+.01 [.00, .01]
+Hi Conf Accuracy
+.56 [.50, .62]
+.46 [.39, .53]
+.48 [.42, .55]
+.66 [.59, .72]
+.53 [.45, .60]
+.54 [.46, .61]
+-
+-
+-
+Enc = encoding, Lab = label, Aro = arousal, Mis = misinformation, FA = false alarm, Hi Conf = high confidence.
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Doss et al.
+Page 22
+Table 2.
+Average arousal ratings for labels and pictures during encoding phase, average clarity ratings for scrambled pictures during perceptual misinformation 
+phase, average arousal ratings for labels during conceptual misinformation phase, hit rates, false alarm rates, and memory accuracy (hit rate - false alarm 
+rates) for Experiment 2 (i.e., post-delay misinformation). Mean [95% confidence interval].
+Perceptual
+Conceptual
+No Misinformation
+Negative
+Neutral
+Positive
+Negative
+Neutral
+Positive
+Negative
+Neutral
+Positive
+Enc Lab Aro Rating (targets)
+2.96 [2.74, 3.18]
+1.95 [1.76, 2.13]
+2.36 [2.16, 2.57]
+2.90 [2.65, 3.15]
+1.90 [1.69, 2.11]
+2.36 [2.06, 2.65]
+-
+-
+-
+Enc Lab Aro Rating (lures)
+3.02 [2.79, 3.25]
+1.91 [1.72, 2.09]
+2.28 [2.10, 2.47]
+2.96 [2.68, 3.23]
+2.00 [1.80, 2.20]
+2.44 [2.18, 2.69]
+-
+-
+-
+Enc Pic Aro Rating (targets)
+3.62 [3.37, 3.88]
+2.20 [1.99, 2.41]
+2.79 [2.54, 3.04]
+3.58 [3.26, 3.89]
+2.11 [1.87, 2.35]
+2.87 [2.53, 3.21]
+-
+-
+-
+Mis Rating (targets)
+3.03 [2.81, 3.24]
+3.11 [2.90, 3.32]
+3.26 [3.06, 3.46]
+3.14 [2.87, 3.41]
+1.98 [1.74, 2.21]
+2.45 [2.12, 2.79]
+-
+-
+-
+Mis Rating (lures)
+2.49 [2.26, 2.71]
+2.72 [2.50, 2.95]
+2.86 [2.61, 3.11]
+3.19 [2.94, 3.45]
+2.04 [1.79, 2.28]
+2.60 [2.29, 2.91]
+-
+-
+-
+Hit Rate
+.87 [.84, .91]
+.83 [.77, .88]
+.83 [.79, .88]
+.78 [.72, .83]
+.63 [.56, .71]
+.63 [.55, .71]
+-
+-
+-
+FA Rate
+.28 [.20, .36]
+.33 [.26, .40]
+.33 [.26, .40]
+.11 [.06, .17]
+.19 [.12, .25]
+.13 [.07, .18]
+.02 [.01, .04]
+.03 [.01, .05]
+.05 [.02, .08]
+Accuracy
+.59 [.50, .69]
+.50 [.41, .58]
+.50 [.42, .58]
+.66 [.58, .74]
+.45 [.35, .54]
+.50 [.41, .59]
+-
+-
+-
+Hi Conf Hit Rate
+.77 [.71, .83]
+.67 [.60, .75]
+.66 [.59, .73]
+.64 [.56, .71]
+.45 [.36, .54]
+.44 [.35, .53]
+-
+-
+-
+Hi Conf FA Rate
+.12 [.07, .16]
+.12 [.08, .17]
+.13 [.09, .17]
+.03 [.01, .06]
+.05 [.01, .09]
+.05 [.02, .08]
+.01 [.00, .01]
+.01 [.00, .03]
+.01 [.00, .02]
+Hi Conf Accuracy
+.65 [.57, .72]
+.55 [.47, .63]
+.53 [.45, .60]
+.60 [.52, .68]
+.40 [.30, .49]
+.39 [.30, .48]
+-
+-
+-
+Enc = encoding, Lab = label, Aro = arousal, Mis = misinformation, FA = false alarm, Hi Conf = high confidence.

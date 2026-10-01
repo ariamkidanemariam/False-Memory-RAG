@@ -1,0 +1,1443 @@
+Aging reduces veridical remembering but increases false
+remembering: Neuropsychological test correlates of remember–
+know judgments
+David P. McCabea,*, Henry L. Roediger IIIb, Mark A. McDanielb, and David A. Balotab
+a Department of Psychology, Colorado State University, Fort Collins, CO 80523-1876, United
+States
+bWashington University in St. Louis, United States
+Abstract
+In 1985 Tulving introduced the remember–know procedure, whereby subjects are asked to
+distinguish between memories that involve retrieval of contextual details (remembering) and
+memories that do not (knowing). Several studies have been reported showing age-related declines
+in remember hits, which has typically been interpreted as supporting dual-process theories of
+cognitive aging that align remembering with a recollection process and knowing with a familiarity
+process. Less attention has been paid to remember false alarms, or their relation to age. We
+reviewed the literature examining aging and remember/know judgments and show that age-related
+increases in remember false alarms, i.e., false remembering, are as reliable as age-related
+decreases in remember hits, i.e., veridical remembering. Moreover, a meta-analysis showed that
+the age effect size for remember hits and false alarms are similar, and larger than age effects on
+know hits and false alarms. We also show that the neuropsychological correlates of remember hits
+and false alarms differ. Neuropsychological tests of medial-temporal lobe functioning were related
+to remember hits, but tests of frontal-lobe functioning and age were not. By contrast, age and
+frontal-lobe functioning predicted unique variance in remember false alarms, but MTL functioning
+did not. We discuss various explanations for these findings and conclude that any comprehensive
+explanation of recollective experience will need to account for the processes underlying both
+remember hits and false alarms.
+Keywords
+Human memory; Episodic memory; Cognitive aging; Remember–know; Meta-analysis; Frontal
+functioning; Medial-temporal functioning; Signal detection
+Endel Tulving has made greater contributions to the study of retrieval processes than any
+other researcher. Tulving and Pearlstone (1966) distinguished between information available
+in memory (what is stored) and information that is accessible on a particular test (what is
+retrievable with certain cues). Although psychologists and neuroscientists would hope to
+determine all the information that is stored or available in memory, no techniques
+(psychological or physiological) can ever permit us to know for sure. Rather, our techniques
+only permit us to know what information is accessible on a particular test, with a certain set
+of cues, under specific encoding and retention conditions. The distinction between
+availability and accessibility seems widely (if not universally) accepted in writings of
+© 2008 Elsevier Ltd. All rights reserved.
+* Corresponding author. Tel.: +1 970 491 3018. david.mccabe@colostate.edu (D.P. McCabe)..
+NIH Public Access
+Author Manuscript
+Published in final edited form as:
+Neuropsychologia. 2009 September ; 47(11): 2164–2173. doi:10.1016/j.neuropsychologia.2008.11.025.
+
+cognitive psychologists, but it still has not penetrated all scientific fields of memory. The
+primary method of examining variations in accessibility is by changing retrieval cues during
+the test, for example, comparing free and cued recall (as in Tulving & Pearlstone, 1966).
+Certain types of cues greatly increase accessibility relative to free recall (e.g., category
+names for lists composed of category members), whereas other types of cues that would
+seem to be valid ones (e.g., items from the list used to cue other list items) can actually
+decrease accessibility (Slamecka, 1968).
+In the 1970s Tulving continued to pioneer the study of retrieval processes with a series of
+publications on the encoding specificity principle (e.g., Tulving & Thomson, 1973; among
+many others). Many experiments on encoding specificity involve the simultaneous
+manipulation of study conditions and test conditions. For example, one may have two
+encoding conditions (say A and B). Then test conditions are created such that one type of
+test is intended to match or recreate the encoding of the A condition (call it test condition A′)
+and another test condition is intended to re-arouse the encoding condition in B (test
+condition B′). In most experiments, when the test condition matches the encoding condition
+(A and A′; B and B′) performance is better than when the conditions mismatch (A and B′; B
+and A′). This outcome in many experiments caused Tulving and his colleagues to introduce
+the encoding specificity principle. Stated in brief, the idea is that encoding consists of
+certain features of an event being coded and represented in a memory trace; retrieval cues
+are effective to the extent that features extracted from the cue match or complement those in
+the trace (Tulving, 1983).
+Another key contribution by Tulving to the study of retrieval processes occurred in the
+1980s. Students of memory typically measure accessibility through a variety of methods
+(e.g., free recall, cued recall, recognition), with the implicit assumption seeming to be that
+the experience of retrieving a memory was much the same in all cases (or at least
+researchers did not make distinctions). However, in an important paper in 1985, Tulving
+argued that psychologists ought to study people's reported phenomenological experience
+while they retrieve events from memory. He argued that there could be at least two types of
+experience, remembering and knowing, and he developed a pioneering method to permit
+subjects to distinguish between the two states of conscious awareness during retrieval.
+Subjects reported that a retrieved experience was remembered if they could think back to the
+moment the experience occurred and recollect details of the event, or reported that the
+experience was one that they knew if it had occurred in the experiment but the precise
+moment of occurrence could not be recalled.
+As in other introspective techniques, instructions to the subjects matter greatly. Despite
+some disbelief from the scientific public, researchers soon worked out good instructions that
+subjects could readily understand (Gardiner, 1988; Rajaram, 1993), and a large body of
+research has now been conducted with the remember/know procedure with generally
+consistent results (see Gardiner, 2008, for a review).
+Tulving's (1985) remember/know distinction certainly qualifies as a seminal contribution in
+experimental psychology by any standard, with the paper garnering 838 citations through the
+end of 2007. This paper is the fourth most cited of Tulving's journal articles, with the three
+most cited papers being Tulving and Thomson (1973; 1470 total citations), Craik and
+Tulving (1975; 1463 total citations), and Tulving and Schacter (1990; 1040 total citations).
+The citation counts plotted by year (through 2007) for these three papers are shown in Fig.
+1. The figure makes clear that the three most highly cited Tulving papers were very
+influential very soon after publication and have been fairly constant in their influence or
+have waned a bit. However, the 1985 paper took some time after publication to catch on.
+Part of the reason for this initial indifference to the paper may have been that it was
+McCabe et al.
+Page 2
+
+published in Canadian Psychology, which has relatively few subscribers outside of Canada.
+It probably also took Gardiner's (1988) important replication and extension of Tulving's
+demonstration experiment to make the technique noticed. At any rate, the R/K procedure has
+had a steadily increasing number of citations since the mid-1990s as researchers became
+more interested in studying retrieval experience.
+Another major reason for the popularity of the remember–know procedure is the
+identification of remembering and knowing with distinct neural systems, or cognitive
+processes. Tulving (1985) suggested that remembering involved retrieval from the episodic
+memory system, whereas knowing reflected retrieval from the semantic memory system.
+More recently dual-process memory theorists have aligned remembering with a recollection
+process and knowing with a familiarity process1.
+1. False remembering
+The majority of published studies using the remember–know paradigm have primarily been
+concerned with recollection of studied events. One major exception to this generalization is
+the study of false memories for associatively related lures in the DRM paradigm (Deese,
+1959; Roediger & McDermott, 1995). Certainly one of the most dramatic findings in the
+false memory literature is that lures such as sleep that are strongly related to studied items
+(bed, rest, awake, tired, etc.) receive remember responses on recognition tests at levels that
+are often comparable to the hit rates for studied items. Although many explanations have
+been proposed for these high rates of false remembering for associatively related items (e.g.,
+Brainerd & Reyna, 2005; Lampinen, Meier, Arnal, & Leding, 2005; Roediger, Watson,
+Gallo, & McDermott, 2001), less attention has been paid to false remembering of ostensibly
+unrelated items on standard remember–know tests, which is typically low (e.g., ~3%
+according to Gardiner, Ramponi, & Richardson-Klavehn's, 2002 meta-analysis). Despite low
+levels of remember false alarms for unrelated lures, researchers have recently demonstrated
+systematic effects of false remember responses to unrelated distracters (e.g., response bias
+effects; Wixted & Stretch, 2004). Moreover, it has been noted that the very existence of
+remember false alarms is problematic for most dual-process theories of memory (Higham &
+Vokey, 2004; Wixted & Stretch, 2004), because dual-process theorists have argued that new
+items cannot truly be recollected because they were not actually studied (Eldridge, Sarfatti,
+& Knowlton, 2002; Yonelinas, Kroll, Dobbins, Lazzara, & Knight, 1998).
+There are two possible solutions to the problem posed by remember false alarms for dual-
+process theories of memory (Higham & Vokey, 2004). One solution is to assume that either
+a recollection or familiarity process can give rise to the experience of subjective
+recollection, i.e., remembering. Thus, recollective experience as captured by remember
+judgments could be caused by a recollection process or by strong feelings of familiarity.
+This idea has recently been incorporated into several strength-based dual-process theories
+(e.g., Rotello, Macmillan, & Reeder, 2004; Wixted & Stretch, 2004). Another possible
+solution, based on the notion that memory judgments are attributional in nature (Jacoby,
+Kelley, & Dywan, 1989), is to assume that recollective experience can be cued by a test item
+regardless of whether it was studied, provided the item acts as an effective retrieval cue (cf.,
+Tulving, 1974). For example, false remembering might be caused by confusions between
+test words and similar studied words (e.g., money was studied and cash was on the test), but
+false remembering may also result from source misattributions for items that are unrelated to
+studied items, e.g., when a new item cues recollection of an extra-experimental event that is
+erroneously misattributed to the study episode (McCabe & Geraci, in press). For example,
+1Because the distinction between systems and processes have blurred in recent years, we will refer to systems and process theories
+collectively as dual-process theories.
+McCabe et al.
+Page 3
+
+imagine the word trial was a lure on a remember–know recognition test, and that trial was
+also the clue for an answer in a crossword puzzle a subject had completed that morning,
+prior to the experiment. The subject may recollect thinking of synonyms or words related to
+trial, and misat-tribute that recollection to the study episode. Thus, according to this source
+misattribution explanation of remember false alarms, these responses reflect source memory
+errors (cf., Roediger et al., 2001), and these source confusions would be expected to increase
+with age (Johnson, Hashtroudi, & Lindsay, 1993). This hypothesis is similar to a recent
+proposal by Dodson and colleagues (Dodson, Bawa, & Slotnick, 2007; Dodson, Bawa, &
+Krueger, 2007), who have shown that age-related source memory impairments can be
+explained by misrecollection of sources, rather than declines in veridical recollection of
+sources.
+2. A meta-analysis of age-related changes in remember–know hits and false
+alarms
+It is well established that aging is related to declines in recollection of studied items as
+measured by so-called objective measures, including source memory (Johnson et al., 1993)
+and process dissociation estimates (Jennings & Jacoby, 1997). These measures are
+corroborated by subjective experience measures, such as memory characteristic
+questionnaires (Gallo & Roediger, 2003; Mather, Henkel & Johnson, 1997) and remember
+responses using the remember–know paradigm (Bastin & Van der Linden, 2003; Parkin &
+Walter, 1992). In most previous remember–know studies including older adults, the study
+has been motivated by dual-process memory explanations; therefore, the studies have
+focused on age difference in veridical remembering of studied items. However, because
+remember false alarms can be very informative with respect to understanding the memory
+processes related to recollection (Higham & Vokey, 2004), a systematic examination of age
+effects on false remembering could be informative with respect to understanding the nature
+of recollection. It is unclear whether aging typically influences remember false alarms in the
+standard remember/know paradigm, i.e., with unrelated lures, because these data typically
+have not been considered theoretically relevant by most authors, and thus, even when age
+differences in remember false alarms are reported, they are typically not discussed.
+In order to discover whether aging influences false remembering (in addition to veridical
+remembering) in standard remember/know recognition studies, we compared remember
+responses for studied and new items, i.e., remember hits and false alarms, for all published
+studies employing a standard (i.e., studied items and unrelated lures) remember/know
+recognition test with healthy younger and older adults. The average level of remember
+responses for both the unrelated lures and studied items are reported in Table 1. In all cases
+the values reported are raw percentages of remember hits and false alarms out of the total
+number of studied items or lures (see Appendix A for more details regarding study
+identification and inclusion criteria). As expected, the average level of remembering for
+studied items for younger adults across the 27 studies (weighted for sample size) was greater
+for younger adults, .542, than for older adults, .396. The robustness of this finding is evinced
+by comparing the number of studies in which younger adults show more remembering than
+older adults for studied items, with 23 of the 27 studies conforming to this pattern (with the
+other four showing the opposite pattern; Wilcoxon Signed Rank Z = 3.83, p < .001). More
+germane for present purposes are the remember false alarm data. Averaged across the 27
+studies, older adults had more than twice as many remember false alarms (.064) than did
+younger adults (.025). Although this mean difference is small compared to the mean
+difference in veridical remembering, this finding is quite reliable, with 25 of the 27 studies
+conforming to this pattern (the other two were ties; Wilcoxon Signed Rank Z = 4.03, p < .
+0001). A similar pattern was found for estimates of the proportion of remember responses
+out of the number of items called “old”, i.e., R/(R + K), with weighted means of .66 for
+McCabe et al.
+Page 4
+
+younger adults and .57 for older adults for hits, and .25 for younger adults and .37 for older
+adults for false alarms.
+In order to better assess the overall magnitude of age differences in veridical and false
+remembering in published studies, we conducted a meta-analysis of the studies that were
+included in Table 1.2 As shown in Fig. 2, the absolute magnitude of the effect size
+comparing older and younger adults remember response rates for veridical remembering (d
+= –.68) and false remembering (d = .61) were similar, i.e., they were both in the medium-
+large range based on Cohen's (1988) criteria, and the magnitude of the 95% confidence
+intervals overlapped (indicating that the effect size did not differ; see Table 2). These data
+can be contrasted with the smaller age effects for Know hits (d = .03) and false alarms (d = .
+36). Thus, based on our review of the extant remember–know literature, we can conclude
+that age-related effects on knowing are small, but age-related increases in false remembering
+are just as common, and just as large, as age-related decreases in veridical remembering.
+This remember mirror effect must be explained by any comprehensive account of age-
+related changes in retrieval experience.
+2.1. Neuropsychological correlates of age-related changes in memory performance
+Age-related declines in different indices of recollection, including source memory, process-
+dissociation estimates, and veridical remembering, have been linked to age-related declines
+in medial-temporal lobe and frontal-lobe functioning (Glisky, Polster, & Routhieaux, 1995;
+Glisky, Rubin, & Davidson, 2001; Henkel, Johnson, & DeLeonardis, 1998; Prull, Dawes,
+Martin, Rosenberg, & Light, 2006). Recent neuroanatomical and functional research
+indicate that frontal and medial-temporal systems that support memory function are affected
+by aging more than many other brain areas (see Buckner, Head, & Lustig, 2006, for a
+review). Moreover, a review of neuroimaging and patient data indicates that both medial-
+temporal lobes and frontal lobes are related to remembering (Skinner & Fernandes, 2007).
+These findings are consistent with the component-process model of episodic memory
+(Moscovitch, 1992; Moscovitch & Winocur, 1992), which proposes that the medial-
+temporal lobes are responsible for binding during encoding and cue-dependent retrieval of
+episodic memories, whereas the frontal lobes are involved in strategic aspects of both
+encoding and retrieval (Wheeler, Stuss, & Tulving, 1997), which includes specification of
+retrieval cues and post-retrieval monitoring, i.e., “working with memory” (Moscovitch &
+Winocur, 1992).
+Many researchers have adopted a neuropsychological test approach to examining the relative
+contributions of medial-temporal and frontal brain functioning to age-related changes in
+episodic memory (Butler, McDaniel, Dornburg, Price, & Roediger, 2004; Glisky et al.,
+1995, 2001; Henkel et al., 1998; Roediger & McDaniel, 2007). The general approach has
+been to examine whether there are different patterns of correlations between tests of frontal-
+lobe and medial-temporal lobe functioning, and different memory tasks or indices. For
+example, tests of medial-temporal lobe functioning have been found to be related to item
+recognition but not source recognition, whereas the opposite was true for frontal-lobe
+functioning (Glisky et al., 1995, 2001). More recently, age-related increases in false recall
+and false recognition have been shown to be related to frontal-lobe functioning, even when
+medial-temporal functioning was equivalent in the sample (Butler et al., 2004; Dornburg &
+McDaniel, 2006; Roediger & McDaniel, 2007; but see Balota et al., 1999).
+2Because variability could not be assessed for four of the published studies these were not included in the meta-analysis (see
+Appendix A for details).
+McCabe et al.
+Page 5
+
+The present study addresses the issue of age-related increase in false remembering on
+standard remember/know tests, and attempts to shed light on the neuropsychological test
+correlates of veridical and false remembering. Two different remember/know tests – one in
+which subjects saw or heard words at study and the other on which subjects read or
+generated words – were completed by each of over 200 subjects ranging in age from 18 to
+90 years. Additionally, several neuropsychological tests of FL and MTL functioning were
+administered. Our primary interest was in examining whether the neuropsychological
+correlates of veridical and false memory differed.
+3. Method
+3.1. Subjects
+Subjects were 202 adults (120 females) aged 18–90 from the Saint Louis metropolitan area
+who participated in this study as part of a larger study on aging and cognition (see McCabe,
+Roediger, McDaniel, Balota, & Hambrick, submitted for publication, for more details).
+Subjects were recruited from the Volunteers for Health participant pool which is maintained
+at the Washington University in St. Louis School of Medicine for purposes of screening and
+matching potential research participants with appropriate studies. Although age was a
+continuous variable, for purposes of presentation age was grouped in to three roughly equal
+numbers of subjects for data presentation purposes. Demographic characteristics for each of
+these groups are presented in Table 3. There were no significant differences for age groups
+for percentage of female subjects (59%), self-reported health (4.2), or number of years of
+education (15.2; all F's < 1.09). Age was positively correlated with the number of
+medications participants took on a regular basis (r = .46), and with Shipley vocabulary
+scores (r = .20; p's < .01). All subjects who were included in the analysis had a minimum of
+high school education and scored 26 or greater on the Mini Mental Status Exam (Folstein,
+Folstein, & McHugh, 1975; see Section 4 for exclusion criteria).
+3.2. General procedure
+Participants were tested in two sessions, each lasting approximately 2.5 h. The first session
+included the medial-temporal lobe and frontal-lobe tests, while the second session included
+the remember–know recognition tests, vocabulary test, and demographic questionnaire. The
+sessions were at least one week apart, but never more than three weeks apart. Other tests
+were included that are not reported as part of this study (see McCabe et al., submitted for
+publication for details).
+3.2.1. Frontal-lobe functioning—The frontal lobe (FL) functioning factor was based on
+five measures (Glisky et al., 1995), each of which taxed working memory, and has been
+shown to be related to the frontal lobes (e.g., see Glisky & Kong, 2008, p. 818, for a review
+of evidence for the relation between these tests and functioning of the frontal lobes). These
+tests included (1) the Wisconsin Card Sorting Test (WCST; Heaton, 1993; number of
+perseverative errors), (2) the verbal fluency task (using the letters F, A, and S; Thurstone,
+1938), (3) Mental Arithmetic from the WAIS (Wechsler, 1997a), (4) Mental Control from
+the WAIS (Wechsler, 1997a), and (5) Backward Digit Span from the WMS-3 (Wechsler,
+1997b).
+3.2.2. Medial-temporal lobe functioning—The medial-temporal lobe (MTL)
+functioning factor was based on three measures (Glisky et al., 1995), each of which requires
+cued recall or free recall, which engage medial-temporal brain areas (see Yonelinas et al.,
+2002). These included logical memory I (WMS-3; Wechsler, 1997b), verbal paired
+associates I (WMS-3; Wechsler, 1997b), and the California verbal learning test (CVLT; list
+1 recall; Delis, Kramer, Kaplan, and Ober, 2000).
+McCabe et al.
+Page 6
+
+3.2.3. Remember–know recognition tests—Two remember–know recognition tests
+were completed by each subject. The stimuli for the tests included a pool of 280 medium-
+frequency concrete nouns. Log word frequency based on the Lund and Burgess's HAL
+(1996) 131 million word database varied between 6.3 and 12.3 (M = 8.7, S.D. = 1.0)
+according to the English Lexicon Project database (Balota et al., 2007). Words ranged in
+length from four to eight letters (M = 5.2, S.D. = 1.2), and were high in concreteness (over
+550 according to the MRC Psycholinguistic Database; Wilson, 1988). All words were
+presented in 72-point Arial font at the center of a 19-in. computer screen.
+Half of the 280 words were randomly assigned to be used for the read–generate study-test
+condition (hereafter read–generate test) and the other half for see–hear study-test condition
+(hereafter see–hear test). The read–generate test was completed about an hour into the
+second session. For the read–generate test subjects studied 80 words at a rate of one word
+every five seconds. Half of the words were read intact, and the other half were generated
+from an anagram, randomly intermixed. In order to identify a word presented as an anagram
+subjects had to transpose two letters in the word that were underlined (e.g., SLIA). A
+practice phase involved having subjects study and complete 10 anagrams by writing down
+the corresponding intact words on an answer sheet that was provided. All subjects were able
+to do this perfectly.
+After completing the study episode subjects completed two tests, each of which included 20
+words that had been read intact, 20 that had been generated from anagrams, and 20 new
+words. The first test was a source memory test in which subjects were asked to determine,
+for each word, whether it had been read, generated, or was new (results from that test were
+reported in Lyle, McCabe, & Roediger, 2008, and will not be considered further here). For
+the second test, the remember–know test, subjects were asked to decide whether they had
+previously seen the word during the study period. If they had not seen the word, they were
+instructed to press a key marked “N”, to indicate the word was new. If they had seen the
+word in the study list, they were instructed to judge whether the word was recollected, in
+which case they pressed a key on the keyboard marked with an “R”, or if the word was
+studied but did not include recollective details, they should press a key marked with a “K”,
+to indicate that they “know” the word was presented. The term recollect was used instead of
+remember because the word recollect better describes the subjective experience of conscious
+recollection. The difference between recollect and know responses was closely based on the
+instructions by Rajaram (1993), and included examples of each dimension that could be
+used to provide a recollect response, and detailed examples of recollect and know
+experiences associated with normal daily activities.
+The see–hear study and test phase was the first task completed in the second session and was
+identical to the read–generate test with respect to materials and study and test procedures,
+except that half the studied items were viewed on a computer screen, and half were heard
+over headphones. Headphone volume was adjusted by each subject while listening to a
+practice list prior to study. For the see–hear study list one word was presented every three
+seconds. Subjects first completed a source test determining whether they heard or saw 40
+studied and 20 new words, followed by the RK test that included 40 different studied and
+new words.
+4. Results
+Results of statistical tests were significant at p < .01, unless otherwise noted. Because age
+was a continuous variable, age correlations are reported in addition to ANOVAs.
+McCabe et al.
+Page 7
+
+4.1. Neuropsychological test performance
+There were age-related changes in performance on all of the FL functioning tests except for
+mental arithmetic, though that difference was also in the expected direction (see Table 3).
+The FL functioning composite score was computed by entering the five frontal tests into a
+principal component analysis, which created a factor accounting for 48% of the variance in
+performance. The factor loadings for each test were as follows: WCST: –.63, verbal
+fluency: .60, mental arithmetic: .76, mental control: .76, backward digit span: .70. There
+were also age-related changes in performance on all of the MTL functioning tests. The MTL
+functioning composite score was computed in the same manner as the FL functioning
+composite, which created a single factor accounting for 63% of the variance in performance.
+The factor loadings for each test were as follows: logical memory: .80, verbal paired
+associates: .81, CVLT: .78. Each composite score is a z-score based on the tests comprising
+that factor. The contribution of each test to the z-score is weighted by the factor loading in
+the principal components analysis.
+4.2. Recognition test performance
+Table 4 displays the average percentage of remember and know responses for studied and
+new items for each age group for the read–generate and see–hear tests. We began our
+analyses by examining whether there was a generation effect for remember and know
+responses (i.e., generated hits minus intact hits for each response type). There was a
+generation effect for remember responses, such that generated items received more
+remember responses (M = .45) than read items (M = .32), t(201) = 8.62, but not for know
+responses (M = .38 for generated and .35 for read), t(201) = 1.90. However, the generation
+effect for remember responses was unrelated to age (r = –.10). Because the generation effect
+was not our primary interest in the current study, these data will not be considered further.
+As shown in Table 4, there was no age effect for know responses for studied items or new
+items on the read–generate test, but the pattern differed for remember responses. As shown
+in Fig. 3 (Panel A), collapsed across read and generated items, remember hits did not differ
+as a function of age; by contrast, there was an age effect for remember false alarms for new
+items (r = .32), indicating an age-related increase in false remembering. Performance for
+remember and know responses followed the same pattern for the see–hear condition, also
+shown in Table 4 and Fig. 3 (Panel B), with only the remember false alarms for new items
+showing a relation to age (r = .27).
+4.3. Recollection and familiarity estimates
+Recollection was estimated using remember d′, i.e., by calculating the distance between the
+average of the remember response distributions for studied and new items. Because data
+indicate that remember responses are normally distributed (at least under some
+circumstances; e.g., Rotello, Macmillan, Reeder, & Wong, 2005), this estimate is likely
+more appropriate than simply subtracting remember false alarms from remember hits
+(Yonelinas, 2002) or using A′ (Bunce, 2003), each of which assumes a rectangular
+distribution. Age was negatively correlated with Recollection for the read–generate test (r =
+–.37) and for the see–hear test (r = –.35). Familiarity was estimated using the independence
+remember–know (IRK) procedure (i.e., know/(1 – remember); see Yonelinas, 2002, for
+details). The IRK estimates were uncorrelated with age for the read–generate and see–hear
+tests. Thus, age was related to Recollection but not Familiarity for both analyses, and this
+was obviously driven by the age effects on false remembering because there was no age-
+related difference in hit remember responses.
+McCabe et al.
+Page 8
+
+4.4. Correlations between neuropsychological test performance and memory indices
+Because the patterns of performance on the two memory measures were the same (see Table
+4), and correlations did not differ, we converted each measure to standardized scores and
+combined them to create a single factor score for each subject. This composite measure
+allowed better precision in computing regression models and simplified presentation of the
+data.
+Table 5 shows the correlations between age, FL functioning and MTL functioning and each
+of the memory indices. For studied items the only significant correlation was between MTL
+functioning and remember hits (r = .29), with better MTL functioning performance
+associated with more remember hits, whereas for new items all three predictor variables
+were correlated with remember false alarms. FL functioning and MTL functioning were
+both associated with decreases in remember false alarms, whereas age was associated with
+an increase. FL functioning was associated with increases in know false alarms as well. In
+terms of the estimates of recollection and familiarity, age, FL functioning, and MTL
+functioning were all correlated with recollection, following the opposite pattern of that
+described for remember false alarms, but none of the predictors was correlated with the IRK
+estimate.
+4.5. Path model showing the effects of age, MTL, and FL functioning on remember hits and
+false alarms
+We conducted path analyses in order to examine whether Age, MTL functioning, and FL
+functioning accounted for unique variance in performance on remember hits, false alarms, or
+recollection (remember d′). Model A, predicting remember hits and false alarms, is shown in
+the top panel of Fig. 3. Age was negatively related to both MTL and FL functioning, which
+were correlated with one another. Of primary interest was the relation between MTL and FL
+functioning and remembering. MTL functioning was related to remember hits, FL
+functioning was not. By contrast, FL functioning was related to remember false alarms, but
+MTL functioning was not. Remember hits and false alarms were also correlated with one
+another, which is consistent with the notion that both of these measures share variance
+related to response criteria (see Wixted & Stretch, 2004). Age also accounted for unique
+variance in remember false alarms, even after controlling for MTL and FL functioning. Age
+was not related to remember hits. This path was not included in the model because there was
+no relation between these variables in the bivariate correlation (see Table 4) and inclusion of
+the path would have led to model saturation (i.e., there would be zero degrees of freedom in
+the model if that path were included).
+Using a minimum criterion for acceptability of fit as a CFI of .90 (Hu & Bentler, 1995), and
+a RMSEA of <.10 (Browne & Cudeck, 1993), the fit of Model A was good, χ2(1, N = 202) =
+1.03, CFI = 1.00, RMSEA = .013, p = .31). The overall age effect on remember hits was –.
+09, with a direct effect of .00 and an indirect effect of –.09 (through MTL and FL
+functioning). The overall age effect on remember false alarms was .31, with a direct effect
+of .20 and an indirect effect of .10. The finding that remember false alarms were related to
+FL functioning and age, even after controlling for remember hits, indicates that false
+remember responses were not simply the result of changes in the response criterion. If
+remember false alarms were simply a measure of response bias, as signal detection models
+of remembering and knowing suggest (Butler et al., 2004; Wixted & Stretch, 2004), then
+there should have been no unique variance in false remember responses associated with
+other measures after accounting for remember hits.
+Model B, shown in the bottom panel of Fig. 3, is essentially identical to Model A, except
+that recollection (remember d′) was the outcome measure, rather than remember hits and
+McCabe et al.
+Page 9
+
+false alarms. This model showed that both MTL and FL functioning were related to
+Recollection. However, because the model was saturated, model fit statistics could not be
+computed. Nonetheless, the model offers a graphical depiction of the intercorrelations
+between the variables, and shows that age, MTL functioning, and FL functioning, all make
+significant unique contributions to recollection. The overall age effect on recollection in the
+model was –.43, with a direct effect of –.23, and an indirect effect of –.21 (through MTL
+and FL functioning).
+5. General discussion
+In the current study, we reported data from two remember–know tests administered to a life
+span sample of adults (aged 18–90). The results from both tests, using similar materials but
+different encoding tasks, were consistent in showing age-related increases in false
+remembering (i.e., remember responses to new, unstudied items) despite the fact that no age
+differences existed in veridical remembering (i.e., remember responses for studied items).
+Despite the lack of age differences for veridical remembering, performance on a battery of
+tasks related to medial-temporal lobe functioning was positively correlated with veridical
+remembering. By contrast, false remembering was uniquely related to age and frontal-lobe
+functioning, in addition to being related to medial-temporal lobe functioning. Recollection
+(estimated using d′) declined with age, and increased with medial-temporal lobe functioning
+and frontal-lobe functioning, but Familiarity (estimated using the IRK procedure; Yonelinas,
+2002) was not related to age or neuropsychological functioning.
+In our review of aging studies employing the remember–know paradigm, we found that both
+veridical and false remembering were affected by age, such that aging decreases veridical
+remembering and increases false remembering. In a sense, these data are not surprising, but
+the finding that the age effects are of similar magnitude for veridical and false remembering
+is noteworthy, and perhaps unexpected. Another noteworthy finding from the meta-analysis
+is that the age effect on false remembering is larger than the age effect on false knowing
+responses. This is unexpected because it is commonly assumed that age-related increases in
+false alarms are driven by an over-reliance on familiarity in older adults resulting from
+declines in recollection (Buchler & Reder, 2007; Multhaup, 1995). However, the large age-
+related increase in false remembering coupled with the smaller age-related increase in false
+knowing suggests that the typical age-related increase in false alarms is due to older adults’
+increased likelihood of experiencing recollection for new, unstudied items (Jacoby, Bishara,
+Hessels, & Toth, 2005; Meade & Roediger, 2006). This finding is consistent with recent
+suggestions that age-related declines in memory performance are often related to
+misrecollection of features of studied events, rather than familiarity in the absence of
+recollection of studied events (Dodson, Bawa, & Krueger, 2007).
+6. Neuropsychological correlates of veridical and false remembering
+The finding that remember hits and false alarms had different neuropsychological test
+correlates indicates that different processes are involved in each type of response.
+Specifically, medial-temporal lobe functioning was the only variable included in this study
+that was correlated with remember hits. This is consistent with the idea that remember hits
+are dependent on an associative, cue-dependent memory system (Moscovitch, Fernandes, &
+Troyer, 2001). Interestingly, despite reasons to believe that remember hits should also be
+related to frontal-lobe functioning (e.g., Wheeler et al., 1997), this relationship failed to
+materialize in the present dataset (note though, that this lack of relation is not anomalous;
+Bastin & Van der Linden, 2003; Bunce & Macready, 2005; Perfect, Williams, & Anderton-
+Brown, 1995; Perfect & Dasgupta, 1997; Prull et al., 2006). Based on this finding, we
+believe that there is an increased reliance on FL functioning under conditions of uncertainty
+McCabe et al.
+Page 10
+
+at retrieval. For example, if a new item cues partial recollection of information from a
+context other than the study episode, FL functioning is important to determine whether that
+partial recollection arose from the study episode or some other non-experimental context. In
+this respect, remember false alarms appear to be particularly reliant on decision processes
+engaged at retrieval, whereas remember hits are much more likely to be based on
+information that is well bound to the study context, perhaps overshadowing individual
+differences related to decision processes, and therefore FL functioning, that might be
+involved.
+Several related explanations exist for how the frontal lobes are involved in retrieval. For
+example, some have argued that frontal functioning is important for specifying retrieval cues
+and/or monitoring the output of the medial-temporal lobe system (Moscovitch & Winocur,
+1992). With respect to understanding the role of frontal-lobe functioning in false
+remembering, it is important that retrieval cues match the study context if subjective
+recollection (i.e., remembering) is to be accurate. If retrieval is not appropriately constrained
+to the study episode (Jacoby et al., 2005; Tulving, 1983), new items can elicit recollective
+responses that may inappropriately be attributed to the study episode. This interpretation of
+the role of FL functioning in remember false alarms is consistent with the idea that these
+responses are source misattributions (McCabe & Geraci, in press), such that they reflect
+recollection of events from an episode other than the study session, in addition to
+recollection of items from the study session (cf., Roediger & McDermott, 1995). The finding
+that false remembering was uniquely related to frontal-lobe functioning and age underscores
+the importance of false remembering, even for unrelated lures, as a target of theoretical
+investigation. Indeed, false remembering will need to be explained by any comprehensive
+account of subjective recollection.
+We also estimated recollection and familiarity processes from the remember–know
+paradigm based on the methods proposed by Yonelinas (2002). The finding that neither age,
+nor neuropsychological functioning, was related to the IRK estimate of familiarity (or to
+know hits for that matter) is consistent with the notion that knowing is related to familiarity-
+based responding, rather than reflecting controlled processing. Alternatively, recollection
+was related to medial-temporal lobe functioning, frontal-lobe functioning, and age,
+supporting the notion that control processes underlie remembering. We should note too that
+the same pattern of relations with age and neuropsychological functioning was found for
+both recollection and false remembering, owing to the fact that the estimate of recollection
+incorporates remember false alarms. Thus, in estimating recollection, it appears that
+remembering for studied items does not give as accurate an estimate of the recollection
+process as does an estimate based on remember hits and remember false alarms.
+Because the lack of age differences in remember hits in the current study is an unusual
+finding, we next consider possible reasons for this result. First, it is important to note that the
+levels of veridical remembering were low in this study, as compared to other studies of
+aging and remember–know judgments. Averaged across the read–generate and see–hear
+tests the level of remember hits was .35 for younger adults, and .33 for older adults. This
+level of remember hits is lower than remember hit rates for younger adults in 24 of the 27
+studies reviewed in Table 1. Also note that the level of remembering for older adults in the
+current study is not unusual (.39, on average in the meta-analysis). Thus, our null age effect
+is probably related to a suppression of conscious recollection in young adults, rather than an
+enhancement of recollective experience for older adults. Support for this idea comes from a
+consideration of the relation between remember hits and age effect sizes from the meta-
+analysis. There was a clear relation between the level of younger adults’ remember hits and
+the age effect size, indicating that for studies in which the level of younger adults’ remember
+hits was lower, the magnitude of the age effect was smaller (r = –.43, p < .05; note that
+McCabe et al.
+Page 11
+
+larger age effects are larger negative numbers). By contrast, there was also a clear relation
+between older adults’ remember hits and the magnitude of the age effect, but in the opposite
+direction (r = .49, p < .05). That is, for studies in which older adults’ remember hits were
+lower, the magnitude of the age effect was greater.
+One possible reason that younger adults might have had lower than average levels of
+remember hits in the current study is that we used study lists that were longer than average
+(i.e., 80 words in our experiments), and longer list lengths are associated with lower levels
+of remembering in younger adults (cf., Cary & Reder, 2003). Another possibility is that
+having the source memory test prior to the remember–know test somehow biased
+responding or changed retrieval strategies on the remember–know test, though this seems
+unlikely based on research with younger adults showing the order of these tests has no effect
+on remembering and knowing (Wais, Mickes, & Wixted, 2008). A third possible reason is
+that the younger adults in this study were not college students, and thus, they may not have
+been as well practiced at remembering large amounts of information as younger adults in
+typical cognitive aging studies. Regardless of the exact reason for our lack of age differences
+in remember hits, a target for future research is to replicate the current findings using
+paradigms that reveal prototypical patterns of age differences in both remember hits and
+false alarms.
+7. Conclusions
+Tulving's (1985) introduction of the remember–know paradigm has sparked considerable
+interest and debate among psychologists and neuroscientists for over 20 years. The original
+theory proposed remembering and knowing as states of consciousness associated with
+distinct memory systems. We found some support for this idea, at least with regard to
+remembering, because recollection was correlated with medial-temporal lobe and frontal-
+lobe functioning. However, familiarity (as derived from knowing) was uncorrelated with
+neuropsychological test performance and age. The most noteworthy finding from the current
+study is that false remembering was most closely associated with neuropsychological
+functioning and age. Additionally, the meta-analysis of remember–know judgments shows
+that age affects veridical and false remembering to a similar degree, and more than it affects
+knowing. Indeed, the current study adds to the growing consensus that both veridical and
+false recollection must be explained by any comprehensive theory of memory.
+Appendix A. Methodology for meta-analysis of remember data from
+published studies
+Published studies using the remember–know procedure to compare healthy younger and
+older adults were identified by reviewing citations in existing papers, and by searching the
+PsycINFO database. PsycINFO searches included the term ‘aging’ with ‘remember’ and
+‘know’, and ‘aging’ with ‘recollective’, and ‘aging’ with ‘recollection’. The matches
+returned for these searches were then inspected to determine whether the study included a
+standard remember–know recognition test and at least one group of younger adults (under
+45 years of age), and a group of older adults (age 60 or older). The study was included in
+Table 1 if the percentage of remember responses was reported for both studied items and
+new items (or could be computed), and the remember false alarm rate was greater than zero
+for at least one age group. When necessary, levels of remembering were estimated by visual
+inspection of figures. Remember response levels were averaged across within-subject
+manipulations when necessary, and only responses for unrelated lures were included.
+Studies were included in the meta-analysis if they allowed an estimation of effect sizes for
+remember responses for studied or new items, either from standard deviations, standard
+McCabe et al.
+Page 12
+
+errors, or F or t values. In some cases these data were obtained by contacting the authors
+directly if the necessary statistics were not reported. We were able to obtain enough data to
+compute effect sizes for 24 of the 27 studies. Statistics for the effect size analysis are
+included in Table 2. There was substantial heterogeneity across the studies for remember
+hits (p < .00001) as evidenced by a significant Q statistic (the Q statistic is similar to a one-
+way ANOVA in terms of assessing variability across studies). However, we do not consider
+this finding to be problematic in the present analysis because we were interested only in
+estimating the overall effect size for age, and because all the studies included estimates of
+remember hits and false alarms for both age groups, all influences on performance are the
+same across hits and false alarms and response types. The Q statistic did not reach
+conventional significance levels for remember false alarms (p = .07). There was significant
+heterogeneity for know hits (p < .00001), but not for know false alarms as well.
+Because the variance measured by studies with larger sample sizes is more precise and can
+introduce bias in effect size analysis (Hedges & Olkin, 1985) we examined the correlations
+between sample size and effect size across studies as well. The correlations were not
+significant for remember hits (r = –.05) or false alarms (r = –.21), or for know hits (r = –.39)
+or false alarms (r = .36). Because false remember responses were near floor in many of the
+studies, and could potentially be biased by restriction of range (the range averaged across
+age groups was .02–.11), we also examined whether the effect sizes were related to the
+overall level of false remembering across studies. The correlation between effect size for
+false remembering and level of false remembering was not significant (r = .09). Thus, the
+effect sizes did not appear to be influenced greatly by the number of subjects in each study
+or the overall level of false remembering, indicating that the effect size equivalence for
+studied and new items was not an artifact of these factors.
+References
+Balota DA, Cortese MJ, Duchek JM, Adams D, Roediger HL, McDermott KB, et al. Veridical and
+false memories in healthy older adults and in dementia of the Alzheimer's type. Cognitive
+Neuropsychology. 1999; 16:361–384.
+Balota DA, Yap MJ, Cortese MJ, Hutchison KI, Kessler B, Loftis B, et al. The English Lexicon
+Project. Behavior Research Methods. 2007; 39:445–459. [PubMed: 17958156]
+Bastin C, Van der Linden M. The contribution of recollection and familiarity to recognition memory:
+A study of the effects of test format and aging. Neuropsychology. 2003; 17:14–24. [PubMed:
+12597069]
+Brainerd, CJ.; Reyna, VF. The science of false memory. Oxford University Press; New York: 2005.
+Browne, MW.; Cudeck, R. Alternative ways of assessing model fit.. In: Bollen, KA.; Long, JS.,
+editors. Testing structural equation models. Sage; Beverly Hills, CA: 1993. p. 136-162.
+Buckner, RL.; Head, D.; Lustig, C. Brain changes in aging: A lifespan perspective.. In: Craik, FIM.;
+Bialystok, E., editors. Lifespan cognition: Mechanisms of change. Oxford University Press; New
+York: 2006.
+Buchler NEG, Reder LM. Modeling age-related memory deficits: A two-parameter solution.
+Psychology and Aging. 2007; 22:104–121. [PubMed: 17385988]
+Bugaiska A, Clarys D, Jarry C, Taconnat L, Tapia G, Vanneste S, et al. The effect of aging in
+recollective experience: The processing speed and executive functioning hypothesis. Consciousness
+and Cognition. 2007; 16:797–808. [PubMed: 17251040]
+Bunce D. Cognitive support at encoding attenuates age differences in recollective experience among
+adults of lower frontal lobe function. Neuropsychology. 2003; 17:353–361. [PubMed: 12959501]
+Bunce D, Macready A. Processing speed, executive function, and age differences in remembering and
+knowing. The Quarterly Journal of Experimental Psychology. 2005; 58A:155–168. [PubMed:
+15881296]
+McCabe et al.
+Page 13
+
+Butler KM, McDaniel MA, Dornburg CC, Price AL, Roediger HL. Age differences in veridical and
+false recall are not inevitable: The role of frontal lobe function. Psychonomic Bulletin & Review.
+2004; 11:921–925. [PubMed: 15732704]
+Cary M, Reder LM. A dual-process account of the list-length and strength-based mirror effects in
+recognition. Journal of Memory and Language. 2003; 49:231–248. [PubMed: 18516247]
+Clarys D, Isingrini M, Gana K. Mediators of age-related differences in recollective experience in
+recognition memory. Acta Psychologica. 2002; 109:315–329. [PubMed: 11881906]
+Cohen, J. Statistical power analysis for the behavioral sciences. 2nd ed.. Lawrence Earlbaum
+Associates; Hillsdale, NJ: 1988.
+Comblain C, D'Argembeau A, Van der Linden M, Aldenhoff L. Impact of ageing on the recollection
+of emotional and neutral pictures. Memory. 2004; 12:673–684. [PubMed: 15724356]
+Craik FIM, Tulving E. Depth of processing and the retention of words in episodic memory. Journal of
+Experimental Psychology: General. 1975; 104:268–294.
+D'Argembeau A, Van der Linden M. Phenomenal characteristics associated with projecting oneself
+back into the past and forward into the future: Influence of valence and temporal distance.
+Consciousness and Cognition. 2004; 13:844–858. [PubMed: 15522635]
+Deese J. On the prediction of occurrence of particular verbal instructions in immediate recall. Journal
+of Experimental Psychology. 1959; 58:17–22. [PubMed: 13664879]
+Delis, DC.; Kramer, JH.; Kaplan, E.; Ober, BA. The California verbal learning test. 2nd ed.. The
+Psychological Corporation; San Antonio, TX: 2000.
+Dodson CS, Bawa S, Krueger LE. Aging, metamemory, and high-confidence errors: A misrecollection
+account. Psychology and Aging. 2007; 22:122–133. [PubMed: 17385989]
+Dodson CS, Bawa S, Slotnick SD. Aging, source memory, and misrecollections. Psychology and
+Aging. 2007; 33:169–181.
+Dornburg CC, McDaniel MA. The cognitive interview enhances long-term free recall of older adults.
+Psychology and Aging. 2006; 21:196–200. [PubMed: 16594805]
+Duarte A, Henson RN, Graham KS. The effects of aging on the neural correlates of subjective and
+objective recollection. Cerebral Cortex. 2008; 18:2169–2180. [PubMed: 18165281]
+Duarte A, Ranganath C, Trujillo C. Intact recollection memory in high-performing older adults: ERP
+and behavioral evidence. Journal of Cognitive Neuroscience. 2006; 18:33–47. [PubMed:
+16417681]
+Eldridge LL, Sarfatti S, Knowlton BJ. The effect of testing procedure on remember–know judgments.
+Psychonomic Bulletin & Review. 2002; 9:139–145. [PubMed: 12026946]
+Folstein MF, Folstein SE, McHugh PR. Mini-mental state: A practical method for grading the
+cognitive state of patients for the clinician. Journal of Psychiatric Research. 1975; 12:189–198.
+[PubMed: 1202204]
+Friedman D, Trott C. An event-related potential study of encoding in young and older adults.
+Neuropsycholgia. 2000; 38:542–557.
+Gallo DA, Roediger HL. The effects of associations and aging on illusory recollection. Memory &
+Cognition. 2003; 31:1036–1044.
+Gardiner, JM. Remembering and knowing.. In: Roediger, HL., III; Byrne, J., editors. Cognitive
+psychology of memory, Vol. 2 of learning and memory: A comprehensive reference. Vol. 4.
+Elsevier; Oxford: 2008. p. 285-305.
+Gardiner JM. Functional aspects of recollective experience. Memory & Cognition. 1988; 16:309–313.
+Gardiner JM, Ramponi C, Richardson-Klavehn A. Recognition memory and decision processes: A
+meta-analysis of remember, know, and guess responses. Memory. 2002; 10:83–98. [PubMed:
+11798439]
+Glisky EL, Polster MR, Routhieaux BC. Double dissociation between item and source memory.
+Neuropsychology. 1995; 9:229–235.
+Glisky EL, Rubin SR, Davidson PS. Source memory in older adults: An encoding or retrieval
+problem? Journal of Experimental Psychology: Learning, Memory and Cognition. 2001; 27:1131–
+1146.
+McCabe et al.
+Page 14
+
+Glisky EL, Kong LL. Do young and older adults rely on different processes in source memory tasks?
+A neuropsychological study. Journal of Experimental Psychology: Learning, Memory, and
+Cognition. 2008; 34:809–822.
+Heaton, RK. Wisconsin card sorting test: Computer version. 2nd research ed.. Psychological
+Assessment Resources; Odessa, FL: 1993.
+Hedges, LV.; Olkin, I. Statistical methods for meta-analysis. Academic Press; Orlando: 1985.
+Henkel LA, Johnson MK, De Leonardis DM. Aging and source monitoring: Cognitive processes and
+neuropsychological correlates. Journal of Experimental Psychology: General. 1998; 127:251–268.
+[PubMed: 9742716]
+Higham PA, Vokey JR. Illusory recollection and dual-process models of recognition memory.
+Quarterly Journal of Experimental Psychology. 2004; 57A:714–744. [PubMed: 15204130]
+Hu, L-T.; Bentler, P. Evaluating model fit.. In: Hoyle, RH., editor. Structural equation modeling.
+Concepts, issues, and applications. Sage; London: 1995. p. 76-99.
+Jacoby LL, Bishara AJ, Hessels S, Toth JP. Aging, subjective experience, and cognitive control:
+Dramatic false remembering by older adults. Journal of Experimental Psychology: General. 2005;
+134:131–148. [PubMed: 15869342]
+Jacoby, LL.; Kelley, CM.; Dywan, J. Memory attributions.. In: Roediger, HL.; Craik, FIM., editors.
+Varieties of memory and consciousness: Essays in honour of Endel Tulving. Erlbaum; Hillsdale,
+NJ: 1989. p. 391-422.
+Jennings JM, Jacoby LL. An opposition procedure for detecting age-related deficits in recollection:
+Telling effects of repetition. Psychology and Aging. 1997; 12:352–361. [PubMed: 9189995]
+Johnson MK, Hashtroudi S, Lindsay DS. Source monitoring. Psychological Bulletin. 1993; 114:3–28.
+[PubMed: 8346328]
+Lampinen JM, Meier C, Arnal JA, Leding JK. Compelling untruths: Content borrowing and vivid false
+memories. Journal of Experimental Psychology: Learning, Memory and Cognition. 2005; 31:954–
+963.
+Lövdén M, Rönnlund M, Nilsson L-G. Remembering and knowing in adulthood: Effects of enacted
+encoding and relations to processing speed. Aging, Neuropsychology and Cognition. 2002; 9:184–
+200.
+Lyle KB, McCabe DP, Roediger HL. Handedness is related to memory via hemispheric interaction:
+Evidence from paired associate recall and source memory tasks in an adult lifespan sample.
+Neuropsychology. 2008; 22:523–530. [PubMed: 18590363]
+Lund K, Burgess C. Producing high-dimensional semantic spaces from lexical co-occurrence.
+Behavior Research Methods, Instruments, & Computers. 1996; 28:203–208.
+Mantyla T. Knowing but not remembering: Adult age differences in recollective experience. Memory
+& Cognition. 1993; 21:379–388.
+Mather M, Henkel LA, Johnson MK. Evaluating the characteristics of false memories: Remember/
+know judgments and memory characteristics questionnaire compared. Memory & Cognition.
+1997; 25:826–837.
+McCabe DP, Geraci L. The role of extra-list associations in false remembering: A source
+misattribution account. Memory & Cognition. in press.
+McCabe, DP.; Roediger, HL.; McDaniel, MA.; Balota, DA.; Hambrick, DZ. The relationship between
+working memory capacity and executive functioning: Converging evidence for a common
+executive attention construct. submitted for publication
+Moscovitch M. Memory and working-with-memory: A component process model based on modules
+and central systems. Journal of Cognitive Neuroscience. 1992; 4:257–267.
+Moscovitch, M.; Fernandes, MA.; Troyer, A. Working-with memory and cognitive resources: A
+component-process account of divided attention and memory.. In: Naveh-Benjamin, M.;
+Moscovitch, M.; Roediger, HL., editors. Perspectives on human memory and cognitive aging.
+Psychology Press; New York: 2001. p. 171-192.
+Meade ML, Roediger HL. The effect of forced recall on illusory recollection in younger and older
+adults. American Journal of Psychology. 2006; 119:433–462. [PubMed: 17061694]
+Moscovitch, M.; Winocur, G. The neuropsychology of memory and aging.. In: Craik, FIM.; Salthouse,
+TA., editors. The handbook of aging and cognition. Erlbaum; Hillsdale, NJ: 1992. p. 315-372.
+McCabe et al.
+Page 15
+
+Multhaup KS. Aging, source, and decision criteria: When false fame errors do and do not occur.
+Psychology & Aging. 1995; 10:492–497. [PubMed: 8527069]
+Norman KA, Schacter DL. False recognition in young and older adults: Exploring the characteristics
+of illusory memories. Memory & Cognition. 1997; 25:838–848.
+Parkin AJ, Walter BM. Recollective experience, normal aging, and frontal dysfunction. Psychology
+and Aging. 1992; 7:290–298. [PubMed: 1610518]
+Perfect TJ, Dasgupta ZRR. What underlies the deficit in reported recollective experience in old age?
+Memory & Cognition. 1997; 25:849–858.
+Perfect TJ, Williams RB, Anderton-Brown C. Age differences in reported recollective experience are
+due to encoding effects, not response bias? Memory. 1995; 3:169–186. [PubMed: 7796303]
+Prull MW, Dawes LL, Martin AM, Rosenberg HF, Light LL. Recollection and familiarity in
+recognition memory: Adult age differences and neuropsychological test correlates. Psychology
+and Aging. 2006; 21:107–118. [PubMed: 16594796]
+Rajaram S. Remembering and knowing: Two means of access to the personal past. Memory &
+Cognition. 1993; 21:89–102.
+Roediger, HL.; McDaniel, MA. Illusory recollections in older adults: Testing Mark Twain's
+conjecture.. In: Garry, M.; Hayne, H., editors. Do justice and let the sky fall: Elizabeth F. Loftus
+and her contributions to science, law, and academic freedom. Erlbaum; Hillsdale, NJ: 2007. p.
+105-136.
+Roediger HL, McDermott KB. Creating false memories: Remembering words not presented in lists.
+Journal of Experimental Psychology: Learning, Memory, & Cognition. 1995; 21:803–814.
+Roediger HL, Watson JM, McDermott KB, Gallo DA. Factors that determine false recall: A multiple
+regression analysis. Psychonomic Bulletin & Review. 2001; 8:385–407. [PubMed: 11700893]
+Rotello CM, Macmillan NA, Reeder JA. Sum-difference theory of remembering and knowing: A two-
+dimensional signal detection model. Psychological Review. 2004; 111:588–616. [PubMed:
+15250777]
+Rotello CM, Macmillan NA, Reeder JA, Wong M. The remember response: Subject to bias, graded,
+and not a process-pure indicator of recollection. Psychonomic Bulletin & Review. 2005; 12:865–
+873. [PubMed: 16524003]
+Schacter DL, Koutstaal W, Johnson MK, Gross M, Angell KA. False recollection induced via
+photographs: A comparison of older and younger adults. Psychology and Aging. 1997; 12:203–
+215. [PubMed: 9189980]
+Skinner E, Fernandes MA. Neural correlates of Remembering and Knowing at retrieval: a review of
+neuroimaging and patient data. Neuropsychologia. 2007; 45:2163–2179. [PubMed: 17445844]
+Slamecka NJ. An examination of trace storage in free recall. Journal of Experimental Psychology.
+1968; 76:504–513. [PubMed: 5650563]
+Thurstone, LL. Psychometric Monographs, No. 1. University of Chicago Press; Chicago: 1938.
+Primary mental abilities..
+Tulving E. Cue-dependent forgetting. American Scientist. 1974; 62:74–82.
+Tulving, E. Elements of episodic memory. Oxford University Press; New York: 1983.
+Tulving E. Memory and consciousness. Canadian Psychology. 1985; 26:1–12.
+Tulving E, Pearlstone Z. Availability versus accessibility of information in memory for words. Journal
+of Verbal Learning and Verbal Behavior. 1966; 5:381–391.
+Tulving E, Thomson DM. Encoding specificity and retrieval processes in episodic memory.
+Psychological Review. 1973; 80:352–373.
+Tulving E, Schacter DL. Priming and human memory systems. Science. 1990; 247:301–306.
+[PubMed: 2296719]
+Wais PE, Mickes L, Wixted JT. Remember/know judgments probe degrees of recollection. Journal of
+Cognitive Neuroscience. 2008; 20:400–405. [PubMed: 18004949]
+Wechsler, D. Wechsler adult intelligence scale. 3rd ed.. The Psychological Corporation; San Antonio,
+TX: 1997a.
+Wechsler, D. WAIS-III/WMS-III technical manual. The Psychological Corporation; San Antonio, TX:
+1997b.
+McCabe et al.
+Page 16
+
+Wheeler MA, Stuss DT, Tulving E. Toward a theory of episodic memory: The frontal lobes and
+autonoetic consciousness. Psychological Bulletin. 1997; 121:331–354. [PubMed: 9136640]
+Wilson MD. The MRC psycholinguistic database: Machine readable dictionary, version 2. Behavioral
+research methods. Instruments and Computers. 1988; 20:6–11.
+Wixted JT, Stretch V. In defense of the signal-detection interpretation of remember/know judgments.
+Psychonomic Bulletin & Review. 2004; 11:616–641. [PubMed: 15581116]
+Yonelinas AP. The nature of recollection and familiarity: A review of 30 years of research. Journal of
+Memory and Language. 2002; 46:441–517.
+Yonelinas AP, Kroll NEA, Dobbins IG, Lazzara M, Knight RT. Recollection and familiarity deficits in
+amnesia: Convergence of remember/know, process dissociation, and receiver operating
+characteristic data. Neuropsychology. 1998; 12:1–17.
+Yonelinas AP, Kroll NE, Quamme JR, Lazzara MM, Sauvé MJ, Widaman KF, et al. Effects of
+extensive temporal lobe damage or mild hypoxia on recollection and familiarity. Nature
+Neuroscience. 2002; 5:1236–1241.
+McCabe et al.
+Page 17
+
+Fig. 1.
+Number of citations for Tulving and Thomson (1973), Craik and Tulving (1975), Tulving
+and Schacter (1990) and Tulving (1985) plotted by year of citations..
+McCabe et al.
+Page 18
+
+Fig. 2.
+Weighted mean effect size for age group (older adult minus younger adult) for remember
+and know hits and false alarms. Note that the effect size for remember hits is negative,
+representing less remembering for older adults. Error bars represent 95% confidence
+intervals.
+McCabe et al.
+Page 19
+
+Fig. 3.
+Path analysis models examining the relation between (A) age, medial-temporal lobe
+functioning, frontal-lobe functioning, and remember hits and remember false alarms, and
+(B) age, medial-temporal lobe functioning, frontal-lobe functioning, and recollection. Note
+that solid lines indicate a significant correlation, dotted lines indicate a non-significant
+correlation.
+McCabe et al.
+Page 20
+
+McCabe et al.
+Page 21
+Table 1
+Average percentage of remember and know hits and false alarms (FAs) in published studies using the remember–know procedure with younger (YA) and
+older adults (OA).
+Remember
+Know
+Hits
+FAs
+Hits
+FAs
+YA
+OA
+YA
+OA
+YA
+OA
+YA
+OA
+Parkin and Walter (1992; Expt 1)a
+.52
+.20
+.00
+.01
+.24
+.49
+.03
+.08
+Parkin and Walter (1992; Expt 2)a
+.37
+.12
+.02
+.02
+.44
+.59
+.04
+.06
+Mantyla (1993; Expt 1)
+.54
+.26
+.05
+.05
+.12
+.10
+.02
+.03
+Mantyla (1993; Expt 2)
+.43
+.24
+.03
+.05
+.11
+.19
+.03
+.04
+Perfect et al. (1995; Expt 1)
+.53
+.18
+.05
+.07
+.13
+.53
+.05
+.03
+Perfect et al. (1995; Expt 2a; Shallow LOP)
+.40
+.34
+.00
+.03
+.09
+.20
+.05
+.05
+Perfect et al. (1995; Expt 2a; Deep LOP)
+.68
+.69
+.01
+.02
+.15
+.08
+.01
+.01
+Perfect et al. (1995; Expt 2b)
+.76
+.25
+.01
+.03
+.10
+.39
+.02
+.08
+Norman and Schacter (1997; Expt 1; Explanation)
+.54
+.55
+.01
+.10
+.05
+.22
+.07
+.10
+Norman and Schacter (1997; Expt 1; No Explanation)
+.53
+.51
+.01
+.05
+.04
+.21
+.06
+.06
+Perfect and Dasgupta (1997)
+.74
+.48
+.02
+.08
+.22
+.22
+.05
+.09
+Schacter, Koutstaal, Johnson, Gross, and Angell (1997; Expt 1; 3 repetitions)
+.63
+.47
+.02
+.03
+.14
+.15
+.06
+.06
+Schacter et al. (1997; Expt 2)
+.55
+.35
+.05
+.11
+.16
+.14
+.17
+.17
+Friedman and Trott (2000) a
+.50
+.43
+.02
+.06
+.22
+.23
+.04
+.06
+Lovden, Ronnlund, and Nilsson (2002)b
+.77
+.53
+.02
+.06
+.15
+.13
+.05
+.08
+Clarysetal. (2002)b
+.72
+.52
+.07
+.10
+.10
+.33
+.05
+.09
+Bastin and Van der Linden (2003)
+.40
+.30
+.04
+.10
+.14
+.13
+.11
+.17
+Bunce (2003) c
+.49
+.38
+.02
+.02
+.21
+.42
+.03
+.04
+Comblain, D'Argembeau, Van der Linden, and Aldenhoff (2004)
+.57
+.33
+.01
+.03
+.09
+.24
+.04
+.08
+D'Argembeau and Van der Linden (2004)
+.49
+.40
+.08
+.15
+.10
+.22
+.11
+.17
+Bunce and Macready (2005)
+.55
+.49
+.00
+.02
+.22
+.27
+.01
+.05
+Duarte, Ranganath, and Trujillo (2006)
+.59
+.53
+.04
+.10
+.12
+.17
+.15
+.17
+Prulletal. (2006)
+.58
+.36
+.02
+.08
+.14
+.33
+.07
+.14
+Bugaiska et al. (2007)
+.30
+.18
+.02
+.03
+.16
+.29
+.06
+.07
+
+McCabe et al.
+Page 22
+Remember
+Know
+Hits
+FAs
+Hits
+FAs
+YA
+OA
+YA
+OA
+YA
+OA
+YA
+OA
+Parks (2007)
+.41
+.31
+.01
+.04
+.15
+.17
+.10
+.13
+Duarte et al. (2008)
+.54
+.59
+.02
+.08
+.19
+.26
+.11
+.17
+Skinner and Fernandes (in press)
+.35
+.40
+.03
+.15
+.21
+.30
+.11
+.15
+Mean
+.536
+.385
+.025
+.062
+.245
+.267
+.063
+.090
+Mean weighted by sample size
+.542
+.396
+.025
+.064
+.260
+.258
+.064
+.096
+aThis study was not included in the meta-analysis reported in Table 2 because effect sizes could not be calculated for remember hits or false alarms.
+bWeighted average of the two oldest groups.
+cNote that in OA Mean, combining high- and low-frontal groups (.023), was greater than the YA Mean (.016), though both round to .02.
+
+McCabe et al.
+Page 23
+Table 2
+Effect sizes for remember and know hits and false alarms in published studies comparing younger adults (YA) and older adults (OA) using the
+remember–know paradigm.
+Item and response type
+k
+YA, N
+OA, N
+d
+95% CI
+Qw
+LL
+UL
+Remember hits
+24
+674
+711
+–.68
+–.57
+–.78
+100.17
+Remember false alarms
+24
+674
+711
+.61
+.50
+.72
+32.52
+Know hits
+24
+674
+711
+.03
+–.08
+.14
+147.18
+Know false alarms
+24
+674
+711
+.36
+.26
+.47
+30.34
+k: # of studies; N: number of subjects; d: Cohen's d (effect size); CI: confidence interval; LL: lower limit; UL: upper limit; QW: Cochran's Q.
+
+McCabe et al.
+Page 24
+Table 3 Demographic characteristics and neuropsychological test performance.
+Variable
+Age group
+Age, r
+Younger
+Middle-age
+Older
+N
+67
+67
+68
+Age
+30.0 (7.5)
+53.6 (6.4)
+77.0 (6.8)
+Age range
+18–42
+43–64
+65–90
+% females
+61
+58
+57
+Education (high school = 12)
+15.3 (2.3)
+15.4 (2.5)
+15.0 (2.9)
+–.01
+Self-reported health (max = 5)
+4.3 (0.9)
+4.2 (0.8)
+4.1 (0.6)
+–.09
+No. of medications
+0.9 (l.3)
+1.6 (1.7)
+3.0 (2.4)
+.46
+Shipley vocabulary (max = 40)
+33.0 (4.1)
+34.0 (3.6)
+34.5 (3.4)
+.20
+Frontal-lobe functioning (FLF) tests
+ Backward digit span
+7.9 (2.5)
+8.0 (2.6)
+6.9 (2.2)
+–.18
+ Mental arithmetic
+13.3 (2.8)
+14.0 (3.0)
+12.4 (3.0)
+– .11
+ Mental control
+30.7 (4.2)
+29.0 (5.1)
+26.0 (5.2)
+–.35
+ Verbal fluency (FAS)
+46.3 (11.3)
+42.3 (12.4)
+39.2 (10.5)
+–.18
+ Wisconsin card sorting
+18.0 (7.3)
+24.9 (13.6)
+37.8 (16.1)
+.54
+FLF composite
+.39 (0.78)
+.23 (0.96)
+–.62 (–0.95)
+–.39
+Medial-temporal lobe functioning (MTLF) tests
+ Logical memory
+32.6 (7.3)
+31.8 (6.6)
+28.9 (7.3)
+–.22
+ Verbal paired associates
+23.4 (6.7)
+19.7 (9.2)
+16.5 (7.9)
+–.35
+ California verbal learning test
+8.2 (2.3)
+7.8 (1.8)
+6.4 (2.0)
+–.22
+MTLF composite
+.36 (1.03)
+.17 (0.88)
+–.52 (–0.87)
+–.38
+
+McCabe et al.
+Page 25
+Table 4
+Remembering and knowing.
+Item and response types
+Age group
+Younger
+Middle
+Older
+age r
+Read–generate test
+ Studied
+ Remember
+.39 (.02)
+.40 (.03)
+.37 (.02)
+–.02
+ Know
+.36 (.02)
+.36 (.03)
+.39 (.03)
+.02
+ Overall
+.75 (.02)
+.76 (.02)
+.75 (.02)
+.00
+ New
+ Remember
+.04 (.01)
+.09 (.01)
+.11 (.01)
+.32*
+ Know
+.21 (.02)
+.24 (.02)
+.26 (.02)
+.09
+ Overall
+.25 (.02)
+.33 (.03)
+.36 (.02)
+.23*
+ Recollection and familiarity estimates
+ Recollection: Remember d′
+1.62 (.08)
+1.28 (.08)
+.99 (.08)
+.37*
+ Familiarity: IRK
+.60 (.03)
+.59 (.03)
+.58 (.03)
+.05
+See–hear test
+ Studied
+ Remember
+.31 (.02)
+.31 (.02)
+.29 (.02)
+–.04
+ Know
+.35 (.02)
+.34 (.02)
+.37 (.03)
+.05
+ Overall
+.66 (.02)
+.65 (.02)
+.66 (.02)
+.01
+ New
+ Remember
+.02 (.01)
+.05 (.01)
+.09 (.02)
+.27*
+ Know
+.17 (.02)
+.23 (.02)
+.19 (.02)
+.06
+ Overall
+.20 (.02)
+.28 (.03)
+.28 (.02)
+.19*
+ Recollection and familiarity estimates
+ Recollection: remember d′
+1.49 (.07)
+1.29 (.08)
+.92 (.09)
+.35*
+ Familiarity: IRK
+.52 (.02)
+.50 (.03)
+.53 (.02)
+.05
+*Indicates the correlation was significant at p < .05.
+
+McCabe et al.
+Page 26
+Table 5
+Correlation between age, frontal-lobe functioning (FLF) and medial-temporal lobe functioning (MTLF)
+composite scores, and memory indices.
+Measure
+Age
+FLF
+MTLF
+Remember hits
+–.03
+.07
+.29*
+Know hit
+.04
+–.12
+–.12
+Remember false alarms
+.34*
+–.32*
+–.24*
+Know false alarms
+.08
+–.20*
+.10
+Recollection (remember d′)
+–.44*
+.43*
+.57*
+Familiarity (IRK)
+.00
+–.08
+.10
+*Indicates the correlation was significant at p < .05.

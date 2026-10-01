@@ -1,0 +1,1211 @@
+Emotional false memory in autism spectrum disorder: More than 
+spared
+Marjorie Solomon, Ph.D.1,2,3, Ana-Maria Iosif, Ph.D.4, Marie K. Krug, Ph.D.1,2, Christine Wu 
+Nordahl, Ph.D.1,2, Elyse Adler1,2, Chiara Mirandola, Ph.D.5, and Simona Ghetti, Ph.D.6,7
+1Department of Psychiatry & Behavioral Sciences, University of California-Davis, Sacramento
+2MIND Institute, University of California-Davis, Sacramento
+3Imaging Research Center, University of California-Davis, Sacramento
+4Department of Public Health Sciences, University of California-Davis, Sacramento
+5Department of General Psychology, University of Padova, Italy
+6Department of Psychology, University of California-Davis
+7Center for Mind and Brain, University of California-Davis
+Abstract
+To advance what is known about how emotions affect memory in autism spectrum disorder, we 
+examined emotional false memory for negative, positive, and neutrally-valenced photographs 
+comprising scripts of everyday events in a verbal IQ-case matched sample of youth ages 8-14 with 
+autism spectrum disorder (ASD, N = 38) and typical development (TYP, N = 38). The groups 
+exhibited many similarities. Their task performance during a recognition task including previously 
+seen and unseen photographs was largely comparable. They evidenced high hit rates for previously 
+viewed photographs, and low false alarm rates for lure photographs that were inconsistent with the 
+scripts. Both groups showed relatively higher false alarms for lure photographs depicting 
+previously unseen causes of scenario outcomes (causal errors) compared to errors for script-
+consistent lure photographs that showed extra potentially related events (gap-filling errors). In both 
+groups, task performance was associated with verbal working memory, but not attention deficit 
+hyperactivity, anxiety, or depression symptoms. However, the ASD group made more causal and 
+gap-filling errors on negative and positive, but not neutral, lures compared to TYP, indicating that 
+viewing emotionally-valenced stimuli made it harder to discriminate previously seen and unseen 
+photographs. For the ASD group, task performance was associated with compulsive, ritualistic, 
+and sameness behaviors and stereotypic and restricted interests. Findings suggest that the 
+integration of cognition and emotion in ASD is altered, and associated with the presence of 
+Corresponding Author: Dr. Marjorie Solomon, University of California Davis Health, MIND Institute, 2825 50th Street, Sacramento, 
+CA 95817, 916-703-0270, marsolomon@ucdavis.edu. 
+Conflict of Interest and Disclosures: Drs. Solomon, Iosif, Krug, Nordahl, Mirandola, and Ghetti, and Elyse Adler report no biomedical 
+financial interests or conflicts of interest.
+Presentation Information: Poster presented at the International Meeting for Autism Research, San Francisco, May, 2017. Contents 
+presented at the International Meeting for Autism Research Special Interest Group on Memory in ASD, May, 2018.
+HHS Public Access
+Author manuscript
+Published in final edited form as:
+J Abnorm Psychol. 2019 May ; 128(4): 352–363. doi:10.1037/abn0000418.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+repetitive behaviors. The impact of these results on the lives of individuals with ASD, and 
+implications for psychosocial interventions are discussed.
+General Scientific Summary:
+The current study shows that youth with ASD are able to remember many aspects of scripts of 
+common everyday events similarly to those with TYP. However, when emotional versus neutral 
+materials are presented as lures, youth with ASD perform more poorly than TYP, suggesting that 
+the presence of emotional materials may distort memory for emotional everyday events in those 
+with ASD.
+Keywords
+false memory; emotion; memory; backward causal inference; gist; autism
+Introduction
+Memories for emotion-laden events are important for the human experience. Most people 
+vividly remember the joy associated with experiencing love, winning prizes or seeing new 
+beautiful places, as well as the pain associated with loss, loneliness, and disappointment. 
+These emotional memories help organize our sense of who we are, and are critical 
+determinants of our approach and avoidance behaviors as we navigate the world (Eaton & 
+Anderson, 2018).
+A considerable body of research has examined the interplay between emotions and memory 
+throughout the life span in typically developing individuals (TYP). Perhaps the most 
+consistent finding from these studies is that emotional events are better remembered than 
+ones without an emotional valence (Cahill & McGaugh, 1995; Heuer & Reisberg, 1990; 
+Kensinger & Corkin, 2003), especially if they are described using negative words 
+(Kensinger, Garoff-Eaton, & Schacter, 2007) or displayed in negative scenes (Anderson, 
+Yamaguchi, Grabski, & Lacka, 2006).
+Interestingly, emotion can distort an individual’s recollection of words or events and produce 
+gist-based memory illusions, which are known as emotional false memories (Bookbinder & 
+Brainerd, 2017; Koutstaal & Schacter, 1997; Roediger & Mcdermott, 1995). Individuals 
+tend to make more errors when asked to remember fictitious causes of previously-
+experienced events (e.g., remembering erroneously that a motorist hit a biker after seeing an 
+ambulance take the biker, who in fact simply fell of her bike, to the hospital) which are 
+referred to as causal emotional memory errors, than errors that are related to simply filling in 
+non-casual emotional details related to scenes (e.g., remembering that the biker on the way 
+to the hospital was accompanied by a police escourt, when in fact they were not), which are 
+known as gap-filling errors (Mirandola, Toffalini, Grassano, Cornoldi, & Melinder, 2014).
+Cognitive and psychological characteristics have been associated with the propensity to have 
+emotional false memories. Higher levels of depression (Howe & Malone, 2011; Joormann, 
+Teachman, & Gotlib, 2009) and anxiety symptoms (Toffalini, Mirandola, Drabik, Melinder, 
+Solomon et al.
+Page 2
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+& Cornoldi, 2014) can enhance the illicitation of negative false memories. Strength of 
+cognitive processes such as working memory, attention, and language can influence the 
+depth and quality of stimulus encoding, which then produces more accurate memories (Fox, 
+Russo, Bowles, & Dutton, 2001; Mirandola, Toffalini, Ciriello, & Cornoldi, 2017; Ohman, 
+Flykt, & Esteves, 2001; Toffalini, Mirandola, Coli, & Cornoldi, 2015).
+Emotions and memory in autism spectrum disorder (ASD)
+There have been relatively few studies of false memory, the impact of emotional materials 
+on memory, and emotional false memory in persons with ASD. Writing about general false 
+memory in ASD, Beversdorf et al. (Beversdorf et al., 2000) used the Deese, Roediger, 
+McDermott paradigm or “DRM” (Roediger & Mcdermott, 1995), where participants are 
+asked to encode lists of words, pictures, or word-picture pairs, and then are asked to 
+remember them when presented with a list including semantically and/or emotionally related 
+lures. In this very small study that included 8 adults with ASD and 16 with TYP, they found 
+that individuals with ASD were less likely to show false memories than TYP, and concluded 
+that high functioning adults with ASD had restricted associative memory networks, resulting 
+in reduced ability to encode the gist of a category of similar items. However, a second 
+similarly sized study with the same design failed to replicate these initial findings (Bowler, 
+Gardiner, Grice, & Saavalainen, 2000). Studies using perceptually-related versus 
+sematically-related materials confirm the absence of group differences in adults with ASD 
+and TYP in the tendency to produce false memories. For example, Gaigg & Bowler (Gaigg 
+& Bowler, 2009), found similar rates of recognition using orthographically similar stimuli 
+and lures in 22 adults with ASD and 22 adults with TYP. Also writing about visual stimuli, 
+Molesworth and colleagues (Molesworth, Bowler, & Hampton, 2005) showed that the 
+prototype effect (recognizing pictoral best exemplars of a category of stimuli without having 
+actually seen them) was comparable in 15 preadolescents with Asperger’s Disorder and 15 
+with TYP. The most recent study using a non-emotional DRM paradigm included three 
+difficulty-graded conditions with words (most difficult), pictures (intermediate difficulty), 
+and word/picture pairs (least difficult) and was implemented in 15 late adolescents with 
+ASD and 15 with TYP (Parra et al., 2016). False alarms on both gist-consistent and gist-
+inconsistent lures, declined from the word only, to the picture, to the word-picture condition 
+in the TYP group. Although the ASD group scored more poorly than TYP on most 
+measures, they showed the same general pattern of performance as TYP. In sum, although 
+studies of false memory in ASD have been small and have utilized different task paradigms, 
+they have found that the pattern of false memories errors for perceptual and semantic 
+materials is similar in ASD and TYP.
+Writing about the potential facilitation effects of emotion on memory in another small study, 
+Beversdorf and colleagues (1998) showed that benefits of recalling emotional materials were 
+less pronounced in adults with ASD compared to healthy controls. Deruelle and colleagues 
+(Deruelle, Hubert, Santos, & Wicker, 2008) investigated the impact of negative emotion on 
+memory for neutral and emotional pictures in 15 adults ages 17-55 years with average or 
+better IQs versus age and IQ-matched TYP. All were shown two sets of emotional stimuli 
+with equal numbers of positive, negative, and neutrally-valenced pictures, and then were 
+tested on a second set of pictures consisting of both previously-viewed and new photos. 
+Solomon et al.
+Page 3
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Overall, both groups performed comparably, although the TYP group better recalled 
+negative versus neutral and positive pictures, while the ASD group did not show this 
+facilitation. There were no effects of age or IQ in either group. South and colleagues (South 
+et al., 2008) conducted a relevant study attempting to probe the role of amygdala functioning 
+and emotional memory in ASD in a larger (n=37/group) and relatively younger group (mean 
+age of 19). Participants in this study completed several tasks including one related to fear-
+inducing stimuli, one related to the recognized preference for previously viewed words, one 
+which involved discriminating studied versus unstudied emotional words, and a gambling 
+task. The authors found a few performance differences between the groups across the tasks, 
+but no diagnostic group by condition interactions in the ability to remember emotional 
+versus neutral material in adolescents and young adults.
+In the only study of emotional false memory in ASD, affected individuals made more false-
+alarms than TYP when remembering stimuli consisting of sexual and swear words (Gaigg & 
+Bowler, 2009), which may have been arousing, but did not represent simple or complex 
+emotions. Overall, research is in the early stages, and has relied on small samples, a wide 
+range of task paradigms, and mostly adult participants. While false memories appear to 
+occur equally often in ASD, there appear to be subtle group differences in the ways in which 
+emotion enhances memory and promotes false memories in individuals with ASD versus 
+TYP– findings that are consistent with the proposition that ASD involves atypical 
+integration of cognition and emotion (Gaigg, 2012).
+To advance what is known about how emotional false memory impacts the lives of 
+individuals with ASD, we implemented a backward causal inference paradigm where 
+participants are shown scenarios/scripts consisting of photographs of common everyday 
+events which children would have experienced, or could understand, during an encoding 
+phase. These have positive, negative, and neutral valences. Participants are then tested on 
+previously seen and unseen emotional photographs that may cause them to make causal or 
+gap-filling errors. Participants included 8 to 14 year-old children with ASD or TYP; these 
+samples were well matched on verbal IQ. Matching on verbal IQ is important because the 
+studies that reported more substantial memory differences between TYP and ASD tested 
+verbal materials and did not always case match for verbal skills.
+In light of recent studies which have documented comparable false memory for words and 
+pictures that do not involve emotions in those with ASD and TYP (Parra et al., 2016), we 
+predicted that there would be no group differences in task performance for both gist-
+consistent (i.e., those that were consistent with a given event) and gist-inconsistent 
+photographs (i.e. those that were unrelated to a given event) which contained matched 
+numbers of positive, negative, and neutral scenarios. However, given findings that, compared 
+to TYP, emotionally-valenced stimuli affect memory at least subtly differently in adults 
+(Deruelle et al., 2008) and older adolescents with ASD (South et al., 2008), and may cause 
+those with ASD to have false memories (Gaigg & Bowler, 2009), we anticipated that there 
+would be differences between ASD and TYP in their tendency to remember emotionally 
+valenced versus neutral materials and to generate false memories when positive and negative 
+versus neutral materials were the focus of analyses. To constrain this prediction and to make 
+it more specific to ASD, we additionally hypothesized that the presence of social 
+Solomon et al.
+Page 4
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+communication and social interaction, and repetitive behavior autism symptoms and their 
+would be associated with the propensity to experience emotional false memories in the ASD 
+group. Based on the literature on TYP reviewed above, which suggests that cognitive and 
+psychological factors may be associated with emotional false memory, we also examined 
+whether there were differences in working memory, and attention deficit hyperactivity 
+disorder (ADHD), anxiety, and depression (Howe & Malone, 2011; Joormann et al., 2009; 
+Toffalini et al., 2014) symptoms related to task performance in adolescents with ASD as 
+there are in TYP adults, but offered no hypothesis given the lack of relevant studies.
+Method
+Participants
+The present study examined a case-matched sample of 38 individuals with ASD (6 females) 
+and 38 individuals with TYP (9 females), drawn from the UC Davis MIND Institute Autism 
+Phenome Project (APP) and the Predictors of Cognitive Development Studies (Predictors). 
+The APP sample was originally recruited beginning in 2006, including children between 23 
+and 44 months of age both with and without ASD. These children all met NIH Collaborative 
+Programs of Excellence in Autism standards for an ASD diagnosis. These included having 
+received a best estimate diagnosis of autism, PDD-NOS, or Asperger syndrome from a 
+licensed site clinician; and having met the Autism Diagnostic Observation Schedule 
+(ADOS-2) (Lord et al., 2000) cutoff score for either autism or ASD, or the Autism 
+Diagnostic Interview-revised (ADI-R (Lord, Rutter, & Le Couteur, 1994)) cut-off for autism 
+on either the Social or Communication subscale while being within two points of this 
+criterion on the other subscale. Participants from the Predictors Study were recruited starting 
+in 2015 from the UC Davis MIND Institute’s Subject Tracking System, fliers posted at local 
+schools, and the surrounding Sacramento community. The individuals range in age from 
+8-14 years old (M=11.0, SD=1.4). All participants from the Predictors sample had a 
+community diagnosis of ASD, met DSM-5 criteria for ASD, scored in the ASD range on the 
+ADOS-2, and had scores of greater than 15 on the Social Communication Questionnaire 
+(Berument, Rutter, Lord, Pickles, & Bailey, 1999). Based on available clinical cutoff scores 
+of 70 on the parent-report Child Behavior Checklist (CBCL) (Achenbach, 2001), 19% of 
+participants in this study with ASD met criteria for depression, 27% for anxiety, and 32% for 
+ADHD. These same percentages were 3%, 0%, and 3% in the participants with TYP.
+Given the potential importance of verbal abilities to memory, we created a well-matched 
+sample from the larger samples of APP and Predictors participants using the SAS %matchcc 
+macro (http://support.sas.com/resources/papers/proceedings10/061-2010.pdf). This allowed 
+verbal ability to be matched within an acceptable range (8 points) between each ASD case 
+and a TYP control. This produced two groups with IQs between 80 and 140, with mean IQs 
+that did not differ more than 2 points for any IQ component. All of these participants were 
+able to complete the task at better than chance levels of performance on a sensitivity index 
+(d’). Demographic and clinical characteristics of the participants can be found in Table 1. 
+This study was approved by the UC Davis Institutional Review Board, Clinical Committee B 
+(Protocol #: 686644-7) and informed consent was obtained from the parent or guardian of 
+each participant.
+Solomon et al.
+Page 5
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Measures
+Emotional false-memory recognition task—(Mirandola, Losito, Ghetti, & Cornoldi, 
+2014; Mirandola et al., 2017). This task is a version of the backward causal inference 
+paradigm that has been used with children (Melinder, Toffalini, Geccherle, & Cornoldi, 
+2017).
+Study/encoding phase: The task begins with a study/encoding phase where partipants are 
+shown a series/episode of photographs depicting 9 everyday events/scenarios (waking up in 
+the morning, going for a bike ride, grocery shopping, playing a slot manchine, going hiking, 
+running on a track, having a birthday party, returning home from a trip, and going on a date) 
+in a continuous randomized sequence. Each event consists of 13 photographs, which are 
+presented for 2 seconds each, followed by a 2 second delay. Embedded within each series of 
+photographs, are consequences (referred to as effects) of unseen actions (i.e., causes) that are 
+related to the series of photographs. These effects can be either positive (n=3 events), 
+negative (n=3 events), or neutral (n=3 events). Participants receive one of 6 set orders of 
+photographs which contain equal numbers of valenced events to ensure that target-distractor 
+photographs are counterbalanced across participants. Examples of positive events/effects 
+include a picture of the couple kissing during the dating episode or the hiker making it to the 
+top of the mountain in the hiking series. Examples of negative effects include a photograph 
+of the girl rejecting the boy during the dating scenario or the hiker falling during the 
+mountain climbing scenario. The neutral outcome for the dating scenario is the boy giving 
+the girl a book, whereas a neutral outcome in the mountain climbing scene is driving home 
+from the mountain. As reported in (Mirandola et al., 2017), the valence and arousal levels of 
+the photographs chosen to represent the effects were rated by 18 independent judges and 
+found to be consistent with their assignment to the negative, positive, and neutral categories.
+Test phase of the task: The study phase of the task is followed by an untimed surprise 
+recognition test 15 minutes later, where participants are asked, “Have you seen this picture 
+before?” in a yes/no format. With this task, 3 types of false memory-related errors can be 
+studied -- gap-filling errors, inferential causal errors -- both of which are also referred to as 
+false alarms -- and errors committed for pictures that are inconsistent with the episodes. 
+Gap-filling errors are committed when one incorrectly endorses having previously seen 
+photographs containing peripheral details consistent with the episode. For example, a person 
+might erroneously remember a girl brushing her teeth when in fact she was combing her hair 
+in the waking up in the morning scenario. A second type of error -- causal errors -- involves 
+remembering a non-presented but plausibly hypothesised, cause of a viewed action’s effects. 
+Thus, causal errors relate to crucial aspects of the episode but represent the erroneous 
+acceptance of an unseen action cause (e.g., viewing an injured girl on the street with a car 
+nearby might lead to the false recognition of the car hitting the girl who was crossing the 
+street, even if this scene was not experienced). Finally, it is possible to make errors on 
+inconsistent lures that are photographs unrelated to the presented events (i.e. endorsing 
+having seen a park bench that was not previously presented or related to any of the 
+episodes). During the recognition task, participants are shown 45 previously viewed and 45 
+new (i.e., lure) photographs. There are 3 potential gap-filling lures per episode where the 
+lure photographs depict potential peripheral details of the episode that were not presented 
+Solomon et al.
+Page 6
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+during encoding; 1 causal lure per episode where the lure photograph depicts an erroneous 
+cause of an effect scene (e.g., a newly presented car hitting the biker, when the studied 
+episode only included an ambulance taking the biker to the hospital although the original 
+scene did not contain an explicit cause for the trip); and 9 total inconsistent lures that present 
+photographs that are not related to the episodes..
+Dependent variables investigated, which all are based on performance during the test phase 
+of the task, include hit rates (correctly remembering previously seen photographs) for total 
+and emotional versus neutral scenarios, false alarm rates on photographs that are scene-
+consistent, error rates on photographs that are scene-inconsistent, and a sensitivity index 
+(d’), which is calculated as Z(hit rate) – Z(false alarm rate) for scene-inconsistent 
+photographs. We refer to this d’ as a measure of task performance. Scene-inconsistent 
+photographs are used to calculate this measure of task performance in order to assess a 
+general memory ability to discriminate old from familiar apart from the influence of stimuli 
+predisposing participants to make false alarms. False alarm rates on gist-consistent gap-
+filling, and causal lures also are computed for positive, negative, and neutral episodes to 
+assess the relative probability of forming memory illusions as a function of event valence 
+and error type. See Figure 1 for a schematic depiction of the task.
+Participants also completed common ASD cognitive and diagnostic measurements as 
+outlined below. All diagnostic assessments were completed by licensed clinical 
+psychologists who specialize in ASD and were trained to research standards for these 
+measures.
+Autism Diagnostic Observation Schedule-2 (ADOS-2) (Lord et al., 2000).—The 
+ADOS-2 is a semi-structured standardized observation to diagnose ASD. To meet criteria for 
+classification, individuals must exceed a threshold of a combined Social Affect and 
+Repetitive Behavior score. This calibrated severity score (CSS) allows for comparison across 
+ADOS-2 modules by estimating the ASD symptom severity. CSS range from 1-10 (1-3 Non-
+ASD; 4-5 Autism Spectrum; 6-10 Autism).
+Social Communication Questionnaire, Lifetime Version (SCQ)(Rutter, Bailey, & 
+Lord, 2003).—The SCQ is a parent-report questionnaire exploring children’s social and 
+communicative behaviors over their lifetime. Through 40 yes/no items, a total score of 15 or 
+more indicates the presence of ASD.
+Differential Ability Scales (DAS-II) (Elliot, 2007).—The DAS-II is a standardized 
+measure of children’s cognitive abilities. Participants in the present study completed the 
+DAS-II School Age form, which includes verbal, nonverbal, and spatial subscales to create a 
+General Conceptual Ability (GCA) composite score.
+Wide Range Assessment of Memory and Learning, Second Edition (WRAML2) 
+(Sheslow & Adams, 2003).—The WRAML2 is a standardized measure of children’s 
+memory. Varying Memory Indexes are calculated using verbal and symbolic memory 
+subtests. These scores can be converted to percentiles to make age-based performance 
+comparisons. The Verbal Working Memory index was used.
+Solomon et al.
+Page 7
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Child Behavior Checklist (CBCL) (Achenbach, 2001).—The CBCL, which is a part 
+of the broader Achenbach System of Empirical Behavioral Assessment (ASEBA), is a 
+caregiver report questionnaire that identifies behavioral, social and emotional problems in 
+children. Participants in the present study completed the CBCL School Age form, which 
+includes standardized symptom, syndrome, and composite t-scores. The depression, anxiety, 
+and ADHD syndrome scales were used. For the syndrome scales, t-scores less than 65 are 
+considered in the normal range, t-scores ranging from 65 to 70 are considered to be in the 
+borderline clinical range, and t-scores above 70 are in the clinical range (Achenbach, 1991).
+Repetitive Behavior Scale- Revised (RBS-R) (Bodfish, Symons, & Lewis, 
+1999).—The RBS-R is a parent-report questionnaire measuring a range of repetitive 
+behaviors of children with ASD. The 44-items provide a continuous measure of the entire 
+spectrum of repetitive behaviors. It is divided into six subscales including stereotyped 
+behavior (sum of 9 items), self-injurious behavior (sum of 8 items), compulsive behavior 
+(sum of 6 items), routine behavior (sum of six items) sameness behavior (sum of 12 items), 
+and restricted interests (sum of 3 items). Behaviors are rated on a 4-point scale. In a factor 
+analysis of the RBS-R, a three factor solution including self-injurious behavior; compulsive, 
+ritualistic, and sameness behavior; and stereotypic and restricted interests has been 
+recommended as most parsimonious (Mirenda, Smith, Vaillancourt, Georgiades, Duku, 
+Szatmari, Bryson, Fombonne, Roberts, Volden, Waddell, & Zwaigenbaum, 2010; Mirenda, 
+Smith, Vaillancourt, Georgiades, Duku, Szatmari, Bryson, Fombonne, Roberts, Volden, 
+Waddell, Zwaigenbaum, et al., 2010). Scores for these three factors were used in analyses.
+Statistical Analysis
+Statistical analysis was conducted within a general linear mixed models framework that can 
+accommodate traditional general linear models (e.g., ANOVA and multiple linear 
+regression) for data that were assumed independent across individuals, as well as mixed-
+effects linear models (Laird & Ware, 1982) for data that was collected repeatedly for an 
+individual, across multiple conditions. An advantage of this approach is the ability to 
+directly model heterogeneous variances (across groups or conditions). This framework was 
+used both to assess group differences between ASD and TYP and to examine associations 
+involving specific predictors (age, working memory, psychopathology, etc) and the variables 
+of interest. Hits and false alarm rates were collected for consistent photographs and errors 
+were collected for inconsistent photographs. False alarm rates were calculated for positive, 
+negative, and neutrally-valenced photographs, for both causal and gap-filling lures. D’ was 
+calculated for consistent and consistent photographs and for emotional (positive and negative 
+versus neutral) and scenarios. Thus, linear mixed-effect models were used to analyze these 
+variables that were collected repeatedly over different conditions. In these analyses, we 
+started with a full factorial model and sequentially removed the interaction terms that were 
+not significant. Following any significant interaction, we examined pairwise comparisons of 
+interest.
+Linear regression with a fixed effect for group was used to examine d’ for inconsistent 
+photographs. In secondary analyses, we examined associations between d’ and measures of 
+working memory and psychopathology (ADHD, anxiety, and depression) by adding these 
+Solomon et al.
+Page 8
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+measures (one at a time) to the regression model for d’. Finally, within the ASD group, we 
+also examined correlations between performance as measured by d’ and autism severity and 
+repetitive behavior symptoms. These additional analyses used false discovery rate (FDR) to 
+correct for multiple comparisons. All tests were two-sided, with α = 0.05 and estimates are 
+reported with 95% confidence intervals (CI). All analyses were conducted in SAS version 
+9.4. (SAS Institute Inc., Cary, NC).
+Results
+Performance on non-emotion related aspects of the false memories task
+Repeated measures models with fixed effects for group (ASD versus TYP), type (consistent 
+vs. inconsistent), and their interaction, as well as a random effect for person (to account for 
+the within-person dependence) was used to examine how error rates, hits, and recognition 
+test performance (d’) differed by group. For the error rate model, separate variances were 
+assumed for consistent and inconsistent errors. Table 2a presents summaries for the error 
+rates and hits for the ASD and TYP groups. For hits, the interaction between group and type 
+of hit was not significant and was not retained in the final model (estimate = 0.03, 95% CI 
+−0.04 to 0.11, F1,76 = 0.14, p = 0.39). In the final model (see Table 3a), there was no 
+significant difference between the ASD and TD groups in hit rates (estimate = −0.04, 95% 
+CI −0.10 to 0.02, F1,76 = 1.50, p = 0.22), but the main effect of trial type was significant, 
+with hit rate on script-consistent photographs about 12% lower than in script-inconsistent 
+photographs for both groups (estimate = −0.12, 95% CI −0.16 to −0.08, F1,76 = 35.78, p < 
+0.001). See Figure 2a. For error rates, the interaction between group and error type was 
+significant (estimate = 0.11, 95% CI 0.05 to 0.18, F1,76 = 10.98, p = 0.001), suggesting that 
+the pattern of group differences varied across types of photographs (see Table 3a). The ASD 
+group made about 12% more false alarm errors for scene-consistent photographs (e.g., 
+preparing ones ropes to go mountain climbing during the mountain climbing scene, even if 
+this part of the episode was not presented during the study phase of the task) than the TYP 
+group (estimated difference in false alarm rates = 0.12, 95% CI 0.05 to 0.19, t76 = 3.52, p < 
+0.001), although they did not show the same pattern for inconsistent photographs (e.g., 
+sitting on a park bench during the mountain climbing scene) (estimated difference = 0.01, 
+95% CI −0.01 to 0.03, t76 = 0.76, p = 0.45) (Figure 2b). Both groups made more false alarms 
+for the consistent versus errors on inconsistent photographs (estimated error rate difference = 
+0.32, 95% CI −0.27 to 0.37, for ASD, 0.21, 95% CI 0.16 to 0.26, for TYP, t76 = 13.24 and 
+8.55, respectively, both p < 0.001). This indicated that the ASD group was more likely to 
+remember incorrectly in the face of gist-consistent lures, but were not simply responding to 
+every lure. There was no group difference on sensitivity (d’) for inconsistent trials (estimated 
+difference between TYP and ASD = 0.12, 95% CI −0.14 to 0.38, t74 = 0.92, p = 0.36).
+Do individuals with ASD and TYP better remember scenes that involve emotional 
+materials?
+We next examined group differences in d’ and whether recognition accuracy was better for 
+emotional compared to neutral scenarios using a repeated measures model with fixed effects 
+for group (ASD versus TYP), scenario valence (positive/negative versus neutral) and their 
+interaction, as well as a random effect for person. The interaction between group and 
+Solomon et al.
+Page 9
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+valence was significant (estimate = −0.37, 95% CI −0.70 to −0.05, F1,76 = 4.88, p = 0.03), 
+suggesting that the pattern of group differences varied across stimulus valences (see Table 
+3b). The ASD group performed more poorly than the TYP group for the emotional images 
+(estimated difference in d’ = −0.56, 95% CI −0.84 to −0.27, t137 = −3.83, p < 0.001), but did 
+not show the same pattern for neutral photographs (estimated difference = −0.19, 95% CI 
+−0.47 to 0.10, t137 = −1.28, p = 0.20) (Figure 3, Table 2b). We further examined within 
+group differences between the emotional and neutral scenarios. Performance on emotional 
+scenes versus neutral ones was not significantly better for either the ASD (estimated 
+difference = −0.20, 95% CI −0.44 to 0.03, t76 = −1.72, p = 0.09) or the TYP group 
+(estimated difference = 0.17, 95% CI −0.07 to 0.40, t76 = 1.40, p = 0.16).
+Does stimulus valence affect the propensity to make causal versus gap-filling errors?
+A repeated measures model with fixed effects for group (ASD versus TYP), error type 
+(causal vs. gap-filling), and valence (positive, negative, neutral), as well as a random effect 
+for person was used to examine group differences in errors and whether this differed by 
+stimulus valence. Separate variances were assumed for causal vs. gap-filling errors. We 
+started with a full factorial model and sequentially removed the interaction terms that were 
+not significant. The final model (see Table 3c) included all three main effects and the 
+interactions between error type and valence (F2,319 = 11.90, p < 0.001) and between group 
+and valence (F2,373 = 3.05, p = 0.049). The significant error type by valence interaction in 
+the absence of a three-way interaction with diagnosis indicates that the ASD and TYP 
+groups had similar patterns of errors; both groups evidenced more causal than gap-filling 
+errors for all three valences (estimated difference in error rates = 0.25, 95% CI 0.19 to 0.31 
+for negative, 0.32, 95% CI 0.26 to 0.39 for neutral, 0.11, 95% CI 0.05 to 0.17 for positive, 
+t319 = 8.08, 10.43, and 3.64, respectively, all p < 0.001). The significant group by valence 
+interaction in the absence of a three-way interaction with error type indicates that the pattern 
+of group differences across valences was similar for the two types of errors; for both causal 
+and gap-filling, the ASD group evidenced more errors than the TYP group for negative 
+(estimated difference = 0.14, 95% CI 0.06 to 0.21, t152 = 3.48, p < 0.001) and positive 
+(estimated difference = 0.14, 95% CI 0.06 to 0.21, t152 = 3.51, p < 0.001), but not neutral 
+valences (estimated difference = 0.05, 95% CI −0.02 to 0.13, t152 = 1.40, p = 0.16). See 
+Figure 4, Table 2c.
+Working memory, psychopathology (ADHD, anxiety, and depression), ASD symptoms, and 
+emotional false memory
+We also examined whether working memory and symptoms of psychopathology related to 
+anxiety, ADHD, and depression, were associated with task performance as measured by d’, 
+and whether these associations differed by diagnosis. To do so, we added these cognitive and 
+psychopathology-related variables, one at the time, as fixed effects in the regression model 
+fitted for d’. After controlling for multiple comparisons, we found a positive association 
+between working memory and d’ (estimated coefficient = 0.01, 95% CI 0.004 to 0.02, t70 = 
+2.92, adjusted p = 0.02). To test whether this association differed by group, we added an 
+interaction between working memory and group to the model. The estimated effect was 
+small (−0.0004, 95% CI −0.02 to 0.02, t69 = −0.04, p = 0.97, respectively).
+Solomon et al.
+Page 10
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Some autism measures (ADOS-2 severity) were only collected for the ASD group and other 
+autism symptoms (the three factor scores from the RBS-R) had a very narrow range in the 
+TYP group. Thus, we examined correlations between these measures and d’ only in the ASD 
+group. After controlling for multiple comparisons, for the ASD group, d’ was associated 
+with scores on the stereotypic and restricted interests (r = 0.45, adjusted p = 0.02) and the 
+compulsive, ritualistic, and sameness factors (r = 0.39, p = 0.04) of the RBS-R 3 factor 
+solution, but not the ADOS-2 severity score or the self-injurious behavior RBS-R factor 
+score (both adjusted p-values > 0.85).
+Discussion
+We examined emotional false memory in a task involving photographs depicting positive, 
+negative, and neutrally-valenced everyday scenes in a large verbal IQ-case matched sample 
+of children ages 8-14 with ASD and TYP. There were many similarities in performance 
+between the groups including high hit rates, low false alarm rates for gist-inconsistent 
+photographs, and comparable d’s for gist-inconsistent photographs. Both groups made 
+significantly more causal than gap-filling errors across stimuli of all emotional valences. 
+They also showed positive associations between verbal working memory strength and task 
+performance; and a lack of significant associations between ADHD, anxiety, and depression 
+symptoms and task performance. Notable differences between the groups included that 
+individuals with ASD showed less overall emotional facilitation in their task performance 
+for emotional compared to neutral scenes, made significantly more false alarms on causal 
+and gap-filling gist-consistent lures than TYP, with more emotional (positive and negative) 
+than neutral false alarms for both types of lures. For the ASD group, d’ was related to 
+compulsive, ritualistic, and sameness behaviors and stereotypic and restricted interests.
+Perhaps the most striking finding of the current study was that individuals with ASD had 
+higher false alarm rates for emotional gist-consistent versus neutral lures than those with 
+TYP, which could be seen as somewhat surprising in light of the general beliefs that 
+individuals with ASD are less aware of semantic context and less able to extract gist 
+(Beversdorf et al., 2000; Klin & Jones, 2006). Theories about processes that govern lexical-
+sematic networks can help explain the tendency to make false alarms. Associative-activation 
+theory (ATT) (Howe, 2008) suggests that, paradoxically, false memories develop over time 
+as one’s knowledge base expands and enables more efficient and automatic activation of 
+concepts that are related to stimulus materials. Fuzzy-trace theory (FTT) (Brainerd & Reyna, 
+2002, 2005) takes this notion a step further and proposes that there are two distinct types of 
+traces involved in memory -- verbatim traces that encode item-specific information and 
+reduce false memories, and gist traces, which promote false memories by emphasizing 
+meaning-based connections between pieces of information. Negative words also are thought 
+to have the densest and most interconnected associative networks, thus limiting the search 
+space, and enhancing both encoding and retrieval efficiency (Bookbinder & Brainerd, 2017; 
+Knott, Howe, Toffalini, Shah, & Humphreys, 2018; Talmi & Moscovitch, 2004; Tulving & 
+Pearlstone, 1966).
+If interpreted according to this framework, one could argue that we found that when stimuli 
+had an emotional valence, the ASD group evidenced well-elaborated contextual association 
+Solomon et al.
+Page 11
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+networks, that became activated during encoding, and then were more difficult to inhibit 
+during retrieval (Cann, McRae, & Katz, 2011). This was true despite the fact that the ASD 
+group showed no impairments relative to TYP in correctly identifying gist-inconsistent 
+lures, were from a verbal-IQ case-matched sample, and did not show differences from the 
+TYP group in the relationship between their task performance and factors like working 
+memory, anxiety, and depression, which could have driven group differences. In essence, it 
+could be argued that presenting participants with emotionally-valenced stimuli resulted in 
+greater associative network activation in the ASD group, which had sufficiently mature and 
+developed networks to encode the scenes. Negative (and positive) emotion made them more 
+likely to endorse lures.
+However, an alternative explanation also is possible. Rather than attributing enhanced 
+memory to greater associative network activation in the ASD group, another rationale for 
+these findings is that individuals in the ASD group experienced less memory benefit from 
+the presence of emotional materials than those in the TYP group because they may not have 
+prioritized them, and/or traded speed for accuracy when responding (Worsham, Gray, 
+Larson, & South, 2015), and were thus was not able to comparably encode the specific item 
+details which might have boosted their ability to recollect the events. This interpretation is 
+consistent with our findings of reduced facilitation by positive and negative versus neutral 
+valence in the recognition of scenes for the ASD versus the TYP group, although it should 
+also be noted that neither group showed the better performance overall on the positive and 
+negative versus neutral scenes, which might have been predicted by the literature (Cahill & 
+McGaugh, 1995; Heuer & Reisberg, 1990; Kensinger & Corkin, 2003). If this memory 
+enhancement did not occur in indivduals with ASD, then they might be less confident in 
+their recollection of individual images and more likely to rely on the event gist and semantic 
+details to remember the event. Future studies of recollection vs. familiarity that include 
+measures of memory confidence and strength, would enable the field to better adjudicate 
+between these two interpretive frameworks.
+Our work represents an extension of Gaigg & Bowler (2009) and Parra et al. (2016), who 
+also documented higher false alarm rates in the ASD group under emotional and false 
+memory conditions, respectively. However, it bears mention that the emotional swear words 
+used by Gaigg & Bowler were different than the emotional stimuli we used. They may have 
+prevented false alarms in the TYP but not the ASD group, not because of their emotional 
+valence, but because the latter did not posess the social knowledge to realize the full 
+meaning and impact of such words. It is interesting that the participants in the Parra et al. 
+(2016) study also committed more false alarms on gist-consistent stimuli in their word-
+picture condition which is most similar to our complex scenes, suggesting that the tendency 
+to false alarm may actually be more common when conditions are easier, not just emotional, 
+and instead of facilitating task performance, make the inhibition of semantic networks more 
+difficult. This notion that the difficulty is with accurate retrieval is consistent with recent 
+suggestions that memory problems in ASD are more a matter of problems with retrieval than 
+encoding (Cooper et al., 2017).
+Another interesting and somewhat unexpected finding of the current study was that, 
+although we predicted that difficulties with the integration of cognition and emotion would 
+Solomon et al.
+Page 12
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+be associated with ASD symptoms for those with the disorders, they were related to 
+repetitive behaviors, but not to the severity of social interaction and social communication 
+symptoms. In a recent study of dual processes of familiarity (a sense of knowing based on 
+the strength of a memory trace) and recollection (the experience of retrieving qualitative 
+information about items and related aspects of the context in which they were encoded) in 
+episodic memory in adolescents with ASD, our group unexpectedly found that individuals 
+with ASD used less familiarity than TYP when recalling stimuli encoded in an associative 
+context. This suggested that persons with ASD might use these two memory processes 
+differently than TYP, and that the semantic networks of persons with ASD might thus in fact 
+be more elaborated and densely connected than is typical (Solomon, McCauley, Iosif, Carter, 
+& Ragland, 2016). We hypothesized that such networks might be associated with restricted 
+interests and repetitive behaviors, as has been suggested previously (Cohen, 2007; 
+McClelland, 2000). Findings of the current study also are consistent with this premise given 
+that it appears that well connected and elaborated networks are activated during encoding 
+and retrieval in those with ASD, thereby increasing the probability of producing false 
+memories and failing to inhibit them. Cognitive mechanisms similar to those that govern the 
+creation of false memories, and overly conjuction memories in general, may be related to the 
+tendency of those with ASD to exhibit compulsive, stereotyped, narrow, and rigid behavioral 
+repertoires.
+In addition to the strength of the semantic networks in which emotional stimuli are encoded, 
+it has been suggested that arousal levels during encoding have a comparable (Buchanan, 
+Etzel, Adolphs, & Tranel, 2006) or even greater (Mirandola & Toffalini, 2016) effect on the 
+ability to remember them. It could be argued that the arousal occasioned by the emotional 
+task stimuli had a greater influence on the ASD group’s propensity to false alarm during the 
+recall phase of the task, although the only study of the impact of arousal, emotion, and 
+memory in ASD did not find group differences (Maras, Gaigg, & Bowler, 2012). Similarly, 
+mood at encoding and retrieval has been shown to affect information processing such that 
+positive moods support relational or gist-based processing with broader activation of more 
+remote and weakly associated information, whereas negative moods are associated with 
+item-specific and smaller and more strongly associated networks (Storbeck & Clore, 2005, 
+2011; Zhang, Gross, & Hayne, 2017). The role of arousal and mood on encoding and 
+retrieval have not yet been well studied in ASD, but represent potentially interesting leads to 
+pursue, especially given their potentially opposing effects on false memory (Bookbinder & 
+Brainerd, 2016).
+Our finding of increased false memories for negatively valenced stimuli is similar to that of 
+Mirandola and colleagues (Mirandola, Losito, et al., 2014), who conducted a study of 
+memory for scenes using the same task, in preadolescents with learning disabilities (LD). 
+The disabilities studied including non-verbal learning disability (NVLD), which is thought 
+to be similar to the Asperger’s Disorder (Klin, Volkmar, Sparrow, Cicchetti, & Rourke, 
+1995). Mirandola et al. found that compared to participants with TYP and dyslexia, the 14 
+preadolescents in their study with NVLD were more likely to falsely recognize photograhs 
+that depicted unseen causes of a negative emotional scenes. Although there were no 
+significant associations between depression symptoms in our findings, children with ASD, 
+like those with LD, likely possess well-developed networks of negative experiences like 
+Solomon et al.
+Page 13
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+bullying and social isolation that can become activated when viewing negative scenes 
+(Zablotsky, Bradshaw, Anderson, & Law, 2013).
+As detailed in the first paragraph of this manuscript, recollections of emotional events color 
+the experience of being human, and propel us toward future action. Based on our findings, it 
+would appear that preadolescents with ASD have qualitatively different memories of 
+emotional material. They filled in more gaps, made more assumptions about associations 
+between events, and jumped to conclusions based on causal stimuli. The tendencies revealed 
+in the current study may help explain the at times idiosyncratic social perceptions (Byrge, 
+Dubois, Tyszka, Adolphs, & Kennedy, 2015; Loveland, Pearson, Tunali-Kotoski, Ortegon, & 
+Gibbs, 2001) and atypical patterns of motivation in the form of social and non-social reward 
+processing (Clements et al., 2018) found in affected individuals. Furthermore it suggests that 
+mental health professionals working with individuals with ASD need to be aware of theses 
+tendencies when implementing supportive and cognitive behavior therapy (CBT), which are 
+both premised on helping clients to reframe inaccurate negative thinking. Our results suggest 
+that modifying patterns of thoughts may be particularly difficult for persons with ASD, 
+given their tendency to falsely remember emotional materials. CBT therapists also will need 
+to take care that their clients with ASD actually are actively engaged in processing the 
+stimuli that they themselves perceive to be threatening, versus those that may be expected by 
+the therapist, when conducting the exposures required for successful therapy (Foa & Kozak, 
+1986).
+The current study had several limitations. First, although ours is the largest and most 
+cognitively diverse study of emotional false memory in ASD to date, we elected to match on 
+verbal IQ to prevent confounding effects of verbal abilities; we were thus unable to include 
+individuals with ASD and intellectual disability who could not complete the task at better 
+than chance levels of performance, and those for whom we had relatively few matched 
+control participants. This makes our results less generalizable to all persons with ASD. 
+Second, since we were focused on investigating the relationship between emotional false 
+memory and ASD symptoms, we used a repetitive behavior measure that was very specific 
+to ASD. Future studies could better tease apart this association trans-diagnostically if a more 
+general repetitive behavior measure was selected. Third, although we selected a backward 
+causal inference paradigm that has been widely published, it is a relatively new experimental 
+paradigm with psychometric properties that have not yet been rigorously evaluated. Finally, 
+it could be argued that the use of script-inconsistent lures, which were more novel and less 
+perceptually similar to previously viewed photographs, might have supported participants’s 
+abilities to identify as novel thereby reducing group differences in performance. However, 
+given that the ASD group also performed comparably to TYP on the emotionally neutral 
+gist-consistent lures, we do not believe that the fact that gist-inconsistent lures were less 
+perceptually similar to gist-consistent ones represents a true confound.
+In conclusion, in this implementation of a child-compatible version of the backward causal 
+inference paradigm, we found that 8-14 year olds with ASD made more gap-filling and 
+causal false alarms on emotionally-valenced versus neutral stimuli. This patterns suggests 
+that they do in fact possessed well-developed semantic networks related to the everyday 
+scenes shown in the photographs that may have been triggered by the emotional valence of 
+Solomon et al.
+Page 14
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+the stimuli. Interestingly, the tendency to make such errors was related to compulsive, 
+ritualistic, and sameness behaviors and restricted interests, raising the possibility that having 
+such established semantic networks that can be triggered and retrieved when coupled with 
+emotionally-valenced materials is behaviorally and/or neurobiologically associated with 
+exhibiting symptoms from the poorly understood second ASD symptom domain.
+Acknowledgements:
+Dr. Solomon was supported by National Institutes of Health (NIH) grants R01MH106518 and R01MH103284; Dr. 
+Nordahl was supported by R01MH104438. Dr. Ghetti was supported by R21HD088928.
+Statistical Support: Ana-Maria Iosif, Ph.D. provided statistical support as part of the MIND Institute Intellectual 
+and Developmental Disabilities Research Center (U54 HD079125).
+References
+Achenbach TM, & Rescorla LA (2001). Manual for the ASEBA School-Age Forms & Profiles. 
+Burlington, VT: University of Vermont, Research Center for Children, Youth, & Families.
+Anderson AK, Yamaguchi Y, Grabski W, & Lacka D (2006). Emotional memories are not all created 
+equal: evidence for selective memory enhancement. Learn Mem, 13(6), 711–718. doi:10.1101/lm.
+388906 [PubMed: 17101871] 
+Berument SK, Rutter M, Lord C, Pickles A, & Bailey A (1999). Autism screening questionnaire: 
+diagnostic validity. The British Journal of Psychiatry, 175(5), 444–451. [PubMed: 10789276] 
+Beversdorf DQ, Smith BW, Crucian GP, Anderson JM, Keillor JM, Barrett AM, ... Heilman KM 
+(2000). Increased discrimination of "false memories" in autism spectrum disorder. Proc Natl Acad 
+Sci U S A, 97(15), 8734–8737. [PubMed: 10900024] 
+Bodfish JW, Symons FJ, & Lewis M (1999). The Repetitive Behavior Scale: Western Carolina Center 
+Research Reports.
+Bookbinder SH, & Brainerd CJ (2016). Emotion and false memory: The context-content paradox. 
+Psychol Bull, 142(12), 1315–1351. doi:10.1037/bul0000077 [PubMed: 27748610] 
+Bookbinder SH, & Brainerd CJ (2017). Emotionally negative pictures enhance gist memory. Emotion, 
+17(1), 102–119. doi:10.1037/emo0000171 [PubMed: 27454002] 
+Bowler DM, Gardiner JM, Grice S, & Saavalainen P (2000). Memory illusions: false recall and 
+recognition in adults with Asperger's syndrome. J Abnorm Psychol, 109(4), 663–672. [PubMed: 
+11195990] 
+Buchanan TW, Etzel JA, Adolphs R, & Tranel D (2006). The influence of autonomic arousal and 
+semantic relatedness on memory for emotional words. Int J Psychophysiol, 61(1), 26–33. doi:
+10.1016/j.ijpsycho.2005.10.022 [PubMed: 16427713] 
+Byrge L, Dubois J, Tyszka JM, Adolphs R, & Kennedy DP (2015). Idiosyncratic brain activation 
+patterns are associated with poor social comprehension in autism. J Neurosci, 35(14), 5837–5850. 
+doi:10.1523/JNEUROSCI.5182-14.2015 [PubMed: 25855192] 
+Cahill L, & McGaugh JL (1995). A novel demonstration of enhanced memory associated with 
+emotional arousal. Conscious Cogn, 4(4), 410–421. doi:10.1006/ccog.1995.1048 [PubMed: 
+8750416] 
+Cann DR, McRae K, & Katz AN (2011). False recall in the Deese-Roediger-McDermott paradigm: 
+The roles of gist and associative strength. Q J Exp Psychol (Hove), 64(8), 1515–1542. doi:
+10.1080/17470218.2011.560272 [PubMed: 21506047] 
+Clements CC, Zoltowski AR, Yankowitz LD, Yerys BE, Schultz RT, & Herrington JD (2018). 
+Evaluation of the Social Motivation Hypothesis of Autism: A Systematic Review and Meta-
+analysis. JAMA Psychiatry. doi:10.1001/jamapsychiatry.2018.1100
+Cohen IL (2007). A neural network model of autism: Implication for theory and treatment In 
+Mareschal SSD, & Westerman G (Ed.), Neuroconstructivism II: Perspectives and Prospects (pp. 
+231–264). New York, NY: Oxford University Press.
+Solomon et al.
+Page 15
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Cooper RA, Richter FR, Bays PM, Plaisted-Grant KC, Baron-Cohen S, & Simons JS (2017). Reduced 
+Hippocampal Functional Connectivity During Episodic Memory Retrieval in Autism. Cereb 
+Cortex, 27(2), 888–902. doi:10.1093/cercor/bhw417 [PubMed: 28057726] 
+Deruelle C, Hubert B, Santos A, & Wicker B (2008). Negative emotion does not enhance recall skills 
+in adults with autistic spectrum disorders. Autism Res, 1(2), 91–96. doi:10.1002/aur.13 [PubMed: 
+19360655] 
+Eaton T, & Anderson AK (2018). Emotional memories and how your life may depend upon them. 
+Behav Brain Sci, 41, e11. doi:10.1017/S0140525X17001546 [PubMed: 29353592] 
+Elliot CD (2007). Differential ability scales (2nd ed.). San Antonio, TX: Harcourt Assessment.
+Foa EB, & Kozak MJ (1986). Emotional processing of fear: exposure to corrective information. 
+Psychol Bull, 99(1), 20–35. [PubMed: 2871574] 
+Fox E, Russo R, Bowles R, & Dutton K (2001). Do threatening stimuli draw or hold visual attention in 
+subclinical anxiety? J Exp Psychol Gen, 130(4), 681–700. [PubMed: 11757875] 
+Gaigg SB (2012). The Interplay between Emotion and Cognition in Autism Spectrum Disorder: 
+Implications for Developmental Theory. Front Integr Neurosci, 6, 113. doi:10.3389/fnint.
+2012.00113 [PubMed: 23316143] 
+Gaigg SB, & Bowler DM (2009). Illusory memories of emotionally charged words in autism spectrum 
+disorder: further evidence for atypical emotion processing outside the social domain. J Autism Dev 
+Disord, 39(7), 1031–1038. doi:10.1007/s10803-009-0710-y [PubMed: 19296212] 
+Heuer F, & Reisberg D (1990). Vivid memories of emotional events: the accuracy of remembered 
+minutiae. Mem Cognit, 18(5), 496–506.
+Howe ML (2008). What is false memory development the development of? Comment on Brainerd, 
+Reyna, and Ceci (2008). Psychol Bull, 134(5), 768–772; discussion 773–767. doi: 
+10.1037/0033-2909.134.5.768 [PubMed: 18729573] 
+Howe ML, & Malone C (2011). Mood-congruent true and false memory: effects of depression. 
+Memory, 19(2), 192–201. doi:10.1080/09658211.2010.544073 [PubMed: 21294037] 
+Joormann J, Teachman BA, & Gotlib IH (2009). Sadder and less accurate? False memory for negative 
+material in depression. J Abnorm Psychol, 118(2), 412–417. doi:10.1037/a0015621 [PubMed: 
+19413415] 
+Kensinger EA, & Corkin S (2003). Memory enhancement for emotional words: are emotional words 
+more vividly remembered than neutral words? Mem Cognit, 31(8), 1169–1180.
+Kensinger EA, Garoff-Eaton RJ, & Schacter DL (2007). How negative emotion enhances the visual 
+specificity of a memory. J Cogn Neurosci, 19(11), 1872–1887. doi:10.1162/jocn.2007.19.11.1872 
+[PubMed: 17958489] 
+Klin A, & Jones W (2006). Attributing social and physical meaning to ambiguous visual displays in 
+individuals with higher-functioning autism spectrum disorders. Brain Cogn, 61(1), 40–53. doi:
+10.1016/j.bandc.2005.12.016 [PubMed: 16497422] 
+Klin A, Volkmar FR, Sparrow SS, Cicchetti DV, & Rourke BP (1995). Validity and neuropsychological 
+characterization of Asperger syndrome: convergence with nonverbal learning disabilities 
+syndrome. J Child Psychol Psychiatry, 36(7), 1127–1140. [PubMed: 8847376] 
+Knott LM, Howe ML, Toffalini E, Shah D, & Humphreys L (2018). The role of attention in immediate 
+emotional false memory enhancement. Emotion. doi: 10.1037/emo0000407
+Koutstaal W, & Schacter DL (1997). Gist-based false recognition of pictures in older and younger 
+adults. Journal of Memory and Language, 37(4), 555–583. doi:DOI10.1006/jmla.1997.2529
+Laird NM, & Ware JH (1982). Random-effects models for longitudinal data. Biometrics, 38(4), 963–
+974. [PubMed: 7168798] 
+Lord C, Risi S, Lambrecht L, Cook EH, Leventhal BL, DiLavore PC, ... Rutter M (2000). The Autism 
+Diagnostic Observation Schedule—Generic: A standard measure of social and communication 
+deficits associated with the spectrum of autism. Journal of Autism and Developmental Disorders, 
+30(3), 205–223. [PubMed: 11055457] 
+Lord C, Rutter M, & Le Couteur A (1994). Autism diagnostic interview-revised: A revised version of a 
+diagnostic interview for caregivers of individuals with possible pervasive developmental disorders. 
+Journal of Autism and Developmental Disorders, 24(5), 659–685. [PubMed: 7814313] 
+Solomon et al.
+Page 16
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Loveland KA, Pearson DA, Tunali-Kotoski B, Ortegon J, & Gibbs MC (2001). Judgments of social 
+appropriateness by children and adolescents with autism. J Autism Dev Disord, 31(4), 367–376. 
+[PubMed: 11569583] 
+Maras KL, Gaigg SB, & Bowler DM (2012). Memory for emotionally arousing events over time in 
+Autism Spectrum Disorder. Emotion, 12(5), 1118–1128. doi:10.1037/a0026679 [PubMed: 
+22309718] 
+McClelland JL (2000). The basis of hyperspecificity in autism: a preliminary suggestion based on 
+properties of neural nets. J Autism Dev Disord, 30(5), 497–502. [PubMed: 11098891] 
+Melinder A, Toffalini E, Geccherle E, & Cornoldi C (2017). Positive events protect children from 
+causal false memories for scripted events. Memory, 25(10), 1366–1374. doi:
+10.1080/09658211.2017.1306080 [PubMed: 28361561] 
+Mirandola C, Losito N, Ghetti S, & Cornoldi C (2014). Emotional false memories in children with 
+learning disabilities. Res Dev Disabil, 35(2), 261–268. doi:10.1016/j.ridd.2013.11.004 [PubMed: 
+24295924] 
+Mirandola C, Toffalini E, Ciriello A, & Cornoldi C (2017). Working memory affects false memory 
+production for emotional events. Cogn Emot, 31(1), 33–46. doi:10.1080/02699931.2015.1075379 
+[PubMed: 26316214] 
+Mirandola C, Toffalini E, Grassano M, Cornoldi C, & Melinder A (2014). Inferential false memories 
+of events: negative consequences protect from distortions when the events are free from further 
+elaboration. Memory, 22(5), 451–461. doi:10.1080/09658211.2013.795976 [PubMed: 23663060] 
+Mirenda P, Smith IM, Vaillancourt T, Georgiades S, Duku E, Szatmari P, ... Zwaigenbaum L (2010). 
+Validating the Repetitive Behavior Scale-revised in young children with autism spectrum disorder. 
+J Autism Dev Disord, 40(12), 1521–1530. doi:10.1007/s10803-010-1012-0 [PubMed: 20405194] 
+Mirenda P, Smith IM, Vaillancourt T, Georgiades S, Duku E, Szatmari P, ... Pathways in, A. S. D. S. T. 
+(2010). Validating the Repetitive Behavior Scale-revised in young children with autism spectrum 
+disorder. J Autism Dev Disord, 40(12), 1521–1530. doi:10.1007/s10803-010-1012-0 [PubMed: 
+20405194] 
+Molesworth CJ, Bowler DM, & Hampton JA (2005). The prototype effect in recognition memory: 
+intact in autism? J Child Psychol Psychiatry, 46(6), 661–672. doi:10.1111/j.
+1469-7610.2004.00383.x [PubMed: 15877770] 
+Ohman A, Flykt A, & Esteves F (2001). Emotion drives attention: detecting the snake in the grass. J 
+Exp Psychol Gen, 130(3), 466–478. [PubMed: 11561921] 
+Parra MA, Cubelli R, Bellamy KJ, Abrahams S, Avila CL, Castro-Jaramillo LD, & Della Sala S 
+(2016). Gist-based illusions within and across stimulus modalities in autism spectrum disorder. 
+Memory, 24(3), 295–305. doi:10.1080/09658211.2015.1004349 [PubMed: 25651475] 
+Roediger HL, & Mcdermott KB (1995). Creating False Memories - Remembering Words Not 
+Presented in Lists. Journal of Experimental Psychology-Learning Memory and Cognition, 21(4), 
+803–814. doi:Doi 10.1037//0278-7393.21.4.803
+Rutter M, Bailey A, & Lord C (2003). SCQ: Social communication questionnaire. Los Angeles, CA: 
+Western Psychological Services.
+Sheslow D, & Adams W (2003). Wide Range Assessment of Memory and Learning Second Edition 
+Administration and Technical Manual. Lutz, FL: Psychological Assessment Resources.
+Solomon M, McCauley JB, Iosif AM, Carter CS, & Ragland JD (2016). Cognitive control and episodic 
+memory in adolescents with autism spectrum disorders. Neuropsychologia, 89, 31–41. doi:
+10.1016/j.neuropsychologia.2016.05.013 [PubMed: 27184119] 
+South M, Ozonoff S, Suchy Y, Kesner RP, McMahon WM, & Lainhart JE (2008). Intact emotion 
+facilitation for nonsocial stimuli in autism: is amygdala impairment in autism specific for social 
+information? J Int Neuropsychol Soc, 14(1), 42–54. doi:10.1017/S1355617708080107 [PubMed: 
+18078530] 
+Storbeck J, & Clore GL (2005). With sadness comes accuracy; with happiness, false memory: mood 
+and the false memory effect. Psychol Sci, 16(10), 785–791. doi:10.1111/j.
+1467-9280.2005.01615.x [PubMed: 16181441] 
+Storbeck J, & Clore GL (2011). Affect influences false memories at encoding: evidence from 
+recognition data. Emotion, 11(4), 981–989. doi:10.1037/a0022754 [PubMed: 21517165] 
+Solomon et al.
+Page 17
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Talmi D, & Moscovitch M (2004). Can semantic relatedness explain the enhancement of memory for 
+emotional words? Mem Cognit, 32(5), 742–751.
+Toffalini E, Mirandola C, Coli T, & Cornoldi C (2015). High trait anxiety increases inferential false 
+memories for negative (but not positive) emotional events. Personality and Individual Differences, 
+75, 201–204. doi:10.1016/j.paid.2014.11.029
+Toffalini E, Mirandola C, Drabik MJ, Melinder A, & Cornoldi C (2014). Emotional negative events do 
+not protect against false memories in young adults with depressive-anxious personality traits. 
+Personality and Individual Differences, 66, 14–18. doi:10.1016/j.paid.2014.02.042
+Tulving E, & Pearlstone Z (1966). Availability Versus Accessibility of Information in Memory for 
+Words. Journal of Verbal Learning and Verbal Behavior, 5(4), 381. doi:Doi 10.1016/
+S0022-5371(66)80048-8
+Worsham W, Gray WE, Larson MJ, & South M (2015). Conflict adaptation and congruency sequence 
+effects to social-emotional stimuli in individuals with autism spectrum disorders. Autism, 19(8), 
+897–905. doi:10.1177/1362361314553280 [PubMed: 25469002] 
+Zablotsky B, Bradshaw CP, Anderson C, & Law PA (2013). The association between bullying and the 
+psychological functioning of children with autism spectrum disorders. J Dev Behav Pediatr, 34(1), 
+1–8. doi:10.1097/DBP.0b013e31827a7c3a [PubMed: 23275052] 
+Zhang W, Gross J, & Hayne H (2017). If You're Happy and You Know It: Positive Moods Reduce 
+Age-Related Differences in False Memory. Child Dev. doi:10.1111/cdev.12890
+Solomon et al.
+Page 18
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 1. Schematic depiction of the Emotional False Memory task.
+The seen photographs show an emotionally-valenced scripted series of events. The unseen 
+photographs depict lure scenes not included in the encoding phase, but included in the 
+recognition task. Gap-filling errors are those in which the unseen photograph lures are 
+script-consistent, but never have been viewed. For example, as shown here, this includes a 
+photograph of the man from the mountain climbing scene adjusting some ropes, although 
+this script-consistent action was not shown during the encoding phase of the task. Causal 
+errors are those in which the unseen photograph lures are script-consistent but have not been 
+shown as causal of the other photographs. For example, as shown here, this includes a 
+photograph of the man from the mountain climbing scene moving into position to climb the 
+rocks that will cause him to reach the top of the mountain. Inconsistent photograph are those 
+that have not been seen before and are not script-consistent. For example, as shown here, this 
+includes a woman sitting on a park bench next to her bike, which is not part of this or any 
+other scene.
+Solomon et al.
+Page 19
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 2. 
+Hits and false alarm rates for both scene-consistent and scene inconsistent lures during the 
+test phase. Bars represent means and lines represent standard deviations. * represent group 
+differences that are statistically significant (p < .05). ASD = Autism Spectrum Disorder; 
+TYP = Typical Development
+Solomon et al.
+Page 20
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 3. 
+Causal and gap filling error rates for negative, positive and neutral trials. Bars represent 
+means and lines represent standard deviations. * represent group differences that are 
+statistically significant (p < .05). ASD = Autism Spectrum Disorder; TYP = Typical 
+Development. For both causal and gap filling, ASD group made significantly more negative 
+and positive, but not neutral, than the TYP group.
+Solomon et al.
+Page 21
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 4. 
+Causal and gap filling error rates for negative, positive and neutral trials. Bars represent 
+means and lines represent standard deviations. * Group differences that are statistically 
+significant (p < .05). ASD = autism spectrum disorder; TYP typical development. For both 
+causal and gap filling, ASD group made significantly more negative and positive, but not 
+neutral, than the TYP group.
+Solomon et al.
+Page 22
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Solomon et al.
+Page 23
+Table 1.
+Demographic and clinical characteristics for the participants
+ASD
+(n = 38)
+TYP
+(n = 38)
+Gender, n (%)
+ Males
+32 (84%)
+29 (76%)
+ Females
+6 (16%)
+9 (24%)
+Race1, n (%)
+ African American
+1 (3%)
+2 (6%)
+ Asian
+4 (12%)
+3 (9%)
+ Caucasian
+27 (79%)
+20 (61%)
+ More than one race
+2 (6%)
+8 (24%)
+Hispanic2, n (%)
+5 (14%)
+5 (14%)
+Age (years), mean (SD)
+10.77 (1.31)
+11.18 (1.45)
+Verbal IQ, mean (SD)
+106.61 (13.39)
+108.37 (12.09)
+Nonverbal IQ, mean (SD)
+103.34 (17.22)
+102.26 (11.69)
+Spatial IQ, mean (SD)
+108.50 (15.64)
+107.74 (12.23)
+Full-Scale IQ, mean (SD)
+107.39 (15.41)
+107.21 (11.98)
+ADOS-2 Comparison, mean (SD)
+6.56 (1.35)
+Note. ASD = autism spectrum disorder; TYP = typical development; ADOS = Autism Diagnostic Observation Schedule.
+1Frequency missing=4 in ASD and 5 in TYP group.
+2Frequency missing=3 in ASD and 4 in TYP group.
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Solomon et al.
+Page 24
+Table 2.
+Summary (mean, SD) of the Performance for Participants with Autism Spectrum Disorder (ASD) and Typical 
+Development (TYP)
+a). Performance on non-emotion related aspects of the false memories task
+ASD
+TYP
+Cohen’s d
+Consistent
+Inconsistent
+Consistent
+Inconsistent
+dC
+dI
+Variable
+Hit Rate
+0.71 (0.16)
+0.81 (0.18)
+0.73 (0.16)
+0.87 (0.15)
+−0.13
+−0.33
+False Alarms
+0.40 (0.17)
+0.08 (0.05)
+0.28 (0.13)
+0.07 (0.03)
+0.80
+0.17
+b). Performance on scenes that involve emotional materials
+ASD
+TYP
+Cohen’s d
+Emotion
+Neutral
+Emotion
+Neutral
+dE
+dN
+d’
+1.06 (0.68)
+0.85 (0.56)
+1.24 (0.55)
+1.41 (0.76)
+−0.30
+−0.83
+c) Stimulus valence and the propensity to make causal versus gap-filling errors
+ASD
+TYP
+Cohen’s d
+Causal
+Gap-Filling
+Causal
+Gap-Filling
+dCa
+dG
+Negative Errors
+0.54 (0.27)
+0.30 (0.21)
+0.42 (0.26)
+0.16 (0.14)
+0.47
+0.77
+Neutral Errors
+0.51 (0.27)
+0.23 (0.18)
+0.52 (0.28)
+0.15 (0.16)
+−0.04
+0.45
+Positive Errors
+0.39 (0.30)
+0.31 (0.21)
+0.31 (0.25)
+0.16 (0.18)
+0.29
+0.80
+Note: Descriptive measures of effect sizes for differences between the ASD and TYP groups were calculated by computing Cohen’s d separately 
+for each task condition.
+Abbreviations: dC, Cohen’s d for Consistent; dI, Cohen’s d for Inconsistent; dE, Cohen’s d for Emotion Valence; dN, Cohen’s d for Neutral 
+Valence; dCa, Cohen’s d for Causal Errors; dG, Cohen’s d for Gap-Filling Errors.
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Solomon et al.
+Page 25
+Table 3.
+Summary of the final mixed-effects linear models predicting performance
+a). Final mixed-effects linear models predicting hit rates and false alarms
+False alarm ratesa
+Hit Ratesb
+Model term
+Estimate
+(SE)
+95% CI
+P-value
+Estimate
+(SE)
+95% CI
+P-value
+Intercept
+0.07 (0.01)
+0.06; 0.09
+< 0.001
+0.86 (0.02)
+0.81; 0.91
+< 0.001
+ASD Group
+0.007 (0.01)
+−0.01; 0.03
+0.45
+−0.04 (0.03)
+−0.10; 0.02
+0.22
+Type Consistent
+0.21 (0.02)
+0.16; 0.26
+< 0.001
+−0.12 (0.02)
+−0.16; −0.08
+< 0.001
+ASD*Consistent
+0.11 (0.03)
+0.05; 0.18
+0.001
+-
+-
+-
+b). Final mixed-effects linear model predicting d’
+Model termc
+Estimate (SE)
+95% CI
+P-value
+Intercept
+1.24 (0.10)
+1.04; 1.44
+< 0.001
+ASD Group
+−0.19 (0.15)
+−0.47; 0.10
+0.20
+Emotion
+0.17 (0.12)
+−0.07; 0.40
+0.16
+ASD*Emotion
+−0.37 (0.17)
+−0.70; −0.04
+0.03
+c). Final mixed-effects linear model predicting errors
+Model termd
+Estimate (SE)
+95% CI
+P-value
+Intercept
+0.17 (0.03)
+0.11; 0.22
+< 0.001
+ASD Group
+0.14 (0.04)
+0.06; 0.21
+< 0.001
+Type Causal
+0.11 (0.03)
+0.05; 0.17
+< 0.001
+Negative
+−0.01 (0.03)
+−0.06; 0.05
+0.84
+Neutral Valence
+−0.01 (0.03)
+−0.06; 0.05
+0.84
+ASD*Negative
+0.14 (0.04)
+0.05; 0.22
+0.002
+ASD*Neutral
+0.21 (0.04)
+0.12; 0.30
+< 0.001
+Causal*Negative
+−0.001 (0.04)
+−0.08; 0.07
+0.97
+Causal*Neutral
+−0.08 (0.04)
+−0.16; −0.01
+0.03
+Abbreviations: ASD, Autism Spectrum Disorder; SE, standard error; CI, confidence interval.
+aReference was TYP for group and Inconsistent for type. Due to reference coding, the intercept can be interpreted as the expected Inconsistent false 
+alarm rate for TYP participants. The ASD fixed effect represents the difference between ASD and TYP for Inconsistent false alarms. Type 
+Consistent fixed effect represents the difference between Consistent and Inconsistent false alarms for TYP participants, and ASD*Consistent 
+represents the difference in differences between Consistent and Inconsistent false alarms for ASD participants versus the TYP participants.
+bReference was Typically Developing (TYP) for group and Inconsistent for type. Due to reference coding, the intercept can be interpreted as the 
+expected Inconsistent hits for TYP participants. The ASD fixed effect represents the difference between ASD and TYP and the Type Consistent 
+fixed effect represents the difference between Consistent and Inconsistent hits.
+cReference was TYP for group and Neutral for valence. Due to reference coding, the intercept can be interpreted as the expected neutral d’ for TYP 
+participants. The ASD fixed effect represents the difference between ASD and TYP for neutral images. Emotion Valence fixed effect represents the 
+difference between Emotional and Neutral d’ for TYP participants, and ASD* Emotion represents the difference in differences between Emotional 
+and Neutral d’ for ASD participants versus the TYP participants.
+dReference was TYP for group, Gap for type, and Positive for valence. Due to reference coding, the intercept can be interpreted as the expected 
+errors for positive gap-filling images for TYP participants. The ASD fixed effect represents the difference between ASD and TYP for positive 
+images. Negative and Neutral Valence fixed effects represents the differences between Negative and Positive and Neutral and Negative error rates, 
+respectively for TYP participants and gap-filling images.

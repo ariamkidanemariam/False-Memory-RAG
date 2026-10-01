@@ -1,0 +1,2503 @@
+WHATEVER GAVE YOU THAT IDEA? FALSE MEMORIES FOLLOWING EQUIVALENCE
+TRAINING: A BEHAVIORAL ACCOUNT OF THE MISINFORMATION EFFECT
+DANNA M. CHALLIES1, MAREE HUNT2, MARYANNE GARRY 2, AND DAVID N. HARPER2
+1CENTRE FOR DEFENCE AND SECURITY STUDIES, MASSEY UNIVERSITY
+2VICTORIA UNIVERSITY OF WELLINGTON
+The misinformation effect is a term used in the cognitive psychological literature to describe both
+experimental and real-world instances in which misleading information is incorporated into an account
+of an historical event. In many real-world situations, it is not possible to identify a distinct source of
+misinformation, and it appears that the witness may have inferred a false memory by integrating
+information from a variety of sources. In a stimulus equivalence task, a small number of trained
+relations between some members of a class of arbitrary stimuli result in a large number of untrained, or
+emergent relations, between all members of the class. Misleading information was introduced into a
+simple memory task between a learning phase and a recognition test by means of a match-to-sample
+stimulus equivalence task that included both stimuli from the original learning task and novel stimuli.
+At the recognition test, participants given equivalence training were more likely to misidentify patterns
+than those who were not given such training. The misinformation effect was distinct from the effects of
+prior stimulus exposure, or partial stimulus control. In summary, stimulus equivalence processes may
+underlie some real-world manifestations of the misinformation effect.
+Key words: stimulus equivalence, derived relations, false memory, memory, misinformation effect,
+match to sample, humans
+_______________________________________________________________________________
+Memory errors have been the subject of
+considerable research in the cognitive litera-
+ture over the last 40 years. This research has
+focused on both basic (e.g., examination of
+normal memory processes) and applied (e.g.,
+inaccuracy
+of
+eye-witness
+memory)
+topics.
+Recently, there have been a number of studies
+that
+have
+tried
+to
+investigate
+traditional
+cognitive-psychological phenomena in terms
+of behavior-analytic processes (Guinther &
+Dougher, 2010; Harper & Garry, 2000; Meeter,
+Shohamy, & Myers, 2009).
+One potential behavioral analog of process-
+es studied in the cognitive literature that are
+thought to contribute to memory errors may
+be the development of emergent relations
+among stimuli such as those participating in
+an equivalence class. Typically, a stimulus may
+gain a function either by correlation tempo-
+rally and spatially with another stimulus which
+has that function (Rehfeldt & Hayes, 1998), or
+by stimulus generalization based on some
+physical property shared by the two stimuli.
+An abstract stimulus may also acquire the
+function of a second stimulus through a
+common relationship with a mediating stimu-
+lus even though they may not have been
+temporally
+or
+spatially
+correlated.
+Stimuli
+which share a common function participate
+in a functional equivalence class; further,
+stimuli which are substitutable within a spec-
+ified context participate in a stimulus equiva-
+lence class (Dougher, 1998; Sidman, 1994).
+Sidman (1994) demonstrated stimulus equiv-
+alence using match-to-sample (MTS) training,
+and he proposed that stimulus equivalence
+was an operant behavior, and that stimulus
+equivalence classes could be defined using the
+terms reflexivity, or identity matching, symmetry,
+and transitivity from mathematical set theory,
+although the analogy is not perfect (see
+Tonneau, 2001). Symmetry occurs when after
+training a person to select stimulus B in the
+presence of stimulus A (denoted as AB), the
+person will select stimulus A in the presence
+of B (denoted as BA) without further training.
+Transitivity occurs when after the relations AB
+and BC are trained, the AC relation emerges.
+New items added to a stimulus equivalence
+class need only be related to one other
+existing item of the class (e.g., CD) in order
+for emergent symmetry, transitivity and re-
+flexivity to be observed between the added
+The study described in this paper was developed from
+studies conducted for Danna Challies’ Ph.D. thesis. We
+would like to thank two anonymous reviewers for their
+insightful comments and suggestions on an earlier version
+of this manuscript.
+Correspondence should be addressed to Maree Hunt,
+School of Psychology, P.O. Box 600, Wellington 6140, New
+Zealand (e-mail: maree.hunt@vuw.ac.nz).
+doi: 10.1901/jeab.2011.96-343
+JOURNAL OF THE EXPERIMENTAL ANALYSIS OF BEHAVIOR
+2011, 96, 343–362
+NUMBER 3 (NOVEMBER)
+343
+
+stimulus (D) and the remaining class mem-
+bers (A, B and C).
+Some authors refer to combined symmetry
+and transitivity (i.e, CA), as equivalence (Wirth
+& Chase, 2002; Yamamoto & Asano, 1995).
+The important feature is that the emergent
+relationships are not specifically trained. Sid-
+man (1994; Sidman & Tailby, 1982) suggested
+that equivalence may underlie symbolic behav-
+ior and referential meaning and that tests for
+equivalence are also tests of semantic relations.
+A further property of a stimulus equivalence
+class is the potential for the transfer of
+functions between equivalent stimuli. If a
+function is trained to one member of a
+stimulus equivalence class, without further
+training, other members of the equivalence
+class will evoke the same function (Dougher,
+1998; Dougher & Markham, 1996). Both the
+establishment of stimulus classes and the
+transfer of function between class members
+are probably heavily influenced by contextual
+features (Dougher, Perkins, Greenway, Koons,
+& Chiasson, 2002; Meehan & Fields, 1995;
+Randell & Remington, 2006; Rehfeldt, 2003).
+Guinther and Dougher (2010) investigated
+whether such derived relations could be seen
+as analogous to semantics (meaning) in the
+cognitive literature and thus have similar
+effects on memory. In the classic cognitive-
+psychological Deese-Roediger-McDermott (DRM)
+procedure (Roediger & McDermott, 1995),
+participants
+are
+asked
+to
+study
+lists
+of
+semantically related words (e.g. words with
+related meaning such as ‘‘pillow’’, ‘‘bed’’,
+‘‘rest’’). Then, participants are given a test in
+which they are asked to recall the list words;
+often,
+they
+falsely
+recall
+words
+that
+are
+semantically related to the studied word list
+(e.g., ‘‘sleep’’) and the likelihood of a false
+recall is correlated with increased semantic
+relatedness. This phenomenon is not restrict-
+ed to verbal stimuli: Participants who view a
+sequence of images consistent with a familiar
+script (e.g., making a sandwich) are more
+likely to falsely recognize images which were
+not included in the original to-be-memorized
+set, but which are consistent with the script
+(Gerrie, Belcher, & Garry, 2006; Hannigan
+&Tippens Reinitz, 2001; Jenkins, Wald, &
+Pittenger, 1986).
+In their DRIFT (derived relational intru-
+sions following training) procedure, Guinther
+and Dougher (2010) created an analogue of
+semantic relatedness by using match-to-sample
+training to establish equivalence classes be-
+tween groups of randomly selected words. In
+addition, Guinther and Dougher ensured that
+each of the targeted words in a critical set was
+also correlated temporally and spatially with a
+distracter word from another set. Thus, each
+of
+the
+target
+words
+was
+related
+through
+equivalence (hypothetically analogous to se-
+mantic relations) to one nontarget word, and
+each target word was associatively related to a
+second nontarget word through temporal and
+spatial contiguity in the absence of reinforce-
+ment. Participants were then requested to
+memorize 12 of the 24 original target words,
+followed by recall and recognition tests. In the
+recognition test, both target and nontarget
+words were presented. Participants were sig-
+nificantly more likely to recall incorrectly or
+recognize nontarget words related to target
+words through derived relations than they
+were to recall incorrectly or recognize nontar-
+get words related through temporal/spatial
+correlation or unrelated words presented as
+distracters during the training procedure.
+Guinther and Dougher (2010) argued that
+having established stimulus equivalence by
+training the relation ‘‘MEANS THE SAME
+THING,’’ when they then trained a new
+function, ‘‘REMEMBER THIS,’’ to half of the
+target stimuli, functional transfer resulted in
+other stimuli in the equivalence set also
+entering into the ‘‘REMEMBER THIS’’ rela-
+tion. Memory intrusions were thus a natural
+result of this transfer of function between
+stimuli. This transfer of function was more
+important in determining intrusions than was
+spatial and temporal association. The present
+study joins this emerging field of behavioral
+research
+by
+investigating
+whether
+derived
+relations might also contribute to a related
+false-memory phenomenon, the misinforma-
+tion effect.
+The Misinformation Effect in ihe
+Cognitive Literature
+The phenomenon of changes to reported
+memory as a result of subsequent misinforma-
+tion, termed the misinformation effect, has been
+well
+demonstrated.
+Since
+the
+mid-70s,
+a
+plethora of research has demonstrated that
+postevent misinformation may change report-
+ed details of an event that an individual has
+witnessed or even cause individuals to report
+344
+
+people or objects that were never experienced
+(e.g. Allen
+&
+Lindsay,
+1998;
+Belli, 1989;
+Chandler, Gargano, & Holt, 2001; Henkel,
+Franklin, & Johnson, 2000; Lindsay, 1990;
+Lindsay, Allen, Chan, & Dahl, 2004; Lindsay,
+Hagen, Wade, & Garry, 2004; Loftus, 1975,
+1979; Loftus & Hoffman, 1989; Loftus, Miller,
+& Burns, 1978; Loftus & Palmer, 1974; Lyle &
+Johnson, 2006; Marche, Brainerd, & Reyna,
+2010; Mitchell & Zaragoza, 1996, 2001; Okado
+& Stark, 2005; Skagerberg & Wright, 2008;
+Stark, Okado, & Loftus, 2010; Sutherland &
+Hayne, 2001; Wright & Loftus, 1998; Wright,
+Self, & Justice, 2000).
+The
+paradigmatic
+misinformation
+study
+(Loftus et al., 1978) consists of three phases
+(see top panel of Figure 1). In the first phase,
+an eyewitness is exposed to an event. In the
+second phase, information that contradicts
+factual detail of the observed event is then
+given to the eyewitness. This information is
+often in the form of questions ostensibly about
+some other facet of the event (e.g. Sutherland
+& Hayne, 2001), or a narrative purporting to
+summarize the event (e.g. Searcy, Bartlett, &
+Memon, 2000). In the third phase, when the
+eyewitnesses are asked to recall or recognize
+the original event, their reports often integrate
+the misinformation to which they have been
+exposed.
+Indirect Misinformation
+While the Loftus et al. (1978) procedure
+may reliably produce inaccurate performance
+on recall and recognition tests, it is not clear
+that it captures what happens in many real-
+world cases. In many real-world occasions
+where a witness has incorporated misinforma-
+tion into his or her testimony, there is no
+indication that the witness was misled by
+information provided after the event (Gross,
+Jacoby,
+Matheson,
+Montgomery,
+&
+Patil,
+2005). It is, however, possible that information
+has been inferred, or acquired indirectly, from
+a variety of sources rather than explicitly
+provided. This indirect information may be
+incorporated into the witness’s report of the
+event. Studies of the effects of postevent
+misinformation generally focus on providing
+misinformation that specifically contradicts
+Fig. 1.
+Overview of the procedure. The rows compare two types of cognitive psychological misinformation studies,
+typically in three phases, and the present behavioral study. The left column shows the target event or stimulus to be
+remembered, the second column shows the source of misinformation, and the right column shows the event or stimulus
+that is erroneously recognized as the target.
+345
+
+details of the original event. However, a few
+studies have shown that participants’ reports
+may also be influenced by indirect or inferred
+misinformation (Loftus, 1975; Loftus & Palmer,
+1974), described by the researchers as ‘‘presup-
+position.’’ For example, Loftus and Palmer
+provided
+subjects
+with
+misinformation
+by
+manipulating the verbs used to describe an
+accident between two vehicles. Verbs presup-
+posing a more violent accident resulted in
+eyewitnesses more likely to report having seen
+broken glass, even though the original film of
+the accident did not show any broken glass.
+A related study (Loftus & Zanni, 1975)
+asked one question presupposing the exis-
+tence of a target object, ‘‘Did you see the
+broken headlight?’’ These participants were
+more likely to falsely report having seen a
+broken headlight than participants exposed
+to a nonpresumptive question, ‘‘Did you see a
+broken headlight?’’ It may be argued that
+these presupposition variations of the misin-
+formation paradigm insert a false element into
+an original memory by presenting a semantic
+equivalent to the participants. The question,
+‘‘Did you see the broken headlight?’’ carries
+with it the semantic construal ‘‘there was a
+broken headlight present during the original
+event.’’ The false element is incorporated into
+the participant’s account of the event through
+semantic relations.
+Source Monitoring
+One cognitive account of the misinformation
+effect is that memory errors are due to source
+monitoring errors (Lindsay, 1990; Lindsay, Allen,
+et al., 2004; Mitchell & Johnson, 2000). As new
+information is encountered, it is integrated into
+a person’s knowledge of an original event via
+semantic relations. In this account, if the
+semantic relations between new and existing
+information are strong, and the association
+between new information and its source is
+weak, the new information (misinformation) is
+ascribed to the same source as the original
+event.
+From a behavioral perspective, stimulus
+equivalence can account for the misinforma-
+tion
+effect.
+First,
+equivalence
+provides
+a
+vehicle by which a new function or response
+may join a preexisting behavioral repertoire
+without explicit training or direct contact
+between all elements. Second, consideration
+of the interplay between context and class
+accounts for the effects of source monitoring.
+Equivalence
+classes
+are
+contextually
+con-
+trolled; without it, equivalence class expansion
+would rapidly render all stimuli part of a single
+class. It is possible that in the real-world,
+equivalence class members themselves would
+form a part of the context which controls
+responding to their class.
+In some instances, the addition of new
+stimulus-class
+members
+may
+be
+context-
+dependent such that two overlapping stimulus
+classes are created. In other words, given the
+original context, the original class may be
+retained, and given a new context, the class is
+composed of the original stimuli and the new
+stimuli. A situation in which the two contexts
+are not readily discriminable may be analo-
+gous to the notion of a source-monitoring
+error.
+If derived relations are a behavioral ana-
+logue of semantic relatedness (as suggested
+by Guinther & Dougher, 2010), it should be
+possible to replicate the misinformation effect
+in behavior analytic research using the equiv-
+alence paradigm. This idea is consistent with
+Guinther and Dougher’s results, but there are
+also some aspects of the misinformation effect
+that need further consideration to confirm the
+potential role of emergent relations in this
+type of recognition error. The present study
+investigated whether recognition errors could
+be indirectly produced by substituting compo-
+nent stimuli of an originally learned com-
+pound stimulus (target pattern) with novel
+component stimuli that had been linked to the
+original
+component
+stimuli
+of
+the
+target
+pattern in the relation ‘‘BELONGS WITH’’
+via MTS training (see Figure 1).
+In Phase 1 of the current procedure, the to-
+be-remembered objects were presented to-
+gether as spatial arrays or compound stimuli
+(the target patterns). In Phase 2, for partici-
+pants in the experimental group, MTS training
+was used to establish stimulus equivalence and
+the relation ‘‘BELONGS WITH’’ among the
+members of the training sets and including
+one new object (for each set) not presented in
+Phase 1. In Phase 3, participants were given a
+recognition test in which stimulus patterns
+were: (1) those trained in Phase 1 (i.e., targets
+in the cognitive literature); (2) made up of
+objects from Phases 1 and 2 (i.e., lures in the
+cognitive literature); and (3) made up of novel
+objects (i.e., foils in the cognitive literature).
+346
+
+In line with the cognitive literature on the
+misinformation effect, it was expected that
+participants who passed equivalence tests in
+Phase 2 would respond to both the target and
+lure patterns, but not the foil patterns. By
+contrast, participants in the control group
+were
+expected
+to
+respond
+to
+the
+target
+patterns, but not the lure or foil patterns.
+Through this research, we are proposing a
+potential behavioral account for some instances
+of the misinformation effect. That is, we
+propose emergent relations as a mechanism
+whereby a false element may come to be
+reported as an integral part of an original event.
+METHOD
+Participants
+Fifty-one introductory psychology students
+participated. The only exclusion criterion was
+color-blindness.
+Participants
+earned
+credits
+towards the research component of the course.
+Twenty-four participants were randomly as-
+signed to a control group and 27 to an experi-
+mental group. Of this group, 3 were removed
+from the final analysis: 1 did not show for the
+second session, and 2 failed to complete the
+MTS task within the time allotted.
+Apparatus
+The stimuli were presented on a computer
+monitor by means of a Macromedia Author-
+ware 6 interactive training program.
+The
+program display was 22 cm wide by 15 cm
+high on a 35-cm VGA monitor. Participants
+were seated 30-70
+cm
+from the monitor
+(primarily
+dependent
+on
+personal
+prefer-
+ence). Participants responded to sample stim-
+uli by using a mouse to move the on-screen
+cursor either to the stimuli or to a virtual
+button and clicking the left button on the
+mouse. Participant responses and the time
+spent
+on
+the
+task
+(exclusive
+of
+reading
+instruction screens) were recorded and saved
+to a text document at the completion of each
+phase of the study.
+The stimuli were colored shapes and three
+letters. Nine of the colored shapes were
+arranged into three target patterns and were
+used in Phase 1. Each pattern consisted of a
+large colored shape, with two smaller colored
+shapes located within the contour of the larger
+shape as shown in the top row of Figure 2.
+Fifteen colored shapes were arranged into five
+distractor patterns for use in the test compo-
+nent of the phase.
+For Phase 2, the three letters, A, B, and C
+were presented in Comic Sans MS font 35 mm
+high, and nine colored shapes were arranged
+into three 4-member classes as shown in
+Figure 3. Note two colored shapes in each
+class were identical to two components of a
+target pattern used in Phase 1. A third shape in
+each set (B1, B2, or B3) was the same shape as
+the remaining component (one of the smaller,
+internal, colored shapes) of the target pattern,
+but was a different color.
+In Phase 3, there were three types of
+stimulus patterns: (1) the same three target
+patterns from Phase 1; (2) three lure patterns
+each composed of the colored-shape stimuli
+from one of the equivalence classes trained in
+Phase 2 (see second row of Figure 2); and (3)
+six foil patterns made up of a mixture of both
+previously seen and novel color/shape combi-
+nations (see third row of Figure 2).
+Procedure
+The experiment was conducted in three
+phases over two sessions held on the same day
+(see Figure 1); the first session ran for a total
+of 30 min including the time taken to give
+instructions, while the second session ran for a
+total of 60 min including instructions and
+debriefing times. There was a delay of 90 min
+between sessions. During Session 1, partici-
+pants carried out a learning task. During
+Session 2, participants completed a stimulus
+equivalence
+task
+(experimental
+group) or
+vigilance task (control group), followed by a
+recognition test of patterns learned during the
+first session.
+Participant preparation. To be consistent with
+the standard misinformation studies, partici-
+pants were misled as to the purpose of the
+experiment. At the start of the first session,
+participants were informed that they were
+participating in an experiment comparing
+‘‘long-term memory’’ with ‘‘working memory’’
+for similar stimuli. The memorization task and
+the recognition test were ostensibly the long-
+term memory task, while the stimulus equiva-
+lence training (or vigilance task for the control
+group) was described as a test of working
+memory. The instructions for all participants
+at the start of the first session were:
+347
+
+‘‘Today we are comparing long-term memory
+with working memory, to investigate whether
+people who are better at retaining a mental
+representation of an image over a period of
+time are also better at continually updating
+their memory during a learning task. This is
+the first session of the long-term memory task
+where you will learn three patterns made up of
+Fig. 2.
+First line shows target stimuli for the memory task; actual height of each pattern onscreen was between 8 and
+9 cm high (depending on pattern). Lure patterns are on line 2, and foils are on lines 3 and 4. Color codes are below the
+stimuli. All stimuli were used in the recognition test. Stimuli were presented individually and in random order.
+348
+
+coloured shapes. The computer will take you
+through a training program and test you at the
+end to ensure you have memorised the
+patterns. If you do not pass the test, the
+program will return you to the start of the
+training segment to repeat the training. You
+need to have memorised the patterns by the
+end of this session in order to qualify to come
+back for the second session. At the end of the
+second session, you will be tested on your
+memory for the patterns, after the working
+memory test.
+Pay attention to both the colours and shapes in
+each pattern; there may be up to three
+different shapes of each colour, or three
+different colours that have the same shape, in
+different patterns.’’
+Feedback at the conclusion of the study
+confirmed that the deception was successful.
+Participants were also advised that they were
+free to withdraw from the study at any time
+and completed written consent forms before
+starting Phase 1.
+Phase 1—Learning Task
+For the initial learning task, participants
+were exposed to, and interacted with three
+patterns each composed of three colored
+shapes (see Figure 2, top row). The task
+consisted of four components: (1) passive
+exposure; (2) a constructed response task;
+(3) self-paced exposure; and (4) an exit test.
+For
+the
+initial
+passive
+exposure
+phase,
+participants were exposed to each pattern for
+4 s four times sequentially. Above each pattern
+was the sentence ‘‘Study the pattern careful-
+ly,’’ and below each pattern was the label
+‘‘Pattern X’’ where X refers to the number 1, 2
+or 3.
+In some cognitive studies of the misinfor-
+mation effect, false recall and recognition
+responses have been demonstrated by both
+‘‘misinformation
+interference’’—where
+pre-
+sentation of a novel stimulus prevented re-
+porting of an original stimulus—and also
+‘‘misinformation
+acceptance’’—where
+the
+false recall/recognition response was due to
+the participants either forgetting some, or not
+attending to all, of the stimuli presented at the
+original event (Belli, 1989). For the present
+research, it was important to reduce the
+likelihood of the latter in order to ensure the
+observed effects were consequent to derived
+relations. This required a training program
+which ensured that participants attended to all
+aspects of the patterns, rather than having
+responses come under control of one or a few
+dimensions
+of
+the
+target
+pattern
+(partial
+stimulus control).
+Constructed response tasks have been found
+to
+improve
+literacy
+skills
+by
+requiring
+a
+participant to attend to all components of
+the stimulus (e.g. De Rose, De Souza, &
+Hanna, 1996; Dube, McDonald, McIlvane, &
+MacKay, 1991). This technique was used here
+to similarly ensure participants attended to all
+aspects of the pattern. For this training task,
+participants received the on-screen instruction
+‘‘please construct Pattern ‘X’ if all of its objects
+are here.’’ They were then required to select
+(with a mouse click) and drag the two small
+A
+B
+C
+Fig. 3.
+Sets used for the stimulus equivalence task. Actual height of each object on screen was 3.5 to 4 cm high
+(depending on object).
+349
+
+components of each pattern, from an array of
+colored shapes, on to the larger background
+shape. The array consisted of seven stimuli
+that differed in shape and color. If the
+participants selected an incorrect colored or
+shaped stimulus, the stimulus immediately
+returned to its starting position in the array.
+If they attempted to place the correct colored
+shape into the wrong position (left or right of
+the central axis) the object snapped into the
+correct position. The participants repeated the
+process of selecting stimuli from the array
+until they had placed the two correct internal
+colored shapes within the contour of the
+background shape (except for the two trials
+noted below). At that point, a button labeled
+‘‘Continue’’ appeared, and clicking on it
+advanced the program to the next trial. There
+were a total of six constructed response trials,
+two for each pattern. For each of these trials,
+the stimuli available in the array included two
+stimuli, each the correct shape and color of
+one of the component stimuli of the pattern.
+The remaining stimuli varied across trials but
+included at least one stimulus that was the
+same color or shape as the correct stimulus
+and two other stimuli that were either the
+same color as each other but not the color of
+the correct stimulus or the same shape as each
+other
+but
+not
+the
+shape
+of
+the
+correct
+stimulus. The incorrect stimuli included in
+the array were different for the two trials for
+each pattern. In this way it was necessary for
+the participant to attend to both color and
+shape to complete the task accurately. There
+were two additional trials that did not include
+all of the correct components for a target
+pattern within the array. For these trials the
+correct response was to click a virtual button
+stating, ‘‘Pattern X cannot be constructed.’’
+This button was present for all constructed
+response trials, but responses to this button
+were ineffective when all components were
+available.
+Following the constructed response task,
+participants were allowed to view each of the
+patterns for as long as they liked before
+completing a test. A total of eight trials were
+presented in the test, three patterns were the
+target patterns, and five patterns were distrac-
+ters similar to (but not the same as) those
+shown in Figure 2. On each trial, one pattern
+was presented with two response buttons
+positioned directly below it. One button was
+labeled ‘‘old’’ and the other was labeled
+‘‘new.’’ Participants were asked to select the
+‘‘old’’ button if the pattern was one of the
+three training patterns and the ‘‘new’’ button
+if the pattern was not previously seen. Partic-
+ipants
+who
+failed
+to
+correctly
+classify
+all
+patterns returned to the start to re-run the
+entire learning program. The criterion for
+continued participation in the study was to
+accurately classify all patterns within the 30 min
+allotted for the first session (all participants
+eventually passed the memory test).
+Phase 2—Stimulus Equivalence Task
+(Experimental Group)
+Baseline
+training.
+Sidman’s
+(Sidman
+&
+Tailby, 1982) match-to-sample (MTS) method
+was used to train three 4-member stimulus
+equivalence classes. Earlier work (Challies,
+2005) had shown that participants had diffi-
+culty learning this type of task. To facilitate
+acquisition of the training relations and the
+emergence of equivalence, this experiment
+incorporated exclusion techniques for train-
+ing novel stimuli (exclusion is frequently used
+to facilitate rapid and accurate learning in
+typically
+developing
+and
+developmentally-
+delayed children). The first two stimuli in
+each set were presented twice for 5 s each as
+paired associates prior to the first MTS train-
+ing trials, and subsequent trials introducing
+new
+class
+members
+used
+familiar
+stimuli
+belonging to another class as the other two
+comparison stimuli. This allowed the partici-
+pant to exclude the familiar distracters and
+correctly select the new class member (see
+Ferrari, de Rose, & McIlvane, 1993; Ferrari, De
+Rose, & McIlvane, 2008).
+Additionally, Arntzen (2004) found that
+using
+a
+picture
+rather
+than
+an
+abstract
+stimulus as the first stimulus in a set facilitated
+the emergence of equivalence, presumably
+due either to familiarity with the stimuli or
+naming the stimuli (Horne & Lowe, 1996). For
+this reason, one stimulus in each set was a
+letter (A stimuli in Figure 3) and the remain-
+ing stimuli were the three colored shapes (B,
+C, and D stimuli in Figure 3). The letter
+stimulus was also meant to reduce the possi-
+bility that participants would find similarities
+between the ‘‘long-term memory’’ task pat-
+terns, and the ‘‘working-memory’’ task sets,
+and contribute to contextual confusion at the
+final recognition test through its absence (see
+350
+
+discussion). The stimuli designated as B in
+Figure 3 were novel to this phase of the
+experiment. Because initial Phase 2 training
+involved the A and B stimuli, the participants
+had a period of training with novel stimuli
+before previously encountered stimuli were
+introduced as the C and D stimuli. Finally, the
+colored shape which formed the background
+contour of the target pattern in Phase 1 was
+judged to be the most discriminable target-
+pattern component both because it was the
+largest and formed the outline contour, and
+was
+always
+introduced
+last
+(D
+stimuli
+in
+Figure 3).
+At the start of this session, participants in
+the experimental group were told in both oral
+and written on-screen instructions that both
+the ‘‘long-term memory’’ and the ‘‘working
+memory’’
+tests
+would
+use
+similar
+stimuli,
+supposedly
+to
+reduce
+confounds
+due
+to
+differing levels of familiarity with different
+types of stimuli. The instructions were:
+‘‘You will be working on two different com-
+puter programs in this session. The first
+program is the working memory test. You will
+be learning three sets of objects at the same
+time. Each set contains one letter, and three
+coloured objects [researcher draws a sample
+set ‘E’ on the white board with coloured
+markers]. Because we are comparing two
+different types of memory, we need to make
+sure that the objects we use in the two tests are
+reasonably similar to each other. This is because
+if we used totally dissimilar objects, we could
+introduce a ‘confound’ into our study—that
+is—we would not know whether any difference
+in performance was due to the different
+memory task, or because we used different
+types of objects in the different tasks.
+Pay attention to both the colour and the shape
+of each object; both colour and shape may
+repeat in different combinations.
+If you focus on just the colour or the shape you
+are likely to get confused later on in the working
+memory task. If you make a mistake during
+some trials, the program gives you a short
+period of retraining—you do not go back to the
+start every time you make a mistake.
+When you have finished the working memory
+task, let me know and I will start the long-term
+memory test for you. After you have finished
+that, I have a short feed-back form for you to fill
+out, then a quick debrief and you are free to go.’’
+Table 1 provides an overview of the training
+and testing sequence. Stimulus equivalence
+classes were trained in 10 blocks designated
+Block 0 to Block 9. During Block 0, the initial
+stimulus pairs (A1, B1; A2, B2; A3, B3) in each
+class were established by means of contiguity,
+before beginning the match-to-sample proce-
+dure. Blocks 1 to 8 were match-to-sample trials;
+the sample stimulus was located in the upper
+half of the display panel, while three compar-
+ison stimuli (an S+ and two S2) were arranged
+horizontally on the lower half of the display
+panel. Onscreen instructions stated: ‘‘Please
+select the object that belongs to this set.’’
+During training blocks, the position of the S+
+(left, center, or right) alternated randomly,
+without replacement, until each S+ had been
+presented in each location. Each block trained
+one relation (e.g. A1–B1, A2–B2, and A3–B3), so
+a complete training block consisted of nine
+trials—the target relation for each set presented
+three times with the S+ in a different position
+each time. If any participants made an error
+during a training block, they repeated that
+training block until they met the 100% accuracy
+criterion across the nine trials comprising
+that block. Audible feedback indicated correct
+responses with a high pitched ‘‘ding’’ and
+incorrect responses with a low pitched ‘‘buzz.’’
+For blocks testing symmetry or transitivity,
+the S+ for the relation being tested was
+presented once only for each set, in a position
+(left, center, or right) selected at random.
+There was no feedback supplied during testing
+blocks. After all test relations were presented,
+the participants either progressed to the next
+block of the program (if they had correctly
+selected all S+), or repeated earlier training
+blocks (if they had not identified all S+).
+Criterion for progression for all blocks was
+100%.
+Stimulus equivalence classes were consid-
+ered established on successful completion of
+the stimulus equivalence MTS task. The final
+confirmatory test of class membership was also
+a MTS exercise; however, the sample stimulus
+was set in the centre of the screen, while nine
+comparison stimuli were arranged in a ‘‘u’’
+shape lining the lower half of the display
+panel. Participants were asked to identify all
+members of each equivalence class by clicking
+on the stimuli (described to participants as a
+‘‘set’’). There was one test trial for each set.
+Phase 2—Vigilance Task (Control Group)
+Control group participants did not com-
+plete the stimulus equivalence program; these
+351
+
+Table 1
+Overview of match-to-sample stimulus equivalence task.
+Block
+Process
+Sample Stimuli
+S+
+S2
+Criterion for progression
+0.
+Introduce A–B
+A1; B1
+Repeat twice for 5 s each.
+A2; B2
+A3; B3
+1.
+Train A–B
+A1
+B1
+B2, B3
+A2
+B2
+B1, B3
+A3
+B3
+B1, B2
+2.
+Test symmetry
+B–A
+B1
+A1
+A2, A3
+once only, in random position (left, center,
+right). If any failed, retrain blocks 0 and 1
+before retest.
+B2
+A2
+A1, A3
+B3
+A3
+A1, A2
+3.
+Train A–C
+A1
+C1
+B2, B3
+A2
+C2
+B1, B3
+A3
+C3
+B1, B2
+A1
+C1
+C2, C3
+A2
+C2
+C1, C3
+A3
+C3
+C1, C2
+4.
+Test symmetry
+C–A
+C1
+A1
+A2, A3
+once only , in random position (left,
+blocks 1 and 3 before retest.
+C2
+A2
+A1, A3
+C3
+A3
+A1, A2
+5.
+Test transitivity/
+equivalence
+B–C, C–B
+B1
+C1
+C2, C3
+blocks 1 and 3 before retest.
+B2
+C2
+C1, C3
+B3
+C3
+C1, C2
+C1
+B1
+B2, B3
+C2
+B2
+B1, B3
+C3
+B3
+B1, B2
+6.
+Train B–D
+B1
+D1
+C2, C3
+B2
+D2
+C1, C3
+B3
+D3
+C1, C2
+B1
+D1
+D2, D3
+B2
+D2
+D1, D3
+B3
+D3
+D1, D2
+7.
+Test symmetry
+D–B
+D1
+B1
+B2, B3
+blocks 1, 3 and 6 before retest.
+D2
+B2
+B1, B3
+D3
+B3
+B1, B2
+8.
+Test transitivity/
+equivalence
+D–A, D–C,
+A–D, C–D
+D1
+A1
+A2, A3
+blocks 1, 3 and 6 before retest.
+D2
+A2
+A1, A3
+D3
+A3
+A1, A2
+D1
+C1
+C2, C3
+D2
+C2
+C1, C3
+D3
+C3
+C1, C2
+A1
+D1
+D2, D3
+A2
+D2
+D1, D3
+A3
+D3
+D1, D2
+C1
+D1
+D2, D3
+C2
+D2
+D1, D3
+C3
+D3
+D1, D2
+9.
+Identify classes
+A1
+B1, C1,
+D1
+B2, C2, D2,
+B3, C3, D3
+Final test (score is recorded). No feedback
+provided.
+A2
+B2, C2,
+D2
+B1, C1, D1,
+B3, C3, D3
+A3
+B3, C3,
+D3
+B1, C1, D1,
+B2, C2, D2
+352
+
+participants completed a vigilance task using
+the same stimuli that the experimental group
+had for the stimulus equivalence task test. The
+vigilance task was a computer program super-
+ficially similar to the equivalence task and
+written using the same software. The vigilance
+task consisted of a series of twenty 2-min blocks
+where the stimuli were presented individually
+on the screen, in random order, and at
+random locations, for 2 s each. At the start of
+the task, also described to participants as a test
+of working memory, participants were told in
+both oral and written on-screen instructions
+that they were working on a ‘‘long-term
+memory’’ task and a ‘‘working-memory’’ task
+as follows:
+‘‘You will be working on two different com-
+puter programs in this session. The first
+program is the working memory test. A series
+of objects and letters will be displayed on the
+screen. Your task is to identify a specific
+sequence of objects and letters and press the
+space bar after the LAST object in the
+sequence is displayed [researcher draws a
+sample sequence of one letter and two
+coloured objects on the white board]. You
+must disregard all objects which are not in the
+target sequence. The target sequence will be
+changed from time to time.
+The objects include coloured shapes similar to
+those used in Session 1 which you completed
+earlier. This is because if we used totally
+dissimilar objects, we could introduce a ‘con-
+found’ into our study—that is—we would not
+know whether any difference in performance
+was due to the different memory task, or
+because we used different types of objects in
+the different tasks. Pay attention to both the
+colour and the shape of each object; both
+colour and shape may repeat in different
+combinations.
+When you have finished the working memory
+task, let me know and I will start the long-term
+memory test for you. After you have finished
+that, I have a short feed-back form for you to fill
+out, then a quick debrief and you are free to go.’’
+At the start
+of each
+2-min block, the
+participants were given the target sequence
+for that block in on-screen instructions. Target
+sequences became increasingly complex across
+tasks. For example, on early trials, participants
+were instructed to, ‘‘Hit the space bar when
+you see a letter followed by a letter,’’ while on
+later trials, they were instructed to, ‘‘Hit the
+space bar when you see a letter, followed by a
+red object, followed by a square.’’
+The vigilance task exposed participants to
+the stimuli for a total of 40 min during the
+hour-long second session. An earlier series of
+studies using the equivalence task with four
+different groups of students had established
+that while the time in the session was typically
+30 to 40 min, the mean time actually exposed
+to the equivalence stimuli (that is, time on-task
+exclusive of reading instructions and pausing
+between blocks) for these groups had been
+close to 10 min (Challies, 2005). The present
+vigilance task was designed to control for
+familiarity with the Phase 2 stimuli by ensuring
+that the control group had approximately the
+same duration of exposure to each of the
+stimuli. In the MTS task, four stimuli were
+simultaneously presented, while in the vigi-
+lance task the stimuli were presented individ-
+ually. Forty min were used for the vigilance
+task to ensure that each participant observed
+stimuli for approximately the same amount of
+time as participants who completed the MTS
+task.
+Phase 3—Recognition Test
+The recognition test presented individual
+stimuli (target patterns, lures and foils as
+shown in Figure 2) sequentially in random
+order. Three trials were the target patterns, the
+three original patterns learned in Phase 1. A
+further three trials were lures, patterns similar
+to the targets but composed of the stimuli
+from Phase 2. The remaining six trials were
+foils, patterns which contained both novel
+stimuli and at least one stimulus from the
+target patterns.
+Participants had been briefed that this
+phase was the ‘‘long-term memory’’ test of
+Table 2
+Percentage of ‘‘old’’ responses to individual patterns.
+Target 1
+Target 2
+Target 3
+Lure 1
+Lure 2
+Lure3
+All Foils
+Experimental Group
+95.83%
+70.83%
+83.33%
+58.33%
+54.17%
+75.00%
+8.00%
+Control Group
+91.67%
+79.17%
+95.83%
+16.67%
+4.17%
+12.50%
+1.00%
+353
+
+the original patterns they had memorized in
+their earlier session; they were instructed to
+view the patterns, identify old patterns from
+Phase 1 by selecting the ‘‘Old’’ button, and
+identify new patterns by selecting the ‘‘New’’
+button. Note that this was the same response
+method used in the exit test for Phase 1, so
+participants were familiar with it. On-screen
+instructions stated:
+You will be shown a series of patterns, some of
+which you memorized during the first session
+(Memory Task I). Others will be new. Below
+the pattern you will see two buttons labeled
+‘Old’ and ‘New.’ For each pattern, click on the
+‘Old’ button if it is one of the three you have
+memorized from your first session. Click on
+the ‘New’ button if the pattern is not one of
+the original three from the first session.
+Following Phase 3, participants were given an
+oral debrief which began by asking, ‘‘Did you
+notice any links or similarities between the
+Working Memory task, and the final Memory test
+of the photos? If yes, what were any linkages or
+similarities between the two tasks?’’ The experi-
+menter noted their answers and continued the
+oral debrief by outlining the actual objectives of
+the study and the need for the original deception.
+RESULTS
+Of the 26 experimental-group participants
+who returned for the second session, 24
+completed the stimulus equivalence task with-
+in the 60 min allocated for the task in total
+(including instructions). The following analy-
+sis excludes the nonfinishers (n52). All mem-
+bers of the control group returned for the
+second session (n524) and no adjustment of
+group size was required to facilitate statistical
+analysis. The success of the deception was
+confirmed by oral feedback: None of the
+participants
+identified
+similarities
+between
+the sets learned in Phase 2 and the patterns
+used in Phase 1, other than use of the same
+type of stimuli (colored shapes). Moreover,
+none suspected that the Phase 2 task might
+interfere with the Phase 1 task.
+Responses to Target Patterns, Lures, and Foils
+The percentage of ‘‘old’’ responses to the
+three types of stimuli is presented in Figure 4.
+This figure shows that the percentage of ‘‘old’’
+responses to the target (83% and 89%) and foil
+(8% and 1%) patterns was similar across the
+experimental and control groups, respectively.
+That is, participants generally correctly identi-
+fied the target patterns as old, and correctly
+identified the foil patterns as new. This figure
+also shows there was a clear difference between
+groups in their responses to the lure patterns.
+The experimental group tended to incorrectly
+identify lures as old (63% of trials), albeit less
+frequently than the targets were identified as
+old. The control group, however, responded to
+lures as they did to the foils (‘‘old’’ was the
+response on 11% of trials). That is, whereas
+experimental participants tended to identify
+the lure patterns as old, the control participants
+tended to correctly identify them as new.
+Responses to individual patterns and lures are
+detailed in Table 2.
+A 2 3 3 mixed-design ANOVA revealed a
+significant main effect of group, F (1, 46) 5
+34.83, p , .001, partial g2 5 .431, and a
+significant main effect of pattern type, F (1.53,
+70.46) 5 223.40, p , .001, partial g2 5 .829.
+There was a
+significant
+interaction
+effect
+between group and pattern type, F (1.53,
+70.46) 5 29.40, p 5 ,.001, partial g2 5 .39.
+Where
+Mauchly’s
+test
+indicated
+that
+the
+assumption of sphericity had been violated,
+degrees of freedom were corrected using
+Greenhouse-Geisser estimates of sphericity.
+Post hoc analyses using pairwise compari-
+sons of responses to patterns within groups
+and a Bonferroni correction for multiple tests
+indicated that, for the control group, there was
+no significant difference between responses
+to the foil and lure patterns (1% and 8%
+respectively), but that there were significantly
+more ‘‘old’’ responses to the target patterns
+(89%) than to both foil and lure patterns. For
+the experimental group, there were significant
+differences between all pattern types, meaning
+that there were more ‘‘old’’ responses to
+targets than both foils and lures but also more
+‘‘old’’ responses to lures than to foils.
+This pattern of responding can also be
+observed at the individual subject level. Every
+participant in the experimental group re-
+sponded ‘‘old’’ to at least one of the lure
+patterns and 58% responded ‘‘old’’ to two or
+more lures (see Appendix A). By contrast, 71%
+of participants in the control group did not
+respond ‘‘old’’ to any lure and only 1 partici-
+pant responded ‘‘old’’ to more than one lure
+(see Appendix B).
+354
+
+Further analyses were carried out to ensure
+that the differences between the experimental
+and control groups were due to equivalence
+training, and not due to differences in initial
+recall of the target patterns following the
+learning task, or differences in the duration
+of exposure to the Phase 2 stimuli in the
+experimental context. Additionally, the influ-
+ence of acquisition rate in the MTS task was
+considered.
+Initial Recall Performance
+There were no significant differences be-
+tween the two groups in performance on the
+Phase
+1
+task.
+All
+participants
+successfully
+completed the pattern recognition task within
+the 30 minutes allotted. Four control and 5
+experimental participants required, and suc-
+cessfully completed, retraining within that
+time.
+There
+were
+no
+differences
+in
+task
+completion time between the control group
+(M 5 19.50 min, SD 5 4.46), and the
+experimental group (M 5 18.28 min, SD 5
+5.41), t (46) 5 .37, n.s.
+Duration of Exposure to Phase 2 Stimuli
+The vigilance task appeared to adequately
+control for mean duration of exposure to the
+Phase
+2
+stimuli.
+The
+control
+group
+was
+exposed to the 12 stimuli in random sequence
+for 40 min; a mean time of 3 min 20 s for each
+stimulus. The mean time spent on-task (with
+the
+Phase
+2
+stimuli
+on
+screen)
+for
+the
+experimental group was 9 min 55 s in total
+(SD 5 4 min 37 s). Only four of the stimuli
+were on screen at any one time during the
+MTS task, resulting in a mean exposure of
+3 min 18 s for any given stimulus.
+In
+addition,
+there
+were
+no
+effects
+of
+exposure time within the experimental group.
+The time taken to complete the MTS task
+varied considerably across participants; the
+fastest participant spent 4 min 1 s on-task,
+while the slowest participant spent 20 min 17 s
+on-task. Although there was a wide variation in
+the time taken to complete the MTS task,
+there was no relation between the time it took
+to complete the task and the number of ‘‘old’’
+responses to the lures (R2 5 .0045).
+Fig. 4.
+Mean percentage of ‘‘old’’ responses to each type of pattern for the control (vigilance task) and experimental
+(MTS task) groups in the recognition test. ‘‘Old’’ responses to target patterns are correct identifications, but ‘‘old’’
+responses to lures and foil patterns are false recognitions. Error bars indicate standard error.
+355
+
+Match-to-Sample Task Acquisition
+One explanation for the observed wide
+variation in the duration of time needed to
+acquire the stimulus equivalence task is that
+participants who failed a testing block repeat-
+ed baseline training and were then retested
+(see Table 1). Time to complete MTS training
+and testing was moderately correlated with
+the number of test phases required to reach
+criterion (R2 5 .69). Most participants had
+little difficulty with B–A and C–A symmetry,
+but about half the participants needed retrain-
+ing to acquire B–C/C–B transitivity and D–B
+symmetry. Only 3 participants acquired A–D/
+D–A and C–D/D–C transitivity without base-
+line retraining. Only 1 participant completed
+the entire task without retraining on any block.
+At the conclusion of the MTS training, the
+participants were asked to select all the mem-
+bers of each set. Only 3 participants made one
+error each (out of nine responses). A summary
+of individual data for the experimental group
+is in Appendix A.
+DISCUSSION
+The results supported the hypothesis that
+stimulus equivalence may contribute to some
+instances of responding to lures in a manner
+analogous to some descriptions of the misin-
+formation effect in the cognitive literature. At
+the recognition test, experimental participants
+were significantly more likely to respond to
+lure patterns as old (63%) than control
+participants (11%). The high rate of ‘‘old’’
+responses to lures, however, did not prevent
+experimental
+participants
+from
+accurately
+identifying
+target
+patterns
+(83%)
+as
+old.
+Moreover, the experimental group correctly
+identified the target patterns as old on a
+similar percentage of trials as the control
+participants (89%). Both groups had a very
+low percentage of ‘‘old’’ responses to the foil
+(distracter) patterns (8% and 1% respective-
+ly). The tendency to respond to both target
+and lure patterns as old at the recognition test
+by the experimental group is consistent with
+patterns of responding demonstrated in cog-
+nitive research on the misinformation effect
+(e.g., Eakin, Schreiber, & Sergent-Marshall,
+2003).
+However,
+the
+high
+rate
+of
+‘‘old’’
+responses to the target patterns indicates that
+the effect seen in this study is not due to either
+forgetting or interference with recognition of
+the original stimulus.
+Methodological Issues
+In an experiment involving similar stimuli
+presented as targets, lures, and foils, some
+minor effects of familiarity, generalization,
+and partial stimulus control are to be expect-
+ed. Of importance is that these effects are
+minimized
+and
+measurable,
+and
+contrast
+significantly with the misinformation effect
+due to emergent relations. All of the foil
+patterns used in this experiment contained at
+least one component from the target patterns.
+During Phase 1 training, participants learned
+that foil patterns could contain a component
+from the target pattern, and they were trained
+to respond ‘‘new’’ to patterns that did not
+contain all the correct components in the
+proper configuration. The Phase 1 constructed-
+response task and recognition tests also en-
+sured that participants attended to all the
+dimensions upon which the patterns could
+vary: the color and shape of each component,
+and the configuration of the pattern. This
+strategy succeeded in keeping responses to foils
+very low.
+For both groups, it was expected that lures
+would be somewhat more difficult to discrim-
+inate from targets than foils as they varied
+from target patterns on only one dimension
+in one component (the color of one of the
+internal components). However, the results
+from the control group demonstrate that the
+target
+and
+lure
+patterns
+were
+sufficiently
+discriminable for the task.
+The experimental group also showed a
+slight increase in ‘‘old’’ responses to foils
+(8%) relative to the control group (1%), a
+nonsignificant trend also
+seen across the
+earlier series of unpublished studies (Challies,
+2005). On examination of these responses, it
+was found that the effect was due to Foils 2 and
+6 (see Figure 2) attracting a few more ‘‘old’’
+responses than other foils. Foils 2 and 6
+happen to share a color combination with
+Lure 3. It is possible that the slightly greater
+percentage of ‘‘old’’ responses by the exper-
+imental group to the foils is due to familiarity
+with that color combination because it was
+established during the Phase 2 MTS training,
+was not shared with any of the target patterns,
+and was not experienced by the control group.
+In spite of this, experimental group responses
+356
+
+to lures (68%) display a significant contrast
+with their responses to foils (8%). Thus, in this
+experiment, the small effects of familiarity
+contrast significantly with the misinformation
+effect due to emergent relations.
+Emergent Relations and Semantic Relations
+The results of this experiment support the
+findings of Guinther and Dougher (2010) that
+in some instances derived relations are a
+behavioral analog to semantic relatedness in
+the cognitive psychology literature. The results
+of this experiment also extend the relationship
+between emergent relations and ‘‘false mem-
+ory’’ to the postevent misinformation effect.
+Emergent relations that develop subsequent
+to a target event have the potential to alter
+recognition of elements of that event. Cogni-
+tive researchers (Hannigan & Tippens Reinitz,
+2001; Loftus & Palmer, 1974; Loftus & Zanni,
+1975) have demonstrated the enhancement
+of the misinformation effect when ‘‘semantic
+construal’’ allows a foreign element to enter
+into a person’s remembered account of an
+event, as compared to simple familiarity with
+the same foreign element. This experiment
+demonstrates that emergent relations may
+function as semantic construal in a behavioral
+analog of the misinformation effect. It should
+be stressed that there are likely to be a wide
+variety of causes of ‘‘false memory,’’ many of
+which likely interact with other causes and with
+individual
+differences,
+and
+that
+emergent
+relations may be one of many potential contri-
+buting factors to the misinformation effect.
+In line with findings in the cognitive psychol-
+ogy literature (Lindsay, 1990; Lindsay, Allen, et
+al., 2004; Mitchell & Johnson, 2000), it is likely
+that the misinformation effect is contingent on
+the degree to which the source of the information
+is confused between the original event and the
+novel misinformation. When the source of
+misinformation is highly discriminable, misinfor-
+mation is less likely to be incorporated into an
+account of an event. As noted earlier, source
+discriminability may arguably be analogous with
+context in the behavioral literature (Dougher, et
+al., 2002; Meehan & Fields, 1995; Randell &
+Remington, 2006; Rehfeldt, 2003). In the present
+study, there was likely little discriminability
+between the original source (the Phase 1 task),
+and the source of the misinformation (the Phase
+2 task). Both of the tasks were delivered in a
+similar context—a ‘‘memory’’ study conducted in
+a computer laboratory by the same experimenter,
+with similar stimuli and peripheral details. It is
+possible that manipulating the context within
+which original and misinformation stimuli are
+presented may impact on the strength of the
+misinformation effect—more discriminable con-
+texts may increase the likelihood of participants
+correctly responding ‘‘new’’ to the lure patterns.
+The procedures used to investigate emergent
+relations as the source of misinformation in the
+present study may be compared to misinforma-
+tion research in the cognitive literature. Partic-
+ipants in the present study were given up to
+30 min (inclusive of briefing times) to memorize
+the original stimuli, had repeated viewings,
+constructed the pattern from its components,
+and were tested to ensure memory for all key
+components
+of
+the
+target
+patterns
+before
+proceeding to the misinformation phase of the
+study. In contrast, initial exposure to the target
+event in typical misinformation studies is usually
+very brief, as researchers attempt to re-create
+real-life experiences (Memon, Hope, & Bull,
+2003). Standard misinformation studies may
+expose participants to a target slide or photo-
+graph once for a matter of seconds (Lindsay,
+Allen, et al., 2004; Memon, et al., 2003; Vornik,
+Sharman, & Garry, 2003), have participants view
+a video once only (Kneller, Memon, & Steve-
+nage, 2001; Searcy et al., 2000; Sutherland &
+Hayne, 2001) or listen to a narrative once only
+(Chandler et al., 2001). Many misinformation
+studies in the cognitive literature therefore rely
+on the target event being poorly observed and/
+or learned, with laboratory findings then applied
+in forensic settings (Wells et al., 2000). In spite of
+extensive exposure to the target stimuli, and a
+100% test criterion for progression to Phase 2,
+the present study demonstrated a robust misin-
+formation effect due to emergent relations in
+conditions of contextual similarity. This high-
+lights the potential vulnerability of delayed
+recognition, in a real-world situation, to poste-
+vent misinformation from emergent relations.
+Suggestions for Future Research
+Colored geometric shapes had been select-
+ed for simplicity and utility in constructing
+patterns. Although they proved adequate for
+the task, there were differences in responding
+(for both groups) to different patterns noted
+across the series, with Target Pattern 2 and
+Lure 2 attracting fewer ‘‘old’’ responses. Dif-
+ferences in responding across patterns (which
+357
+
+affected both experimental and control groups)
+may have reflected common prior learning
+histories for some participants (e.g., some
+elements may have been more familiar). Future
+research could norm patterns for familiarity
+and select patterns with common levels of
+familiarity.
+Research on compound stimuli has shown
+that emergent relations may be reliably dem-
+onstrated following go/no-go procedures with-
+out the requirement for MTS training (Debert,
+Huziwara, Faggiani, De Mathis, & McIlvane,
+2009; Debert, Matos, & McIlvane, 2007). It is
+possible that the memorization task itself
+established equivalence relations between the
+three stimuli comprising the target pattern.
+If this were the case, the lure stimulus need only
+have been trained to one of the original stimuli
+without the requirement for MTS training of
+the remaining baseline relations. For
+the
+present study, an important consideration was
+to optimize the conditions under which con-
+textual confusion might occur; this included
+incorporating the other elements of the pattern
+into the MTS task, even though only one of
+them was actually trained to the lure stimulus.
+Having established that emergent relations do
+underlie some manifestations of the misinfor-
+mation effect, future research could investigate
+the phenomenon using non-MTS procedures.
+A further research direction is suggested by the
+wide variation in time spent on-task by the
+experimental group during the Phase 2 MTS
+task. Although there was no relationship between
+the percentage of correct responses to lures and
+the time spent acquiring the MTS task, it did
+become apparent across this and the prior series
+of unpublished studies (Challies, 2005) that some
+participants were using a variety of verbal and
+subvocal strategies. This raised the possibility that
+verbal strategies may have had an impact on time
+taken to complete the MTS task. Participants in
+this study were not given any advice at all on how
+to associate the stimuli in the MTS classes, and
+those who vocalized strategies, or appeared to be
+using subvocal strategies, did so with varying
+degrees of success. Consequently, those who used
+a strategy are not distinguishable from those who
+didn’t, either by time or by the number of test
+phases needed to acquire the task. Research in
+progress is investigating the impact of instructing
+participants to use an efficient verbal rule to
+acquire the MTS task. One question addressed in
+this research is whether the strategy used impacts
+the transfer of function or changes the discrim-
+inability of the context.
+In summary, the present study provides
+further support to the thesis that even when
+initial recognition of elements of a target event
+is
+excellent, contextual confusion between
+classes of stimuli pertaining to the target event,
+including those formed subsequently, may allow
+false recognition of elements associated with the
+target event by emergent relations Further,
+stimulus equivalence and emergent relations
+have the potential to allow a behavioral–
+experimental investigation of cognitive con-
+structs which have traditionally been largely
+confined to the cognitive literature. In this
+account of false memories, they are seen as a by-
+product of stimulus equivalence and emergent
+relations. The same learning mechanisms that
+allow for efficient categorization of novel stimuli
+within existing equivalence classes are also
+responsible for some instances of the misinfor-
+mation effect. Some false memories are there-
+fore not a sign of pathology or deficiency, but
+are a normal part of human behavior.
+REFERENCES
+Allen, B. P., & Lindsay, D. S. (1998). Amalgamations of
+memories: Intrusion of information from one event
+into reports of another. Applied Cognitive Psychology, 12,
+277–285.
+Arntzen, E. (2004). Probability of equivalence formation:
+Familiar stimuli and training sequence. The Psycholog-
+ical Record, 54, 275–291.
+Belli, R. F. (1989). Influences of misleading postevent
+information: Misinformation interference and accep-
+tance. Journal of Experimental Psychology: General,
+118(1), 72–85.
+Challies, D. M. (2005). Stimulus Equivalence and False
+Memory. Unpublished dissertation, Victoria Universi-
+ty of Wellington, Wellington.
+Chandler, C. C., Gargano, G. J., & Holt, B. C. (2001).
+Witnessing postevents does not change memory
+traces, but can affect their retrieval. Applied Cognitive
+Psychology, 15, 3–22.
+Debert, P., Huziwara, E. M., Faggiani, R. B., De Mathis, M.
+E. S., & McIlvane, W. J. (2009). Emergent conditional
+relations in a go/no-go procedure: Figure–ground
+and stimulus–position compound relations. Journal
+of the Experimental Analysis of Behavior, 92(2),
+233–243.
+Debert, P., Matos, M. A., & McIlvane, W. J. (2007).
+Conditional relations with compound abstract stimuli
+using a go/no-go procedure. Journal of the Experimental
+Analysis of Behavior, 87(1), 89–96.
+De Rose, J. C., De Souza, D. G., & Hanna, E. S. (1996).
+Teaching reading and spelling: Exclusion and stimu-
+lus equivalence. Journal of Applied Behavior Analysis, 29,
+451–469.
+358
+
+Dougher, M. J. (1998). Stimulus equivalence and the
+untrained acquisition of stimulus functions. Behavior
+Therapy, 29, 577–591.
+Dougher, M. J., & Markham, M. R. (1996). Stimulus classes
+and the untrained acquisition of stimulus functions.
+In T. R. Zentall, & P. M. Smeets (Eds.), Stimulus class
+formation in humans and animals (pp. 137–152).
+Amsterdam: Elsevier Science B.V.
+Dougher, M. J., Perkins, D. R., Greenway, D., Koons, A., &
+Chiasson, C. (2002). Contextual control of equiva-
+lence-based transformation of functions. Journal of the
+Experimental Analysis of Behavior, 78(1), 63–93.
+Dube, W. V., McDonald, S. J., McIlvane, W. J., & MacKay,
+H. A. (1991). Constructed-response matching to
+sample and spelling instruction. Journal of Applied
+Behavior Analysis, 24, 305–317.
+Eakin, D. K., Schreiber, T. A., & Sergent-Marshall, S.
+(2003). Misinformation effects in eyewitness memory:
+The presence and absence of memory impairment as
+a function of warning and misinformation accessibil-
+ity. Journal of Experimental Psychology: Learning, Memory,
+& Cognition, 29(5), 813–825.
+Ferrari, C., de Rose, J. C., & McIlvane, W. J. (1993).
+Exclusion vs. selection training of auditory–visual
+conditional relations. Journal of Experimental Child
+Psychology, 56, 49–63.
+Ferrari, C., De Rose, J. C., & McIlvane, W. J. (2008). A
+comparison of exclusion and trial-and-error proce-
+dures: primary and secondary effects. Experimental
+Analysis of Human Behavior Bulletin, 29, 9–16.
+Gerrie, M. P., Belcher, L. E., & Garry, M. (2006). ‘Mind the
+gap’: false memories for missing aspects of an event.
+Applied Cognitive Psychology, 20(5), 689–696.
+Gross, S. R., Jacoby, K., Matheson, D. J., Montgomery, N.,
+& Patil, S. (2005). Exonerations in the United States
+1989 through 2003. The Journal of Criminal Law &
+Criminology, 95(2), http://law-journals-books.vlex.com/
+vid/in-the-united-states-through-55615176.
+Guinther, P. M., & Dougher, M. J. (2010). Semantic false
+memories in the form of derived relational intrusions
+following training. Journal of the Experimental Analysis of
+Behavior, 93(3), 329–347.
+Hannigan, S. L., & Tippens Reinitz, M. (2001). A demon-
+stration and comparison of two types of inference-based
+memory errors. Journal of Experimental Psychology: Learn-
+ing, Memory, and Cognition, 27(4), 931–940.
+Harper, D. N., & Garry, M. (2000). Postevent cues bias
+recognition performance in pigeons. Animal Learning
+& Behavior, 28(1), 59–67.
+Henkel, L. A., Franklin, N., & Johnson, M. K. (2000).
+Cross-modal source monitoring confusions between
+perceived and imagined events. Journal of Experimental
+Psychology: Learning, Memory, and Cognition, 26(2),
+321–335.
+Horne, P. J., & Lowe, C. F. (1996). On the origins of
+naming and other symbolic behavior. Journal of the
+Experimental Analysis of Behavior, 65, 185–241.
+Jenkins, J. J., Wald, J., & Pittenger, J. B. (1986). Appre-
+hending pictorial events. In V. McCabe, & G. J.
+Balzano (Eds.), Event cognition: An ecological perspective
+(pp. 117–133). Hillsdale, NJ: Erlbaum.
+Kneller, W., Memon, A., & Stevenage, S. (2001). Simulta-
+neous and sequential lineups: Decision processes of
+accurate and inaccurate eyewitnesses. Applied Cognitive
+Psychology, 15, 659–671.
+Lindsay, D. S. (1990). Misleading suggestions can impair
+eyewitnesses’ ability to remember event details. Journal
+of Experimental Psychology: Learning, Memory, and Cogni-
+tion, 16(6), 1077–1083.
+Lindsay, D. S., Allen, B. P., Chan, J. C. K., & Dahl, L. C. (2004).
+Eyewitness suggestibility and source similarity: Intrusions
+of details from one event into memory reports of another
+event. Journal of Memory and Language, 50, 96–111.
+Lindsay, D. S., Hagen, L., Wade, K. A., & Garry, M. (2004).
+True photographs and false memories. Psychological
+Science, 15, 149–154.
+Loftus, E. F. (1975). Leading questions and the eyewitness
+report. Cognitive Psychology, 7, 560–572.
+Loftus, E. F. (1979). The malleability of human memory.
+American Scientist, 67, 312–320.
+Loftus, E. F., & Hoffman, H. G. (1989). Misinformation
+and memory: The creation of new memories. Journal
+of Experimental Psychology: General, 118(1), 100–104.
+Loftus, E. F., Miller, D. G., & Burns, H. J. (1978). Semantic
+integration of verbal information into a visual memory.
+Journal of Experimental Psychology: Human Learning and
+Memory, 4(1), 19–31.
+Loftus, E. F., & Palmer, J. C. (1974). Reconstruction of
+automobile destruction: An example of the interac-
+tion between language and memory. Journal of Verbal
+Learning and Verbal Behavior, 13, 585–589.
+Loftus, E. F., & Zanni, G. (1975). Eyewitness testimony:
+The influence of the wording of a question. Bulletin of
+the Psychonomic Society, 5(1), 86–88.
+Lyle, K. B., & Johnson, M. K. (2006). Importing perceived
+features into false memories. Memory, 14(2), 197–213.
+Marche, T. A., Brainerd, C. J., & Reyna, V. F. (2010).
+Distinguishing true from false memories in forensic
+contexts: Can phenomenology tell us what is real?
+Applied Cognitive Psychology, 24(8), 1168–1182.
+Meehan, E. F., & Fields, L. (1995). Contextual control of new
+equivalence classes. The Psychological Record, 45, 165–182.
+Meeter, M., Shohamy, D., & Myers, C. E. (2009). Acquired
+equivalence changes stimulus representations. Journal
+of the Experimental Analysis of Behavior, 91(1), 127–141.
+Memon, A., Hope, L., & Bull, R. (2003). Exposure
+duration: Effects on eyewitness accuracy and confi-
+dence. British Journal of Psychology, 94, 339–354.
+Mitchell, K. J., & Johnson, M. K. (2000). Source monitoring:
+Attributing mental experiences. In E. Tulving, & F. I.
+M. Craik (Eds.), The Oxford handbook of memory (pp. 179–
+195). New York: Oxford University Press.
+Mitchell, K. J., & Zaragoza, M. (1996). Repeated exposure to
+suggestion and false memory: The role of contextual
+variability. Journal of Memory and Language, 35, 246–260.
+Mitchell, K. J., & Zaragoza, M. (2001). Contextual overlap
+and eyewitness suggestibility. Memory & Cognition,
+29(4), 616–626.
+Okado, Y., & Stark, C. E. L. (2005). Neural activity during
+encoding predicts false memories created by misin-
+formation. Learning & Memory, 12(1), 3–11.
+Randell, T., & Remington, B. (2006). Equivalence rela-
+tions, contextual control, and naming. Journal of the
+Experimental Analysis of Behavior, 86(3), 337–354.
+Rehfeldt, R. A. (2003). Establishing contextual control
+over generalized equivalence relations. The Psycholog-
+ical Record, 53, 415–428.
+Rehfeldt, R. A., & Hayes, L. J. (1998). The operant–
+respondent distinction revisited: toward an under-
+standing of stimulus equivalence. The Psychological
+Record, 48(2), 187–210.
+359
+
+Roediger III, H. L., & McDermott, K. B. (1995). Creating
+false memories: Remembering words not presented in
+lists. Journal of Experimental Psychology: Learning, Mem-
+ory, and Cognition, 21, 802–814.
+Searcy, J., Bartlett, J. C., & Memon, A. (2000). Influence of post-
+event narratives, line-up conditions and individual differ-
+ences on false identification by young and older eye-
+witnesses. Legal and Criminological Psychology, 5, 219–235.
+Sidman, M. (1994). Equivalence relations and behavior: A
+research story. Boston, MA: Authors Cooperative.
+Sidman, M., & Tailby, W. (1982). Conditional discrimina-
+tion vs. matching to sample: An expansion of the
+testing paradigm Journal of the Experimental Analysis of
+Behavior, 37(1), 5–22.
+Skagerberg, E. M., & Wright, D. B. (2008). The co-witness
+misinformation effect: Memory blends or memory
+compliance? Memory, 16(4), 436–442.
+Stark, C. E. L., Okado, Y., & Loftus, E. F. (2010). Imaging
+the reconstruction of true and false memories using
+sensory reactivation and the misinformation para-
+digms. Learning & Memory, 17(10), 485–488.
+Sutherland, R., & Hayne, H. (2001). The effect of
+postevent information on adults’ eyewitness reports.
+Applied Cognitive Psychology, 15, 249–263.
+Tonneau, F. (2001). Equivalence relations: A critical
+analysis. European Journal of Behavior Analysis, 2(1), 1–33.
+Vornik, L. A., Sharman, S. J., & Garry, M. (2003). The
+power of the spoken word: Sociolinguistic cues
+influence the misinformation effect. Memory, 11(1),
+101–109.
+Wells, G. L., Malpass, R. S., Lindsay, R. C. L., Fisher,
+R. P., Turtle, J. W., & Fulero, S. M. (2000). From the
+lab to the police station: A successful application of
+eyewitness research. American Psychologist, 55(6),
+581–598.
+Wirth, O., & Chase, P. N. (2002). Stability of functional
+equivalence and stimulus equivalence: Effects of
+baseline reversals. Journal of the Experimental Analysis
+of Behavior, 77(1), 29–47.
+Wright, D. B., & Loftus, E. F. (1998). How misinformation
+alters memories. Journal of Experimental Child Psycholo-
+gy, 71, 155–164.
+Wright, D. B., Self, G., & Justice, C. (2000). Memory
+conformity: Exploring misinformation effects when
+presented by another person. British Journal of
+Psychology, 91, 189–202.
+Yamamoto, J., & Asano, T. (1995). Stimulus equivalence in
+a chimpanzee (Pan troglodytes). The Psychological Record,
+45, 3–21.
+Received: April 29, 2011
+Final Acceptance: August 9, 2011
+APPENDIX A
+Summary of Individual Data for Control Task Group
+Participant
+Number of attempts at each test block (see Table 1) to achieve 100% criterion for progression to next
+training block.
+B-A Symmetry
+C-A Symmetry
+B-C/C-B Transitivity
+D-B Symmetry
+D-A/A-D/D-C/C-D
+Transitivity
+a100782
+2
+2
+2
+2
+3
+a1984
+1
+2
+2
+1
+1
+ad260287
+1
+1
+1
+1
+2
+CA020787
+1
+1
+1
+2
+2
+dl240887
+1
+1
+1
+1
+2
+dt050565
+1
+1
+5
+1
+6
+ed090884
+1
+1
+4
+2
+2
+HT021084
+1
+1
+1
+1
+2
+ja061086
+1
+1
+2
+2
+6
+KB1987
+1
+1
+1
+4
+7
+LM310783
+1
+1
+2
+1
+2
+mb191185
+1
+1
+1
+2
+3
+me190886
+2
+1
+1
+1
+1
+mh120786
+1
+1
+1
+2
+2
+mk281184
+1
+1
+1
+1
+3
+ms020587
+1
+1
+1
+1
+1
+nk050984
+1
+1
+2
+1
+4
+ns080686
+1
+1
+2
+1
+3
+PD200686
+1
+1
+1
+2
+6
+pf220684
+1
+1
+1
+2
+2
+SM110685
+1
+1
+2
+1
+2
+sp170286
+1
+3
+1
+4
+4
+Unk1
+1
+1
+2
+3
+6
+YW030583
+1
+1
+4
+2
+3
+Mean
+1.08
+1.17
+1.75
+1.71
+3.13
+MS160976*
+1
+2
+2
+6
+3 (block abandoned)
+sr120287*
+1
+3
+14 (block abandoned)
+*These two participants did not finish the MTS task within the time allocated for the session and were removed from
+analysis.
+360
+
+Number of attempts at each test
+block (see Table 1) to achieve
+100% criterion for progression
+to next training block.
+Final test score (selection of class
+members of set A, B, and C respectively
+given the letter for each set)
+Phase 3 recognition test ‘‘old’’ responses
+Total Test
+Blocks
+Time taken
+(Min.S)
+Target
+Lure
+Foil
+11
+12.02
+3/3
+3/3
+3/3
+3
+2
+1
+7
+8.12
+3/3
+3/3
+3/3
+3
+3
+1
+6
+4.01
+3/3
+3/3
+3/3
+3
+3
+2
+7
+8.32
+3/3
+3/3
+3/3
+2
+2
+0
+6
+5.19
+3/3
+3/3
+3/3
+3
+2
+1
+14
+13.13
+3/3
+3/3
+3/3
+3
+3
+0
+10
+8.00
+2/3
+3/3
+3/3
+3
+1
+0
+6
+4.59
+3/3
+3/3
+3/3
+2
+1
+1
+12
+12.45
+3/3
+3/3
+3/3
+2
+2
+1
+14
+19.17
+3/3
+3/3
+3/3
+2
+1
+0
+7
+6.00
+3/3
+3/3
+3/3
+2
+3
+0
+8
+5.56
+3/3
+3/3
+3/3
+2
+2
+0
+6
+4.07
+3/3
+3/3
+3/3
+3
+1
+0
+7
+10.49
+3/3
+2/3
+3/3
+3
+1
+0
+7
+8.32
+3/3
+3/3
+3/3
+2
+1
+1
+5
+4.25
+3/3
+3/3
+3/3
+2
+3
+1
+9
+17.22
+3/3
+2/3
+3/3
+3
+3
+0
+8
+9.36
+3/3
+3/3
+3/3
+3
+1
+0
+11
+14.20
+3/3
+3/3
+3/3
+2
+2
+1
+7
+9.08
+3/3
+3/3
+3/3
+3
+2
+0
+7
+6.04
+3/3
+3/3
+3/3
+2
+1
+1
+13
+13.44
+3/3
+3/3
+3/3
+3
+3
+0
+13
+20.17
+3/3
+3/3
+3/3
+1
+1
+0
+11
+11.10
+3/3
+3/3
+3/3
+3
+1
+0
+–
+–
+–
+–
+–
+–
+–
+–
+APPENDIX A
+(Extended)
+361
+
+APPENDIX B
+Summary of Individual Data for
+Control Task Group
+Participant
+Phase 3 recognition test ‘old’ responses
+Target
+Lure
+Foils
+a290376
+3
+0
+0
+a15031974
+2
+1
+1
+a8352
+3
+0
+0
+AB070785
+3
+0
+0
+AG091188
+3
+0
+0
+AJR14/07/87
+3
+1
+0
+AK161085
+3
+0
+0
+CJ090888
+3
+1
+0
+CS031006
+3
+0
+0
+DCLXVI
+3
+0
+0
+ej140987
+3
+0
+0
+ek180288
+2
+1
+0
+GZ861010
+2
+2
+0
+HM170189
+3
+0
+0
+JH13101987
+3
+0
+0
+kr050587
+3
+0
+0
+me180386
+3
+0
+0
+ns050288
+1
+1
+0
+Renee’
+3
+0
+0
+SA831127
+3
+0
+0
+SC080188
+3
+0
+0
+sr
+1
+1
+0
+ss130988
+2
+0
+0
+SW240687
+3
+0
+0
+362

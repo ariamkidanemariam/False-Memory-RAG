@@ -1,0 +1,1222 @@
+The influence of perceptual similarity and individual differences 
+on false memories in aging
+Nancy A. Dennis*, Indira C. Turney
+Department of Psychology, Pennsylvania State University, University Park, PA, USA
+Abstract
+Previous false memory research has suggested that older adults’ false memories are based on an 
+overreliance on gist processing in the absence of item-specific details. Yet, false memory studies 
+have rarely taken into consideration the precise role of item-item similarity on the cognitive and 
+neural mechanisms underlying perceptual false memories in older adults. In addition, work in our 
+laboratory has suggested that when investigating the neural basis of false memories in older adults, 
+it is equally as critical to take into account interindividual variability in behavior. With both factors 
+in mind, the present study was the first to examine how both controlled, systematic differences 
+in perceptual relatedness between targets and lures and individual differences in true and false 
+recognition contribute to the neural basis of both true and false memories in older adults. Results 
+suggest that between-subject variability in memory performance modulates neural activity in key 
+regions associated with false memories in aging, whereas systematic differences in perceptual 
+similarity did not modulate neural activity associated with false memories.
+Keywords
+Aging; False memory; fMRI; Individual differences; Gist
+1. Introduction
+Age-related memory dysfunction has been shown to stem from both increases in forgetting 
+and increases in false memories (McCabe et al., 2009). The latter is often more pronounced 
+in memory studies where there is a high degree of similarity between studied targets and 
+lures presented at retrieval (Koutstaal and Schacter, 1997; Norman and Schacter, 1997; Tun 
+et al., 1998). Although research regarding perceptual processing suggests that older adults 
+have difficulty in differentiating between 2 similar items (e.g., Park et al., 2004; Yassa et al., 
+2011), false memory studies have not investigated the precise role of item-item similarity 
+on the cognitive and neural mechanisms underlying perceptual false memories in older 
+adults. In addition, several lines of research have suggested that age-related variability in 
+cognitive performance, particularly in memory (Christensen et al., 1994, 1999; Lindenberger 
+and Baltes, 1997; Nelson and Dannefer, 1992), has a significant influence on the neural 
+*Corresponding author at: Department of Psychology, Pennsylvania State University, 450 Moore Building, University Park, PA 16802, 
+USA. fax: +1 814 863 7002. nad12@psu.edu (N.A. Dennis). 
+Disclosure statement
+The authors have no actual or potential conflicts of interest.
+HHS Public Access
+Author manuscript
+Published in final edited form as:
+Neurobiol Aging. 2018 February ; 62: 221–230. doi:10.1016/j.neurobiolaging.2017.10.020.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+basis of behavior (e.g., Davis et al., 2008; Gazzaley et al., 2005; Grady et al., 2005), 
+including false memories (Dennis et al., 2007, 2014a). Furthermore, although previous 
+studies investigating false memories in aging have focused on age differences in neural 
+recruitment, there has been little focus on identifying what neural activity independently 
+supports false memories in older adults, as well as what differentiates the true and false 
+memory processes in aging. To address these issues, the present study aimed to expand upon 
+previous research investigating perceptual false memories in aging by investigating how 
+both systematic differences in perceptual similarity between targets and lures and individual 
+differences in memory performance contribute to the neural basis of both true and false 
+memories in older adults.
+Perceptual false memories arise when perceptual similarity between targets and lures causes 
+individuals to incorrectly endorse a new item, or lure, as a target during memory retrieval 
+(e.g., Gutchess and Schacter, 2012; Koutstaal and Schacter, 1997; Slotnick and Schacter, 
+2004). Owing to this overlap, perceptually related lures are often classified as “old” at 
+a similar rate as targets (Glanzer and Adams, 1985; Hockley, 2008; Nosofsky et al., 
+2011), whereas unrelated lures are relatively easily rejected. With respect to aging, research 
+suggests that although older adults may successfully encode details necessary for making 
+accurate memory decisions, they fail to make use of these details at retrieval (Bowman and 
+Dennis, 2015; Bulevich and Thomas, 2012; Cohn et al., 2008; Koutstaal, 2003; Mitchell et 
+al., 2013; Multhaup, 1995; Park et al., 1984; Pezdek, 1987; Rahhal et al., 2002), leading 
+to high rates of false memories. This may stem from their reduced ability to differentiate 
+between similar representations in the visual cortex (e.g., Bowman and Dennis, 2015; Park 
+et al., 2004). Although perceptual relatedness appears to be a critical factor in accounting for 
+perceptual false memories, the precise relationship between perceptual similarity and neural 
+activation underlying false memories in aging has yet to be examined.
+In the presence of target-lure similarity, research has suggested that older adults tend to 
+employ gist-based strategies during retrieval and underutilize item-specific memory traces 
+(e.g., Dennis et al., 2007, 2008; Koutstaal and Schacter, 1997; Koutstaal et al., 1999). 
+That is, according to the fuzzy-trace theory, memory can be based on both item-specific 
+(verbatim) and gist traces (Brainerd and Reyna, 2002). Whereas item-specific traces include 
+distinctive features of the individual items, gist traces include the general meaning of the 
+event but lack perceptual details of individual items. Although both traces can support 
+true memories, it is posited that false memories arise in aging from a reduced reliance on 
+item-specific traces combined with an overreliance on gist traces. Thus, older adults will 
+often endorse a lure as old because it matches the gist trace associated with a given study 
+item (or items) (Balota et al., 1999; Tun et al., 1998).
+Supporting this, previous work from our laboratory shows that older adults do not effectively 
+use early occipital cortex, a region shown to support retrieval of item-specific or sensory 
+traces (Buckner and Wheeler, 2001; Rugg and Wilding, 2000), when discriminating between 
+studied items and perceptually related lures (Bowman and Dennis, 2015; Dennis et al., 
+2014a). In addition, our work shows that older adults use lateral middle temporal gyrus and 
+superior temporal gyrus (MTG and STG, respectively), regions shown to support semantic 
+gist processing (Simons et al., 2005; Wise and Price, 2006), when making false memories 
+Dennis and Turney
+Page 2
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+(Dennis et al., 2007, 2008, 2014a). In addition to semantic false memories, activity in STG 
+and MTG has also been shown to support familiarity-based false memories (Duarte et al., 
+2010) and highly confident perceptual false memories (Dennis et al., 2014b). Thus, taken 
+together, results suggest that the lateral temporal cortex may represent not just semantic 
+gist, but gist-based processing more generally, with respect to false memories in aging. 
+Furthermore, older adults’ reliance on gist memory and overlapping perceptual details from 
+encoding may lie at the heart of age-related increases in false memories.
+To the extent that such perceptual overlap represents shared gist, older adults may be more 
+prone to false memories for lures that share a higher degree of overlapping features than 
+lures that share less featural overlap with targets. In line with this, we recently showed 
+that the amount of perceptual overlap between the lures and targets was a critical factor 
+in accounting for false memory activation in the bilateral MTG and right medial prefrontal 
+cortex (mPFC) in young adults (Turney and Dennis, 2017). The mPFC has been shown 
+to support cognitive control in memory decisions (e.g., Iidaka et al., 2006; Jacques et al., 
+2011; Johnson et al., 1993; Kim, 2010, 2013) and is consistently activated in support of false 
+memories (see Kurkela and Dennis, 2016 for results from a recent meta-analysis). Critical to 
+the current design, false memory studies have ascribed the need for enhanced evaluation and 
+monitoring processes when making memory decisions concerning related lures, linking this 
+processing to increased recruitment of the mPFC (Atkins and Reuter-Lorenz, 2011; Dennis 
+et al., 2012, 2014a, 2014b; Garoff-Eaton et al., 2007; Iidaka et al., 2012; von Zerssen et al., 
+2001). In addition, prior results found that activity in the mPFC was correlated with activity 
+in the left MTG, suggesting that, with respect to false memories, increased monitoring and 
+evaluation processes are engaged as a function of increases in gist activity (Turney and 
+Dennis, 2017). Given older adults’ reliance on gist processing, it is critical to examine this 
+relationship in older adults so to fully understand the processes underlying high rates of false 
+memories in aging.
+In addition to the role of gist, previous work in our laboratory has also identified a critical 
+role of individual differences in accounting for neural activity supporting memory in older 
+adults. Specifically, our research has shown sizeable variability in rates of both true and 
+false memories within our older cohorts (Dennis et al., 2007, 2014a). Moreover, this 
+variability has been directly related to neural activity supporting both true and false memory 
+performance. For example, neural recruitment during encoding of semantic information 
+was found to be parametrically modulated by the rate of subsequent true memories 
+in occipitotemporal and occipitoparietal cortices, bilateral MTG, and right ventrolateral 
+prefrontal cortex. Similarly, false memory rates were shown to correlate with activity in 
+left STG and bilateral MTG in older adults (Dennis et al., 2007). A similar pattern of 
+activity was observed during retrieval of visual false memories, such that activity in the 
+right superior frontal gyrus (SFG) and left superior parietal cortex was predicted by higher 
+rates of true recollection, whereas activity in bilateral MTG and STG was predicted by 
+higher rates of false recollection (Dennis et al., 2014a). Taken together, results suggest that 
+individual differences in both true and false recognition are critical metrics to consider when 
+evaluating the neural basis of cognitive performance in older adults.
+Dennis and Turney
+Page 3
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Based on older adults’ propensity to both encode and use gist traces during memory 
+retrieval, the foregoing results may serve as a model for how gist operates in older adults. To 
+that end, the present study examines the effect of perceptual relatedness on false memories 
+in older adults. Specifically, we investigated whether perceptual similarity between targets 
+and lures modulates the neural systems that mediate false memories in older adults. To 
+do so we performed a memory test that used faces as targets and included retrieval lures 
+consisting of morphed faces that incorporated varying degrees of the target face and a new 
+face (Turney and Dennis, 2017). Given the structural organization of faces as a category 
+of stimuli, the use of face morphs to investigate similarity effects on false memories has 
+several advantages. For example, a lure face can be created by morphing a studied face with 
+a novel face to form a unique face that shares a measured degree of perceptual overlap with 
+the original face. As such, we can obtain a controlled, systematic measure of perceptual 
+relatedness between a target and lure and be in a position of examining the false memories 
+as a function of that relatedness.
+Precisely, morphed faces were created by varying the percentage of perceptual overlap 
+between a target face and another face, not used in the experiment, to obtain specific 
+levels of target/lure similarity. In addition, given that all targets and lures were generated 
+from a single category (faces), we were able to largely eliminate the influence of semantic 
+processing to false memories more generally, focusing mainly on memory errors stemming 
+from perceptual factors. This is critical to understand the influence of perceptual factors 
+in false memories, particularly in aging, where semantic influences on cognition and 
+false memories are widely documented (e.g., Dehon and Bredart, 2004; Schacter et 
+al., 1997b; Tun et al., 1998). Furthermore, based on previous work in our laboratory 
+indicating that neural recruitment supporting false memories in aging is related to both 
+within- and between-subject variability (Dennis et al., 2007, 2014a), we aimed to examine 
+the relationship between individual differences in memory performance and the neural 
+correlates underlying veridical and false memories in older adults.
+Consistent with previous perceptual memory studies in aging, we posit that true memories 
+(hits > misses) will be associated with neural activity in the occipital cortex, the medial 
+temporal lobe (MTL), and frontal cortices, and false memories (false alarms > correct 
+rejections) will be associated with neural activity in frontal, parietal, and occipital cortices. 
+Given the foregoing evidence regarding the role of gist and individual differences supporting 
+false memories and corresponding neural activity, we posit that both increases in perceptual 
+similarity between targets and lures and increased rates of true and false memories in 
+older adults should modulate neural activity in brain regions shown to support true and 
+false memories. Specifically, we predict that systematic increases in perceptual relatedness 
+between targets and lures will be associated with increased activity within the mPFC and 
+MTG/STG. In addition, using memory performance in a regression analysis, we predict that 
+individual differences in true memories will be associated with recruitment of mPFC and 
+hippocampal activity, whereas individual differences in false memories will be associated 
+with recruitment of both mPFC activity and bilateral MTG/STG activity, as higher error 
+rates reflect increased reliance on gist processing.
+Dennis and Turney
+Page 4
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+2. Material and methods
+2.1. Participants
+Twenty-five right-handed older adults (16 females) between the ages of 60 and 81 years 
+(mean age = 68 years, SD = 5.83) were recruited from Centre County community and 
+received monetary compensation for their participation. All participants were screened for 
+history of neurological disorders and psychiatric illness, dementia, and contraindications to 
+magnetic resonance imaging (Table 1). All participants provided written informed consent, 
+and all procedures were approved by the Pennsylvania State University’s Institutional 
+Review Board. Before participation in the study, all participants successfully completed 
+the Mars Letter Contrast Sensitivity Test (Arditi, 2005), which examines peak visual 
+contrast. This test was included to assess processing of relatively low retinal spatial 
+frequencies, confirming that participants could perceptually notice the difference between 
+items, especially at relatively low relatedness levels. The average log contrast sensitivity 
+score for both eyes was 1.68 (0.03), which fell in the normal range of 1.52–1.76 for older 
+adults over the age of 60 years. In addition, in a subsequent perceptual discrimination task, 
+paired sample t-tests assessing performance revealed that participants were able to correctly 
+discriminate between targets and all levels of morphed lures (all p’s < 0.05).
+2.2. Stimuli
+2.2.1. Experimental task: The stimuli consisted of 228 pictures of adult faces (ages 
+18–39). Faces were evenly divided by gender and presented with neutral expressions. Half 
+of the faces were Caucasian, and the other half were an even mixture of minority races 
+(African Americans, Indians, Asians, and Hispanics). Faces were chosen from the Color 
+Facial Recognition Technology database (Phillips et al., 1998) and the AR Face database 
+(Martinez and Benavente, 1998). The background of each image was removed, and pictures 
+were cropped and resized to an approximate size of 384 × 514 pixels. Images were presented 
+focally and equated for resolution and were displayed at a screen resolution of 1024 (H) × 
+768 (V) at 75 Hz. At the viewing distance of 143 cm, the display area was 20° (H) × 16° 
+(V) with experimental stimuli subtending 5° (H) × 4° (V). Face morphing was done using 
+Abrosoft FantaMorph software, version 5.0 (http://www.fantamorph.com/overview.html).
+During encoding, participants viewed 96 original unmorphed faces (parent X). Of the 96 
+study faces, 48 were brought to retrieval as target faces. The remaining encoding faces (48) 
+were morphed with a unique new face (using 1 of 48 parent Y faces) to create 16 morphed/
+blended faces in each of the following categories—70:30, 50:50, and 30:70—where the 
+first number represents the percentage of the parent X face and the latter represents the 
+percentage of the parent Y face used to create the blended image (note that parent Y face 
+was never seen during encoding). An additional 16 uniquely, unmorphed parent Y faces 
+(0:100) were also used as unrelated lures during retrieval. (For additional details regarding 
+stimuli and the morphing procedure, see Turney and Dennis, 2017).
+2.3. Procedure
+Participants first performed the contrast sensitivity task to ensure eligibility to participate in 
+the study. Once participants performed above criteria, they were given a brief overview of 
+Dennis and Turney
+Page 5
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+the study, along with task instructions. Encoding, retrieval, and a dynamic face localizer then 
+took place in the scanner. Images were displayed by COGENT in MATLAB (MathWorks). 
+Images were projected onto a screen and viewed by participants through a mirror attached 
+to the head coil. All images were presented in the center of the screen with response options 
+displayed below each image. Behavioral responses were recorded using a 4-button-response 
+box. Scanner noise was reduced with headphones and earplugs, and additional cushioning 
+was used in the head coil to minimize head motion.
+Encoding was evenly divided into 4 runs, each lasting approximately 4 minutes. During 
+each run, participants were presented with 24 faces, each face presented for a total of 4 
+seconds. During the face presentation, participants were asked to rate each face, on a scale 
+of 1–4, based on how typical (difficult to spot in a crowd) or atypical (distinct or easy 
+to spot in a crowd) the face appeared. The presentation of each face was followed by a 
+variable interstimulus interval (1–5 seconds). Following encoding, there was a 20-minute 
+delay period during which structural images (T1 and diffusion tensor images) were acquired 
+and the instructions of the retrieval task were given.
+During retrieval (also in the scanner), participants were shown 112 faces including 48 
+targets, 48 related lures (morphed faces), and 16 unmorphed lures, evenly distributed across 
+4 runs. The images were pseudorandomly sorted to ensure that no more than 3 images from 
+any 1 trial type appeared in a row. Each face was displayed for 4 seconds followed by a 
+variable intertrial interval ranging between 1000 and 5000 ms. During retrieval, participants 
+made old/new recognition memory responses using confidence ratings (old-high confidence; 
+old-low confidence; new-low confidence; new-high confidence). Participants were instructed 
+that some faces might seem similar to those which were presented during the study phase, 
+but only to respond “old” if the exact face was presented at study.
+Immediately following retrieval, a dynamic face localizer was presented. This task was used 
+to map face-sensitive regions. The task included a silent, fluid concatenation of short (15 
+seconds) movie vignettes (32 in total), lasting approximately 9 minutes. Vignettes included 
+video clips of people and faces (e.g., individuals laughing, angry, neutral), buildings (e.g., 
+skyscrapers, houses in residential and business areas, etc.), navigation through natural 
+landscapes (e.g., plains, meadows, mountains, oceans, etc.), and miscellaneous common 
+objects (e.g., moving cars, running faucets, etc.). No responses were required; participants 
+were instructed to simply pay attention to each of the short vignettes. Similar to previous 
+face-processing studies (Scherf et al., 2010; Avidan et al., 2005), the use of this passive 
+viewing task employs rich visual inputs that successfully map face-selective activation 
+in individual participants (see below for details regarding the analysis). Finally, outside 
+of the scanner, all participants completed the perceptual discrimination task to verify 
+differentiation between parent faces and their respective morphs used during retrieval. Only 
+data from retrieval are analyzed in the present study. Encoding and diffusion tensor imaging 
+data will be analyzed at a future date and presented in a subsequent manuscript(s).
+2.4. Image acquisition
+Images were acquired using the Siemens Prisma Fit 3T scanner equipped with a 32-channel 
+head coil. Functional images were then prescribed approximately parallel to the anterior 
+Dennis and Turney
+Page 6
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+commissure-posterior commissure line plane with a 30-degree steep angle. Echo-planar 
+functional images for encoding and retrieval were acquired using a descending acquisition, 
+2500-ms repetition time (TR), 25-ms echo time (TE), 240-mm field of view (FOV), an 802 
+matrix, and 42 axial slices with 3-mm slice thickness resulting in 3-mm isotropic voxels. For 
+the functional dynamic face localizer, echo-planar functional images were acquired using a 
+descending acquisition, 3000-ms TR, 30-ms TE, 240-mm FOV, an 802 matrix, and 42 axial 
+slices with 3-mm slice thickness resulting in 3-mm isotropic voxels. A T1 scan was acquired 
+with a 1650-ms TR, 2.03-ms TE, 256-mm FOV, 2562 matrix, 160 axial slices, and 1 mm 
+slice thickness for each participant.
+2.5. Functional magnetic resonance imaging analysis
+Functional data were preprocessed and analyzed with SPM8 (Statistical Parametric 
+Mapping; Wellcome Department of Cognitive Neurology, http://www.fil.ion.ucl.ac.uk/spm). 
+Images were first checked for scanner and movement artifacts using a time-series 
+diagnostic function TSDiffAna (Freiburg Brain Imaging) in MATLAB. Time-series data 
+were realigned, and images were then coregistered to the individual’s T1 image. Functional 
+data were then spatially normalized into a standard stereotaxic space using the Montreal 
+Neurological Institute EPI template implemented in SPM8, including resampling to the 
+original voxel size of 3 × 3 × 3 mm. A high-pass filter (128 seconds) was included in the 
+model to correct for scanner drift. Finally, the volumes were spatially smoothed using a 
+6-mm isotropic gaussian kernel.
+We used both the traditional contrast approach and a parametric modulation analysis at 
+the whole-brain level to assess the neural correlates mediating false memories. In addition, 
+to investigate a priori predictions with regard to individual differences in aging, we used 
+regression analyses within SPM, incorporating in both hit rate and false alarm rates 
+across participants. Specifically, trial-related activity was modeled with a general linear 
+model using a stick function corresponding to trial onsets convolved with a canonical 
+hemodynamic response function. To increase power in all analyses, we collapsed across 
+confidence levels to create 4 regressors of interest: hits, misses, false alarms, and correct 
+rejections. Mean (and range) trial counts for the 4 trial types of interest were as follows: hits: 
+35(24–44); misses: 13(4–24); false alarms: 26(12–42); and correct rejections: 38(22–52). 
+As is typical of most false memory studies, memory errors are relatively lower than correct 
+responses. Trial counts, however, fall within the range of previous false memory studies and 
+thus present no issue with respect to analysis or interpretation of data. “No response” trials 
+and motion parameters were also modeled as regressors of no interest.
+True memories were analyzed by direct comparisons between hits and misses, whereas 
+comparisons between false alarms and correct rejections allowed us to investigate neural 
+activity supporting false memories. Individual difference analyses were conducted to 
+identify neural activity associated with variability in older adults’ behavioral performance 
+supporting both true and false retrieval. Specifically, we regressed the contrast of false 
+alarms > correct rejections on false alarm rates to identify regions in which behavioral 
+performance predicted the magnitude of activation for false recognition. A similar analysis 
+was conducted for true memories in which hits > misses contrast was regressed with 
+Dennis and Turney
+Page 7
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+hit rates to identify regions in which behavioral performance predicted the magnitude of 
+activation for true recognition. Direct comparisons between hits and false alarms allowed us 
+to investigate unique neural activity associated with each memory type. Finally, to examine 
+the linear trends across relatedness for false memories, a linear parametric analysis was 
+conducted by modeling a linear increase in false alarms as a function of relatedness (70:30 = 
+4; 50:50 = 3; 30:70 = 2; 0:100 = 1). This regressor allowed for the identification of regions 
+whose activity correlated linearly (i.e., increasing as relatedness increased) with respect to 
+the different levels of target/lure relatedness. We included unmorphed parent Y faces (faces 
+that were not morphed with target faces) in the parametric analysis because (1) they were 
+perceptually less similar to the target faces than the 30:70 faces and yet (2) they were 
+still items from the same category (faces). Thus, we felt that they continued to reflect a 
+measurable difference in similarity between lure and target items.
+2.5.1. Defining regions of interest: Based on our a priori predictions regarding the 
+mPFC, MTL, and STG and MTG, we created region-of-interest (ROI) maps defining each 
+region for ROI analyses (in addition to the whole-brain analyses conducted for each contrast 
+of interest). All 3 regions were defined using anatomically defined regions identified by 
+the automated anatomical labeling (AAL) PickAtlas. More specifically, the mPFC included 
+the bilateral anterior and middle cingulum; the MTL ROI included the left and right 
+parahippocampal gyri and hippocampus; and the lateral temporal cortex included the left and 
+right MTG and STG. In addition, based on the stimulus used in the present study we were 
+also interested in exploring activity with the fusiform face area (FFA). Because the FFA 
+is defined functionally and not anatomically, it is typical to use a face localizer to identify 
+an independent measure of FFA from that of the experimental stimuli. Thus, similar to 
+face-processing studies (Scherf et al., 2010; Avidan et al., 2005), the FFA was functionally 
+defined using a dynamic face localizer task (Adapted from Hasson et al., 2004) that mapped 
+face-sensitive regions in each participant. Specifically, face processing was isolated by 
+contrasting face activity against that of all other categories within each participant (i.e., 
+buildings, navigation through natural landscapes, and miscellaneous common objects). A 
+1-sample t-test was then conducted across subjects to create a group-level contrast map that 
+isolated FFA bilaterally at the group level.
+All analyses were conducted both within the foregoing ROIs and the whole brain so as 
+to obtain a comprehensive understanding of neural processes supporting true and false 
+memories in aging. To identify significant results in all contrasts of interest, we employed 
+Monte Carlo simulations, implemented by 3dClustSim in AFNI, version 16.0 (Cox and 
+Hyde, 1997), to determine activation that was corrected for multiple comparisons at p < 
+0.05. For the whole-brain analysis, the input to this simulation was the search space from a 
+gray matter mask derived from the Wake Forest University AAL PickAtlas, available within 
+SPM, intrinsic smoothness in millimeters (x y z = 11.47), and p < 0.005. Results indicated 
+a cluster extent of 63 resampled voxels was required to correct for multiple comparisons at 
+p < 0.05 at the whole-brain level. Additional simulations were run to determine a correction 
+specific to a priori ROIs in the MTL, mPFC, and the STG/MTG (see details below on 
+defining ROIs used for creating the following masks). Results indicated that within the MTL 
+mask, an extent threshold of 10 voxels in association with an uncorrected p < 0.005 resulted 
+Dennis and Turney
+Page 8
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+in a corrected threshold of p < 0.05, as did 18 voxels in the mPFC and 20 voxels in the 
+STG/MTG mask.
+3. Results
+3.1. Behavioral
+To examine the effects of stimulus type (targets, lures) on the proportion of “old” 
+responses, we performed a paired sample t-test across “old” responses to targets and lures 
+(collapsed across relatedness). Results showed that participants made significantly more 
+“old” responses to targets (hits) than to lures (false alarms) [t(24) = 15.56, p < 0.001; for 
+means see Table 2]. To more specifically investigate the effects of levels of relatedness 
+on false memories, we conducted a repeated measure analysis-of-variance (ANOVA) on 
+false alarm rates across the differing levels of relatedness. Results revealed a main effect 
+of relatedness in which the rate of false alarms increased linearly, as relatedness increased 
+[F(1, 24) = 330.64, p < 0.001] (see Table 2 and Fig.1). Post hoc t-tests showed that false 
+alarm rates for the 70:30 related lures significantly differed from all the other lures, 50:50 
+significantly differed from 70:30 and 0:100 lures (all p’s < 0.05 Bonferroni corrected), but 
+not from 30:70 lures, and 30:70 significantly differed from 70:30 and 0:100 lures. A second 
+repeated measure ANOVA using reaction time as the dependent variable also revealed a 
+significant linear effect of relatedness on reaction time when making false alarms [F(1, 25) 
+= 8.57, p = 0.007], such that reaction time also increased as relatedness between targets and 
+lures increased.
+3.2. Imaging
+3.2.1. True and false memories: Whole-brain analyses revealed that successful true 
+memories elicited activity throughout the traditional retrieval network, including widespread 
+occipital cortex activity encompassing bilateral early (Brodmann area [BA] 17/18) and late 
+(BA 19/37/39) visual cortex, bilateral MTL including hippocampus and parahippocampal 
+gyrus (PHG), bilateral precentral gyrus, left middle frontal gyrus (MFG), and posterior 
+cingulate (Table 3).
+No region reached significance when examining false memories compared with correct 
+rejections.
+When directly compared, true compared with false memories exhibited greater activity in 
+the bilateral occipital cortex (BA 17/18), left inferior frontal gyrus (BA 45/46), left PHG, 
+and posterior cingulate. No region showed greater activity for false compared with true 
+memories.
+3.2.2. False alarm activity modulated by similarity: No region reached significance 
+when assessing false memories as a function of perceptual similarity.
+3.2.3. Individual differences: Individual differences in hit rate modulated activity in 
+several frontal regions including the mPFC and medial SFG as well as bilateral PHG. 
+Individual differences in false alarm rate also modulated activity in the mPFC as well 
+Dennis and Turney
+Page 9
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+as bilateral MTG, bilateral caudate, left hippocampus, right superior parietal cortex, and 
+precuneus (see Table 4; Fig. 2).
+3.2.4. Exploratory results: One of our a priori predictions was the modulation of false 
+alarm activity as a function of similarity in the mPFC and lateral temporal cortex (similar 
+to young adults). Having not observed the predicted increases, we further investigated the 
+response pattern within these regions using a liberal threshold of p < 0.05 within each ROI. 
+This investigation revealed activity in bilateral STG [left peak: −59, −32, 15; t = 3.3; k = 
+67]; [right peak: 65, −24, 13; t = 3.07; k = 28]; and the mPFC [peak: 0,31,−8; t = 3.50; k 
+= 46] (see Supplemental Fig. 1). Finally, we also explored the pattern of activity within the 
+FFA and MTL with respect to false memories and perceptual similarity. To fully examine the 
+response pattern within these regions, we plotted the mean activity within the functionally 
+defined FFA ROI (left only) and the anatomically defined MTL ROIs, for each trial type of 
+interest within false alarms. A repeated measure ANOVA revealed no significant differences 
+among false alarm regressors in any ROI. Hence, similar to results obtained in young adults 
+(Turney and Dennis, 2017), there is some evidence that activity in bilateral temporal cortex 
+and mPFC is sensitive to target-lure similarity, whereas activity within both the FFA and 
+MTL does not appear to be modulated by the systematic degree of relatedness in false 
+alarms (see Supplemental Fig. 2).
+4. Discussion
+The present study investigated the neural basis of false memory retrieval as a function of 
+the perceptual similarity between lures and targets in a group of older adults. Similar to 
+previous studies in older adults, successful memory retrieval elicited activity throughout the 
+occipital cortex as well as bilateral hippocampus and PHG, left MFG, and cingulate gyrus. 
+Moreover, recruitment of activity in bilateral occipital cortex, left inferior frontal gyrus, 
+right PHG, and posterior cingulate was significantly greater for true compared with false 
+memories. Although no region exhibited overall group effects for false memories, either in 
+general or with regard to similarity, we did observe significant effects when accounting for 
+individual differences. Specifically, hit rates predicted increased neural activity in frontal 
+regions, including the mPFC and medial SFG as well as bilateral PHG, and false alarm 
+rates predicted activity in the mPFC, bilateral MTG, bilateral caudate, left hippocampus, 
+right superior parietal cortex, and precuneus. Together, our findings further clarify the neural 
+basis supporting both true and false memories in older adults, pointing strongly to a role 
+of individual differences in behavior accounting for neural recruitment. Results and further 
+interpretation are discussed in the following sections.
+4.1. True memories
+Replicating results from previous studies investigating memory retrieval in older adults, 
+results showed that true memories were supported by activity in bilateral early and late 
+visual cortices, bilateral MTL including hippocampus and PHG, and MFG. Novel to the 
+present study, we also showed that much of this activity was greater for true compared 
+with false memory retrieval. As such, results suggest that the foregoing regions are not 
+only critical to memory success but also differentiate between veracity in memory retrieval 
+Dennis and Turney
+Page 10
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+in aging. With respect to retrieval-related activity in the occipital cortex, previous studies 
+have connected activity in the early visual cortex (BA 17 and 18) with the recapitulation 
+of sensory details from an encoded episode that is re-experienced at retrieval (Kahn et 
+al., 2004; Slotnick and Schacter, 2004; Woodruff et al., 2005) and activity in late visual 
+cortex (BA 19 & 37) with retrieval of more general aspects of the encoded episode and the 
+conscious retrieval of information (Slotnick and Schacter, 2004, 2006; Stark et al., 2010; 
+Vaidya et al., 2002). Given that both regions differentiate hits from misses and false alarms, 
+the current results suggest that both the recapitulation of early sensory details and higher 
+order visual processing are critical to memory success in older adults. Interestingly, occipital 
+activity was not present in the true memory regression analysis and thus was not modulated 
+by behavior. Taken together, results suggest that activity in the early visual cortex represents 
+a nonconscious sensory signal (Slotnick and Schacter, 2004, 2006) that is not recruited by 
+way of strategic processing in older adults who show higher levels of memory performance.
+Furthermore, the bilateral anterior hippocampus and PHG were also shown to support 
+successful memory retrieval for faces. As a key component in the memory network, the 
+hippocampus is posited to reflect retrieval of item-specific details from encoding that 
+support recollection and highly accurate memories (see Rugg and Vilberg, 2013), whereas 
+the PHG has been shown to support contextual information and familiarity (e.g., Davachi, 
+2006; Diana et al., 2007; Ranganath et al., 2004). The results suggest that older adults 
+rely on both types of memory when correctly identifying studied faces. Interestingly, 
+despite widespread recruitment of both MTL regions for true memories, the PHG, and 
+not the hippocampus proper, was found to both distinguish hits from false alarms and be 
+predictive of hit rates in the regression analysis. The lack of distinction between veridical 
+and false retrieval in the hippocampus suggests that the hippocampus may contribute to 
+false memories in a manner that univariate analyses are not sensitive enough to detect. 
+This conclusion is supported by the finding that hippocampal activity was associated with 
+increased false alarm rates in the regression analysis (for further discussion on this point, see 
+below). Taken together, results suggest that, in aging, the hippocampus may not be able to 
+adequately differentiate between targets and lures in a manner needed to accurately classify 
+related lures as “new” and this failure has a direct impact on performance measures.
+4.2. False memories
+The absence of activation for false alarms compared with both correct rejections and hits 
+is noteworthy, yet not without precedence. While previous false memory studies have 
+consistently identified regions that are more active for both hits and correct rejections 
+compared with false alarms, the opposite contrasts have yielded far fewer significant results. 
+A common interpretation of this pattern has been that both true and false memory retrieval 
+are based on a highly similar retrieval network (e.g., Atkins and Reuter-Lorenz, 2011; 
+Cabeza et al., 2001; Dennis et al., 2012; Schacter et al., 1997a), yet false retrieval does not 
+engage the network to the extent that true retrieval does (Dennis et al., 2012). This difference 
+in processing can be attributed to that fact that by virtue of its original presentation at 
+encoding, true retrieval of targets is accompanied by a larger number of memory traces than 
+that of false retrieval.
+Dennis and Turney
+Page 11
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+The present study also investigated the neural basis of false memories in aging by examining 
+the relationship between cognitive performance and neural recruitment in older adults. 
+Consistent with previous false memory studies in older adults (Dennis et al., 2007, 2014a), 
+the present study found that false alarm rates predicted activity in several regions including 
+the bilateral MTG and STG, mPFC, precuneus, and hippocampus. Noted above, activity 
+in lateral temporal cortices has been implicated in semantic gist processing (Simons et al., 
+2005; Wise and Price, 2006) and the integration of semantic information (e.g., Mashal et 
+al., 2007; Mason and Just, 2004; St George et al., 1999). Combined with its role in category-
+based processing of perceptual stimuli (e.g., Haxby et al., 2001; Sheinberg and Logothetis, 
+1997), we have posited that this activity reflects a role of the lateral temporal cortex in gist 
+processing more generally (Dennis et al., 2014a; Turney and Dennis, 2017). Alternatively, 
+it is possible that this activity represents retrieval of a semantic label (e.g., girl with red 
+hair) that may have been applied to the corresponding target face during encoding and 
+acts as general retrieval trace, supporting false identification of the related face. Although 
+additional research is needed to distinguish between the foregoing possibilities, the results 
+are consistent with our predictions, showing that gist processing is a key contributor to 
+increased rates of false memories in older adults.
+Like the lateral temporal gyri, the mPFC and precuneus are often implicated in false 
+memories, showing greater activity for false compared with true retrieval (for a meta-
+analysis see Kurkela and Dennis, 2016). Such an increase has been interpreted as reflecting 
+the need for additional cognitive control processes needed for the evaluation and monitoring 
+of related lures during memory retrieval (Atkins and Reuter-Lorenz, 2011; Dennis et al., 
+2012, 2014a, 2014b; Garoff-Eaton et al., 2007; Iidaka et al., 2012; von Zerssen et al., 2001). 
+Consistent with previous analyses from our laboratory (Dennis et al., 2007; 2014a; Webb 
+and Dennis, under review), activation across both gist and control regions suggests that older 
+adults who generate the highest rates of false alarms do so by monitoring and relying upon 
+gist activity when making their erroneous memory choices. Interestingly, false alarm rates 
+also predicted increased neural recruitment in the hippocampus, a region typically associated 
+with veridical recollection. As such, results suggest that high false alarm rates may also be 
+based on recollection of studied details associated with the related target, misattributed to the 
+related lure at retrieval (Dennis et al., 2014a; Webb and Dennis, under review; Gutchess and 
+Schacter, 2012).
+Interestingly, unlike young in the same task (Turney and Dennis, 2017), and counter to 
+our predictions, older adults did not exhibit increased recruitment in any brain region as a 
+function of target-lure similarity. This is an interesting finding as it is widely theorized that 
+older adults are directly influenced by gist processing in (false) memory tasks (Koutstaal 
+and Schacter, 1997; Paige et al., 2016; Tun et al., 1998). Within the current paradigm, the 
+degree of perceptual similarity between the lure and its corresponding target was proposed to 
+reflect the shared gist between the lure and its corresponding target. While behavioral results 
+supported this preposition (i.e., showing an increased rate of false memories as a function 
+of target-lure similarity), the absence of neural modulation in older adults suggests that the 
+2 factors are not related in the same way they are in young (Turney and Dennis, 2017).1 
+The absence of neural modulation as a function of gist mirrors recent findings from Paige 
+et al. (2016). Taken together, results may suggest that despite higher false alarms rates in 
+Dennis and Turney
+Page 12
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+older compared with younger adults,2 there is a threshold above which false memories are 
+not differentially influenced by factors that modulate the relationship between targets and 
+lures (e.g., perceptual relatedness, gist). Alternatively, high variability in behavior among the 
+older adults may have also been a contributing factor to the absence of a group effect at our 
+corrected threshold.
+4.3. Limitations and future directions
+The present study supported previous findings in showing that neural activity across 
+several regions is able to distinguish true compared with false memories, as well as novel 
+findings showing the role of perceptual relatedness and the relationship between individual 
+differences in false memory performance and modulation of lateral temporal activity in 
+aging. Nevertheless, we note limitations to the current design that should be considered. 
+Second, to have a balance between total targets and total lures, the current design included 
+a limited number of lure trials (and hence false alarms) at each relatedness level. Although 
+this was anticipated in our planned parametric analysis, it did not allow for the assessment of 
+neural activity at each level of lure relatedness.
+5. Conclusions
+The present study investigated the effect of perceptual similarity and individual differences 
+on the neural basis of true and false memories in older adults. With respect to true 
+memories, results replicate prior studies showing that memory success in aging is supported 
+by processing in the typical retrieval network, including bilateral early and late visual 
+cortices, bilateral MTL, and PFC. Moreover, as a large portion of this network also 
+showed greater activation for hits compared with false alarms, results suggest that this 
+activation mainly reflects successful retrieval and evaluation of encoding-related memory 
+traces that distinguish not just between hits and misses but also between veridical and 
+erroneous memories. No region exhibited increased activation for false memories nor 
+did older adults modulate neural activity as a function of similarity between lures and 
+target faces. Thus, while behavioral results suggest that systematic increases in perceptual 
+similarity significantly contributes to false memory rates, neural evidence suggests that these 
+perceptual effects do not have an effect on neural functioning supporting false memories. 
+Finally, an analysis including individual differences in behavior showed that false alarm 
+rates predicted false memory activity in several regions, including the mPFC, bilateral STG 
+and MTG, right superior parietal cortex, precuneus, and hippocampus. Results converge 
+with previous findings suggesting that variability in performance within the older adults 
+sample is a significant contributor to the neural basis of false memories (Dennis et al., 2007; 
+2014a; Webb and Dennis, under review).
+1It may be of interest to note that when activity in our a priori ROIs were investigated at a lenient threshold (p < 0.05), older adults did 
+exhibit modulation of neural activity in bilateral STG and mPFC (see Supplemental Fig. 1), but not MTL and FFA (see Supplemental 
+Fig. 2), as a function of target-lure similarity. This pattern, across all 4 regions, mirrored that found in young adults (Turney and 
+Dennis, 2017). Hence, there is some evidence that like young adults older adults are sensitive to target-lure similarity.
+2When comparing between older adults in the present study and younger adults from the same paradigm (Turney and Dennis, 2017), 
+older adults exhibited a significantly higher rate of false alarms (0.40) compared with younger adults [0.30; t(41) = 3.37, p = 0.001].
+Dennis and Turney
+Page 13
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgements
+The authors would like to thank the Penn State Social, Life, and Engineering Sciences Imaging Center (SLEIC), 3T 
+MRI Facility. We also thank members from the CAN Lab, including Christina Webb, John Huhn, and Kyle Kurkela, 
+for helpful comments throughout the project and during the writing process. This work was supported by a National 
+Science Foundation grant [BCS1025709] awarded to NAD and was conducted while NAD was an AFAR Research 
+Grant recipient from the American Federation for Aging Research, as well as a Graduate Research Fellowship from 
+the National Science Foundation awarded to ICT [DGE1255832].
+References
+Arditi A, 2005. Improving the design of the letter contrast sensitivity test. Invest. Ophthalmol. Vis. Sci. 
+46, 2225–2229. [PubMed: 15914645] 
+Atkins AS, Reuter-Lorenz PA, 2011. Neural mechanisms of semantic interference and false 
+recognition in short-term memory. Neuroimage 56, 1726–1734. [PubMed: 21349335] 
+Avidan G, Hasson U, Malach R, Behrmann M, 2005. Detailed exploration of face-related processing in 
+congenital prosopagnosia: 2. Functional neuroimaging findings. J. Cogn. Neurosci 17, 1150–1167. 
+[PubMed: 16102242] 
+Balota DA, Cortese MJ, Duchek JM, Adams D, Roediger HL 3rd, McDermott KB, Yerys BE, 1999. 
+Veridical and false memories in healthy older adults and in dementia of the Alzheimer’s type. Cogn. 
+Neuropsychol. 16, 361–384.
+Bowman CR, Dennis NA, 2015. Age differences in the neural correlates of novelty processing: the 
+effects of item-relatedness. Brain Res. 1612, 2–15. [PubMed: 25149192] 
+Brainerd CJ, Reyna VF, 2002. Fuzzy-trace theory and false memory. Curr. Dir. Psychol. Sci. 11, 
+164–169.
+Buckner RL, Wheeler ME, 2001. The cognitive neuroscience of remembering. Nat. Rev. Neurosci. 2, 
+624–634. [PubMed: 11533730] 
+Bulevich JB, Thomas AK, 2012. Retrieval effort improves memory and meta-memory in the face of 
+misinformation. J. Mem. Lang. 67, 45–58.
+Cabeza R, Rao SM, Wagner AD, Mayer AR, Schacter DL, 2001. Can medial temporal lobe regions 
+distinguish true from false? An event-related functional MRI study of veridical and illusory 
+recognition memory. Proc. Natl. Acad. Sci. U. S. A. 98, 4805–4810. [PubMed: 11287664] 
+Christensen H, Mackinnon A, Jorm AF, Henderson AS, Scott LR, Korten AE, 1994. Age differences 
+and interindividual variation in cognition in community-dwelling elderly. Psychol. Aging 9, 381–
+390. [PubMed: 7999323] 
+Christensen H, Mackinnon AJ, Korten AE, Jorm AF, Henderson AS, Jacomb P, Rodgers B, 1999. 
+An analysis of diversity in the cognitive performance of elderly community dwellers: individual 
+differences in change scores as a function of age. Psychol. Aging 14, 365–379. [PubMed: 
+10509693] 
+Cohn M, Emrich SM, Moscovitch M, 2008. Age-related deficits in associative memory: the influence 
+of impaired strategic retrieval. Psychol. Aging 23, 93–103. [PubMed: 18361659] 
+Cox RW, Hyde JS, 1997. Software tools for analysis and visualization of fMRI data. NMR Biomed. 
+10, 171–178. [PubMed: 9430344] 
+Davachi L, 2006. Item, context and relational episodic encoding in humans. Curr. Opin. Neurobiol. 16, 
+693–700. [PubMed: 17097284] 
+Davis SW, Dennis NA, Daselaar SM, Fleck MS, Cabeza R, 2008. Que PASA? The posterior-anterior 
+shift in aging. Cereb. Cortex 18, 1201–1209. [PubMed: 17925295] 
+Dehon H, Bredart S, 2004. False memories: young and older adults think of semantic associates at 
+the same rate, but young adults are more successful at source monitoring. Psychol. Aging 19, 
+191–197. [PubMed: 15065942] 
+Dennis and Turney
+Page 14
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Dennis NA, Bowman CR, Peterson KP, 2014a. Age-related differences in the neural correlates 
+mediating false recollection. Neurobiol. Aging 35, 395–407. [PubMed: 24094578] 
+Dennis NA, Bowman CR, Vandekar SN, 2012. True and phantom recollection: an fMRI investigation 
+of similar and distinct neural correlates and connectivity. Neuroimage 59, 2982–2993. [PubMed: 
+22001165] 
+Dennis NA, Johnson CE, Peterson KM, 2014b. Neural correlates underlying true and false associative 
+memories. Brain Cogn. 88, 65–72. [PubMed: 24859815] 
+Dennis NA, Kim H, Cabeza R, 2008. Age-related differences in brain activity during true and false 
+memory retrieval. J. Cogn. Neurosci. 20, 1390–1402. [PubMed: 18303982] 
+Dennis NA, Kim HK, Cabeza R, 2007. Effects of aging on the neural correlates of true and false 
+memory formation. Neuropsychologia 45, 3157–3166. [PubMed: 17716696] 
+Diana RA, Yonelinas AP, Ranganath C, 2007. Imaging recollection and familiarity in the medial 
+temporal lobe: a three-component model. Trends Cogn. Sci. 11, 379–386. [PubMed: 17707683] 
+Duarte A, Graham KS, Henson RN, 2010. Age-related changes in neural activity associated with 
+familiarity, recollection and false recognition. Neurobiol. Aging 31, 1814–1830. [PubMed: 
+19004526] 
+Garoff-Eaton RJ, Kensinger EA, Schacter DL, 2007. The neural correlates of conceptual and 
+perceptual false recognition. Learn. Mem. 14, 684–692. [PubMed: 17911372] 
+Gazzaley A, Cooney JW, Rissman J, D’Esposito M, 2005. Top-down suppression deficit underlies 
+working memory impairment in normal aging. Nat. Neurosci. 8, 1298–1300. [PubMed: 16158065] 
+Glanzer M, Adams JK, 1985. The mirror effect in recognition memory. Mem. Cognit. 13, 8–20.
+Grady CL, McIntosh AR, Craik FI, 2005. Task-related activity in prefrontal cortex and its relation 
+to recognition memory performance in young and old adults. Neuropsychologia 43, 1466–1481. 
+[PubMed: 15989937] 
+Gutchess AH, Schacter DL, 2012. The neural correlates of gist-based true and false recognition. 
+Neuroimage 59, 3418–3426. [PubMed: 22155331] 
+Hasson U, Nir Y, Levy I, Fuhrmann G, Malach R, 2004. Intersubject synchronization of cortical 
+activity during natural vision. Science 303, 1634–1640. [PubMed: 15016991] 
+Haxby JV, Gobbini MI, Furey ML, Ishai A, Schouten JL, Pietrini P, 2001. Distributed and overlapping 
+representations of faces and objects in ventral temporal cortex. Science 293, 2425–2430. [PubMed: 
+11577229] 
+Hockley WE, 2008. The effects of environmental context on recognition memory and claims of 
+remembering. J. Exp. Psychol. Learn. Mem. Cogn. 34, 1412–1429. [PubMed: 18980405] 
+Iidaka T, Harada T, Kawaguchi J, Sadato N, 2012. Neuroanatomical substrates involved in true and 
+false memories for face. Neuroimage 62, 167–176. [PubMed: 22575420] 
+Iidaka T, Matsumoto A, Nogawa J, Yamamoto Y, Sadato N, 2006. Frontoparietal network involved in 
+successful retreival from episodic memory. Spatial and temporal analyses using fMRI and ERP. 
+Cereb. Cortex 16, 1349–1360. [PubMed: 16861334] 
+Jacques PLS, Kragel PA, Rubin DC, 2011. Dynamic neural networks supporting memory retreival. 
+Neuroimage 57, 608–616. [PubMed: 21550407] 
+Johnson MK, Hashtroudi S, Lindsay DS, 1993. Source monitoring. Psychol. Bull. 114, 3–28. 
+[PubMed: 8346328] 
+Kahn I, Davachi L, Wagner AD, 2004. Functional-neuroanatomic correlates of recollection: 
+implications for models of recognition memory. J. Neurosci. 24, 4172–4180. [PubMed: 15115812] 
+Kim H, 2010. Dissociating the roles of the default-mode, dorsal, and ventral networks in episodic 
+memory retrieval. Neuroimage 50, 1648–1657. [PubMed: 20097295] 
+Kim H, 2013. Differential neural activity in the recognition of old versus new events: an Activation 
+Likelihood Estimation Meta-Analysis. Hum. Brain Mapp. 34, 814–836. [PubMed: 22110008] 
+Koutstaal W, 2003. Older adults encode–but do not always use–perceptual details: intentional versus 
+unintentional effects of detail on memory judgments. Psychol. Sci. 14, 189–193. [PubMed: 
+12661684] 
+Koutstaal W, Schacter DL, 1997. Gist-based false recognition of pictures in older and younger adults. 
+J. Mem. Lang. 37, 555–583.
+Dennis and Turney
+Page 15
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Koutstaal W, Schacter DL, Verfaellie M, Brenner C, Jackson EM, 1999. Perceptually based false 
+recognition of novel objects in amnesia: effects of category size and similarity to category 
+prototypes. Cogn. Neuropsychol. 16, 317–341.
+Kurkela KA, Dennis NA, 2016. Event-related fMRI studies of false memory: an activation likelihood 
+estimation meta-analysis. Neuropsychologia 81, 149–167. [PubMed: 26683385] 
+Lindenberger U, Baltes PB, 1997. Intellectual functioning in old and very old age: cross-sectional 
+results from the Berlin Aging Study. Psychol. Aging 12, 410–432. [PubMed: 9308090] 
+Martinez AM, Benavente R, 1998. The AR Face Database. CVC Tech. Rep. #24. Computer Vision 
+Center, Universitat Autonoma de Barcelona, Barcelona, Spain.
+Mashal N, Faust M, Hendler T, Jung-Beeman M, 2007. An fMRI investigation of the neural correlates 
+underlying the processing of novel metaphoric expressions. Brain Lang. 100, 115–126. [PubMed: 
+16290261] 
+Mason RA, Just MA, 2004. How the brain processes causal inferences in text. Psychol. Sci. 15, 1–7. 
+[PubMed: 14717824] 
+McCabe DP, Roediger HL 3rd, McDaniel MA, Balota DA, 2009. Aging reduces veridical 
+remembering but increases false remembering: neuropsychological test correlates of remember-
+know judgments. Neuropsychologia 47, 2164–2173. [PubMed: 19100756] 
+Mitchell KJ, Ankudowich E, Durbin KA, Greene EJ, Johnson MK, 2013. Age-related differences 
+in agenda-driven monitoring of format and task information. Neuropsychologia 51, 2427–2441. 
+[PubMed: 23357375] 
+Multhaup KS, 1995. Aging, source, and decision criteria: when false fame errors do and do not occur. 
+Psychol. Aging 10, 492–497. [PubMed: 8527069] 
+Nelson EA, Dannefer D, 1992. Aged heterogeneity: fact or fiction? The fate of diversity in 
+gerontological research. Gerontologist 32, 17–23. [PubMed: 1740251] 
+Norman KA, Schacter DL, 1997. False recognition in younger and older adults: exploring the 
+characteristics of illusory memories. Mem. Cogn. 25, 838–848.
+Nosofsky RM, Little DR, Donkin C, Fific M, 2011. Short-term memory scanning viewed as exemplar-
+based categorization. Psychol. Rev. 118, 280–315. [PubMed: 21355662] 
+Paige LE, Cassidy BS, Schacter DL, Gutchess AH, 2016. Age differences in hippocampal activation 
+during gist-based false recognition. Neurobiol. Aging 46, 76–83. [PubMed: 27460152] 
+Park DC, Polk TA, Park R, Minear M, Savage A, Smith MR, 2004. Aging reduces neural 
+specialization in ventral visual cortex. Proc. Natl. Acad. Sci. U. S. A. 101, 13091–13095. 
+[PubMed: 15322270] 
+Park DC, Puglisi JT, Sovacool M, 1984. Picture memory in older adults: effects of contextual detail at 
+encoding and retrieval. J. Gerontol. 39, 213–215. [PubMed: 6699379] 
+Pezdek K, 1987. Memory for pictures: a life-span study of the role of visual detail. Child Dev. 58, 
+807–815. [PubMed: 3608651] 
+Phillips PJ, Wechsler H, Huang J, Rauss PJ, 1998. The FERET database and evaluation procedure for 
+face-recognition algorithms. Image Vis. Comput. 16, 295–306.
+Rahhal TA, May CP, Hasher L, 2002. Truth and character: sources that older adults can remember. 
+Psychol. Sci. 13, 101–105. [PubMed: 11933991] 
+Ranganath C, Cohen MX, Dam C, D’Esposito M, 2004. Inferior temporal, prefrontal, and hippocampal 
+contributions to visual working memory maintenance and associative memory retrieval. J. 
+Neurosci. 24, 3917–3925. [PubMed: 15102907] 
+Rugg MD, Vilberg KL, 2013. Brain networks underlying episodic memory retrieval. Curr. Opin. 
+Neurobiol. 23, 255–260. [PubMed: 23206590] 
+Rugg MD, Wilding EL, 2000. Retrieval processing and episodic memory. Trends Cogn. Sci. 4, 108–
+115. [PubMed: 10689345] 
+Schacter DL, Buckner RL, Koutstaal W, Dale AM, Rosen BR, 1997a. Late onset of anterior prefrontal 
+activity during true and false recognition: an event-related fMRI study. Neuroimage 6, 259–269. 
+[PubMed: 9417969] 
+Schacter DL, Koutstaal W, Norman KA, 1997b. False memories and aging. Trends Cogn. Sci. 1, 
+229–236. [PubMed: 21223912] 
+Dennis and Turney
+Page 16
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Scherf KS, Luna B, Minshew N, Behrmann M, 2010. Location, location, location: Alterations in the 
+functional topography of face- but not object- or place-related cortex in adolescents with autism. 
+Front Human Neurosci 4, 26.
+Sheinberg DL, Logothetis NK, 1997. The role of temporal cortical areas in perceptual organization. 
+Proc. Natl. Acad. Sci. U. S. A. 94, 3408–3413. [PubMed: 9096407] 
+Simons JS, Verfaellie M, Hodges JR, Lee AC, Graham KS, Koutstaal W, Schacter DL, Budson 
+AE, 2005. Failing to get the gist: reduced false recognition of semantic associates in semantic 
+dementia. Neuropsychology 19, 353–361. [PubMed: 15910121] 
+Slotnick SD, Schacter DL, 2004. A sensory signature that distinguishes true from false memories. Nat. 
+Neurosci. 7, 664–672. [PubMed: 15156146] 
+Slotnick SD, Schacter DL, 2006. The nature of memory related activity in early visual areas. 
+Neuropsychologia 44, 2874–2886. [PubMed: 16901520] 
+St George M, Kutas M, Martinez A, Sereno MI, 1999. Semantic integration in reading: engagement 
+of the right hemisphere during discourse processing. Brain 122 (Pt 7), 1317–1325. [PubMed: 
+10388797] 
+Stark CE, Okado Y, Loftus EF, 2010. Imaging the reconstruction of true and false memories using 
+sensory reactivation and the misinformation paradigms. Learn. Mem. 17, 485–488. [PubMed: 
+20861170] 
+Tun PA, Wingfield A, Rosen MJ, Blanchard L, 1998. Response latencies for false memories: gist-
+based processes in normal aging. Psychol. Aging 13, 230–241. [PubMed: 9640584] 
+Turney IC, Dennis NA, 2017. Elucidating the neural correlates of related false memories using a 
+systematic measure of perceptual relatedness. Neuroimage 146, 940–950. [PubMed: 27608601] 
+Vaidya CJ, Zhao M, Desmond JE, Gabrieli JD, 2002. Evidence for cortical encoding specificity in 
+episodic memory: memory-induced re-activation of picture processing areas. Neuropsychologia 
+40, 2136–2143. [PubMed: 12208009] 
+von Zerssen GC, Mecklinger A, Opitz B, von Cramon DY, 2001. Conscious recollection and illusory 
+recognition: an event-related fMRI study. Eur. J. Neurosci. 13, 2148–2156. [PubMed: 11422456] 
+Webb CE and Dennis NA, Differentiating true and false schematic memories in older adults, under 
+review.
+Wise RJS, Price CJ, 2006. Functional imaging of language. In: Cabeza R, Kingstone A (Eds.), 
+Handbook of Functional Neuroimaging of Cognition (second ed.). MIT Press, Cambridge, MA, 
+pp. 191–228.
+Woodruff CC, Johnson JD, Uncapther MR, Rugg MD, 2005. Content-specificity of the neural 
+correlates of recollection. Neuropsychologia 43, 1022–1032. [PubMed: 15769488] 
+Yassa MA, Lacy JW, Stark SM, Albert MS, Gallagher M, Stark CE, 2011. Pattern separation deficits 
+associated with increased hippocampal CA3 and dentate gyrus activity in nondemented older 
+adults. Hippocampus 21, 968–979. [PubMed: 20865732] 
+Dennis and Turney
+Page 17
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Fig. 1. 
+True memory activity. Regions showing greater activity for hits compared with misses 
+(true memories; shown in “hot” color), including bilateral early and late visual cortices, 
+bilateral medial temporal lobe including hippocampus and parahippocampal gyrus, bilateral 
+precentral gyrus, left middle frontal gyrus, and posterior cingulate. When directly compared, 
+true compared with false memories (shown in “blue-green” color) exhibited a subset of the 
+above mentioned activity, including bilateral occipital cortex, left inferior frontal gyrus, left 
+parahippocampal gyrus, and posterior cingulate. (For interpretation of the references to color 
+in this figure legend, the reader is referred to the Web version of this article.)
+Dennis and Turney
+Page 18
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Fig. 2. 
+True and false regression activity. (A) Activity in the bilateral parahippocampal gyrus 
+associated with individual differences in hit rates. (B) Activity in bilateral middle and 
+superior temporal gyri and left hippocampus (circled) associated with individual differences 
+in false alarm rate. The anatomical masks were applied to whole-brain data to isolate activity 
+in the aforementioned regions for display purposes.
+Dennis and Turney
+Page 19
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Dennis and Turney
+Page 20
+Table 1.
+Participant demographics
+M (SD)
+Age
+67.78 (5.83)
+Years of education
+19.73 (3.71)
+Cognitive assessment tasks
+MMSE
+29.26 (1.21)
+WAIS-III
+Symbol Search
+13.74 (3.39)
+Digit Symbol Encoding
+13.87 (2.83)
+Symbol Copy
+114.52 (23.82)
+Digit Span
+12.96 (3.51)
+Arithmetic
+11.91 (3.45)
+Letter Number Sequencing
+12.48 (3.07)
+Vocabulary
+12.91 (3.70)
+Beck Depression Inventory
+1.61 (2.06)
+Key: M, mean; MMSE, Mini-Mental State Examination; SD, standard deviation; WAIS-III, Wechsler Adult Intelligence Scale-Ill.
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Dennis and Turney
+Page 21
+Table 2.
+Study stimuli and behavioral results
+Percentage of parent 
+faces
+(100:0)
+(70:30)
+(50:50)
+(30:70)
+(0:100)
+Stimuli type
+Parent X
+Morph
+Morph
+Morph
+Parent Y
+Trial type
+Target
+Lure
+Lure
+Lure
+New
+Percentage old
+Response times (ms)
+0.73 (0.10)
+0.59 (0.13)
+0.45 (0.17)
+0.36 (0.16)
+0.18 (0.12)
+Hits
+4151.54 (1041.21)
+-
+-
+-
+-
+Misses
+3970.19 (646.08)
+-
+-
+-
+-
+False alarms
+-
+3871.06 (877.72)
+3436.06 (1076.64)
+3299.05 (1557.56)
+2120 (1200)
+Correct rejections
+-
+4243.31 (966.05)
+3995.13 (852.83)
+4007.69 (660.72)
+3740.59 (1163.21)
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Dennis and Turney
+Page 22
+Table 3.
+Activation supporting true and false memories
+T&T coordinates
+H
+BA
+x
+y
+z
+t
+mm3
+Hit > miss
+Precentral gyrus
+L
+4/6
+−50
+−11
+37
+5.41
+8721
+R
+6
+53
+−17
+29
+4.84
+6399
+Middle frontal gyrus
+L
+8/9
+−24
+27
+44
+4.82
+3186
+Cingulate gyrus
+M
+24/31
+−6
+−2
+34
+4.07
+4509
+Hippocampus/PHG
+R
+34/37
+18
+−4
+−9
+6.48
+2916
+Hippocampus/PHG
+L
+34/37
+−30
+−19
+−11
+4.09
+3159
+IOG/MOG
+R/L
+17/18/19/37/39
+36
+−80
+2
+6.45
+63,558
+FA > CR
+n/a
+Hit > FA
+Inferior frontal gyrus
+L
+45/46
+−50
+31
+8
+4.3
+2025
+PHG
+R
+34
+18
+−7
+−11
+4.61
+297
+Posterior cingulate
+L
+31/23
+−9
+−43
+31
+4.23
+4131
+IOG/MOG
+R
+18/19/17
+30
+−85
+5
+6.34
+24,462
+FA > hit
+n/a
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Dennis and Turney
+Page 23
+Table 4.
+Regression analysis for true and false memories
+T&T coordinates
+H
+BA
+x
+y
+z
+t
+mm3
+Hits > miss regression with hit rate
+Anterior cingulate cortex
+R
+32/(25)
+12
+28
+−8
+5.81
+6912
+Putamen
+24
+10
+−10
+4.24
+648
+Superior frontal gyrus
+M
+6
+0
+17
+61
+4.86
+3348
+Parahippocampal gyrus
+L
+34
+−15
+−10
+−11
+4.78
+378
+Parahippocampal gyrus
+R
+34
+21
+−16
+−13
+4.28
+2187
+FA > CR regression with FA rate
+Medial prefrontal cortex
+M
+10
+−6
+57
+−5
+5.03
+2538
+Striatum
+Caudate/putamen
+R
+21
+20
+8
+5.14
+3753
+Caudate
+L
+−12
+22
+3
+1836
+Putamen/lentiform nucleus
+L
+−18
+0
+20
+4.11
+2808
+Hippocampus
+L
+−30
+−22
+−13
+3.55
+405
+Middle temporal gyrus
+L
+21
+−59
+−16
+−19
+4.74
+1701
+Middle/superior temporal gyrus
+R
+22/42
+56
+−9
+10
+4.55
+2943
+Superior temporal gyrus
+L
+22
+−53
+5
+−2
+4.15
+702
+Superior temporal gyrus
+L
+42
+−48
+−24
+5
+3.59
+567
+Superior parietal cortex
+R
+7
+53
+−39
+50
+5.29
+2727
+Precuneus
+M
+7
+−6
+−36
+58
+4.76
+7074

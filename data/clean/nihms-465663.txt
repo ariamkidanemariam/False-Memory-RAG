@@ -1,0 +1,669 @@
+Murder Must Memorize
+C. J. Brainerd
+Department of Human Development, Cornell University
+Abstract
+Memory reports usually provide the evidence that is most determinative of guilt or innocence in 
+criminal proceedings—including in the most serious proceedings, capital murder trials. Thus, 
+memory research is bedrock science when it comes to the reliability of legal evidence, and expert 
+testimony on such research is a linchpin of just verdicts. This principle is illustrated with a capital 
+murder trial in which several of the most powerful forms of memory distortion were present (e.g., 
+phantom recollections, robust interrogation methods that stimulate false self-incrimination). A key 
+question before the jury, whether to regard the defendant’s confession as true or false, turned on a 
+theoretical principle that is used to explain memory distortion in the laboratory, the verbatim-gist 
+distinction, and on research showing that it is possible to create false memories that embody the 
+gist of experience. The scientific testimony focused on instances in which false gist memories had 
+been created under controlled conditions (e.g., of having been lost in a mall, of receiving surgery 
+for a fictitious injury), as well as on real-life examples of false memory for the gist experience 
+(e.g., recovered memories of sexual abuse, alien abduction memories). The defendant was found 
+innocent of capital murder.
+Keywords
+false memory; false confession; interrogation; fuzzy-trace theory; verbatim-gist distinction; capital 
+punishment
+It is not widely understood that in criminal trials, it is uncommon to possess physical 
+forensic evidence that bears directly on the guilt or innocence of specific individuals. 
+Criminal cases in the U. S. have been studied for the availability of different types of 
+evidence (for a review, see Brainerd & Reyna, 2005), and two dramatic findings are that 
+physical forensic evidence is not even gathered in the preponderance of cases, and when it 
+is, it cannot be used, for various reasons, more than half the time. How, then, are guilt and 
+innocence determined?
+The answer is quite surprising to lay persons: by what people say—or sometimes write— 
+about events. The determinative evidence about who did what, where, when, and to whom 
+reduces to what witnesses and suspects report; memory reports in other words. It follows 
+that the study of accuracies and inaccuracies in human memory is bedrock science for the 
+Correspondence concerning this article should be addressed to C. J. Brainerd, Department of Human Development, Cornell University, 
+Ithaca, NY 14853. cb299@cornell.edu. 
+HHS Public Access
+Author manuscript
+Published in final edited form as:
+Memory. 2013 July ; 21(5): 547–555. doi:10.1080/09658211.2013.791322.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+reliability of legal evidence. A simple maxim that I teach to law students is that the science 
+of memory is as central to the law as biology is to medicine.
+The most serious legal proceedings are no exception. To illustrate, when I reviewed files 
+from the last five capital cases that I have worked on, as well as one that is in progress, I 
+discovered in all of them that the evidence that had been used to charge and try the 
+defendants was information secured through memory reports. This should not be interpreted 
+to mean that physical forensic evidence is rarely presented in capital cases. On the contrary, 
+a mountain of it is typically presented, most of which consists of details of crime scenes 
+introduced through photographs, objects, and documents during the testimony of witnesses. 
+At first, this seems reassuring, but the feeling evaporates because this type of evidence is 
+rarely determinative of guilt or innocence: The fact that findings from medical examinations 
+establish that a victim was forcibly drowned during an interval when a suspect does not have 
+an alibi obviously does not connect that suspect to the victim. Physical evidence of the latter 
+sort—say, the victim’s DNA on the suspect’s hands or clothing or vice versa—is what is 
+typically lacking.
+The determinative evidence that jurors must weigh, then, often consists of memory reports, 
+but memory is fragile and fallible. Worse, memory reports routinely conflict: Witness A 
+remembers Suspect 1 bragging about committing a murder, and Witness B remembers 
+Suspect 2 bragging about committing the same murder—as in State of Arizona v. De Cochea 
+(2004). Uncertainties about the reliability of memory reports are therefore the rule—so that 
+jurors must rely on intuitive theories of memory to evaluate the relative credibility of 
+different reports. It is precisely here where the science of human memory serves the cause of 
+justice.
+I exemplify this point by discussing a capital trial in which I provided scientific testimony. 
+This trial was selected because (a) it demonstrates that a theoretical principle that is used to 
+explain laboratory false memory (the verbatim-gist distinction; Brainerd & Mojardin, 1998; 
+Brainerd & Reyna, 1998, 2012) is also fundamental to confession evidence; (b) the 
+defendant was on trial for his life—which meant that if the jury got it wrong, an innocent 
+man might die or a murderer might go free; (c) the case illustrates how multiple examples of 
+powerful memory distortion factors that have been identified in controlled experimentation 
+infect memory reports in capital trials; and (d) all of those factors were present in the 
+memory of a single individual, who happened to be the defendant—so that the jury’s task of 
+assessing the credibility of memory reports reduced to assessing the credibility of those of a 
+single person.
+Seven Memory Concerns
+From the standpoint of memory distortion, a major way that criminal cases differ from 
+memory experiments is that multiple variables that have been found to falsify memory in 
+experiments (e.g., delay, fatigue, rumor-mongering) are all present together, in a sort of 
+distortion stew. Because many such variables are present, researchers can be confident that 
+memory reports are distorted in predictable directions, but because the variables cannot be 
+disentangled, it is difficult testify as to which reports are most likely to be distorted. For 
+Brainerd
+Page 2
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+instance, a neutral memory interview that is conducted shortly after events is known to 
+inoculate true memories against forgetting and to reduce false memories during later 
+interviews (e.g., Brainerd & Reyna, 1996; Poole & White, 1995), but a suggestive interview 
+is known to implant false information that will be remembered as true during a later 
+interview (e.g., Bruck & Ceci, 1999; Howe, 1991; Loftus, Miller, & Burns, 1978; Zaragoza, 
+et al., 2001). If Witness A, who was first interviewed non-suggestively a month after a 
+crime, provides a report that exonerates a suspect while Witness B, who was first 
+interviewed a day after the crime in a highly suggestive manner, provides a report that 
+incriminates the same suspect, it is difficult to say which is more reliable. Different 
+distortive influences are operating and are confounded with each other (long delay but non-
+suggestive interviewing versus short delay but suggestive interviewing).
+In the present case, there were seven major memory concerns, all of which revolved around 
+the defendant. They are described in Table 1. Note that they range from the fact that we all 
+have spontaneous false memories of everyday events (e.g., remembering arriving home an 
+hour earlier than we did), which seems innocuous at first but has huge consequences in legal 
+evidence, to something whose consequences are obviously serious: false confessions 
+induced by interrogation practices. A routine feature of capital trials is that defendants and 
+suspects have provided memory reports under interrogation. Those reports may include 
+confessions, which happened in this case. As the possibility of false confession loomed 
+large, a list of techniques that figure in the gold standard interrogation procedure, the Reid 
+method (Inbau et al., 2001), is provided in Table 2. Readers who are familiar with false 
+memory research will recognize three features of these techniques. First, the retrieval 
+method that is least likely to produce false memories, free narrative recall, is completely 
+absent. Second, each of the techniques has been separately shown to stimulate false 
+memories in controlled experimentation (Brainerd & Reyna, 2005). Third, the techniques 
+can be roughly ordered, from top to bottom, on a dimension of increasing distortive power, 
+with the techniques near the bottom (e.g., enforced agreement, lying about evidence) being 
+extremely powerful fabricators of memories.
+Case Timeline
+The events leading up to this trial occurred in a Midwestern town of some historical 
+prominence because it is the home town of a former President. The events occurred in the 
+early hours of a Sunday morning, and they involved a 20-year-old man and his infant son. 
+Shortly after 2 a.m., the man placed a 911 call requesting emergency assistance for his son, 
+whom he said was not breathing. When the emergency responders arrived, they noted that he 
+was frantic and crying about his son not breathing. According to the emergency responders, 
+the man stated to them that he and the infant were sleeping in the same room, that he had 
+been awakened by a loud noise, and that he had discovered that the infant was not breathing 
+when he checked him. The responders found the infant in his crib, noted that he was not 
+breathing, and noted that his skin had a bluish hue. The responders attempted to revive the 
+infant but to no avail. The infant was transported to a local hospital, where he was 
+pronounced dead. The death was recorded as “suspicious” because bruises were observed on 
+the infant’s leg, though the bruises were not the cause of death.
+Brainerd
+Page 3
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+A series of events followed that led to the father being arrested, charged with capital murder, 
+and eventually tried for that crime. As these precipitating events will be analyzed from the 
+perspective of memory research, a timeline that describes them is provided in Table 3.
+Forensic Investigation and Preliminary Hearing
+The trial occurred in two stages: a preliminary evidentiary hearing to determine the 
+admissibility of his confession and, five months later, the trial itself. Before the preliminary 
+hearing, I conducted a forensic investigation that centered on the question of whether there 
+were serious reliability concerns about the memory reports that had been given during the 
+father’s two interrogations and during his police interview (which also involved 
+interrogation tactics). From the perspective of the scientific literature, there were three 
+potential areas of concern: (a) the established power of memory suggestion to generate self-
+incriminating false memories; (b) the fact that false confessions are statistically frequent in 
+serious crimes: (c) the fact that the defendant belonged to a class of individuals whose 
+memories are known to be especially vulnerable to distortion.
+Concerning a, all of the memory reports were obtained using suggestive interrogation 
+procedures in which the interrogator supplies the “memories” and attempts, by various 
+means, to pressure the witness or suspect to agree (for details, see Table 3). The ability of 
+such procedures to induce false memory reports of criminal events, including self-
+incriminating acts, is well established (for a review see Brainerd & Reyna, 2005). 
+Concerning b, although the defendant’s memory reports involving confessing to acts that 
+could lead to capital punishment (for details, see Table 3), it is well established that 
+interrogation techniques like those in Table 2 can cause people to falsely agree with 
+suggested acts of capital murder (Kassin et al., 2010). For instance, in Cook County, Illinois
+—a jurisdiction that emphasizes interrogation-induced confessions in criminal investigations
+—Armstong, Milles, and Possley (2001) documented 247 false confessions in murder cases 
+during a single decade. A similar data source is provided by the Innocence Project (http://
+www.innocenceproject.org/), which has exonerated many defendants who were wrongfully 
+convicted of murder and other crimes—approximately one-quarter of whom had confessed 
+to the crimes. Concerning c, some individuals are especially vulnerable to spontaneous false 
+memories and false memories from suggestion and, hence, to false confession. Three 
+standard examples are children, elderly adults, and adults with developmental disabilities 
+(for a review, see Brainerd & Reyna, 2005). The defendant’s school records revealed that he 
+was developmentally disabled: He had been identified as an at-risk child as a preschooler, 
+had received several years of special education services, was legally classified as learning-
+disabled, and had low psychometric intelligence (more than 1 SD below the mean) but not 
+low enough to meet the threshold for mental retardation (2 SDs below the mean).
+Legally if not scientifically, there is an important distinction between pressure tactics and 
+coercion. Many states have statutes that prohibit coerced confessions, and it is customary to 
+hold preliminary hearings to determine whether confessions are admissible at trial. Such a 
+hearing was held before this defendant was tried for murder. Prior the hearing, I conducted 
+an interview with the defendant, which had two purposes. One was to administer a forensic 
+memory instrument to obtain data about his susceptibility to spontaneous false memory and 
+Brainerd
+Page 4
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+suggestion that could be presented to the court. This instrument (Gudjonsson, 1984) exposes 
+the subject to a narrative of events surrounding an assault and robbery, followed by a 
+memory test that measures spontaneous false memory for the events in the narrative, 
+followed by a second memory test that measures susceptibility to suggestion about the 
+events. The defendant’s scores were roughly 2 SDs above the means of available norms for 
+susceptibility to both types of false memory. The other purpose of the interview was to ask a 
+series of scripted questions that would supply additional information about susceptibility to 
+the distortive influences that were present in the interview and interrogations. The questions 
+fell into the following general categories:
+•
+what he knew about the police officer who interrogated him and whether he 
+reposed trust in the officer and considered that he was there to help him;
+•
+whether additional, off-the-record interrogations had occurred in which his 
+account was prepared, shaped, or rehearsed, during the two-day interval between 
+his first and second interrogations;
+•
+whether he knew at the time that things that the officer asked him to agree to 
+were false;
+•
+whether he believed that the officer was in a better position, at the time of the 
+interrogations, to know the facts about his son’s death than he was;
+•
+whether he believed that he was supposed to report only things he remembered 
+or also to report things that he thought the must be true from what he had been 
+told;
+•
+whether his self-incriminating statements (each of which was reviewed with him) 
+were things that he actually remembered at the time of the interrogations;
+•
+whether he knew that police officers could lie to him about the evidence against 
+him;
+•
+what his perceived level of fatigue had been during the recorded interview and 
+the recorded interrogations;
+•
+what he knew about his status as a special education student during his school 
+years.
+The gist of the defendant’s answers was that he had known the interrogator for many years 
+and trusted him implicitly, that off-the-record interrogations had occurred in which points 
+had been rehearsed, that he knew that the acts that he had agreed to were false at the time but 
+had agreed because he believed he would be better off because the interrogator was trying to 
+help him, that he agreed to things that he did not remember but thought must be true because 
+of what he was told, that he thought the officer knew the facts about his son’s death much 
+better than he did, that none of the five murder scenarios were acts that he remembered 
+doing, and that he believed that it was illegal for a police officer to lie to him about anything. 
+A final dramatic item was phantom recollection of the murder scenarios. The defendant 
+stated that he knew for certain that he could not have committed the acts that he had agreed 
+to, but that he now had vivid flashbacks of committing those acts. Readers who are familiar 
+Brainerd
+Page 5
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+with the high levels of phantom recollection that can be induced by suggestive questioning 
+(e.g., Zaragoza et al., 2001; 2011) will not be surprised by this.
+The above information, along with a summary of scientific findings on spontaneous and 
+suggestion-induced false memory, was presented as part of scientific testimony to determine 
+the admissibility the defendant’s confession. Based on Table 3, most readers will probably 
+regard his self-incriminating statements as coerced, but that does not meet the legal test of 
+coercion under most statutes, which focuses on physical coercion and intimidation. Inflicting 
+physical pain (e.g., the “enhanced” interrogation methods that we have heard so much about 
+since the 11 September 2001 massacre in New York), inflicting extremes of temperature, or 
+threatening to inflict physical pain meet the test under most statutes. Other circumstances 
+that involve passive induction of physical pain—interrogation of suspects who have been 
+deprived of sleep or food or bathroom breaks, sometimes for days—usually do not meet the 
+test. Psychological coercion— threatening suspects with more severe charges, lying about 
+the evidence against them, forcing them to confabulate, and so on—rarely meets the test. 
+Except for fatigue, the coercion to which the defendant was subjected was purely 
+psychological.
+Throughout my testimony, there was persistent discussion (including questions from the 
+court) of (a) the line between physical and psychological coercion and (b) the extent to 
+which the two forms of coercion have analogous effects on people’s memory reports. 
+Scientifically, it is well known that psychological coercion distorts memory reports and 
+induces vivid false memories (e.g., this defendant’s phantom recollections), and that fact 
+was carefully documented during testimony. Ultimately, the judge ruled against the motion
+—citing the specification of physical coercion in the state’s statute but offering the opinion 
+that the statute should evolve in the direction of psychological coercion in light of the 
+scientific evidence.
+In moving to exclude the confession, the defense strategy was not to secure a favorable 
+ruling but, rather, to put a large amount of testimony on the record showing how extreme the 
+psychological coercion had been (see Table 3) and documenting the known effects of such 
+coercion from the false memory literature. It was felt that jurors would be revolted by the 
+interrogation tactics, which proved to be correct, and that the scientific testimony would 
+reinforce their disgust by documenting that the distortive effects of the tactics were well 
+known to researchers.
+Other major topics of the preliminary hearing testimony were: (a) basic theoretical principles 
+of false memory; (b) individuals who are at increased risk of spontaneous false memory and 
+susceptibility to suggestion, focusing on developmentally-disabled individuals; (c) scientific 
+findings on false confession, emphasizing laboratory demonstrations of false confession 
+accompanied by phantom recollection and examples of known false confessions to murder 
+pursuant to interrogation; (d) how suggestion affects people’s memories; and (e) scientific 
+findings on specific techniques that featured in the defendant’s interrogations. To my 
+astonishment, a major dispute that surfaced during cross-examination and continued during 
+the trial a few months later revolved around an explanatory principle of fuzzy-trace theory 
+(FTT), the verbatim-gist distinction. The dispute was over whether research had established 
+Brainerd
+Page 6
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+that memory suggestion or spontaneous distortion processes can falsify people’s gist 
+memories of experience, or only their verbatim memories.
+It turned out that this is pivotal to whether the defendant’s confession ought to be accepted 
+as reliable, despite all the psychological coercion. It comes as a shock to most lay persons 
+that whether or not specific acts that suspects remember are demonstrably false is not crucial 
+to whether their confessions are represented as true in court. As long as suspects agree to 
+committing acts of the type they are charged with (i.e., capital murder), they are deemed to 
+have confessed to the crimes (the gist) on the ground that innocent people do not confess; 
+that is, their memory for the gist of what they did is viewed as accurate, even in the face of 
+errors in memory for verbatim details. In the present case, everyone agreed that many, if not 
+most, of the acts to which the defendant had agreed were false because (a) he had agreed to 
+inflicting his son’s injuries in five different ways (see Table 3), and (b) all five scenarios 
+were difficult to reconcile with medical evidence. The key scientific question, then, was 
+whether memory distortion factors can falsify gist as well as verbatim memory (i.e., create a 
+“deliberate injury” gist when the true gist is “accidental injury”). Readers of Memory know 
+that the answer is yes; that it is indeed possible to manufacture gist memories from whole 
+cloth (e.g., see Chrobak & Zaragoza, 2008), including false gist memories of whole life 
+experiences that, like crimes, are emotionally distressing—ranging from fictitious memories 
+of having been lost in a mall or have received surgery for an injury to being sexually abused 
+or abducted by aliens. However, the prosecution maintained that the answer was no, and it 
+was up to the jury to decide.1 By sheer coincidence, suggestion-induced false memory for 
+child and adolescent sexual abuse had been receiving wide-spread media attention for more 
+than a year, so trial jurors were already be comfortable with the possibility that one’s 
+memory for the gist of experience can be falsified by suggestion.
+Trial Testimony
+In cases such as this, where scientific evidence is first presented during preliminary hearings, 
+the eventual trial testimony is usually anti-climactic. When it comes to the specific research 
+that bears on the case, it will all have been said before, and then some because the scope of 
+trial testimony is narrower than that of a preliminary hearing—unless, of course, some 
+dramatic new data have recently been published. Further, you will have already responded to 
+any major challenges to your testimony during cross-examination and have had any faux pas 
+rehabilitated during re-direct examination. Naturally, the cross-examining attorney will 
+strive to identify new challenges that will thoroughly impeach your trial testimony. That will 
+rarely happen, as long as your opinions were firmly grounded in the scientific literature. If, 
+on the other hand, those opinions were based on unreliable foundations such as professional 
+wisdom, experience, or training, you deserve what you get, and if you get what you deserve, 
+you will not make the same mistake twice.
+The defense’s emphasis at the preliminary hearing on suggestion-induced gist memory for 
+false traumatic events, such as recovered memories of sexual abuse, had two effects on the 
+1In the law, the criterion for yes and no answers is to a reasonable degree of scientific probability, not certainty. Therefore, it is 
+possible for opposing attorneys to maintain mutually inconsistent interpretations of the same experimental data by disputing whether 
+or not those data reach the “reasonable degree” threshold.
+Brainerd
+Page 7
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+prosecution’s presentation of its case at trial. First, rather than challenge all examples of 
+false memory for the gist experience, the focus was on cutting the ground from under this 
+major source of illustrations—the thinking being that if jurors believed that scientific 
+support for it was shaky, they would take a dim view of other examples of false gist 
+memories. Second, it was decided to present a rebuttal witness at trial who would challenge 
+scientific findings on false recovered memory of sexual abuse. Because those findings were 
+extensive, the chances were not promising that this strategy would be successful, but as the 
+case seemed to hinge on whether the jurors would regard the gist of defendant’s confession 
+as true, the strategy had to be tried.
+Once a trial has begun and the attorneys’ attention is fully occupied, scientific witnesses 
+mostly wait at remote locations (my routine is to find a local track or park and concentrate 
+on running) until called to testify. Then, you travel to the courthouse, take the oath, testify, 
+leave the courtroom, and step on plane for home. Again, an exception, which happened in 
+this case, is when the opposing attorney presents a rebuttal witness, in which event you 
+remain to hear the rebuttal testimony and provide re-rebuttal. All of this is a fair summary of 
+the scientific testimony in this case, except for the fact that the rebuttal witness’ testimony 
+was deemed to be so inept that there was no need for re-rebuttal testimony, even though I 
+had prepared extensively for re-rebuttal. I should add that the circumstance of preparing 
+extensively for testimony, only to learn at the last minute that it will not be given, is 
+prototypical of this sort of work.
+Verdict
+In addition to first degree murder, the defendant had been charged with and simultaneously 
+tried for involuntary manslaughter of a victim less than 12-years-old. The latter charge 
+carried a 10 year sentence, which would be reduced to 8 years for time served prior to trial. 
+The judge instructed the jurors to return one of three verdicts: (a) guilty of first degree 
+murder; (b) guilty of involuntary manslaughter; (c) innocent of both charges. In capital 
+cases, the first verdict does not mean that the jury is sentencing the defendant to death 
+because that must be decided in a separate trial, during which other types of evidence are 
+presented. The jury returned verdict b.
+No juror is obligated to discuss how a verdict was reached, and if none do, it remains a 
+mystery. However, some of jurors in this case were willing to be interviewed, and the 
+essence of what they said centered on two contrasting themes. On the one hand, there was 
+unanimous agreement that the defendant was not guilty of first degree murder and, perhaps, 
+should never have been charged with it, considering the evidence. Among the reasons cited, 
+two stood out—the testimony of character witnesses, which convinced jurors that the 
+defendant was a gentle person who was easily misled by people in authority, and the 
+scientific testimony, which convinced jurors that there were firm grounds for believing that 
+the defendant’s self-incriminating statements had been manufactured by interrogation 
+tactics. On the other hand, the jurors could not find that the defendant innocent of any 
+culpability. A life had been lost before it had been lived, and there was unanimous 
+agreement that the defendant had been at least negligent in allowing that to happen, which 
+led to a verdict of involuntary manslaughter. The jurors remarked that the defendant could 
+Brainerd
+Page 8
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+complete his sentence by age 28 and still have a full life before him. This verdict was not 
+appealed, and the defendant began serving his sentence shortly thereafter.
+Acknowledgments
+Portions of the research were supported by National Institutes of Health Grant 1RC1AG036915-02 to the author.
+References
+Armstong K, Milles S, Possley M. Coercive and illegal tactics torpedo scores of Cook County murder 
+cases. Chicago Tribune. Dec 16.2001 
+Brainerd CJ, Mojardin AH. Children’s and adults’ spontaneous false memories: Long-term persistence 
+and mere testing effects. Child Development. 1998; 69:1361–1377. [PubMed: 9839421] 
+Brainerd CJ, Reyna VF. Mere memory testing creates false memories in children. Developmental 
+Psychology. 1996; 32:467–476.
+Brainerd CJ, Reyna VF. When things that never happened are easier to remember than things that did. 
+Psychological Science. 1998; 9:484–489.
+Brainerd, CJ, Reyna, VF. The science of false memory. Oxford University Press; New York: 2005. 
+Brainerd CJ, Reyna VF. Reliability of children’s testimony in the era of developmental reversals. 
+Developmental Review. 2012; 32:224–267. [PubMed: 23139439] 
+Brainerd CJ, Payne DG, Wright R, Reyna VF. Phantom recall. Journal of Memory and Language. 
+2003; 48:445–467.
+Bruck M, Ceci SJ. The suggestibility of children’s memory. Annual Review of Psychology. 1999; 
+50:419–439.
+Ceci, SJ, Bruck, M. Jeopardy in the courtroom. American Psychological Association; Washington, 
+DC: 1995. 
+Chrobak QM, Zaragoza MS. Inventing stories: Forcing witnesses to fabricate entire fictitious events 
+leads to freely reported false memories. Psychonomic Bulletin & Review. 2008; 15:1190–1195. 
+[PubMed: 19001589] 
+Gudjonsson GH. A new scale of interrogative suggestibility. Personality and Individual Differences. 
+1984; 5:303–314.
+Howe ML. Misleading children’s story recall: Forgetting and reminiscence of the facts. Developmental 
+Psychology. 1991; 27:746–762.
+Inbau, FE, Reid, JE, Buckley, JP, Jayne, BC. Criminal interrogation and confessions. 4th ed.. Aspen; 
+Gaithersburg, MD: 2001. 
+Kassin SM, Drizin SA, Steven A, Grisso T, Gudjonsson GH, Leo RA, Redlich AD. Police-induced 
+confessions, risk factors, and recommendations: Looking ahead. Law and Human Behavior. 2010; 
+34:49–52. [PubMed: 20112057] 
+Kassin SM, Kiechel KL. The social psychology of false confessions: Compliance, internalization, and 
+confabulation. Psychological Science. 1996; 7:125–128.
+Loftus EF, Miller DG, Burns HJ. Semantic integration of verbal information into visual memory. 
+Journal of Experimental Psychology: Human Learning and Memory. 1978; 4:19–31. [PubMed: 
+621467] 
+Payne DG, Elie CJ, Blackwell JM, Neuschatz JS. Memory illusions: Recalling, recognizing, and 
+recollecting events that never occurred. Journal of Memory and Language. 1996; 35:261–285.
+Poole, DA, White, LT. Tell me again and again: Stability and change in the repeated testimonies of 
+children and adults. In: Zaragoza, M, Graham, JR, N, GN, HallHirschman, R, Ben-Porath, YS, 
+editors. Memory, suggestibility, and eyewitness testimony in children and adults. Sage; Thousand 
+Oaks, CA: 1995. 24–43. 
+Scullin MH, Ceci SJ. A suggestibility scale for children. Personality and Individual Differences. 2001; 
+30:843–856.
+State of Arizona v. De Cochea. Superior Court, Pima County; Arizona: 2004. 
+Brainerd
+Page 9
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Weekes BS, Hamilton S, Oakhill J, Holliday RE. False recollection in children with reading 
+comprehension difficulties. Cognition. 2007; 106:222–233. [PubMed: 17349990] 
+Zaragoza MS, Mitchell KJ, Payment K, Drivdahl S. False memories for suggestions The impact of 
+conceptual elaboration. Journal of Memory and Language. 2011; 64:18–31. [PubMed: 21103451] 
+Zaragoza MS, Payment KE, Ackil JK, Drivdahl SB, Beck M. Interviewing witnesses: Forced 
+confabulation and confirmatory feedback increase false memories. Psychological Science. 2001; 
+12:473–477. [PubMed: 11760134] 
+Brainerd
+Page 10
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Brainerd
+Page 11
+Table 1
+Salient False Memory Phenomena in the Case
+Phenomenon
+Definition
+Spontaneous false memory
+People falsely remember some of the events of their lives, usually
+in ways that are consistent with the gist of their experience
+(Brainerd & Reyna, 2005).
+False memory susceptibility
+Some people are inherently more prone to spontaneous false
+memory than others, and susceptibility is increased by a number of
+well-studied variables (Weekes, Hamilton, Oakhill, & Holliday, 2007).
+Memory suggestion
+Post-event suggestions cause people to falsely remember some of
+the events of their lives. Although those false memories are
+usually consistent with the gist of people’s experience, suggestion
+is capable of implanting erroneous gists as well (e.g., of living
+other lives, of having been lost in a mall)(Howe, 1991; Lotus, Miller, & Burns, 1978; Zaragoza, Payment, Ackil, 
+Drivdahl, & Beck; 2001).
+Suggestion susceptibility
+Some people are inherently more susceptible to the effects of
+suggestion than others, and susceptibility is increased by a number
+of well-studied variables (Scullin & Ceci, 2001).
+Phantom recollection
+False memories can be accompanied by illusory vivid recollection
+of the physical details of the “occurrence” of events (Brainerd, Payne, Wright, & Reyna, 2003; Payne, Elie, 
+Blackwell, & Neuschatz, 1996).
+False confession
+By falsely remembering events that did not happen, either
+spontaneously or pursuant to suggestion, people can falsely
+confess to crimes that they did not commit, even murder (Kassin & Kiechel, 1996).
+Interrogation
+Standard interrogation techniques that are used by police in the
+U.S. contain multiple factors that have been shown, in controlled
+experiments, to produce false memories (Brainerd & Reyna, 2005).
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Brainerd
+Page 12
+Table 2
+Some Features of Standard Police Interrogation Techniques that Increase False Memories
+Technique
+Definition
+1. Yes/no
+Interviewees are asked to agree/disagree with pertinent items of
+information.
+2. Multiple choice
+Interviewees are asked to choose between alternative items of information.
+3. Fill-in
+Interviewees are asked to provide a pertinent item of information that is
+assumed to be true by interrogators.
+4. Repetition
+Interrogators ask questions again and again, even though they have been
+clearly answered.
+5. Evidence exposure
+Interrogators familiarize interviewees with evidence (e.g., pictures of
+victims or suspects or of details of crime scenes) that they will later be
+asked to “remember.”
+6. Challenges
+Once questions have been asked and answered, the answers are rejected,
+challenged, and interviewees are asked to consider whether other answers
+are correct.
+7. Forced agreement
+Interrogators demand that interviewees accede to pertinent items of
+information that interrogators assert to be true.
+8. Forced
+ disagreement
+Once questions have been asked and answered, the answers are rejected,
+interviewees are told that their answers are false, and they are asked to
+change previous answers.
+9. Negative
+ reinforcement
+Interviewees are punished (e.g., kept awake, deprived of food) or
+threatened with punishment (e.g., being charged as an accomplice in the
+crime under investigation, being charged with making false statements to a
+police investigator) for failure to provide pertinent items of information
+(e.g., confirming a victim’s description of a suspect).
+10. Positive
+ reinforcement
+Interviewees are rewarded (e.g., with sleep, with food) or promised future
+rewards (e.g., not being charged as an accomplice, not being charged with
+making false statements to a police investigator) for providing pertinent
+items of information (e.g., confirming a victim’s description of a suspect).
+11. False evidence
+Interrogators lie to interviewees about pertinent items of evidence, by
+telling them that pertinent items of information have already been
+evidence established as facts by other means.
+12. Appeals to
+ External authority
+Interviewees are told that based on considerations of logic, fact, or
+common sense, pertinent items of information must be true and that they
+obviously are lying if they do not agree with such information.
+13. Stereotype
+ Induction
+Interviewees are provided with true or false information about suspects
+that is consistent with crimes that are under investigation.
+14. Confirmation bias
+Interviewees are interrogated by investigators who are highly
+knowledgeable about the detailed facts of the case and who have
+interviewed victims and other witnesses.
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Brainerd
+Page 13
+Table 3
+Timeline for Key Events in the Case
+Event
+Narrative
+1
+The infant’s mother was interviewed by the police on Sunday morning. There
+was no evidence that the death was due to unnatural causes, but because it had
+been classified as suspicious, the police pursued the hypothesis that the father had
+beaten the infant to death. Hence, they attempted, through suggestive
+questioning, to obtain information that the mother’s relationship with the father
+was rocky and that the father was angry, aggressive, and prone to hitting her or
+her son. The mother denied these suggestions.
+2
+The father was then interviewed, immediately after the mother. He was extremely
+fatigued from having slept little for two days. Although this was an interview
+rather than an interrogation, many interrogation tactics were used to produce
+statements of motive for murdering the infant. Multiple suggestions were made
+that he had frequent fights with the infant’s mother and that he was angry with her
+on Saturday evening for leaving him alone to care for their son while she attended
+a family reunion, the latter being the motive that the police were attempting to
+establish. The father denied this. The police officer repeatedly suggested that the
+father must have dropped his son that evening or that the infant had fallen. The
+father stated that infant had received a minor bruise when he bumped his head on
+the coffee table after a feeding. The officer then lied about the evidence, saying
+that he had received detailed information about the infant’s injuries from the
+medical examiner that disproved what the father said. The officer made
+suggestions that the father had been furious with the mother and that he had
+shaken, squeezed, and deliberately battered his son, all of which were denied.
+3
+The first official interrogation of the father, who was now classified as a murder
+suspect, was conducted one hour later, when he was still in a state of severe sleep
+deprivation. In an attempt to secure his trust, the interrogating officer was a long-
+time friend who has been the father’s Little League baseball coach. The
+interrogator accused the father of lying in the earlier interview, and he made
+repeated strong assertions that the father was mad while was caring for his son
+and had pummeled him. This was denied. The interrogator repeated all of the
+assertions, saying the father was minimizing. Further strong suggestions about
+ways in which the infant had been battered were added, coupled with statements
+that the officer was trying to help the father get out a tight spot. To establish
+motive, the interrogator stated and restated that the father had been angry with
+the mother for leaving him to care for their son. This was repeatedly denied, but
+the father eventually agreed that he was “a little bit peeved.” Having secured
+agreement with the anger theme (motive), the interrogator lied to the father about
+details of the infant’s injuries, with which he was not acquainted, saying that they
+disconfirmed the father’s account. The father agreed with some of those
+suggestions, which were therefore false memory reports. During the course of the
+interrogation, the interrogator manufactured multiple different accounts of the
+infant’s injuries, all of which were asserted to be true but each of which was
+denied. Eventually, the father agreed with certain features of one of the
+interrogator’s accounts—saying that he could not remember those things
+happening and that he was agreeing because he could not think of another
+explanation. The interrogator made further suggestions about the injuries that
+were inconsistent with later autopsy results and then arrested the father on
+suspicion of murder. Other information that emerged during the interrogation
+indicated that the rather was either developmentally disabled or retarded. Such
+individuals are known to be highly susceptible to suggestion and to spontaneous
+false memory,
+4
+A second interrogation was conducted by the father’s former Little League couch
+two days later. The strength of the interrogation techniques was increased to
+those from level 7 onward in Table 2. The interrogator told the father that he
+would help him craft an account that would agree with the facts. Although the
+interrogator was now familiar with the autopsy results, he continued to lie about
+them results to secure agreement with an account that was consistent with murder,
+saying he had been told by the medical examiner that the infant’s head had been
+hit with a force that was equivalent to more than a two-story fall and that the
+father’s account was medically impossible. To encourage agreement with a
+different account, the interrogator stated that things would go better for the father,
+that the prosecutor would throw the book at him unless he cooperated, and that
+god would punish him in the afterlife unless he cooperated. The interrogator
+suggested five different ways in which the infant had been murdered. Following
+initial denial of each, the father eventually agreed with some version of each,
+saying such things as “I must have,” “it could have happened like that,” and “it
+must have happened like that.” Following those agreements, the interrogation
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Brainerd
+Page 14
+Event
+Narrative
+was quickly terminated, and the father was returned to his cell.
+5
+Shortly thereafter, the father requested to speak to a guard. He stated that the
+interrogator had put words in his mouth and induced him to agree with things that
+were not true. This statement was duly reported by the guard. Such recantations
+are standard features of coerced-compliant false confessions (Kassin et al., 2010).
+However, the father was charged with first degree murder of his son, and
+following a review of the case for the presence of aggravators that warrant capital
+punishment, the State’s Attorney requested the death penalty.

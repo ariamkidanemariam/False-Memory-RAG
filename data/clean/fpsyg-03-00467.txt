@@ -1,0 +1,701 @@
+ORIGINAL RESEARCH ARTICLE
+published: 02 November 2012
+doi: 10.3389/fpsyg.2012.00467
+When do we confuse self and other in action memory?
+Reduced false memories of self-performance after
+observing actions by an out-group vs. in-group actor
+Isabel Lindner 1, Cécile Schain2†, René Kopietz 2† and Gerald Echterhoff 2*
+1 Cognitive Psychology Group, Department of Psychology, University of Kassel, Kassel, Germany
+2 Social Psychology Group, Department of Psychology, University of Münster, Münster, Germany
+Edited by:
+R. Nathan Spreng, Cornell University,
+USA
+Reviewed by:
+Alin Coman, Princeton University,
+USA
+Leonel Garcia Marques, Faculdade de
+Psicologia da Universidade de Lisboa,
+Portugal
+Fiona Gabbert, University of Abertay
+Dundee, UK
+*Correspondence:
+Gerald Echterhoff , Social Psychology
+Group, Department of Psychology,
+University of Münster, Fliednerstr. 21,
+D-48149 Münster, Germany.
+e-mail: g.echterhoff@uni-muenster.de
+†Cécile Schain and René Kopietz have
+contributed equally to this work.
+Observing another person performing an action can lead to a false memory of having per-
+formed the action oneself – the observation-inflation effect. In the experimental paradigm,
+participants first perform or do not perform simple actions, and then observe another
+person perform some of these actions. The observation-inflation effect is found when
+participants later remember performing actions that they have merely observed. In this
+case, self and other are confused in action memory. We examined social conditions of this
+self-other confusion when remembering actions, specifically whether the effect depends
+on the observed actor’s group membership. In our experiment, we manipulated group
+membership based on physical appearance, specifically complexion of the hands. Fair-
+skinned participants observed either an in-group (i.e., fair-skinned) or an out-group (i.e.,
+dark-skinned) actor. Our results revealed that the observed actor’s group membership mod-
+erated the observation-inflation effect: False memories were significantly reduced when
+the actor was from the out-group (vs. in-group). We found no difference to a control con-
+dition in which the actor wore black gloves, suggesting that distinctiveness of perceptual
+or sensory features alone (due to the out-group member’s dark skin) is not critical. We dis-
+cuss these findings in light of social-neuroscience studies demonstrating the impact of an
+observed person’s group membership on motor simulation. Overall, our findings suggest
+that action memory can be affected by a ubiquitous feature of people’s social perception,
+that is, group-based social categorization of others.
+Keywords: self-other confusion, group membership, action memory, false memory, motor simulation, perceptual
+distinctiveness
+INTRODUCTION
+Imagine that you watch a cooking-show on television while you are
+preparing dinner yourself. Sometime later, after you have left the
+house, you find yourself wondering whether you actually switched
+off the stove. Clearly, correctly remembering whether one has per-
+formed an action is crucial for successfully managing everyday life.
+Did you just observe the TV-cook switching off his or her stove,
+or did you do it yourself? Recent research shows that observing
+another person’s action can lead people to mistakenly remember
+that they have performed the action themselves (Lindner et al.,
+2010; Schain et al., 2012). The present research was conducted
+to investigate conditions under which such false self-attributions
+of actions are more or less likely to occur. We focused on social
+conditions, specifically the observed actor’s membership in the
+observer’s in-group (vs. out-group).
+In the initial experimental demonstration of the effect, Lind-
+ner et al. (2010) asked participants to perform or to read simple
+action statements, like “Unlock the lock” or “Shake the bottle.”
+Afterwards,participants were asked to observe another person per-
+form some of the actions they had and some of the actions they had
+not previously performed themselves. Two weeks later, a surprise
+source-memory test revealed that observation of other-performed
+actions had inflated false memories of self-performance. Thus,this
+effect has been referred to as observation inflation (see also imag-
+ination inflation, i.e., false memories of self-performance from
+imagination; Garry et al., 1996; Goff and Roediger, 1998).
+The observation-inflation effect reveals the profoundly social
+nature of memory inasmuch as it entails a confusion of self and
+other in recollecting actions. Thus, this phenomenon is a prime
+example of how our contact with the social world affects our
+memory (see Echterhoff and Hirst, 2009; Hirst and Echterhoff,
+2012). Because we constantly observe others performing actions,
+there are countless occasions that potentially could trigger subse-
+quent false self-attributions of actions. But do we indiscriminately
+incorporate others’ actions into our own action memories? Or do
+such self-other confusions depend on social characteristics of the
+observed actor?
+Research on social perception and interpersonal processes sug-
+gests that we are more likely to adopt, or to be affected by, the
+experiences of others who are more (vs. less) close and similar to
+ourselves (Aron et al.,2004). A key component involved in feelings
+of closeness and similarity is another person’s group membership.
+One of the first things we do when we are observing another per-
+son – often automatically and spontaneously – is to categorize
+www.frontiersin.org
+November 2012 | Volume 3 | Article 467 | 1
+
+Lindner et al.
+her or him (Macrae and Bodenhausen, 2000). Using cues like a
+person’s age, gender, and race we sort people into different social
+groups that are either like us (i.e., the in-group) or not like us (i.e.,
+the out-group).
+Regarding the present phenomenon, there is ample evidence
+that people more readily adopt and incorporate the inner states of
+in-group (vs. out-group) members (Echterhoff et al., 2009; Cikara
+et al., 2011). This bias has been found for affects and emotions (Xu
+et al., 2009; Avenanti et al., 2010; Azevedo et al., in press), but also
+for memory (Echterhoff et al., 2008, in press).
+So far, only few studies have examined whether and how mem-
+ory for another person’s features and actions is influenced by
+the person’s group membership. For example, people are bet-
+ter in remembering in-group than out-group faces (see Meissner
+and Brigham, 2001; Young et al., 2012), and memory for neg-
+ative out-group behavior is better than for positive out-group
+behavior (Howard and Rothbart, 1980). Furthermore, people are
+more likely to confuse the sources of recalled statements when
+the sources belong to the same (vs. a different) ethnic or racial
+group (Taylor et al., 1978; Stangor et al., 1992). With the present
+research we specifically examined whether false action memo-
+ries from observation also depend on the observed others’ group
+membership.
+While the impact of group membership on action memory
+in general and false action memory in particular has not been
+investigated, there are potentially relevant findings outside the
+memory literature. Studies on action perception hint at a con-
+sistent pattern between observation of others’ actions and their
+group membership. In one study, Müller et al. (2011) employed
+the social Simon task (Sebanz et al., 2003) to measure coor-
+dinated action between interaction partners. It was found that
+participants’ reaction times were decelerated when interacting
+with an out-group (vs. in-group) member, indicating that co-
+representationsof actionsareonlyformedwhencoordinatingwith
+in-group members. Similarly, people exhibit increased cortical
+sensitivity when observing errors in action execution of someone
+who is similar (vs. dissimilar; Carp et al., 2009; Newman-Norlund
+et al., 2009; Kang et al., 2010). Furthermore, Gutsell and Inzlicht
+(2010) found that motor simulation during action observation
+was substantially decreased when observing out-group (vs. in-
+group) members. Taken together, actions of out-group members
+tend to be processed less preferentially and represented less readily
+in the observer than actions of in-group members. Accordingly,
+the potential of observed actions to induce false action memories
+in the observer should be less pronounced after observation of an
+out-group (vs. in-group) member.
+The present study was designed to test this prediction. We
+manipulated a person’s group membership by presenting either
+a fair-skinned (in-group) or a dark-skinned (out-group) actor to
+fair-skinned observers and predicted that a self-other confusion
+in action memory should be accentuated after observation of an
+in-group member, but reduced after observation of an out-group
+member.
+A reduced observation-inflation effect after observation of an
+out-group member could be due to mere perceptual distinctive-
+ness of the dark-skinned hands. To control for this possibility, par-
+ticipants in a control group observed an actor wearing black gloves
+(see Avenanti et al., 2010; Azevedo et al., in press). Whereas an
+approach drawing on perceptual distinctiveness predicts the least
+false memories after observation of a person wearing black gloves,
+an intergroup-bias approach suggests a reduced observation-
+inflation effect exclusively after observing an out-group member,
+but not after observing a person wearing black gloves.
+MATERIALS AND METHODS
+PARTICIPANTS
+Fifty-eight students at the University of Münster (mean age = 21.9,
+SD = 4.7, 11 men) participated in this study for partial course
+credit. All participants were fair-skinned. The study was approved
+by the local ethics committee. The guidelines of the Declaration
+of Helsinki and standards of the American Psychological Asso-
+ciation were followed. Informed consent was obtained from all
+participants.
+DESIGN
+A 2 (observation, Phase 2: observed vs. not observed) × 3 (group
+membership of observed actor, Phase 2: in-group vs. out-group
+vs. control) design was used, with the first variable manipulated
+within participants. The main dependent measure was the relative
+frequency of false performed-responses for actions that were only
+read but not performed in Phase 1.
+MATERIALS AND PROCEDURE
+We adapted the procedure introduced by Lindner et al. (2010).
+The experiment was computer-based and consisted of two ses-
+sions, separated by a 2-week interval. Participants were tested
+individually in both sessions.
+In Phase 1, for each participant 40 action statements were ran-
+domly chosen from a pool of 60 action statements and presented
+at the center of a 22-inch TFT-LCD display in a random order.
+Half of the action statements had to be performed, the other half
+were only read. Assignment of items to these two types of encod-
+ing was also randomized. At the beginning of each trial, the name
+of a specific object (e.g., Lock) appeared on the screen. Objects
+were hidden behind a visual cover, thus participants waited until
+the experimenter had placed the required object in front of them.
+Next, a perform instruction (Please perform) or a read instruc-
+tion (Please read) appeared on the screen and was followed by the
+specific action statement (e.g., Unlock the lock!). Participants now
+performed or read out the action statement once before moving
+on to the next trial.
+In Phase 2, half of the action statements performed in Phase 1
+and half of the action statements read in Phase 1 were randomly
+chosen and presented. Each presentation of an action statement
+was followed by a corresponding video showing the specific action
+repeatedly over the course of 15 s. To maintain participants’ atten-
+tion, an observation task was introduced: Participants were asked
+to count the number of action repetitions after each video and
+enter their final count. Overall, each action statement and the cor-
+responding video were presented five times in a random order,
+resulting in a total of 100 trials for Phase 2.
+In the in-group condition, videos of the torso, forearms, and
+hands of a German, fair-skinned female actress (24 years) were
+presented from a second-person perspective (352 kb/s, 960 × 530
+November 2012 | Volume 3 | Article 467 | 2
+
+Lindner et al.
+pixels, see Figure 1). In the out-group condition, actions were
+performed by a Sri Lankan, dark-skinned female actor (21 years,
+see Figure 2). A pretest (N = 17 women; mean age = 22.18;
+SD = 2.19) confirmed that the different ethnicities could be eas-
+ily derived from the videos. Participants rated sample videos
+with regard to the estimated likability for several countries and
+regions on a seven-point Likert scale (one being very unlikely,
+seven being very likely). Compared to the in-group actress, the
+out-group actress was perceived as significantly less likely to be
+from Germany [out-group: M = 3.1,SD = 1.8; in-group: M = 6.2,
+SD = 1.1; t(16) = 5.83, p < 0.001, d = 1.41], and more likely to
+be from South Asia [out-group: M = 5.1, SD = 1.8; in-group:
+M = 2.5, SD = 1.2; t(16) = 6.75, p < 0.001, d = 1.64]. For the con-
+trol condition, the actor (22 years) wore black gloves during action
+performance. The actor’s actual skin color (fair) was not visible at
+any time (see Figure 3).
+Two weeks later, the 40 old action statements were randomly
+presented in a surprise source-memory test along with 20 new
+action statements. Participants indicated for each action statement
+whether it was performed, read, or not presented during Phase 1.
+FIGURE 1 | Screenshot of action video Unlock the lock! presented in
+the in-group condition.
+FIGURE 2 | Screenshot of action video Unlock the lock! presented in
+the out-group condition.
+Our hypotheses refer to false performed-responses, that is, per-
+formed-responses to actions only read in Phase 1. An observation-
+inflation effect was defined as a significant increase in false
+performed-responses for items observed compared to items not
+observed in Phase 2. Accordingly, the magnitude of the effect
+was defined as the difference in false performed-responses between
+items observed and not observed in Phase 2.
+RESULTS
+To test our hypotheses, we ran planned pairwise comparisons
+(Type I error threshold = 0.05). Accordingly, p-values are one-
+tailed.
+Table 1 contains the means and standard deviations of false
+performed-responses for the three experimental conditions (in-
+group actor vs. out-group actor vs. control). We found significant
+observation-inflation effects in all three conditions, the in-group
+condition, t(19) = 6.40, p < 0.001, d = 1.43, the out-group condi-
+tion, t(18) = 6.32, p < 0.001, d = 1.44, and the control condition,
+t(18) = 4.17, p < 0.001, d = 0.96, respectively. Thus, all partici-
+pants were prone to falsely claiming that they had performed
+actions themselves when in fact they had only observed another
+person performing these actions.
+Importantly, the magnitude of the effect, that is, the dif-
+ference in false performed-responses between observed and not
+observed items, was a function of the actor’s group membership
+(see Figure 4). As predicted, planned comparisons indicated that
+the effect was significantly lower in the out-group than in the
+in-group condition, t(37) = 2.06, p = 0.02, d = 0.65. No signifi-
+cant difference was found between the control condition and the
+in-group condition, t(37) = 0.83, p = 0.21, d = 0.27, or between
+the control condition and the out-group condition, t(36) = 0.84,
+p = 0.20, d = 0.27.
+We also conducted additional analyses to examine the role of
+other alternative processes (differences in task motivation, atten-
+tion, or a general response bias) that could account for the present
+findings. First, we analyzed performance on the counting task that
+was administered in Phase 2 (that is, the counting of observed
+action repetitions). Mean accuracy rates varied between 0.79 and
+0.85,and did not differ between the three experimental conditions,
+FIGURE 3 | Screenshot of action video Unlock the lock! presented in
+the control condition.
+www.frontiersin.org
+November 2012 | Volume 3 | Article 467 | 3
+
+Lindner et al.
+Table 1 | Mean proportion of performed-responses as a function of encoding in Phase 1, observation in Phase 2, and observation group.
+Encoding, Phase 1
+Observation, Phase 2
+In-group
+Out-group
+Control: black gloves
+Observed
+Not observed
+Observed
+Not observed
+Observed
+Not observed
+Performed
+0.79 (0.17)
+0.46 (0.15)
+0.80 (0.14)
+0.56 (0.23)
+0.72 (0.16)
+0.58 (0.21)
+Read
+0.27 (0.18)
+0.06 (0.08)
+0.18 (0.15)
+0.05 (0.10)
+0.24 (0.17)
+0.08 (0.10)
+Not presented
+–
+0.02 (0.04)
+–
+0.01 (0.02)
+–
+0.01 (0.03)
+Standard deviations are given in parentheses. Proportions represent the frequency of performed-responses divided by the number of all responses for a corresponding
+item type.
+FIGURE 4 | Magnitude of the observation-inflation effect as a function
+of group membership of the observed actor. Error bars represent the
+standard error of mean.
+F(2, 51) = 1.34, p = 0.27, ηp2 = 0.05. This finding is inconsistent
+with the notion that the reduced observation-inflation effect in
+the out-group condition is due to decreased task motivation or
+visual attention, which could impair source memory in general.
+Furthermore, the rate of false performed-responses to com-
+pletely new items (not presented in Phase 1 and not observed in
+Phase 2) was close to zero, ranging from 0.01 to 0.02 in all the
+three experimental groups. Thus, differences in a general response
+bias toward claiming actions as self-performed cannot account for
+the difference in observation inflation found in the earlier main
+analysis.
+DISCUSSION
+Observation of another person performing a simple action can
+lead to a false memory of having performed this action oneself,
+that is, the observation-inflation effect (Lindner et al., 2010). The
+present study extends this initial finding inasmuch as it shows
+that the ethnic group membership of the observed person – con-
+veyed by mere skin color – has an impact on the magnitude of
+the observation-inflation effect. Compared to an in-group (i.e.,
+a fair-skinned) actor, the observation of an out-group (i.e., a
+dark-skinned) actor led to a significant reduction in false self-
+attributions of action performance after two weeks. As predicted
+from a social-psychological account of intergroup bias, such a
+reduction was not found for the observation of an actor wearing
+black gloves.
+Ourfindingsresonatewellwithresearchonreducedmotorsim-
+ulation of actions of out-group (vs. in-group) members. Building
+on research on mirror-neuron activity and shared motor represen-
+tations, Lindner et al. (2010) hypothesized that motor simulation
+during action observation might be the core mechanism behind
+the observation-inflation effect. Apparently, people do not co-
+represent or share out-group members’ actions to the same extent
+than in-group members’ actions. Indeed, an EEG-study by Gutsell
+and Inzlicht (2010) suggests that covert vicarious action perfor-
+mance depends on an observed actor’s group membership. These
+authors asked fair-skinned Canadians to either perform a target
+action themselves or to observe an in-group member (Caucasian)
+vs. an out-group member (African-Canadian, East-, or South-
+Asian) performing this same action. In these different conditions,
+they measured suppression of EEG activity in the mu frequency
+bandwidth over the primary motor cortex, which is thought
+to index the degree of motor simulation. Gutsell and Inzlicht
+found that both, performing an action oneself and observing
+an in-group member performing an action, elicited mu suppres-
+sion. However, there was no significant mu suppression, that is,
+engagement in motor simulation, when observing an out-group
+member.
+Furthermore, our results for the black-glove control condi-
+tion are consistent with findings by Avenanti et al. (2010). These
+authors asked fair- and dark-skinned participants to observe the
+hands of either a fair-skinned, a dark-skinned, or an (artificially)
+violet-skinned actor experiencing pain (vs. no pain). The findings
+revealed sensorimotor resonance, indicating neuronal simulation
+of the observed pain, for observation of the in-group member,
+but not of the out-group member. They also found that observers
+simulated the pain of the violet-skinned actor, but to a smaller
+extent than for the in-group member. Analogous to this finding,
+in our study, the observers might have felt uncertain about the
+group membership of the person wearing black gloves. Hence,
+November 2012 | Volume 3 | Article 467 | 4
+
+Lindner et al.
+the observation of the glove-wearing actor would elicit only an
+intermediate level of motor simulation.
+How can biased motor simulation account for the present
+memory effects? The bulk of the motor simulation literature,
+including studies on intergroup differences (Xu et al., 2009;
+Avenanti et al., 2010; Gutsell and Inzlicht, 2010; Azevedo et al.,
+in press), has focused on the processes ongoing during obser-
+vation. However, a few studies have shown that motor rep-
+resentations from observation are reactivated during retrieval
+(Senkfor et al., 2002; Wutte et al., 2012). Consistent with a
+motor-simulation account of the present false memory effect,
+Wutte et al. (2012) found overlapping neural activation in motor
+areas when participants remembered self-performed and observed
+movements.
+Our findings extend the common understanding of the
+emergence of false memories of self-performance. Explanations
+of related false action memories, specifically the imagination-
+inflation effect (Goff and Roediger, 1998), have invoked the mis-
+attribution due to similarity of sensory features. According to
+this account, which draws on the source-monitoring framework
+(Johnson et al., 1993), non-self-performed actions (e.g., merely
+imagined actions) are attributed to self-performance to the extent
+that the sensory features of action memories from the compet-
+ing sources are similar (vs. dissimilar). For instance, after vividly
+imagining the action of shaking a bottle, people may later remem-
+ber perceptual details and features, such as shape and color of the
+bottle, or fingers grasping the bottle; because these features are
+similar to the features contained in memories of self-performed
+actions, an originally imagined action may be misattributed to
+previous self-performance. Conversely, by this view, the availabil-
+ity of distinctive perceptual features at retrieval prevents such
+misattributions.
+Our findings are not easily reconciled with this account.
+Because hands wearing black gloves are more salient and percep-
+tually more distinct from fair-skinned hands than dark-skinned
+hands, the sensory-feature account of misattribution would pre-
+dict that this condition results in the lowest rate of false action
+memories. However, observation inflation was lowest in the out-
+group condition, indicating that group membership rather than
+perceptual distinctiveness was critical in forming false memories
+of self-performance. This result is in line with earlier findings
+(Lindner et al., 2010, Exp. 3).
+Still, whereas similarity of perceptual features is not sufficient
+to account for the pattern of results that we found in the current
+study, the distinctiveness of such features may still moderate the
+effect under certain circumstances. Schain et al. (2012) manipu-
+lated perceptual distinctiveness by using the actor’s face as a visual
+identity cue. They found that observation inflation is diminished
+when a central identity cue, that is, the actor’s face, was available
+and attended to by observers. In light of these previous findings,
+one might wonder why the non-self cues employed here, dark skin
+or black gloves,did not eliminate false self-attributions to a greater
+extent. It could allow observers to apply a rule such as “I did not
+wear black gloves/my skin is not that dark, so it was not me who
+performed this action” to avoid false self-attributions.
+This issue can be resolved by arguing that the face is probably a
+more effective and distinctive identity cue than are skin color or a
+piece of clothing. The face offers various features (e.g., color of the
+eyes,size of the nose,shape of the forehead,etc.),which collectively
+signal a Not-me-response. Also, the detection and identification of
+others’ faces are exceptionally important in social development
+and social cognition (Zebrowitz, 1997), and humans, including
+newborns,have a pronounced tendency to direct their visual atten-
+tion to others’ faces (Johnson and Morton, 1991). However, for
+engagement and modulation of motor simulation to occur, skin
+color has not to be highly salient – the observers’ categorization
+into an in-group vs. an out-group member is sufficient to alter
+shared motor representations in the observer.
+To conclude, in the present study, we focused on physical sim-
+ilarity in terms of skin color to manipulate group membership.
+Future studies should examine whether our results generalize to
+other cues of group membership that are not conveyed by physical
+appearance and to other types of group membership than eth-
+nicity. For instance, would we find the same bias when ethnicity is
+conveyed solely by verbal labels, such as first names that are typical
+for specific groups? And will observation inflation be higher if the
+actor shares, for example, the same values, the same profession, or
+the same interest as the observer?
+With this study we have shown that people are less prone to con-
+fuse self and other in action memory when they have observed an
+out-group (vs. in-group) member.As we have argued,our findings
+are not easily explained by the similarity or distinctiveness of per-
+ceptual features, but are consistent with an account of intergroup
+biases in motor simulation. Future studies should seek further
+evidence for the underlying mechanisms in this fascinating new
+domain of memory research.
+ACKNOWLEDGMENTS
+We acknowledge support by the Deutsche Forschungsgemein-
+schaft (German Research Foundation) and Open Access Publi-
+cation Fund of the University of Münster. We thank Evelyn Alex,
+Inken Kirschbaum, Christian Rupp, Abbna Sriskantharajah, and
+Susanne Trzaska for much appreciated help with creating the video
+material and data collection. We also wish to thank Frank Schmi-
+schke for making us aware of the Open Access Publication Fund
+of the University of Münster.
+REFERENCES
+Aron,
+A.,
+McLaughlin-Volpe,
+T.,
+Mashek,
+D.,
+Lewandowski,
+G.,
+Wright, S. C., and Aron, E. N.
+(2004). Including others in the self.
+Eur. Rev. Soc. Psychol. 15, 101–132.
+Avenanti,A.,Sirigu,A.,andAglioti,S.M.
+(2010). Racial bias reduces empathic
+sensorimotor resonance with other-
+race pain. Curr. Biol. 20, 1018–1022.
+Azevedo, R. T., Macaluso, E., Avenanti,
+A., Santangelo, V., Cazzato, V., and
+Aglioti, S.M. (in press). Their pain is
+not our pain: brain and autonomic
+correlates of empathic resonance
+with the pain of same and different
+race individuals. Hum. Brain Mapp.
+Carp, J., Halenar, M. J., Quandt, L.
+C., Sklar, A., and Compton, R.
+J. (2009). Perceived similarity and
+neural mirroring:evidence from vic-
+arious error processing. Soc. Neu-
+rosci. 4, 85–96.
+Cikara, M., Bruneau, E., and Saxe, R.
+(2011).Usandthem:intergroupfail-
+ures of empathy. Curr. Dir. Psychol.
+Sci. 20, 149–153.
+Echterhoff, G., Higgins, E. T., Kopietz,
+R., and Groll, S. (2008). How com-
+munication goals determine when
+audience tuning biases memory. J.
+Exp. Psychol. Gen. 137, 3–21.
+Echterhoff, G., Higgins, E. T., and
+Levine, J. M. (2009). Shared real-
+ity experiencing commonality with
+others’ inner states about the world.
+Perspect. Psychol. Sci. 4, 496–521.
+Echterhoff, G., and Hirst, W. (2009).
+Social influence on memory. Soc.
+Psychol. 40, 106–110.
+www.frontiersin.org
+November 2012 | Volume 3 | Article 467 | 5
+
+Lindner et al.
+Echterhoff, G., Kopietz, R., and Hig-
+gins,
+E.
+T.
+(in
+press).
+Adjust-
+ing shared reality: communicators’
+memory changes as their connec-
+tion with their audience changes.
+Soc. Cogn.
+Garry, M., Manning, C. G., Loftus, E.
+F., and Sherman, S. J. (1996). Imag-
+ination inflation: imagining a child-
+hood event inflates confidence that
+it occurred. Psychon. Bull. Rev. 3,
+208–214.
+Goff, L. M., and Roediger, H. L.
+(1998). Imagination inflation for
+action events: repeated imaginings
+lead to illusory recollections. Mem.
+Cognit. 26, 20–33.
+Gutsell, J. N., and Inzlicht, M. (2010).
+Empathy constrained:prejudice pre-
+dicts reduced mental simulation of
+actions during observation of out-
+groups. J. Exp. Soc. Psychol. 46,
+841–845.
+Hirst, W., and Echterhoff, G. (2012).
+Remembering in conversations: the
+social sharing and reshaping of
+memories. Annu. Rev. Psychol. 63,
+55–79.
+Howard, J. W., and Rothbart, M. (1980).
+Social categorization and memory
+for in-group and out-group behav-
+ior. J. Pers. Soc. Psychol. 38, 301–310.
+Johnson, M. H., and Morton, J. (1991).
+Biology and Cognitive Development:
+TheCaseof FaceRecognition.Oxford:
+Blackwell.
+Johnson, M. K., Hashtroudi, S., and
+Lindsay, D. S. (1993). Source mon-
+itoring. Psychol. Bull. 114, 3–28.
+Kang, S. K., Hirsh, J. B., and Chas-
+teen, A. L. (2010). Your mistakes
+are mine: self-other overlap predicts
+neural response to observed errors.
+J. Exp. Soc. Psychol. 46, 229–232.
+Lindner, I., Echterhoff, G., Davidson,
+P. S. R., and Brand, M. (2010).
+Observation inflation: your actions
+become
+mine.
+Psychol.
+Sci.
+21,
+1291–1299.
+Macrae, C. N., and Bodenhausen, G.
+V. (2000). Social cognition: think-
+ing categorically about others. Annu.
+Rev. Psychol. 51, 93–120.
+Meissner, C. A., and Brigham, J. C.
+(2001). Thirty years of investigat-
+ing the own-race bias in memory
+for faces: a meta-analytic review.
+Psychol. Public Policy Law 7, 3–35.
+Müller, B. C. N., Brass, M., Kühn, S.,
+Tsai, C.-C., Nieuwboer, W., Dijk-
+sterhuis, A., et al. (2011). When
+Pinocchio acts like a human, a
+wooden hand becomes embodied.
+Action co-representation for non-
+biological agents. Neuropsychologia
+49, 1373–1377.
+Newman-Norlund, R. D., Ganesh, S.,
+Schie, H. T. V., De Bruijn, E. R.
+A., and Bekkering, H. (2009). Self-
+identification and empathy mod-
+ulate error-related brain activity
+during the observation of penalty
+shots
+between
+friend
+and
+foe.
+Soc.
+Cogn.
+Affect.
+Neurosci.
+4,
+10–22.
+Schain, C., Lindner, I., Beck, F., and
+Echterhoff, G. (2012). Looking at
+the actor’s face: identity cues and
+attentional focus in false memo-
+ries of action performance from
+observation. J. Exp. Soc. Psychol. 48,
+1201–1204.
+Sebanz, N., Knoblich, G., and Prinz, W.
+(2003). Representing others’actions:
+just like one’s own? Cognition 88,
+11–21.
+Senkfor, A. J., Van Petten, C., and Kutas,
+M. (2002). Episodic action memory
+for real objects: an ERP investiga-
+tion with perform, watch, and imag-
+ine action encoding tasks versus a
+non-action encoding task. J. Cogn.
+Neurosci. 14, 402–419.
+Stangor, C., Lynch, L., Duan, C., and
+Glass, B. (1992). Categorization of
+individuals on the basis of multiple
+source features. J. Pers. Soc. Psychol.
+62, 207–218.
+Taylor,S. E.,Fiske,S. T.,Etcoff,N. L.,and
+Ruderman, A. J. (1978). Categori-
+cal and contextual bases of person
+memory and stereotyping. J. Pers.
+Soc. Psychol. 36, 778–793.
+Wutte, M. G., Glasauer, S., Jahn, K.,
+and Flanagin, V. L. (2012). Mov-
+ing and being moved: differences in
+cerebral activation during recollec-
+tion of whole-body motion. Behav.
+Brain Res. 227, 21–29.
+Xu, X., Zuo, X., Wang, X., and Han,
+S. (2009). Do you feel my pain?
+Racial group membership modu-
+lates empathic neural responses. J.
+Neurosci. 29, 8525–8529.
+Young, S. G., Hugenberg, K., Bern-
+stein, M. J., and Sacco, D. F. (2012).
+Perception and motivation in face
+recognition:a critical review of theo-
+ries of the cross race effect. Pers. Soc.
+Psychol. Rev. 16, 116–142.
+Zebrowitz, L. A. (1997). Reading Faces:
+Window to the Soul? Boulder, CO:
+Westview Press.
+Conflict of Interest Statement: The
+authors declare that the research was
+conducted in the absence of any com-
+mercial or financial relationships that
+could be construed as a potential con-
+flict of interest.
+Received: 01 September 2012; accepted:
+14 October 2012; published online: 02
+November 2012.
+Citation: Lindner I, Schain C, Kopi-
+etz R and Echterhoff G (2012) When
+do
+we
+confuse
+self
+and
+other
+in
+action memory? Reduced false mem-
+ories of self-performance after observ-
+ing actions by an out-group vs. in-
+group actor. Front. Psychology 3:467. doi:
+10.3389/fpsyg.2012.00467
+This article was submitted to Frontiers
+in Cognition, a specialty of Frontiers in
+Psychology.
+Copyright © 2012 Lindner, Schain, Kopi-
+etz and Echterhoff. This is an open-
+access article distributed under the terms
+of the Creative Commons Attribution
+License, which permits use, distribution
+and reproduction in other forums, pro-
+vided the original authors and source
+are credited and subject to any copy-
+right notices concerning any third-party
+graphics etc.
+November 2012 | Volume 3 | Article 467 | 6

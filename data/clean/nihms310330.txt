@@ -1,0 +1,463 @@
+The false memory syndrome: Experimental studies and
+comparison to confabulations
+M.F. Mendez* and I.A. Fras
+Neurobehavior Unit, V.A. Greater Los Angeles Healthcare System, Los Angeles, CA, USA.
+Departments of Neurology and Psychiatry, David Geffen School of Medicine at UCLA, Los
+Angeles, CA, USA
+Abstract
+False memories, or recollections that are factually incorrect but strongly believed, remain a source
+of confusion for both psychiatrists and neurologists. We propose model for false memories based
+on recent experimental investigations, particularly when analyzed in comparison to
+confabulations, which are the equivalent of false memories from neurological disease. Studies
+using the Deese/Roedinger–McDermott experimental paradigm indicate that false memories are
+associated with the need for complete and integrated memories, self-relevancy, imagination and
+wish fulfillment, familiarity, emotional facilitation, suggestibility, and sexual content. In
+comparison, confabulations are associated with the same factors except for emotional facilitation,
+suggestibility, and sexual content. Both false memories and confabulations have an abnormal
+sense of certainty for their recollections, and neuroanatomical findings implicate decreased
+activity in the ventromedial frontal lobe in this certainty. In summary, recent studies of false
+memories in comparison to confabulations support a model of false memories as internally-
+generated but suggestible and emotionally-facilitated fantasies or impulses, rather than repressed
+memories of real events. Furthermore, like confabulations, in order for false memories to occur
+there must be an attenuation of the normal, nonconscious, right frontal “doubt tag” regarding their
+certainty.
+Introduction
+False memories are semantic or autobiographic memories that did not occur. The existence
+of false memories is a challenge not only to our self-perceived ability to record truth and
+report it according to some objective standard, but also raises questions of nonconscious
+motivations. The understanding of false memories is not only important as a window to the
+nonconscious but can also lead to basic insights into the mechanisms of memory. In fact, a
+complete picture of memory is unlikely to emerge without a better understanding of the
+phenomenon of false memories.
+For psychiatrists, the nature of false memories has remained controversial since Freud’s
+time. When Freud visited Charcot in 1886, Charcot had already concluded that many of his
+patients’ neurologically inexplicable symptoms and signs were connected to traumatic
+memories that were not entirely available to consciousness [1]. This view, when combined
+with his friend Breuer’s work with “Anna O”., would germinate in Freud’s first major
+publication, the “Studies in Hysteria” of 1895 [1]. In this work, he describes the almost
+*Corresponding author. Address: Neurobehavior Unit (691/116AF), V.A. Greater Los Angeles Healthcare Center, 11301 Wilshire
+Blvd., Los Angeles, CA 90073, USA. Tel.: +1 310 478 3711x42696; fax: +1 310 268 4181. mmendez@UCLA.edu (M.F. Mendez).
+Conflict of interest
+None declared.
+NIH Public Access
+Author Manuscript
+Published in final edited form as:
+Med Hypotheses. 2011 April ; 76(4): 492–496. doi:10.1016/j.mehy.2010.11.033.
+
+uniform assertion, probably made during a state of altered consciousness if not hypnosis, of
+paternal incest on the part of his young female clients, all of whom disclaimed any
+conscious awareness of these events. Freud subsequently repudiated the notion that these
+events had literally occurred. He eventually concluded that the reported “seduction” was the
+manifestation of imagination and fantasy related to latent infantile sexuality rather than the
+repressed memory of an actual event.
+The “recovered memory” movement that began over three decades ago assumed that the
+incest described by Freud’s patients was real, and that this reality was falsely rejected by
+Freud. This paved the way for a decade of “uncovering” of memories, whose technique,
+particularly in children, was fraught with suggestion, and which culminated in bizarre and
+tragic phenomena such as the McMartin Preschool case of the late 80’s in which innocent
+adults were falsely imprisoned on the basis of children’s suggested “memories” of often
+lurid and theatrical sexual abuse [2]. In the wake of these events, investigators demonstrated
+that false or altered memories of events, even very traumatic ones, can be endorsed as “real”
+by otherwise normal people [3–8]. Given certain situations, normal adults have reported
+false memories or even provide false confessions. We now know that a spectrum of false
+memories is common, and investigators are beginning to define the mechanisms of false
+memories in normal individuals, particularly in comparison to neurological patients.
+For neurologists, a potential source of understanding of false memories is confabulation
+from brain disease. Confabulations are false statements without a conscious effort to deceive
+occurring in clear consciousness in association with neurological disease [9]. They are
+“honest lying” as confabulators are unaware of the falsehood of their statements. The most
+common confabulations are provoked or momentary, simple, or minor errors in content or
+temporal order often elicited by questions about the past [9– 11]. Other, uncommon
+confabulations are spontaneous, fantastic, grandiose, bizarre, or patently impossible
+statements [11,12]. Neurological causes of confabulations include Wernicke–Korsakoff’s
+syndrome, ruptured communicating artery aneurysms especially anterior, strategic
+diencephalic strokes, traumatic brain injury, herpes and other encephalitides, nicotinic acid
+deficiency, multiple sclerosis with frontal and parietal lesions, hypoxic-ischemic injury such
+as from attempted hanging, normal pressure hydrocephalus, and frontotemporal dementia.
+Hypothesis/theory
+We advance a model of characteristics and underlying mechanisms for false memories.
+Many recent experimental investigations of this phenomenon in normal people, along with
+related functional magnetic resonance imaging (fMRI) studies, are clarifying our
+understanding of the false memory syndrome. Because of the similarities to the neurological
+phenomena of confabulations, we compare and contrast the findings of these false memory
+studies with our current understanding of the basis of confabulations. Although the
+comparison is imperfect, as there can be dissociations between false memories and
+confabulations [13], this comparison does amplify our ability to logically infer underlying
+neurobiological aspects of false memories. We propose that the sum of the scientific
+information indicates an origin of false memories consistent with Freud’s formulation as
+originating in internally-generated fantasies or impulses, rather than repressed memories of
+real events. Our model additionally requires a second step. After the false memory is
+generated, the subject accepts it because of an attenuation of an automatic, nonconscious
+sense of uncertainty, mediated by the ventromedial prefrontal cortex (VMPFC). What
+follows is an evaluation of this model in light of current experimental studies on false
+memories compared to the related neurological phenomena of confabulations.
+Mendez and Fras
+Page 2
+
+Evaluation of evidence from false memory experiments
+A broadly-accepted experimental paradigm to measure false memory did not emerge until
+the advent of the Deese/Roedinger– McDermott paradigm (DRM) [14]. DRM experiments
+demonstrate the pervasiveness of false memories both to prompting and free recall, and
+allow manipulation of the variables contributing to the phenomenon. In the DRM paradigm,
+the investigator presents a list of semantically-related items (e.g., bed, rest, pillow, night),
+followed, after an interval, by a previously non-presented but thematically-related “lure”
+item (e.g., sleep). These “lures” are often falsely endorsed, embellished, or even freely-
+recalled. This DRM response occurs in normal people and is influenced by many conditions,
+including the number of items in the list and their degree of semantic relatedness [15];
+attentional distraction and forewarning of the effect [16]; the medium (verbal, visual) in
+which the information is presented [17]; the age and cognitive status of the subject [18], and
+nonconscious cognitive factors [5].
+The results from recent DRM studies reveal several pertinent factors that promote false
+memories. We have interpreted and summarized them into seven categories. DRM responses
+are associated with increased: (1) Need for complete and integrated memories as reflected in
+an exaggerated tendency for completion or “filling-in” of incomplete memories and in the
+inclusion of increased and more coherent context [19–22]. (2) Imagination and fantasy-
+proneness, wish fulfillment, magical thinking, self-reported anomalies of experience, and
+vivid imagery schema [8,23– 26]. (3) Familiarity including prior exposure and incidental or
+indirect encoding [3,4,27–31]. (4) Self-relevance measures including autobiographical
+information and items related to survival [32– 34]. (5) Emotional-facilitation from events,
+pictures, and words in normal and stress situations [6,7,35–42]. (6) Suggestibility or the
+ability to plant or indoctrinate false memories, such as in false confessions or overheard
+rumors [43,44]. Finally, in addition to support from the DRM literature [45], there are the
+previously noted psychoanalytic findings showing an increased sexual content of false
+memories [46].
+In addition to the DRM findings, there are three prominent theories of false memories that
+need consideration. First of all, memory is constructive in nature so that it sometimes leads
+to the retrieval of distorted illusory information because of abnormal or biased
+reconstruction [47]. Memory is recast and actively modified with every retrieval or
+“reconsolidation” [48], and false memories may be emotionally-facilitated by increasing the
+storage of “free-floating” memory fragments that are poorly located in time, space, and
+context. Second, the “Fuzzy-Trace” theory posits different levels of encoding including a
+less stable “verbatim” level with fast decay and a “gist” level with slow decay [49]. False
+memories may result from over-endorsement and interpretation of “gist” appropriate items
+on recall. Third, the Source-Monitoring Theory predicts errors according to the internal
+versus external source of the encoded memory [50]. Upon recall, a false expectancy of
+source occurs based on the usual context for that type of memory, resulting in a false source
+memory, e.g., of an external, versus internallygenerated, trace. There are many additional
+theories of false memories, but these three have support from experimental and
+neuroanatomical research.
+FMRI studies of false memories point to prefrontal cortex, particularly ventromedial and in
+the right hemisphere, as involved in false memories. False recognition correlate negatively
+with grey matter density in prefrontal areas (Brodmann’s areas 9 and 47) [51]. Although the
+left prefrontal cortex is involved in both true and false memories [52], the processing of
+false information is associated with stronger activations in the medial prefrontal cortex, an
+area involved in decoupling in false belief attribution [53]. False recollections result in
+activations mainly in the right prefrontal cortex [42], and the false recollection rate is much
+Mendez and Fras
+Page 3
+
+higher for right hemisphere compared to left hemisphere presentations [42]. In contrast, the
+left prefrontal cortex is activated during pretending to know relative to correct rejection and
+false recognition [54]. An exception to this laterality may be age-related false memories,
+which have greater processing in the left ventrolateral prefrontal and superior and lateral
+temporal areas [18,55]. High-confidence responses for false recognition or false memories
+are associated with frontoparietal activity and the associated superior longitudinal fasciculus
+[17,52,56,57]. The right anterior hippocampus is activated during false recognition relative
+to correct rejection and pretending to know [54]. In contrast, the left mesial temporal lobe
+may contribute to true memories, but not to false memories [52,56]. Electrophysiological
+studies also indicate that hippocampal and associated mesial temporal lobe activity is more
+characteristic of true memories than false ones [58,59].
+Evaluation of evidence from confabulations
+Confabulations usually result from a combination of memory impairment and frontal-
+executive dysfunction in brain disease [13,60]. Since confabulations affect remote memory,
+the memory impairment must involve retrieval mechanisms and reconstructive memory
+processes [61]. In spontaneous confabulations, however, the memory difficulty goes beyond
+just a cover up of memory gaps. Moreover, since patients accept confabulations as real, the
+frontal-executive dysfunction must involve impairment in self-monitoring, which is usually
+mediated by medial and orbital frontal regions. The frontal executive dysfunction also
+contributes to the memory impairment dysfunction through disturbances in the organization
+for retrieval, temporal ordering of memories, and post-retrieval monitoring of recovered
+memories [10,62–64].
+The results of studies on neurological patients with confabulations parallel the findings on
+normal subjects on the DRM protocol. We have interpreted and summarized them.
+Confabulations are associated with increased: (1) need for completion and integration as
+reflected in the occurrence of completion errors with momentary confabulations and
+plausible but false answers created to fill in gaps in memory or coherence [10]. (2) Vivid
+imagination, fantasy-proneness, wish fulfillment, embellishment, and story or myth-telling
+with spontaneous confabulations, which arise from internally-generated events or ideas and
+tend to be pleasant and self-enhancing [60,65,66]. (3) Familiarity including prior and
+incidental exposures is implied in much of the literature, although there is little dedicated
+research with confabulations [9,12,60,62]. (4) Self-relevance measures including an inability
+to retrieve autobiographical information systematically in spontaneous confabulations
+[60,67]. Confabulation serve important functions of self-coherence (coherent self-narrative),
+self-monitoring(oneself in relation to the world), or self-enhancement [67]. In contrast to
+false memories, there is little or no information supporting emotion-facilitation,
+suggestibility, or a sexual theme in confabulations.
+In addition to these characteristics, there are three prominent theories of confabulations that
+further clarify these findings. First of all, confabulations may result from inability to
+suppress irrelevant memory traces or to keep from “uploading” anticipated memories [68].
+They fail in the extinction of previously appropriate anticipations [11], probably resulting in
+confusion of untrue memories with true memories [12]. Second, confabulations, like false
+memories, may be due to source monitoring deficits in context, reality, or time leading to
+inability to correctly bind memory traces and the incorrect mixing of unrelated memory
+traces [50]. Source monitoring deficits impair the ability to distinguish real memories from
+internally-generated thoughts or imaged events with a tendency to identify imagined events
+as externally driven [10,60]. Third, confabulations may result from deficient strategic
+retrieval or deficits in the control of memory retrieval [64,69]. In addition to the retrieval of
+incorrect “memories”, there is a disordered ability to accurately evaluate the retrieved
+Mendez and Fras
+Page 4
+
+memories which involves an intuitive, fast, automatic “feeling of rightness”, followed, if
+necessary, by a conscious, slow, effortful checking process [10,61,70]. In confabulation,
+there may be an abnormal feeling of rightness, or the absence of a “doubt tag” [70], resulting
+in an incorrect certainty or conviction and failure to subsequently perform a conscious
+checking process for the veracity of the confabulation [61,63,70].
+Similar to false memories, neuroanatomical studies of confabulation have pointed to
+prefrontal regions of involvement. These studies have shown orbital and medial frontal
+cortical disease [71–73]. VMPFC lesions result in disturbed source monitoring with
+temporal context and content confusions [72]. The VMPFC is particularly involved in the
+retrieval and production of a narrative and in the feeling of rightness [64]. Failure of
+orbitofrontal cortex (OFC) mechanisms may additionally result in an inability to suppress
+the interference of memories that do not pertain to ongoing reality [74]. Spontaneous
+confabulations may require damage to both the VMPFC and OFC with a faulty doubt tag
+and disinhibition [10]. Other work has shown that the right ventromedial/orbitofrontal area
+adds an emotional tag to experience and monitors the appropriateness of decisions [75],
+whereas, work with split-brain patients has shown that the left hemisphere engages in
+“storytelling” [76].
+Consequences and discussion
+Recent interest in false memory, which began in neurology and detoured for many years into
+psychiatry, has lead to studies that can clarify their underlying characteristics, particularly in
+comparison to confabulations. The DRM model provides a testable paradigm for examining
+what we now recognize to be a normal degree of false memory creation in normal adults as
+well as children. The spontaneous generation and embellishment of false responses in the
+DRM protocol, coupled with the confabulations or the neurological equivalent of false
+memories, illuminate processes that are unique to false memories. These include emotional
+facilitation, suggestibility, and sexual content. Similar to confabulations, there is probable
+attenuation of a right VMPFC doubt tag. Several theories of false memories and
+confabulations have some validity and cannot be discounted, including impaired
+reconsolidation of memories, the Fuzzy-Trace focus on the “gist” with dilapidation of the
+details, source monitoring deficits, failure to suppress irrelevant memory traces, and
+problems with strategic retrieval.
+There are significant similarities between false memories and confabulations. Both false
+memories and confabulations are facilitated by the need for integrated and complete
+memories, the familiarity of the material, and the presence of self-relevant or
+autobiographical content. False memories and spontaneous confabulations tend to have
+content that is influenced by imagination and fantastic thinking with elaborative
+characteristics and fanciful personal narratives [12]. The neuroanatomical information
+regarding false memories and confabulations points to dysfunction in the VMPFC. Other
+information and lesions implicate the right frontal lobe more than the left in this process
+[76].
+There are significant differences between false memories and confabulations. Emotional-
+facilitation is prominent in false memories but not confabulations. Emotions may
+overwhelm or supersede the feelings of uncertainty, or doubt tag, for an incorrect memory.
+Suggestibility appears to be another factor in false memories but not in confabulations. This
+could be a factor for confabulations as well, but may not be evident because of the presence
+of memory impairment. More difficult to explain is the reason why false memories, as
+opposed to confabulations, tend to drift to sexual themes. Wishful ideations are powerful
+generators of positive biases in the content of confabulations, but they are usually not
+Mendez and Fras
+Page 5
+
+associated with lurid sexual content. Freud was in the end struck by the monotonous and
+stereotyped quality of the sexual content. Moreover, a phenomenon, such as Facilitated
+Communication where communication in an impaired person may be suggested by
+subliminal cues from the facilitator [77], has resulted in very similar sexual content. From
+these observations, it appears that sexual material spontaneously emerges from the
+nonconscious of normal adults without their knowledge. We must conclude that there is at
+least some evidence to suggest a broad tendency towards sexuality in the creation of false
+memories.
+The very notion of false memory stands as a challenge to our self-image as rational,
+veridical reporters of actual events, as human tape recorders or cameras. Add to this the
+further possibility that what we remember may be emotionally-facilitated or a product not
+only of suggestion but even of fantasy – fantasy of the most inadmissible sort, unavailable to
+consciousness – and it is little wonder that the main currents of memory research have until
+fairly recently passed it by as something dark. Insights from DRM studies and
+confabulations in brain disease may be the key to a better understanding of false memories.
+In turn, such understanding is bound to yield further insights into memory in general. There
+are potential clinical and legal implications of this model of false memories as well. Finally,
+there are many implications of this model of false memories for future research including
+the testing of fantastic thinking and imagination, implanted imaginings as sources of false
+memory, and the manipulation of the feelings of uncertainty, or doubt tag, during DRM
+experiments.
+Acknowledgments
+This work was supported by Grant #R01AG034499-02.
+References
+1. Breuer, J.; Freud, S.; Brill, AA. Nervous and Mental Disease Monograph Series. Birmingham, Ala:
+Classics of Psychiatry & Behavioral Sciences Library; 1990. Studies in Hysteria. Special ed
+2. Showalter, E. Hystories: Hysterical Epidemics and Modern Culture. New York: Columbia
+University Press; 1997.
+3. Brown AS, Marsh EJ. Evoking false beliefs about autobiographical experience. Psychon Bull Rev.
+2008; 15:186–90. [PubMed: 18605501]
+4. Chrobak QM, Zaragoza MS. Inventing stories: forcing witnesses to fabricate entire fictitious events
+leads to freely reported false memories. Psychon Bull Rev. 2008; 15:1190–5. [PubMed: 19001589]
+5. Cotel SC, Gallo DA, Seamon JG. Evidence that nonconscious processes are sufficient to produce
+false memories. Conscious Cogn. 2008; 17:210–8. [PubMed: 17368912]
+6. Meyersburg CA, Bogdan R, Gallo DA, McNally RJ. False memory propensity in people reporting
+recovered memories of past lives. J Abnorm Psychol. 2009; 118:399–404. [PubMed: 19413413]
+7. Porter S, Taylor K, Ten Brinke L. Memory for media: investigation of false memories for negatively
+and positively charged public events. Memory. 2008; 16:658–66. [PubMed: 18569691]
+8. Seamon JG, Blumenson CN, Karp SR, Perl JJ, Rindlaub LA, Speisman BB. Did we see someone
+shake hands with a fire hydrant? collaborative recall affects false recollections from a campus walk.
+Am J Psychol. 2009; 122:235–47. [PubMed: 19507429]
+9. Berlyne N. Confabulation. Br J Psychiatr. 1972; 120:31–9.
+10. Kopelman MD. Varieties of confabulation and delusion. Cogn Neuropsychiatry. 2010; 15:14–37.
+[PubMed: 19753493]
+11. Nahum L, Ptak R, Leemann B, Schnider A. Disorientation, confabulation, and extinction capacity:
+clues on how the brain creates reality. Biol Psychiatry. 2009; 65:966–72. [PubMed: 19217613]
+12. Glowinski R, Payman V, Frencham K. Confabulation: a spontaneous and fantastic review. Aust N
+Z J Psychiatry. 2008; 42:932–40. [PubMed: 18941957]
+Mendez and Fras
+Page 6
+
+13. Kessels RP, Kortrijk HE, Wester AJ, Nys GM. Confabulation behavior and false memories in
+Korsakoff’s syndrome: role of source memory and executive functioning. Psychiatry Clin
+Neurosci. 2008; 62:220–5. [PubMed: 18412846]
+14. Roediger HL III, McDermott KB. Creating false memories: remembering words not presented in
+lists. J Exp Psychol Learn Mem Cogn. 1995; 21:803–14.
+15. Brueckner K, Moritz S. Emotional valence and semantic relatedness differentially influence false
+recognition in mild cognitive impairment, Alzheimer’s disease, and healthy elderly. J Int
+Neuropsychol Soc. 2009; 15:268–76. [PubMed: 19203441]
+16. Peters MJ, Jelicic M, Gorski B, Sijstermans K, Giesbrecht T, Merckelbach H. The corrective
+effects of warning on false memories in the DRM paradigm are limited to full attention conditions.
+Acta Psychol (Amst). 2008; 129:308–14. [PubMed: 18804192]
+17. Drowos DB, Berryhill M, André JM, Olson IR. True memory, false memory, and subjective
+recollection deficits after focal parietal lobe lesions. Neuropsychology. 2010; 24:465–75.
+[PubMed: 20604621]
+18. Dennis NA, Kim H, Cabeza R. Age-related differences in brain activity during true and false
+memory retrieval. J Cogn Neurosci. 2008; 20:1390–402. [PubMed: 18303982]
+19. Aminoff E, Schacter DL, Bar M. The cortical underpinnings of context-based memory distortion. J
+Cogn Neurosci. 2008; 20:2226–37. [PubMed: 18457503]
+20. Foley MA, Foley HJ, Scheye R, Bonacci AM. Remembering more than meets the eye: a study of
+memory confusions about incomplete visual information. Memory. 2007; 15:616–33. [PubMed:
+17654277]
+21. McCabe DP, Geraci L. The role of extralist associations in false remembering: a source
+misattribution account. Mem Cognit. 2009; 37:130–42.
+22. Pérez-Mata N, Diges M. False recollections and the congruence of suggested information.
+Memory. 2007; 15:701–17. [PubMed: 17891682]
+23. Corlett PR, Simons JS, Pigott JS, Gardner JM, Murray GK, Krystal JH, et al. Illusions and
+delusions: relating experimentally-induced false memories to anomalous experiences and ideas.
+Front Behav Neurosci. 2009; 3(1–9):53. [PubMed: 19956402]
+24. Foley MA, Foy J. Pictorial encoding effects and memory confusions in the Deese-Roediger–
+McDermott paradigm: evidence for the activation of spontaneous imagery. Memory. 2008;
+16:712–27. [PubMed: 18720219]
+25. Nash RA, Wade KA, Lindsay DS. Digitally manipulating memory: effects of doctored videos and
+imagination in distorting beliefs and memories. Mem Cogn. 2009; 37:414–24.
+26. Sjödén B, Granhag PA, Ost J, Roos Af Hjelmsäter E. Is the truth in the details? Extended
+narratives help distinguishing false “memories” from false “reports”. Scand J Psychol. 2009;
+50:203–10. [PubMed: 19000104]
+27. Brainerd CJ, Yang Y, Reyna VF, Howe ML, Mills BA. Semantic processing in “associative” false
+memory. Psychon Bull Rev. 2008; 15:1035–53. [PubMed: 19001566]
+28. Hirano T, Ukita J, Kashu K. Effects of conceptually based familiarity in memory conjunction
+errors. Psychon Bull Rev. 2008; 135:205–19.
+29. Ost J, Granhag PA, Udell J, Roos af Hjelmsäter E. Familiarity breeds distortion: the effects of
+media exposure on false reports concerning media coverage of the terrorist attacks in London on 7
+July 2005. Memory. 2008; 16:76–85. [PubMed: 18158688]
+30. Senese VP, Sergi I, Iachini T. Comparison of activation level between true and false items in the
+DRM paradigm. Cogn Process. 2009; 11:213–7. [PubMed: 19609786]
+31. Sharman SJ, Calacouris S. Do people’s motives influence their susceptibility to imagination
+inflation? Exp Psychol. 2010; 57:77–82. [PubMed: 20178966]
+32. Desjardins T, Scoboria A. “You and your best friend Suzy put slime in Ms. Smollett’s desk”:
+producing false memories with self-relevant details. Psychon Bull Rev. 2007; 14:1090–5.
+[PubMed: 18229480]
+33. Howe ML, Derbish MH. On the susceptibility of adaptive memory to false memory illusions.
+Cognition. 2010; 115:252–67. [PubMed: 20096406]
+34. Otgaar H, Smeets T. Adaptive memory: survival processing increases both true and false memory
+in adults and children. J Exp Psychol Learn Mem Cogn. 2010; 36:1010–6. [PubMed: 20565216]
+Mendez and Fras
+Page 7
+
+35. Bauer LM, Olheiser EL, Altarriba J, Landi N. Word type effects in false recall: concrete, abstract,
+and emotion word critical lures. Am J Psychol. 2009; 122:469–81. [PubMed: 20066926]
+36. Brainerd CJ, Stein LM, Silveira RA, Rohenkohl G, Reyna VF. How does negative emotion cause
+false memories? Psychol Sci. 2008; 19:919–25. [PubMed: 18947358]
+37. Brennen T, Dybdahl R, Kapidzić A. Trauma-related and neutral false memories in war-induced
+Posttraumatic Stress Disorder. Conscious Cogn. 2007; 16:877–85. [PubMed: 16901721]
+38. El Sharkawy J, Groth K, Vetter C, Beraldi A, Fast K. False memories of emotional and neutral
+words. Behav Neurol. 2008; 19:7–11. [PubMed: 18413909]
+39. Gallo DA, Foster KT, Johnson EL. Elevated false recollection of emotional pictures in young and
+older adults. Psychol Aging. 2009; 24:981–8. [PubMed: 20025411]
+40. Howe ML. Children’s emotional false memories. Psychol Sci. 2007; 18:856–60. [PubMed:
+17894601]
+41. Laney C, Loftus EF. Emotional content of true and false memories. Memory. 2008; 16:500–16.
+[PubMed: 18569679]
+42. Marchewka A, Brechmann A, Nowicka A, Jednoróg K, Scheich H, Grabowska A. False
+recognition of emotional stimuli is lateralised in the brain: an fMRI study. Neurobiol Learn Mem.
+2008; 90:280–4. [PubMed: 18329298]
+43. Plancher G, Nicolas S, Piolino P. Influence of suggestion in the DRM paradigm: what state of
+consciousness is associated with false memory? Conscious Cogn. 2008; 17:1114–22. [PubMed:
+18835190]
+44. Principe GF, Haines B, Adkins A, Guiliano S. False rumors and true belief: memory processes
+underlying children’s errant reports of rumored events. J Exp Child Psychol. 2010; 107:407–22.
+[PubMed: 20630537]
+45. Geraerts E, Smeets E, Jelicic M, van Heerden J, Merckelbach H. Fantasy proneness, but not self-
+reported trauma is related to DRM performance of women reporting recovered memories of
+childhood sexual abuse. Conscious Cogn. 2005; 14:602–12. [PubMed: 16091273]
+46. Gardner RA. The psychodynamics of patients with false memory syndrome (FMS). J Am Acad
+Psychoanal Dyn Psychiatry. 2004; 32:77–90. [PubMed: 15132191]
+47. Rosenbaum RS, Gilboa A, Levine B, Winocur G, Moscovitch M. Amnesia as an impairment of
+detail generation and binding: evidence from personal, fictional, and semantic narratives in K. C
+Neuropsychologia. 2009; 47:2181–7.
+48. Nader K, Einarsson EO. Memory reconsolidation: an update. Ann N Y Acad Sci. 2010; 1191:27–
+41. [PubMed: 20392274]
+49. Reyna VF, Brainerd CJ. Fuzzy-trace theory and false memory: new frontiers. J Exp Child Psychol.
+1998; 71:194–209. [PubMed: 9843625]
+50. Johnson MK, Hashtroudi S, Lindsay DS. Source monitoring. Psychol Bull. 1993; 114:3–28.
+[PubMed: 8346328]
+51. Marchewka A, Jednoróg K, Nowicka A, Brechmann A, Grabowska A. Grey-matter differences
+related to true and false recognition of emotionally charged stimuli – a voxel based morphometry
+study. Neurobiol Learn Mem. 2009; 92:99–105. [PubMed: 19292997]
+52. Kim H, Cabeza R. Differential contributions of prefrontal, medial temporal, and sensory-
+perceptual regions to true and false memory formation. Cereb Cortex. 2007; 17:2143–50.
+[PubMed: 17110592]
+53. Abraham A, Rakoczy H, Werning M, von Cramon DY, Schubotz RI. Matching mind to world and
+vice versa: functional dissociations between belief and desire mental state processing. Soc
+Neurosci. 2010; 5:1–18. [PubMed: 19670085]
+54. Abe N, Okuda J, Suzuki M, et al. Neural correlates of true memory, false memory, and deception.
+Cereb Cortex. 2008; 18:2811–9. [PubMed: 18372290]
+55. Paz-Alonso PM, Ghetti S, Donohue SE, Goodman GS, Bunge SA. Neurodevelopmental correlates
+of true and false recognition. Cereb Cortex. 2008; 18:2208–16. [PubMed: 18203693]
+56. Kim H, Cabeza R. Trusting our memories: dissociating the neural correlates of confidence in
+veridical versus illusory memories. J Neurosci. 2007; 27:12190–7. [PubMed: 17989285] Mendez
+MF, Fras IA. Medical Hypotheses. 2011; 76:492–496. 495. [PubMed: 21177042]
+Mendez and Fras
+Page 8
+
+57. Fuentemilla L, Càmara E, Münte TF, et al. Individual differences in true and false memory
+retrieval are related to white matter brain microstructure. J Neurosci. 2009; 29:8698–703.
+[PubMed: 19587276]
+58. Boggio PS, Fregni F, Valasek C, et al. Temporal lobe cortical electrical stimulation during the
+encoding, retrieval phase reduces false memories. PLoS One. 2009; 4:e4959. [PubMed: 19319182]
+59. Sederberg PB, Schulze-Bonhage A, Madsen JR, et al. Gamma oscillations distinguish true from
+false memories. Psychol Sci. 2007; 18:927–32. [PubMed: 17958703]
+60. Johnson MK, O’Connor M, Cantor J. Confabulation, memory deficits, and frontal dysfunction.
+Brain Cogn. 1997; 34:189–206. [PubMed: 9220085]
+61. Gilboa A, Alain C, Stuss DT, Melo B, Miller S, Moscovitch M. Mechanisms of spontaneous
+confabulations: a strategic retrieval account. Brain. 2006; 129(Pt 6):1399–414. [PubMed:
+16638795]
+62. Burgess PW, Shallice T. Confabulation and the control of recollection. Memory. 1996; 4:359–411.
+[PubMed: 8817460]
+63. Hirstein, W. Brain Fiction, Self-Deception and the Riddle of Confabulation. Cambridge MA: MIT
+Press; 2005.
+64. Moscovitch M, Melo B. Strategic retrieval and the frontal lobes: evidence from confabulation and
+amnesia. Neuropsychologia. 1997; 35:1017–34. [PubMed: 9226662]
+65. Fotopoulou A, Conway MA, Tyrer S, Birchall D, Griffiths P, Solms M. Is the content of
+confabulation positive? an experimental study. Cortex. 2008; 44:764–72. [PubMed: 18489957]
+66. Kremen SA, Solis O, Shapira JS, Vinters HV, Mendez MF. Fantastic thinking in pathologically
+proven Pick’s disease. Cogn Behav Neurol. 2010; 23:130–4. [PubMed: 20535063]
+67. Fotopoulou A. False selves in neuropsychological rehabilitation: the challenge of confabulation.
+Neuropsychol Rehabil. 2008; 18:541–65. [PubMed: 18609017]
+68. Schnider A, Ptak R. Spontaneous confabulators fail to suppress currently irrelevant memory traces.
+Nature Neurosci. 1999; 2:677–81. [PubMed: 10404203]
+69. Van Damme I, d’Ydewalle G. Memory loss versus memory distortion: the role of encoding and
+retrieval deficits in Korsakoff patients’ false memories. Memory. 2009; 17:349–66. [PubMed:
+19255908]
+70. Turner M, Coltheart M. Confabulation and delusion: a common monitoring framework. Cogn
+Neuropsychiatry. 2010; 15:346–76. [PubMed: 20043250]
+71. Benson DF, Djenderedjian A, Miller BL, et al. Neural basis of confabulation. Neurology. 1996;
+46:1239–43. [PubMed: 8628459]
+72. Gilboa A, Alain C, He Y, Stuss DT, Moscovitch M. Ventromedial prefrontal cortex lesions
+produce early functional alterations during remote memory retrieval. J Neurosci. 2009; 29:4871–
+81. [PubMed: 19369555]
+73. Turner MS, Cipolotti L, Yousry TA, Shallice T. Confabulation: damage to a specific inferior
+medial prefrontal system. Cortex. 2008; 44:637–48. [PubMed: 18472034]
+74. Schnider A, von Däniken C, Gutbrod K. The mechanisms of spontaneous and provoked
+confabulations. Brain. 1999:1365–75.
+75. Mendez MF. What frontotemporal dementia reveals about the neurobiological basis of morality.
+Med Hypotheses. 2006; 67:411–8. [PubMed: 16540253]
+76. Devinsky O. Delusional misidentifications and duplications: right brain lesions, left brain
+delusions. Neurology. 2009; 72:80–7. [PubMed: 19122035]
+77. Mostert MP. Facilitated communication since 1995: a review of published studies. J Autism Dev
+Disord. 2001; 31:287–313. [PubMed: 11518483]
+Mendez and Fras
+Page 9

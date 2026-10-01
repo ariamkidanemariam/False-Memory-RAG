@@ -1,0 +1,1255 @@
+Developmental Reversals in False Memory:Development is 
+Complementary, Not Compensatory
+C J. Reyna,
+Department of Human Development and Human Neuroscience Institute, Cornell University
+V. F. Brainerd, and
+Department of Human Development and Human Neuroscience Institute, Cornell University
+R. E. Holliday
+Department of Psychology, University of Leicester
+Abstract
+We report the first example of a true complementarity effect in memory development—a situation 
+in which memory for the same event simultaneously becomes more and less accurate between 
+early childhood and adulthood. We investigated this paradoxical effect because fuzzy-trace theory 
+predicts that it can occur in paradigms that produce developmental reversals in false memory, 
+which are circumstances in which adults are more likely than children to remember new events as 
+old. The complementarity prediction is: If subjects separately judge whether those same events are 
+new but similar to old ones, adults will be more accurate than children, even though adults are less 
+accurate when they judge whether the items are old. We report four experiments in which children 
+(6- and 10-year-olds), adolescents (14-year-olds), and adults encoded the modal developmental 
+reversal materials, DRM lists. Then, they responded to memory tests on which half the subjects 
+judged whether test items were old and half judged whether the same items were new-similar. The 
+paradoxical complementarity effect was detected in all experiments: The tendency to falsely 
+remember new-similar items as being old increased with development, but so did the tendency to 
+correctly remember them as being new-similar.
+Keywords
+Developmental reversals; complementarity; compensation; false memory; fuzzy-trace theory
+Developmental reversals in false memory are compelling illustrations of the paradoxical 
+nature of human cognition. They are instances in which the baseline tendency to falsely 
+remember events that did not happen is not only high, but it increases during normal 
+development. Also, net accuracy (the ratio of true to false memory) may even decline. These 
+phenomena are puzzling from many points of view. For example, they violate a core 
+principle of cognitive development, the law of positive progression (Brainerd & Reyna, 
+2012), they run counter to the familiar rule that differentiating reality from fantasy is more 
+difficult for children than for adults (Brainerd, Reyna, & Zember, 2011), and they challenge 
+Corresponding author: C J. Brainerd, G331 MVR Hall, Cornell University, Ithaca, NY 14853, 607-254-1163, cb299@cornell.edu. 
+HHS Public Access
+Author manuscript
+Published in final edited form as:
+Dev Psychol. 2018 September ; 54(9): 1773–1784. doi:10.1037/dev0000554.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+polices that govern how the courts interpret the reliability of children’s memory reports 
+(Klemfuss & Ceci, 2012).
+In this article, we report that developmental reversals are even more counterintuitive than 
+currently supposed because they also violate a principle of logical coherence, which 
+stipulates that memory is compensatory across mutually incompatible reality states. Two 
+reality states are incompatible if an object or event cannot belong to both of them 
+simultaneously. For instance, following the encoding phase of a memory experiment, a test 
+item cannot have been presented and not presented; it must be one or the other. The 
+compensation principle merely states that if the tendency to remember that an item belongs 
+to a specific state (say, “presented”) increases with development, the tendency to remember 
+that it belongs to some logically incompatible state (say, “not presented”) must decrease.
+Compensation means that memory development is logically coherent: Increased memory for 
+one reality state is coupled with decreased memory for other incompatible states. The 
+alternative to compensation, developmental complementarity, troubles our intuition greatly. 
+Complementarity means that the tendency to remember mutually incompatible states 
+increases with development, so that logical coherence degrades. In the experiments reported 
+below, we shall see that the false memory phenomenon that has dominated developmental 
+reversal research, the Deese/Roediger/McDermott (DRM; Deese, 1959; Roediger & 
+McDermott, 1995) illusion, exhibits precisely this pattern. Before presenting the 
+experiments, we sketch some salient features of prior research that place this pattern in 
+context.
+Literature Overview
+An intriguing fact about developmental reversals is that they conflict with a century of 
+settled science, which showed that false memories decline during normal development. In 
+addition to some early studies (e.g., Binet, 1900), much evidence of developmental declines 
+has accumulated since the 1990s. To illustrate, developmental declines in spontaneous false 
+memory have been reported using paradigms such as memory for source details (Ackerman, 
+1992, 1994), for live event sequences (Pipe, Gee, Wilson, & Egerton, 1999; Poole & White, 
+1991), for metaphorical statements (Reyna & Kiernan, 1995), for mathematics problems 
+(Brainerd & Gordon, 1994), for word lists (Bjorklund & Muir, 1988), and even for nonsense 
+rhymes (Brainerd, Stein, Reyna, 1998). Similarly, declines in implanted false memories have 
+been reported using paradigms as varied as memory for forced confabulations (Ackil & 
+Zaragoza, 1998), for traumatic experiences (Goodman, Quas, Batterman-Faunce, 
+Riddlesberger, & Kuhn, 1994), for crime videos (Bjorklund, Bjorklund, & Brown, 1998), for 
+physical and emotional pain (Bruck, Ceci, Francoeur, E., & Barr, 1995), and for quasi-sexual 
+events (Poole & Lindsay, 1995). Taken together, such findings made the developmental 
+decline rule seem very secure (see various chapters in Bjorklund, 2000).
+Appearances were deceiving, however. Brainerd and Reyna (1998) and Ceci and Bruck 
+(1998) were the first to show that fuzzy-trace theory (FTT) predicts that false memories can 
+actually increase with age when they have two properties: (a) Distortion is rooted in 
+comprehending and connecting the semantic content of experience, and (b) it is difficult to 
+Reyna et al.
+Page 2
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+use verbatim memory for actual events to suppress false memories. Brainerd and Mojardin 
+(1998) confirmed that prediction with a paradigm in which false memory was driven by 
+connecting narrative gist across sentences (property a) whose surface forms were so similar 
+that it was difficult to tell exactly which ones had been presented (property b). Soon, several 
+investigators noticed that the paradigm in Table 1, the DRM illusion, has these same two 
+properties, and they found that the illusion intensifies throughout childhood and adolescence 
+(Brainerd, Reyna, Forrest, 2002; Dewhurst & Robinson, 2004; Howe, 2005). In the DRM 
+procedure, subjects encode lists of related words and respond to recognition tests containing 
+three types of probes: old (O) list words, new-similar (NS) words, and new-different (ND) 
+words (cf. Table 1). The task is simply to judge whether each probe is old, with old 
+judgments about O, NS, and ND items being classified as true memories, false memories, 
+and response bias, respectively.
+To date, developmental reversals have been detected with an array of paradigms, including 
+memory for categorized photographs (Sloutsky & Fisher, 2004), for historical text (Fazio & 
+Marsh, 2008), for pictures of familiar objects (Ceci, Papierno, & Kulkofksy, 2007), for play 
+sessions (Connolly & Price, 2006), for emotional facial expressions (Fernandez-Dols, 
+Carrera, Barchard, & Gacitua, 2008), for emotional words (Brainerd, Holliday, Reyna, Yang, 
+& Toglia, 2010), for causal inferences (Lyons, Cornoldi, & Ghetti, 2010), for everyday 
+activities (Otgaar, Howe, Brackmann, & Smeets, 2016), and for rumors (Principe, Guiliano, 
+& Root, 2008). However, the DRM illusion has remained the workhorse, with roughly two-
+thirds of published experiments having relied on it (see Brainerd & Reyna, 2012, Table 1). 
+There are sound practical reasons for this: The paradigm combines high efficiency in false 
+memory production with great simplicity, adaptability, and ease of application with children.
+The large archive of DRM research demonstrates that as development unfolds, NS items are 
+increasingly misremembered as being what they are not (old) rather than what they are 
+(new-similar), and by early adulthood, false memory for NS items approaches true memory 
+for O items. It is well established that the magnitude of this trend is influenced by many 
+theoretically-motivated manipulations (for a review, see Brainerd et al., 2011). A few 
+illustrations are encouraging subjects to encode semantic relations (Lampinen, Leding, 
+Reed, & Odegard, 2006; Odegard, Holliday, Brainerd, & Reyna, 2008), increasing the 
+examples of those relations (Sugrue & Hayne, 2006), providing more time to encode list 
+words (Carneiro & Fernandez, 2010), interfering with encoding by dividing attention 
+(Otgaar, Peters, & Howe, 2012), binding list words together with narratives (Dewhurst, 
+Pursglove, & Lewis, 2007), binding list words together with emotional relations (e.g., Howe, 
+2007), comparing subjects who differ in semantic ability (Weekes, Hamilton, Oakhill, & 
+Holliday, 2007), and comparing subjects who differ in clinical conditions that affect 
+semantic processing (Goodman et al., 2011).
+The Present Study
+The standard interpretation of developmental reversals in the DRM illusion is that as the 
+brain matures, NS items such as cold and anger are increasingly perceived as having actually 
+been presented (Brainerd & Reyna, 2012; Paz-Alonso, Ghetti, Donohue, Goodman, & 
+Bunge, 2008). If so, it follows from the compensation principle that the tendency to 
+Reyna et al.
+Page 3
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+correctly perceive that NS items are new-similar must decline with development. However, 
+FTT makes the paradoxical prediction that it can increase (i.e., complementarity). 
+Complementarity effects first became prominent in physics, where they refer to situations in 
+which incompatible empirical states are detected for the same system when each state is 
+measured separately (e.g., Gerlach & Stern, 1922). In the present case, complementarity can 
+result from gist memory, as follows.
+FTT assumes that the brain stores dissociated verbatim and gist traces of experience that 
+capture, respectively, events’ surface form and semantic content, especially meaning 
+connections among events (e.g., items on the anger list are names of emotions). In false 
+memory studies, verbatim traces support true memory for O items and suppress false 
+memory for NS items, whereas gist traces support both false memory for NS items and true 
+memory for O items (Abadie, Warnoquer, & Terrier, 2017; Barrouillet, 2015; Bouwmeester 
+& Verkoeijen, 2010; Bruer & Pozzulo, 2014; Lampinen & Odegard, 2006). In other words, 
+verbatim traces are compensatory across incompatible reality states (support one, reject the 
+other), but gist traces are complementary (support both; Brainerd, Wang, Reyna, & 
+Nakamura, 2015).
+In addition to FTT, other explanations of developmental reversals in the DRM illusion were 
+proposed after reversals were reported (see Howe, 2006; Metzger, Warren, Price, Reed, 
+Shelton, & Williams, 2008). However, FTT makes the even more paradoxical 
+complementarity prediction, which does not follow from these later hypotheses. 
+Developmental complementarity falls out of the effects that verbatim and gist memory have 
+when the memory task is changed so that subjects must remember NS items and avoid 
+falsely remembering O and ND items. Now, verbatim traces support true memory for NS 
+items and suppress false memory for O items, whereas gist traces support both true memory 
+for NS items and false memory for O items (Brainerd & Reyna, 2018). When performance is 
+dominated by gist, then, whether memory for NS items is true or false depends on whether 
+the old or the new-similar reality state is tested (Brainerd et al., 2015). Therefore, we 
+modified the usual DRM design slightly, so that subjects judged whether NS items (e.g., 
+cold) were new-similar, as well as whether they were old. What should development look 
+like?
+Remembering NS items to be old on old tests and to be new on new-similar tests is logically 
+contradictory, of course, and hence, our natural intuition is that development must be 
+compensatory—that cold will be progressively less likely to be remembered as new because 
+we already know from developmental reversal studies that it is progressively more likely to 
+be remembered as old. This would mean that although false memories increase with age, at 
+least memory is becoming more logically consistent. According to FTT, however, the 
+noncompensatory nature of gist means that development may not be logically consistent 
+either: Developmental improvements in gist memory make both old and new-similar seem 
+like accurate descriptions of cold.
+We investigated whether our natural intuition or the theoretical prediction is correct by 
+determining whether, as false memory for NS items increases, true memory for them 
+decreases (compensation) or increases (complementarity). A further theoretical prediction is 
+Reyna et al.
+Page 4
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+that developmental complementarity should be specific to NS items and not extend to O 
+items. Here, research shows that memory for items that are actually encoded is usually 
+dominated by verbatim retrieval (e.g., Abadie et al., 2017; Bouwmeester, & Verkoeijen, 
+2010), and as we saw, verbatim memory, unlike gist, is compensatory across tests for 
+mutually incompatible reality states.
+We report four experiments in which subjects of different ages encoded DRM lists and 
+responded to memory tests on which they made memory judgments about O, NS, and ND 
+items, with half the subjects making traditional old judgments and half making new-similar 
+judgments. Four experiments were included in order to ensure the replicability and 
+generality of what is, after all, a counterintuitive effect. We tracked developmental trends in 
+accuracy for NS items like those in the middle column of Table 1 and for O items like those 
+in the left hand column, between early childhood and adolescence (Experiment 1) and 
+between early childhood and young adulthood (Experiments 2–4).
+Experiment 1
+Experiment 1 implemented the most commonly used methodology in prior research and 
+covered the age range that has typically been studied. Subjects from three age levels (6-, 10-, 
+and 14-year-olds) were exposed to several DRM lists, followed by recognition tests on 
+which there were three types of items: O, NS, and ND. Relative to most developmental 
+DRM studies, Experiment 1 had two novel features. First and most important, there were 
+two distinct testing conditions. Half of the subjects at each age level participated in a 
+standard O? condition, in which the task was to decide whether each test item was old. The 
+other half participated in an NS? condition, in which the task was to decide whether each 
+test item was new-similar. It should be noted that child NS? tests were developed some years 
+ago by Brainerd and Reyna (1998), and in prior developmental research, children as young 
+as 5-to-7 have performed accurately on such tests (Brainerd & Reyna, 1998; Brainerd, 
+Reyna, & Holliday, 2012; Holliday, Brainerd, & Reyna, 2009). However, our design 
+included manipulation checks to ensure that.
+The other novel feature of Experiment 1 is that the memory tests included both types of NS 
+items that are shown in the middle column of Table 1—namely, strong ones (e.g., cold, 
+sleep, and anger), which produce very high levels of DRM false memory in adults, and weak 
+ones (e.g., frost, yawn, and mean), which produce more modest levels. Most DRM studies 
+only include strong NS items, but notice that weak NS items share semantic content with list 
+items. Consequently, FTT predicts the same qualitative trends for both; that is, 
+developmental reversals should occur for weak as well as strong NS items, and 
+developmental complementarity can occur for both.
+Method
+Subjects.
+The subjects in Experiment 1 were 65 first-grade children (M = 6 years, 7 months), 64 fifth-
+grade children (M = 10 years, 9 months), and 64 ninth-grade adolescents (M = 14 years, 5 
+month). The choice of sample size was based on a statistical power analysis of prior 
+Reyna et al.
+Page 5
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+developmental DRM experiments that the authors have reported. The analysis showed that 
+sample sizes of 40 per age level would yield a power of 1-β = .8 to detect moderate-sized 
+effects for the between subjects factors of age and condition.
+The subjects were recruited from public school that served middle class residential areas in 
+the United Kingdon, and their participation was secured via letters of parental permission. 
+Subjects from each age level were randomly assigned to the O? condition or to the NS? 
+condition, with the restriction that conditions should contain equal numbers of males and 
+females. The research (“Development of False Memory”) was classified as exempt by the 
+Institutional Review Board of the University of Kent because it involved simple behavioral 
+testing, which consisted of studying word lists and responding to yes/no memory questions.
+Materials.
+The words for the study lists and memory tests in all four experiments were drawn from a 
+normed pool of 55 DRM lists, each of which consists of the first 15 forward associates of a 
+missing item (Roediger, Watson, McDermott, & Gallo, 2001). These missing items are the 
+ones that are designated as strong NS in Table 1. The lists are ranked according to the levels 
+of false memory that they produce for missing items (i.e., judging those items to be O). As 
+the study lists for all four experiments, we selected the nine that produce the highest levels 
+of false memory in these norms. (The missing items were anger, cold, cup, sleep, smell, soft, 
+sweet, window, and wish.). Four additional lists were used as sources of items for the 
+instructions and practice tests.
+The first 12 words from each of the 9 DRM lists formed the lists that were presented to the 
+subjects at each age level. The lists were presented in 3 cycles of 3 lists per cycle, with a 
+memory test following each cycle of 3 lists. On the memory test that followed each cycle of 
+3 DRM lists, there were 19 test probes: Three words from each of the 3 lists, the 3 missing 
+words (strong NS items), 1 word that was selected from among the 3 unpresented words for 
+each list (weak NS items), and 4 words drawn from the 38 DRM lists that were not used as 
+either study lists or as sources of items for the instructions and practice tests and were 
+randomly selected for each subject in each experiment (ND items). The ND items were 
+controls for well-known developmental differences in response bias (e.g., Brainerd & 
+Mojardin, 1998). Thus, over the 3 cycles, the 3 test lists contained a total of 27 O words and 
+30 new words (9 strong NS, 9 weak NS, and 12 ND).
+Procedures.
+Quiet rooms were set aside within participating schools, where the research was conducted. 
+Each subject was randomly assigned to either the O? or NS? testing condition upon arrival 
+and was informed that he/she would be exposed to a series of vocabulary lists, after which 
+his/her memory would be tested. It is important to note that the same instructions and testing 
+procedures were administered to all subjects at all age levels in Experiment 1 and also in 
+Experiments 2–4. Hence, none of the developmental trends that we report can be due to age 
+differences in the instructions or procedures that subjects of different ages received because 
+there were none.
+Reyna et al.
+Page 6
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Subjects sat at a computer and the experimenter sat nearby. Before any lists were presented, 
+subjects heard the following instructions, via a computer audio recording: “In this study, you 
+will first listen to some lists of vocabulary words. All of them are familiar words that you 
+already know. The lists will be read slowly, one word at a time. Listen to the lists very 
+carefully and pay attention to each word because later on, you will take a memory test. Do 
+you have any questions?” The experimenter then answered any questions. Next, the 
+computer played a recording of 3 12-word DRM lists, being read at a rate of 3 sec per item 
+in a neutral voice with a 10 sec pause between lists. After the first cycle of lists, subjects 
+listened to instructions for the first memory test.
+As mentioned, instructions and procedures for matched O? and NS? conditions were 
+developed by Brainerd and Reyna (1998) and have been used with children as young as age 
+5. For subjects who were assigned to the O? condition, the instructions stressed that their 
+task was to accept only old items that had appeared on the lists of vocabulary words. For 
+subjects who were assigned to the NS? condition, the instructions stressed that their task was 
+to accept only new words that had the same meaning as old words. The instructions for each 
+condition provided subjects with multiple examples of the each of the three types of items 
+that were to be accepted and rejected, which were drawn from short practice lists (four 
+words) that were presented as part of the instructions.
+Also as part of the instructions, subjects were required to pass a practice test to demonstrate 
+their understanding and to show that they could apply the instructions on a memory test. 
+Specifically, a short practice list was presented, after which 6 test probes (2 O items, 2 NS 
+items, and 2 ND items) were presented. Subjects received feedback for their responses to 
+each probe. Those who responded correctly to all test probes continued to the main memory 
+test for their condition. Those who made one or more errors received a second practice list 
+and a second practice test. Subjects who failed to perform perfectly on the second practice 
+test were dropped from the experiment. Only three subjects had to be dropped, all of them 6-
+year-olds.
+The main memory test followed successful completion of the practice test. First, subjects 
+listened to an audio recording of instructions that reminded them of how to respond by 
+pressing the Y key on the computer keyboard for items that they wanted to accept or 
+pressing the N key for items that they wanted to reject. Subjects then listened to a computer 
+file of the test items being read in random order. The test was self-paced; the recording did 
+not advance to the next item until subjects had responded Y or N to the current item. There 
+were two more cycles of three DRM lists, followed by reminder test instructions, followed 
+by a self-paced memory test. The practice test was eliminated from the instructional phase of 
+the second and third cycles.
+Results
+Before reporting the results, we emphasize that it is always necessary to correct raw 
+recognition data such as these for response bias, because as mentioned earlier, levels of yea-
+saying bias vary developmentally. That was true in the present experiment because false 
+alarm rates for ND items declined steadily with age in both testing conditions, 
+demonstrating higher bias at younger age levels. The three most common methods of 
+Reyna et al.
+Page 7
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+correcting data such as ours for response bias are the two-threshold statistic Pr and the signal 
+detection statistics A′ and d′. (Snodgrass & Corwin, 1988). These statistics usually produce 
+the same qualitative results (Brainerd et al., 2015), and consequently, we only report results 
+using the first correction method, Pr. This statistic has the conceptual virtue that corrected 
+scores are probability values rather than dimensionless proportions (A′) or Gaussian random 
+variables (d′). However, all of the statistical analyses that we report were also conducted for 
+A′ and d′ scores, and none of the findings changed.
+The mean bias-corrected correct response probabilities for O, strong NS, and weak NS items 
+are reported in Table 2 for the O? and NS? conditions, and the ND false alarm rates that 
+were used in making these corrections may be found in Table 3. As manipulation checks, 
+notice that in the O? condition, the usual developmental reversal pattern is present for strong 
+NS items, and that true memory (accepting O items) also increased between early childhood 
+and adolescence. As another manipulation check, recall that even the youngest children 
+understood the instructions and could execute them on memory tests because they could not 
+participate in the main memory tests unless they performed perfectly on the practice test. 
+Nevertheless, it might be thought that because the NS? instructions, are atypical, the 
+youngest children might have been unable to execute them during the main tests. That 
+hypothesis can be tested by comparing these children’s performance in the NS? condition 
+versus the O? condition. Note that if 6-year-olds understood and could implement the 
+instructions, the probability of accepting O items should be higher in the O? condition than 
+in the NS? condition, whereas the opposite should be true for NS items. Both results were 
+obtained. Six-year-olds’ acceptance rates for O items were p(O?) = .60 and p(NS?) = .43, 
+t(32) = 3.92, p < .001, whereas their acceptance rates for weak NS items were p(O?) = .04 
+and p(NS?) = .17, t(32) = 3.77, p < .001.
+The important new findings can be seen in Figure 1A, where correct response probabilities 
+in the O? condition (black data points) and the NS? condition (white data points) are plotted 
+for both strong and weak NS items. It can be seen that the developmental trend for these 
+false memory items is not the intuitive compensation pattern, in which NS accuracy would 
+decline with age in both the O? and NS? conditions. Instead, it is the paradoxical 
+complementarity pattern, in which accuracy simultaneously decreases (in the O? condition) 
+and increases (in the NS? condition). In contrast, a different pattern can be seen in Figure 1B 
+for O items. There, the intuitive compensation pattern is present: Memory for list words 
+becomes more accurate with age in both conditions.
+In order to test the complementarity pattern in Figure 1A for statistical reliability, we 
+computed a 3 (age) X 2 (condition: O? vs. NS?) X 2 (type of item: strong NS vs. weak NS) 
+analysis of variance (ANOVA) of bias-corrected correct response probabilities for NS items. 
+The first two factors were between-subjects, and the third was within-subjects. If it is true 
+that development is complementary for NS items but compensatory for O items, there will 
+be an Age X Condition cross-over interaction. The specific form of this interaction must be 
+that accuracy decreases with age in the O? condition, while it increases with age in the NS? 
+condition. There was a robust cross-over of just that sort, F(2, 187) = 178.55, MSE = .06, 
+ηp2 = .49. Post hoc tests (Tukey HSD) confirmed what is visually apparent in Figure 1A: In 
+the O? condition, accuracy decreased reliably between the ages of 6 and 10 and between the 
+Reyna et al.
+Page 8
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+ages of 10 and 14, but in the NS? condition, accuracy increased reliably between the ages of 
+6 and 10 and between the ages of 10 and 14. With development, then, subjects became better 
+at correctly recognizing that NS items are new-similar, while they simultaneously become 
+worse at correctly recognizing that NS items are not old. There was also a Condition X Type 
+of Item interaction, F(1, 187) = 47.38, MSE = .03, ηp2 = .19. Here, post hoc tests revealed 
+something that is also visually apparent in Figure 1A: Accuracy was higher for strong than 
+for weak items in the NS? condition, but it was lower for strong than for weak items in the 
+O? condition.
+Turning to the statistical reliability of the developmental trend for O items (Figure 1B), 
+recall that theory expects that items that were actually presented on lists will exhibit 
+compensation rather than complementarity, for reasons that are concerned with verbatim 
+memory: Memory for list words relies predominantly on verbatim traces, which are 
+compensatory—for O items, they support correct acceptance of O? probes and correct 
+rejection of NS? probes (see also Brainerd et al., 2015). It can be seen in Figure 1B that this 
+prediction, too, was confirmed. Statistically, the patterns in Figure 1B mean that an Age X 
+Condition ANOVA of performance on O items should produce a main effect of condition but 
+not an Age X Condition cross-over because accuracy is simply improving with age in both 
+the O? and NS? conditions. There was indeed a main effect for condition, F(1, 187) = 
+230.49, MSE = .0, ηp2 = .55, p < .0001, and there was not an Age X Condition cross-over. 
+There was an Age X Condition interaction of another sort, however, F(2, 187) = 20.83, MSE 
+= .04, ηp2 = .22, p < .0001. It was a divergent fan in which the difference between p(O?) and 
+p(NS?) was smaller for 6-year-olds than for 10-year-olds (Δ6 = .17 and Δ10 = .44) and was 
+smaller for 10-year-olds than for 14-year0olds (Δ6 = .44 and Δ10 = .68). In short, with 
+development, subjects became progressively better at remembering that O items are old, and 
+that they are not new-similar, which means that the level of logical inconsistency is 
+increasing.
+Experiments 2–4
+It is well established that the DRM illusion exhibits counterintuitive developmental reversals
+—that with age, subjects make fewer correct responses to memory probes that ask whether 
+NS items such as anger and cold are old. Beyond this, the results of Experiment 1 suggest 
+that development is not logically consistent for such items either because, with age, subjects 
+simultaneously make more correct responses to memory probes that ask whether these same 
+items are new-similar. In Experiments 2–4, we attempted to replicate this paradoxical 
+pattern, and for the sake of generality, to do so in experiments that varied the design of 
+Experiment 1 in two basic ways.
+The most significant variation involved the upper end of the age range that was studied. In 
+Experiment 1, the subjects were children and adolescents. However, the developmental 
+reversal effect has also been studied between adolescence and young adulthood (e.g., 
+Odegard et al., 2008), and this counterintuitive effect continues to grow into the early adult 
+years. It is obviously important to establish whether the same is true of the complementarity
+—whether the age increase in correct responses when memory probes ask whether NS items 
+are new-similar continues into young adulthood. It should, according to the theoretical 
+Reyna et al.
+Page 9
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+distinctions that predicted the complementarity pattern. That prediction was based on the 
+growth of gist memory, and it is well established that the ability to form meaning 
+connections among items such as the words on DRM lists improves during the adolescent 
+and the early adult years (e.g., Schneider & Pressley, 1997). To evaluate that possibility, we 
+extended the age range of Experiment 1 upward to include young adults in Experiments 2–4.
+The other design variation involved the method of presenting DRM lists. We implemented 
+the standard oral method in Experiment 1, which results in the highest levels of false 
+memory for NS items on O? probes (Gallo & Roediger, 2003). Other presentation methods 
+that add visual supports to oral presentations are known to reduce false memory in adults. In 
+particular, three methods of enriching oral presentations with visual supports are known to 
+have this effect—namely, (a) pictures of objects and events named by list words (e.g., Howe, 
+2006), (b) printed word stems for list words (e.g., Holliday, Brainerd, & Reyna, 2011), and 
+(c) the full printed versions of list words (e.g., Gallo & Roediger, 2003). Two of these visual 
+supports, pictures and word stems, have been investigated in developmental studies, and they 
+are known to suppress false memory in children as well as adults (Holliday et al., 2011; 
+Howe, 2006). They are also known to reduce the magnitude of developmental reversal 
+effects (for a review see, Brainerd & Reyna, 2012). We used each of these methods in turn in 
+Experiments 2–4. More specifically, the subjects once again received oral presentations of 
+DRM lists, but now, they were accompanied by visual depictions (computer screen) of either 
+a picture of the object or action that was named by each word (Experiment 2), a partial 
+printed form of each word (e.g., SN__ for snow; Experiment 3), or the full printed form of 
+each word (Experiment 4).
+The motivation for this second design variation, like the first, was theoretical. Presentation 
+formatting manipulations are of theoretical interest because they affect the types of 
+memories that are stored. Because these visual support manipulations decrease the tendency 
+to falsely accept O? probes for NS items, the traditional explanation is that they increase 
+verbatim memory, relative to gist memory (Holliday et al., 2011). The fact that they shrink 
+but do not eliminate developmental reversals is explained in the same way (Holliday et al., 
+2011). This leads to an interesting prediction about subjects’ responses to NS items on 
+complementary NS? probes. We saw that the theoretical distinctions that predict 
+developmental reversals also say that verbatim memory can be used to correctly accept such 
+probes (e.g., “Anger is definitely new because I clearly remember hearing mad, fear, and 
+hate). Consequently, these visual support manipulations should increase correct acceptances 
+of NS? probes as they decrease false acceptances of O? probes, especially at older age levels 
+where both acceptance probabilities are high.
+Method
+Subjects.
+A total of 607 subjects participated in these three experiments. The subjects in Experiment 2 
+were 50 first-grade children (M = 6 years, 4 months), 50 fifth-grade children (M = 10 year, 
+11 months), 50 ninth-grade adolescents (M = 14 years, 9 months), and 56 undergraduates (M 
+= 20 years, 1 month). The subjects in Experiment 3 were 46 first-grade children (M = 6 
+years, 8 months), 44 fifth-grade children (M = 10 years, 7 months), 49 ninth-grade 
+Reyna et al.
+Page 10
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+adolescents (M = 14 years, 5 months), and 56 undergraduates (M = 20 years, 2 months). The 
+subjects in Experiment 4 were 50 first-grade children (M = 6 year, 10 months), 50 fifth-
+grade children (M = 10 y, 6 months), 50 ninth-grade adolescents (M = 14 years, 11 months), 
+and 56 undergraduates (M = 20 50years, 10 months). The choice of sample size was based 
+on a statistical power analysis of prior developmental DRM experiments that the authors 
+have reported. The analysis showed that sample sizes of 40 per age level would yield a 
+power of 1-β = .8 to detect moderate-sized effects for the between subjects factors of age 
+and condition.
+As in Experiment 1, the subjects at the three youngest age levels in Experiments 2–4 were 
+recruited from public schools that served middleclass residential areas in the United 
+Kingdom, and their participation was secured via letters of parental permission. The subjects 
+at the oldest age level in these experiments were undergraduate volunteers who participated 
+to fulfill a course requirement. As in Experiment 1, the subjects from each age level in 
+Experiments 2–4 were randomly assigned to the O? or NS? condition, with the restriction 
+that each condition should contain equal numbers of males and females. The research was 
+classified as exempt by the Institutional Review Board of the University of Kent because it 
+involved simple behavioral testing, which consisted of studying word lists and responding to 
+yes/no memory questions.
+Materials and procedures.
+For the subjects at the three youngest age levels in these experiments, as in Experiment 1, 
+the research was conducted in quiet rooms within their schools that had been designated for 
+this purpose. For the adults in each experiment, the research was conducted in university 
+laboratories. The materials and procedures for each experiment were the same as 
+Experiment 1, except for two changes. The first was that during presentation of DRM lists, 
+the oral administration procedure of Experiment 1 was supplemented with visual depictions 
+of the items on a computer screen. As the subjects sat in front of the computer monitor 
+listening to the DRM lists, they viewed visual depictions of the individual items, which were 
+synchronized with the audio recordings. The subjects received the same general instructions 
+as in Experiment 1 at the start of the experiment, but the instructions also informed them as 
+to the nature of the depictions that they would view. In Experiment 2, the subjects were told 
+they would view pictures of objects or actions referred to by each word. These were large 
+pictures that appeared in the center of the screen. In Experiment 3, the subjects were told 
+that they would view a few letters from the printed form each word, such as __ar, for fear. 
+__te, for hate, and __mper for temper. These word stems were printed in lowercase 72-point 
+font and centered on the screen. In Experiment 4, the subjects were told that they would 
+view the full printed form of each word, which was presented in lowercase 72-point font, 
+centered on the screen.
+The second change was to reduce the length of the procedure. In Experiment 1, the subjects 
+received three cycles of 3 DRM lists followed by a 25-item self-paced memory test (9 O, 3 
+strong NS, 3 weak NS, 10 ND), for a total of 75 test items. At different points during the 
+second half of the procedure, some of the youngest children stated that they were becoming 
+fatigued. Although those children’s performance did not differ from that of other children, 
+Reyna et al.
+Page 11
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+we decided to shorten the procedure to a single cycle of three DRM lists followed by a 
+single self-paced memory test of 25 items. The 3 lists that were administered to individual 
+subjects in these experiments were randomly selected from among the 12 lists that were 
+used in Experiment 1. As before, subjects received the instructions that were appropriate to 
+their condition, and they were administered a practice test, one on which perfect 
+performance was required in order to proceed to the main memory test. That main memory 
+tests were identical to Experiment 1.
+Results
+In Table 2, the mean bias-corrected correct response probabilities for O, strong NS, and 
+weak NS items are reported for the O? and NS? conditions of Experiments 2–4. The ND 
+false alarm probabilities that were used to make these bias corrections are reported in Table 
+3. As manipulation checks, notice that in the O? condition of each experiment, the usual 
+developmental reversal pattern is present for strong NS items (false alarms increase with 
+age), and that true memory displays the usual developmental improvement (hit rates increase 
+with age). As another manipulation check, it will be remembered that even the youngest 
+children in each experiment understood the instructions and could execute them on memory 
+tests because they were required to perform perfectly on practice tests before proceeding. 
+Even the 6-year-olds were able to implement those instructions on the main memory test: A 
+glance a Table 2 reveals that (a) they correctly accepted O items at higher rates in the O? 
+condition than they incorrectly accepted them in the NS? condition, and (b) they incorrectly 
+accepted weak NS items at lower rates in the O? condition than they correctly accepted them 
+in the NS? condition.
+The important new findings are displayed can be seen in Figure 2. There, correct response 
+probabilities in the O? condition and the NS? condition have been plotted for both strong 
+and weak NS items in Experiment 2 (panel A), Experiment 3 (panel B), and Experiment 4 
+(panel C). It can be seen that as in Experiment 1, our intuition that the development of false 
+memory will be compensatory across mutually incompatible reality states was violated. 
+Instead, the paradoxical complementarity pattern, in which accuracy simultaneously 
+decreases in the O? condition and increases in the NS? condition, was present in all three 
+experiments. That is, with age, subjects become worse at rejecting the possibility that NS 
+items are old but better at accepting the possibility that they are new-similar. In contrast, also 
+as in Experiment 1, it can be seen in Figure 3 the O items exhibited the intuitive 
+compensation pattern: Memory for O items became more accurate with development in both 
+the O? and NS? conditions in all three experiments.
+Because the developmental trends were different for NS versus O items, we report the 
+statistical results for true and false memory separately. We begin with the false memory 
+ANOVAs and then move on to parallel true memory ANOVAs.
+False memory.
+In each experiment, we tested the complementarity pattern in Figure 2 for statistical 
+reliability by computing a 4 (age) X 2 (condition: O? vs. NS?) X 2 (type of item: strong NS 
+vs. weak NS) ANOVA of bias-corrected correct response probabilities for NS items. It will 
+Reyna et al.
+Page 12
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+be recalled that if development is complementary rather than compensatory, this ANOVA 
+must yield an Age X Condition cross-over, such that accuracy decreases with age in the O? 
+condition but increases with age in the NS? condition. There was a robust cross-over of this 
+sort in all three experiments. The detailed results follow.
+In Experiment 2, the Age X Condition X Type of Item ANOVA produced a main effect for 
+condition, F(1, 197) = 71.75, MSE = .09, ηp2 = .27, p < .0001, and it also produce the 
+crucial Age X Condition interaction, F(3, 197) = 60.76, MSE = .09, ηp2 = .44, p < .0001. 
+Post hoc analysis (Tukey HSD) of the interaction confirmed the complementarity pattern 
+that is suggested by the curves in Figure 2A. Specifically, accuracy decreased reliably 
+between age 6 and young adulthood in the O? condition, but it increased reliably in the NS? 
+condition. There was also a small Age X Condition X Type of Item interaction, F(3, 197) = 
+4.05, MSE = .06, ηp2 = .06, p < .008. Post hoc analysis of that interaction revealed that the 
+complementarity pattern was more pronounced for strong NS items that for weak NS items.
+Turning to Experiment 3, the Age X Condition X Type of Item ANOVA produced a main 
+effect for condition, F(1, 189) = 115.54, MSE = .10, ηp2 = .38, p < .0001, along with the 
+crucial Age X Condition interaction, F(3, 189) = 36.52, MSE = .09, ηp2 = .37, p < .0001. 
+Post hoc analysis of the interaction revealed what is obvious in in Figure 2B—namely, that 
+accuracy decreased reliably between age 6 and young adulthood in the O? condition, but it 
+increased reliably in the NS? condition. The Age X Condition X Type of Item interaction 
+that was detected in Experiment 2 was not present in this experiment.
+In Experiment 4, the Age X Condition X Type of Item ANOVA produced a main effect for 
+condition, F(1, 196) = 55.87, MSE = .10, ηp2 = .22, p < .0001, plus the crucial Age X 
+Condition interaction, F(3, 189) = 35.19, MSE = .10, ηp2 = .35 p < .0001. As in all prior 
+experiments, post hoc analysis of the interaction revealed that accuracy decreased reliably 
+between age 6 and young adulthood in the O? condition, but it increased reliably in the NS? 
+condition. The small Age X Condition X Type of Item interaction in Experiment 2 was not 
+detected in this experiment.
+Finally, we mentioned that the three visual support manipulations should increase correct 
+acceptances of NS? probes as they decrease false acceptances of O? probes, especially at 
+older age level where false acceptance rates are high. We examined this prediction for the 
+14-year-olds in Experiment 1 (the oldest age level in that experiment) and the 14-year-olds 
+in these experiments. The data were consistent with it. The false acceptance probability for 
+O? probes dropped from .75 in Experiment 1 to an average of .52 in Experiments 2–4, while 
+the correct acceptance probability for NS? probes increased from .43 to an average of .55. 
+Both changes were reliable.
+Summing up, complementarity was the core finding about the development of false memory. 
+In each experiment, for both strong and weak NS items, subjects became progressively 
+better with age at correctly recognizing that NS items are new-similar, but they become 
+progressive worse at correctly recognizing that NS items are not old. In addition, there was 
+always a condition main effect. As can be seen in Figure 2, this was due to the fact that at all 
+Reyna et al.
+Page 13
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+ages, performance was more accurate on average in the NS? condition than in the O? 
+condition.
+True memory.
+Next, we consider the statistical reliability of the developmental trends for O items that 
+appear in Figure 3. We know that theory predicts that for items that were actually presented 
+on DRM lists, subjects will exhibit compensation rather than complementarity. That was the 
+pattern that was observed in all three experiments.
+Inspection of the curves in Figure 3 suggests that (a) accuracy improved with age in both 
+conditions, and (b) performance was more accurate on average in the O? condition than in 
+the NS? condition. Consistent with a, 3(age) X 2 (condition) ANOVAs of the bias-corrected 
+correct response probabilities produced a main effect for age in Experiment 2, F(3, 197) = 
+12.00, MSE = .08, ηp2 = .15, p < .0001, in Experiment 3, F(3, 189) = 14.05, MSE = .05, ηp2 
+= .18, p < .0001, and in Experiment 4, F(3, 196) = 8.61, MSE = .07, ηp2 = .12, p < .0001. 
+Further, unlike the false memory ANOVAs, the Age X Condition interaction was not reliable 
+in any of these experiments, which confirms compensation as the core developmental trend 
+for true memory. Finally, there was also a main effect for condition in Experiment 2, F(1, 
+197) = 23.04, MSE = .08, ηp2 = .11, p < .0001, in Experiment 3, F(1, 197) = 21.74, MSE = .
+08, ηp2 = .18, p < .0001, and in Experiment 4, F(1, 196) = 29.83, MSE = .07, ηp2 = .13, p < .
+0001.
+In short, the developmental trend across all three experiments was the intuitive one for items 
+that had actually been presented. Between early childhood and young adulthood, subjects 
+became progressively better at recognizing that old items were old and that old items were 
+not new-similar. This developmental growth in accuracy was comparable for the two types 
+of remembering because the Age X Condition interaction was not reliable in any of the 
+experiments.
+General Discussion
+In developmental studies of false memory, principal interest attaches to how accurately 
+subjects of different ages perform on a single type of memory test for a focal class of items. 
+The memory test asks subjects to remember old (O) items and avoid misremembering new 
+items. The focal items are new-similar (NS) ones that preserve some of the salient content of 
+O items, usually their meaning or some contextual details associated with their presentation. 
+In our research, we shifted attention away from this conventional measure of false memory 
+for NS items toward the developmental relation between false and true memory on tests for 
+the logically incompatible old and new-similar reality states. We explored the possibility that 
+this relation violates logical consistency, by exhibiting developmental complementarity 
+rather than developmental compensation. Complementarity was observed with the types of 
+NS items that are administered in the DRM illusion: The tendency to correctly remember 
+them as being new-similar increased as the tendency to incorrectly remember them as old 
+increased.
+Reyna et al.
+Page 14
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+It is easier to appreciate just how contradictory this is by considering a concrete example 
+that involves the three strong NS items in Table 1. On the one hand, suppose that we only 
+have access to data from traditional old tests. If so, we would say those data show that anger, 
+cold, and sleep are increasingly perceived as having been presented on DRM lists because 
+they are increasingly accepted as old. This would be the obvious conclusion if only the 
+lower curves in Figures 1A, 2A, 2B, and 2C were available. On the other hand, suppose that 
+we only have access to data from new-similar tests. Now, we would say that anger, cold, and 
+sleep are increasingly perceived as having not been presented on DRM lists because they are 
+increasingly accepted as being new-similar. This would be the obvious conclusion if only the 
+upper curves in Figures 1A, 2A, 2B, and 2C were available.
+Because developmental complementarity is a paradoxical result, we sought to generate 
+substantial evidence on whether this may pattern hold for the DRM illusion. Taken as a 
+whole, our findings provide an existence proof of complementarity for this modal 
+developmental reversal paradigm. In Experiment 1, we used the most common methodology 
+for studying the DRM illusion, which is to present lists orally before administering memory 
+tests. We found that between early childhood and mid-adolescence, subjects became 
+progressively better at recognizing that strong and weak NS items are new-similar, but they 
+simultaneously became worse at recognizing that the same items are not old. In Experiments 
+2–4, we broadened the age range to include young adults, as well as 6-, 10-, and 14-year-
+olds. We also varied the DRM methodology somewhat by adding three types of visual 
+supports to oral presentations of lists (pictures, word stems, and full printed words), thereby 
+providing a test of the generality of the complementarity pattern in Experiment 1. Visual 
+supports did, indeed, weaken the DRM illusion. For example, among 14-year-olds in 
+Experiment 1, the false acceptance rate on old tests for strong NS items was .74, whereas the 
+corresponding acceptance rates for 14-year-olds in the last three experiments were .51, .46, 
+and .48, respectively. Nevertheless, developmental complementarity was present in all three 
+experiments, for both strong and weak NS items. A difference between the experiments is 
+that complementarity was more marked for strong than for weak NS items in Experiments 1 
+and 2 but not in Experiments 3 and 4. This may be due to differences among these 
+experiments in presentation methods. It also may be due to range restriction, as overall levels 
+of complementarity were lower in the last two experiments.
+In addition to the amount of evidence, another factor that bears on our level of confidence 
+was in the complementarity pattern is that it was not an accidental finding. Rather, this 
+possibility was revealed by the same theoretical machinery that first predicted developmental 
+reversals—namely, FTT’s distinctions between dissociated verbatim and gist traces of 
+experience. Both types of representations are interpreted as signs of prior presentation on 
+conventional old tests, but verbatim traces can suppress that tendency for new-similar items. 
+FTT treats developmental reversals as situations in which improvements in gist memory 
+increase the tendency to accept NS items as being old, and parallel improvements in 
+verbatim memory are ineffective in suppressing this tendency (Brainerd et al., 2011). 
+Another feature of gist, the one that points to complementarity, is that it is a 
+noncompensatory form of memory that is congruent with incompatible reality states 
+(Brainerd et al., 2015), so that developmental improvements in gist can lead to increased 
+memory for mutually incompatible states.
+Reyna et al.
+Page 15
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Beyond developmental complementarity for NS items, there is another striking 
+complementarity prediction, which is about developmental trends in overall memory 
+accuracy for the combined data of O and NS items. Based on the results of Experiments 1–4, 
+overall accuracy for the combined data (a) should increase with age when subjects judge 
+whether both types of items are new-similar but (b) should decrease with age when they 
+judge whether these same items are old. For the two testing conditions, we define overall 
+accuracy for O and NS items in the obvious way as pNS(NS?) ÷ [pO(NS?) + pNS(NS?)] 
+when subjects judge whether these items are new-similar and as pO(O?) ÷ [pO(O?) + 
+pNS(O?)] when subjects judge whether these items are old. pO(NS?) and pNS(NS?) are the 
+probabilities of judging that O and NS items, respectively, are new-similar, whereas pO(O?) 
+and pNS(O?) are the probabilities of judging that O and NS items, respectively, are old. 
+Thus, for each testing condition, the overall accuracy measure is simply the hit rate divided 
+by the hit rate plus the false alarm rate.
+We already know that normal memory development can be complementary for NS items and 
+compensatory for O items, and from that fact, overall accuracy for both types of items 
+should decline when subjects judge whether these items are old but should improve when 
+subjects judge whether these same items are new-similar. The results, pooled across the four 
+experiments, are plotted in Figure 4. As expected, overall accuracy declines between early 
+childhood and young adulthood when subjects judge whether both types of items are old, but 
+overall accuracy improves during the same age range when subjects judge whether both 
+types of items are new-similar. The key implication for understanding memory development 
+is that whether the accuracy of children’s memories increases with age is not absolute but, 
+rather, depends upon the reality state that they are asked to remember.
+Next, we offer two suggestions about the direction of future research on developmental 
+complementarity. The first is about the DRM illusion, and the second is about other 
+developmental reversal paradigms. With respect to the DRM illusion, we focused on a 
+simple empirical objective in our experiments, which was to generate a substantial amount 
+of data that spanned the early childhood to young adulthood age range. That seemed to be 
+the appropriate first step, considering that complementarity is such a counterintuitive 
+possibility. This focus meant that there was no attempt to test theoretical explanations of 
+complementarity via manipulations that targeted specific processes, such as children’s 
+ability to extract the semantic content of DRM lists or preserve verbatim traces of list words. 
+In view of the support for complementarity that emerged, attention can now turn to testing 
+theoretical explanations. Because complementarity was predicted by the process distinctions 
+that originally predicted developmental reversals, an obvious approach would be (a) to 
+determine whether those particular processes are actually tied to variations in 
+complementarity and perhaps (b) to determine whether the processes posited in other 
+accounts of developmental reversals in the DRM illusion (e.g., Howe, 2006; Metzger et al., 
+2008) are tied to variations in complementarity. Concerning b, we mentioned earlier that 
+unlike FTT, these other accounts do not predict the complementarity phenomenon. However, 
+it may be that proponents of those accounts will be able to elaborate their assumptions in 
+order to explain complementarity after the fact. If that proves to be possible, it would be 
+sensible to investigate whether complementarity varies as a function of the processes that are 
+posited in those accounts.
+Reyna et al.
+Page 16
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Turning to the second suggestion, we investigated complementarity in the context of the 
+DRM illusion because it is by far the most widely studied example of developmental 
+reversals. As noted earlier, however, there are several other examples that involve quite 
+different procedures, including ones that focus on remembering emotional events. A key 
+reason that such varied paradigms have been studied is that developmental reversals are 
+counterintuitive, and hence, it is essential to determine whether they are confined to the 
+DRM paradigm or whether they can be detected with other procedures that satisfy the two 
+theoretical conditions that first predicted them. Obviously, the same point applies to 
+developmental complementarity. Similar to the early years of research on developmental 
+reversals, current evidence of developmental complementarity is confined to the DRM 
+paradigm. Theoretically, complementarity may also occur with other paradigms that display 
+developmental reversals. Whether it does is an open empirical question.
+Finally, a measurement question should be briefly considered. In all of our experiments, the 
+complementarity phenomenon was measured with a between-subjects procedure in which 
+half the subjects judged whether test items were old and half judged whether the same items 
+were new-similar. Readers may be wondering whether complementarity might not be 
+observed with a comparable within-subjects procedure, in which each subject makes old 
+judgments about half the items and new-similar judgments about the other half. Insofar as 
+children and adolescent are concerned, this remains an open question. However, the answer 
+for adults is known. Recently, we reported a series of experiments in which complementarity 
+was studied with both the between- and within-subject procedures (Brainerd & Reyna, 
+2018). The basic phenomenon was detected with both procedures, and indeed, the observed 
+levels of complementarity were similar.
+acknowledgement
+The research reported in this article was supported by National Institutes of Health (National Institute on Aging) 
+grant 1RC1AG036915 and National Institutes of Health (National Institute of Nursing Research) grant 
+RO1NR014368–01.
+References
+Abadie M, Waroquier L, Terrier P (2017). The role of gist and verbatim memory in complex decision 
+making: Explaining the unconscious thought effect. Journal of Experimental Psychology: Learning, 
+Memory, and Cognition, 43, 604–705. 10.1037/xlm0000336.
+Ackerman BP (1992). The sources of children’s source errors in judging causal inferences. Journal of 
+Experimental Child Psychology, 54, 90–119. 10.1016/0022-0965(92)90019-3.
+Ackerman BP (1994). Children’s source errors in referential communication. Journal of Experimental 
+Child Psychology, 58, 432–464. 464 10.1006/jecp.1994.1044.
+Ackil JK, & Zaragoza MS (1998). Memorial consequences of forced confabulation: Age differences in 
+susceptibility to false memories. Developmental Psychology, 34, 1358–1372. 10.1006/jecp.
+1995.1031. [PubMed: 9823517] 
+Binet A (1900). La suggestibilite. Paris: Schleicher Feres.
+Barrouillet P (2015). Theories of cognitive development: From Piaget to today. Developmental 
+Review, 38, 1–12. 10.1016/j.dr.2015.07.004.
+Bjorklund DF (Ed.), (2000). False memory creation in children and adults. Mahwah, NJ: Erlbaum.
+Bjorklund DF, Bjorklund BR, & Brown RD (1998). Children’s susceptibility to repeated questions: 
+How misinformation changes children’s answers and their minds. Applied Developmental Science, 
+2, 99–111. 10.1207/s1532480xads0202_4.
+Reyna et al.
+Page 17
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Bjorklund DF, & Hock HH (1982). Age differences in the temporal locus of memory organization in 
+children’s recall. Journal of Experimental Child Psychology, 33, 347–362. 
+10.1016/0022-0965(82)90025-X.
+Bjorklund DF, & Muir JE (1988). Children’s development of free recall memory: Remembering on 
+their own. Annals of Child Development, 5, 79–123.
+Bouwmeester S, & Verkoeijen PPJL (2010). Latent variable modeling of cognitive processes in true 
+and false recognition of words: A developmental perspective. Journal of Experimental Psychology: 
+General, 139, 365–381. 10.1016/j.dr.2006.08.001. [PubMed: 20438256] 
+Brainerd CJ, & Gordon LL (1994). Development of verbatim and gist memory for numbers. 
+Developmental Psychology, 30, 163–177. 10.1037/0012-1649.30.2.163.
+Brainerd CJ, Holliday RE, Reyna VF, Yang Y, & Toglia MP (2010). Developmental reversals in false 
+memory: Effects of emotional valence and arousal. Journal of Experimental Child Psychology, 
+107, 137–154. 10.1111/j.1467-8624.2004.00689.x. [PubMed: 20547393] 
+Brainerd CJ, & Mojardin AH (1998). Children’s spontaneous false memories for narrative statements: 
+Long-term persistence and mere testing effects. Child Development, 69, 1361–1377. 
+10.2307/1132271. [PubMed: 9839421] 
+Brainerd CJ, & Reyna VF (1998). Fuzzy-trace theory and children’s false memories. Journal of 
+Experimental Child Psychology, 71, 81–129. 10.1006/jecp.1998.2464. [PubMed: 9843617] 
+Brainerd CJ, & Reyna VF (2012). Reliability of children’s testimony in the era of developmental 
+reversals. Developmental Review, 32, 224–267. 10.1016/j.dr.2012.06.008. [PubMed: 23139439] 
+Brainerd CJ, & Reyna VF (2018). Complementarity in false memory illusions. Journal of 
+Experimental Psychology: General. 147, 305–327. 10.1037/xge0000381. [PubMed: 29154619] 
+Brained CJ, Reyna VF, & Forrest TJ (2002). Are young children susceptible to the false memory 
+illusion? Child Development, 73, 1363–1377. 10.1111/1467-8624.00477. [PubMed: 12361306] 
+Brainerd CJ, Reyna VF, & Holliday RE (2012). Development of recollection: A fuzzy-trace theory 
+perspective In Ghetti S & Bauer PJ (Eds.), Origins and development of recollection: Perspectives 
+from psychology and neuroscience (pp. 101–143). New York: Oxford University Press.
+Brainerd CJ, Reyna VF, & Zember E (2011). Theoretical and forensic implications of developmental 
+studies of the DRM illusion. Memory & Cognition, 39, 365–380. 10.3758/s13421-010-0043-2. 
+[PubMed: 21264595] 
+Brainerd CJ, Stein L, & Reyna VF (1998). On the development of conscious and unconscious memory. 
+Developmental Psychology, 34, 342–357. 10.1037//0012-1649.34.2.342. [PubMed: 9541786] 
+Brainerd CJ, Wang Z, Reyna VF, & Nakamura K (2015). Episodic memory does not add up: 
+Verbatim–gist superposition predicts violations of the additive law of probability. Journal of 
+Memory and Language, 84, 224–245. 10.1016/j.jml.2015.06.006. [PubMed: 26236091] 
+Bruck M, Ceci SJ, Francoeur E, & Barr R (1995). I hardly cried when I got my shot: Influencing 
+children’s reports about a visit to their pediatrician. Child Development, 66, 193–208. 10.1111/j.
+1467-8624.1995.tb00865.x. [PubMed: 7497825] 
+Bruer KC, & Pozzulo JD (2014). Familiarity and recall memory for environments: A comparison of 
+children and adults. Journal of Applied Developmental Psychology, 35, 318–325. 10.1016/
+j.appdev.2014.05.002
+Carneiro P, Albuquerque P, Fernandez A, & Esteves F (2007). Analyzing false memories in children 
+with associative lists specific for their age. Child Development, 78, 1171–1185. 10.1111/j.
+1467-8624.2007.01059.x. [PubMed: 17650132] 
+Carneiro P, & Fernandez A, (2010). Age differences in the rejection of false memories: The effects of 
+giving warning instructions and slowing the presentation rate. Journal of Experimental Child 
+Psychology, 105, 81–97. 10.1016/j.jecp.2009.09.004. [PubMed: 19875129] 
+Ceci SJ, & Bruck M (1998). The ontogeny and durability of true and false memories: A dual trace 
+account. Journal of Experimental Child Psychology, 71, 165–169. 10.1037/0033-2909.113.3.403. 
+[PubMed: 9843621] 
+Ceci SJ, Papierno PD, & Kulkofksy S (2007). Representational constraints on children’s suggestibility. 
+Psychological Science, 18, 503–509. 10.1111/j.1467-9280.2007.01930.x. [PubMed: 17576263] 
+Reyna et al.
+Page 18
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Connolly DA, & Price HL (2006). Children’s suggestibility for an instance of a repeated event versus a 
+unique event: The effect of degree of association between variable details. Journal of Experimental 
+Child Psychology, 93, 207–223. 10.1016/j.jecp.2005.06.004. [PubMed: 16111696] 
+Deese J (1959). On the prediction of occurrence of certain verbal intrusions in free recall. Journal of 
+Experimental Psychology, 58, 17–22. 10.1037/h0046671. [PubMed: 13664879] 
+Dewhurst SA, Pursglove RC, & Lewis C (2007). Story contexts increase susceptibility to the DRM 
+illusion in 5-year-olds. Developmental Science, 10, 374–378. 10.1111/j.1467-7687.2007.00592.x. 
+[PubMed: 17444977] 
+Dewhurst SA, & Robinson CA (2004). False memories in children: Evidence for a shift from 
+phonological to semantic associations. Psychological Science, 15, 782–786. 10.1111/j.
+0956-7976.2004.00756.x. [PubMed: 15482451] 
+Fazio LK, & Marsh EJ (2008). Older, not younger, children learn more false facts from stories. 
+Cognition, 106, 1081–1089. 10.1016/j.cognition.2007.04.012. [PubMed: 17540354] 
+Fernandez-Dols JM, Carrera P, Barchard KA, & Gacitua M (2008). False recognition of facial 
+expressions of emotion: Causes and implications. Emotion, 8, 530–539. 10.1037/a0012724. 
+[PubMed: 18729583] 
+Gallo DA, & Roediger HL, III (2002). Variability among word lists in eliciting memory illusions: 
+evidence for associative activation and monitoring. Journal of Memory and Language, 47, 469–
+497. 10.1016/S0749-596X(02)00013-X.
+Gerlach W, & Stern O (1922). Das magnetische moment des silberatoms. Zeitschrift fur Physik, 9, 
+353–355. 10.1007/BF01326984
+Goodman GS, Ogle CM, Block SD, Harris LS, Larson RP, Augusti EM, et al. (2011). False memory 
+for trauma-related Deese–Roediger–McDermott lists in adolescents and adults with histories of 
+child sexual abuse. Development and Psychopathology, 23, 71–86. 10.1017/S0954579411000150.
+Goodman GS, Quas JA, Batterman-Faunce JM, Riddlesberger MM, & Kuhn J (1994). Predictors of 
+accurate and inaccurate memories of traumatic events experienced in childhood. Consciousness 
+and Cognition, 3, 269–294. 10.1006/ccog.1994.1016.
+Holliday RE, Brainerd CJ, & Reyna VF (2009, 4). Effects of arousal and valence on children’s true 
+and false memories. Paper presented at Society for Research in Child Development, Denver, CO.
+Holliday RE, Brainerd CJ, & Reyna VF (2011). Developmental Reversals in False Memory: Now you 
+see them, now you don’t! Developmental Psychology, 47, 442–449. 10.1037/a0021058. [PubMed: 
+21142371] 
+Howe ML (2005). Children (but not adults) can inhibit false memories. Psychological Science, 16, 
+927–931. 10.1111/j.1467-9280.2005.01638.x. [PubMed: 16313654] 
+Howe ML (2006). Developmentally invariant dissociations in children’s true and false memories: Not 
+all relatedness is created equal. Child Development, 77, 1112–1123. 10.1111/j.
+1467-8624.2006.00922.x. [PubMed: 16942509] 
+Howe ML (2007). Children’s emotional false memories. Psychological Science, 18, 856–860. 
+10.1111/j.1467-9280.2007.01991.x. [PubMed: 17894601] 
+Klemfuss JZ, & Ceci SJ (2012). Legal and psychological perspectives on children’s competence to 
+testify in court. Developmental Review, 32, 268–286. 10.1016/j.dr.2012.06.005..
+Lampinen JM, Leding JK, Reed KB, & Odegard TN (2006). Global gist extraction in children and 
+adults. Memory, 14, 952–964. 10.1080/09658210601008957. [PubMed: 17077030] 
+Lampinen JM, & Odegard TN (2006). Memory editing mechanisms. Memory, 14, 649–654. 
+10.1080/09658210600648407. [PubMed: 16829484] 
+Lyons KE, Ghetti S, & Cornoldi C (2010). Age differences in the contribution of recollection and 
+familiarity to false-memory formation: A new paradigm to examine developmental reversals. 
+Developmental Science, 13, 355–362. 10.1111/j.1467-7687.2009.00889. [PubMed: 20136932] 
+Metzger RL, Warren AR, Price JD, Reed AW, Shelton J, & Williams D (2008). Do children “D/R-M” 
+like adults? False memory production in children. Developmental Psychology, 44, 169–181. 
+10.1037/0012-1649.44.1.169. [PubMed: 18194015] 
+Odegard TN, Holliday RE, Brainerd CJ, & Reyna VF (2008). Attention to global-gist processing 
+eliminates age effects in false memories. Journal of Experimental Child Psychology, 99, 96–113. 
+10.1016/j.jecp.2007.08.007. [PubMed: 17950306] 
+Reyna et al.
+Page 19
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Otgaar H, Howe M ., Brackmann N, & Smeets T (2016). The malleability of developmental trends in 
+neutral and negative memory illusions. Journal of Experimental Psychology: General, 145, 31–55. 
+10.1037/xge0000127. [PubMed: 26709588] 
+Otgaar H, Peters M, & Howe ML (2012). Dividing attention lowers children’s but increases adults’ 
+false memories. Journal of Experimental Psychology: Learning, Memory, and Cognition, 38, 204–
+210. 10.1037/a0025160.
+Paz-Alonso PM, Ghetti S, Donohue SE, Goodman GS, & Bunge SA (2008). Neurodevelopmental 
+correlates of true and false recognition. Cerebral Cortex, 18, 2208–2216. 10.1093/cercor/bhm246. 
+[PubMed: 18203693] 
+Pipe ME, Gee S, Wilson JC, & Egerton JM (1999). Children’s recall 1 or 2 years after an event. 
+Developmental Psychology, 35, 781–789. 10.1037/0012-1649.35.3.781. [PubMed: 10380868] 
+Poole DA, & Lindsay DS (1995). Interviewing preschoolers: Effects of nonsuggestive techniques, 
+parental coaching, and leading questions on reports of nonexperienced events. Journal of 
+Experimental Child Psychology, 60, 129–154. 10.1006/jecp.1995.1035.
+Poole DA, & White LT (1991). Effects of question repetition on the eyewitness testimony of children 
+and adults. Developmental Psychology, 27, 975–986. 10.1037/0012-1649.27.6.975.
+Principe GF, Guiliano S, & Root C (2008). Rumor mongering and remembering: How rumors 
+originating in children’s inferences can affect memory. Journal of Experimental Child Psychology, 
+99, 135–155. 10.1016/j.jecp.2007.10.009. [PubMed: 18155719] 
+Reyna VF, & Brainerd CJ (2011) Dual processes in decision making and developmental neuroscience: 
+A fuzzy-trace model. Developmental Review, 31, 180–206. 10.1016/j.dr.2011.07.004. [PubMed: 
+22096268] 
+Reyna VF, & Kiernan B (1995). Children’s memory and interpretation of psychological metaphors. 
+Metaphor and Symbolic Activity, 10, 309–331. 10.1207/s15327868ms1004_5.
+Roediger HL, III, & McDermott KB (1995). Creating false memories: Remembering words not 
+presented on lists. Journal of Experimental Psychology: Learning, Memory, and Cognition, 21, 
+803–814. 10.1037/0278-7393.21.4.803.
+Roediger HL, III, Watson JM, McDermott KB, & Gallo DA (2001). Factors that determine false recall: 
+A multiple regression analysis. Psychonomic Bulletin & Review, 8, 385–405. 10.3758/
+BF03196177. [PubMed: 11700893] 
+Schneider W & Ornstein PA (2015). The development of children’s memory. Child Development 
+Perspectives, 9, 190–195. 10.1111/cdep.12129.
+Schneider W, & Pressley M (1997). Memory development between 2 and 20. Mawah, NJ: Erlbaum.
+Sloutsky VM, & Fisher AV (2004). When development and learning decrease memory. Psychological 
+Science, 15, 553–558. 10.1111/j.0956-7976.2004.00718.x. [PubMed: 15271001] 
+Snodgrass JG, & Corwin J (1988). Pragmatics of measuring recognition memory: Applications to 
+dementia and amnesia. Journal of Experimental Psychology: General, 117, 34–50. 
+10.1037/0096-3445.117.1.34. [PubMed: 2966230] 
+Sugrue K, & Hayne H (2006). False memories produced by children and adults in the DRM paradigm. 
+Applied Cognitive Psychology, 20, 625–631. 10.1002/acp.1214.
+Weekes BS, Hamilton S, Oakhill J, & Holliday RE (2007). False recollection in children with reading 
+comprehension difficulties. Cognition, 106, 222–233. 10.1016/j.cognition.2007.01.005. [PubMed: 
+17349990] 
+Reyna et al.
+Page 20
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 1. 
+Developmental complementarity in memory accuracy for new-similar (NS) items (Panel A) 
+and developmental compensation in memory accuracy for old (O) items (Panel B) in the 
+DRM illusion in Experiment 1. O? = the old recognition condition, and NS? = the new-
+similar recognition condition.
+Reyna et al.
+Page 21
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 2. 
+Developmental complementarity in memory accuracy for NS items in the DRM illusion. 
+Accuracy declines with age when subjects judge whether these items are old (O?), but it 
+improves with age when they judge whether these items are NS (NS?). Experiment 2 = 
+Panel A, Experiment 3 = Panel B, and Experiment 4 = Panel C.
+Reyna et al.
+Page 22
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 3. 
+Developmental compensation in memory accuracy for old (O) items in the DRM illusion. 
+Accuracy increases with age regardless of whether subjects judge whether O items are old 
+(O?) or new-similar (NS?). Experiment 2 = Panel A, Experiment 3 = Panel B, and 
+Experiment 4 = Panel C.
+Reyna et al.
+Page 23
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 4. 
+Complementary developmental trends in net memory accuracy when subjects judge whether 
+old items and new-similar items are old (black dots) versus when they judge whether the 
+same items are new-similar (white squares). The net accuracy of old judgments is the 
+probability of correctly recognizing list items as old divided by the sum of that probability 
+and the probability of incorrectly recognizing new-similar items as old. The net accuracy of 
+new-similar judgments is the probability of correctly recognizing new-similar items as new-
+similar divided by the sum of that probability and the probability of incorrectly recognizing 
+list items as new-similar.
+Reyna et al.
+Page 24
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Reyna et al.
+Page 25
+Table 1
+Experimental materials and standard procedures for the Deese/Roediger/McDermott illusion
+Old list words (O)
+New-similar words (NS)
+New-different words (ND)
+hot, snow, warm, winter, ...
+cold (strong), frost (weak)
+city, music
+rest, awake, tired, dream, ...
+sleep (strong), yawn (weak)
+cold, soft
+mad, fear, hate, temper, ...
+anger (strong), mean (weak)
+spider, thief
+Note. Subjects study short word lists composed of related items, such as those in the left hand column, and they respond to a recognition test on 
+which three types of test probes are presented: old (O) list words, new-similar (NS) words, and new-different (ND) words. For each test probe, the 
+subjects’ task is to decide whether it is O.
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Reyna et al.
+Page 26
+Table 2
+Mean bias-corrected correct response probabilities (SDs in parentheses) in the old (O?) and new-similar (NS?) 
+memory test conditions of Experiments 1–4
+Age level/memory test condition
+Test items
+6 years
+10 years
+14 years
+Adult
+O?
+NS?
+O?
+NS?
+O?
+NS?
+O?
+NS?
+Experiment 1
+Old items
+.60 (.15)
+.56 (.29)
+.72 (.14)
+.72 (.22)
+.79 (.09)
+.86 (.13)
+.59 (.22)
+.25 (.24)
+.33 (.18)
+.31 (.24)
+.25 (.13)
+.43 (.29)
+.92 (.09)
+.19 (.20)
+.84 (.13)
+.37 (.19)
+.68 (.18)
+.55 (.17)
+Experiment 2
+Old items
+.57 (.34)
+.47 (.26)
+.69 (.27)
+.46 (.29)
+.83 (.21)
+.65 (.42)
+.92 (.09)
+.68 (.22)
+.82 (..21)
+.19 (.26)
+.70 (.30)
+.32 (.30)
+.49 (.34)
+.51 (.24)
+.25 (.18)
+.80 (.20)
+.93 (.18)
+.14 (.24)
+.76 (.25)
+.24 (.34)
+.67 (.34)
+.29 (.36)
+.57 (.32)
+.61 (.28)
+Experiment 3
+Old items
+.55 (.25)
+.49 (.22)
+.70 (.22)
+.53 (.32)
+.85 (.11)
+.66 (.26)
+.83 (.14)
+.67 (.15)
+.88 (.12)
+.09 (.23)
+.72 (.26)
+.26 (.24)
+.54 (.30)
+.47 (.22)
+.38 (.25)
+.65 (.29)
+.83 (.29)
+.05 (.24)
+.69 (.36)
+.23 (.35)
+.68 (.36)
+.29 (.34)
+.51 (.36)
+.47 (.36)
+Experiment 4
+Old items
+.66 (.24)
+.48 (.27)
+.71 (.33)
+.47 (.27)
+.78 (.19)
+.60 (.31)
+.87 (.11)
+.71 (.22)
+.80 (.32)
+.19 (.21)
+.64 (.31)
+.45 (.31)
+.52 (.32)
+.62 (.27)
+.31 (.26)
+.69 (.24)
+.85 (.23)
+.05 (.15)
+.75 (.31)
+.20 (.27)
+.67 (.34)
+.44 (.33)
+.52 (.34)
+.50 (.32)
+Note. Old items appeared on the DRM lists, whereas strong new-similar items and weak-new similar items did not appear on DRM lists. The O? 
+and NS? testing conditions ask, respectively, whether a test item is an old list item and whether it is a new-similar item. In the O? testing condition, 
+the correct response is acceptance for old items but rejection for strong new-similar items and weak-new similar items. In the NS? testing condition, 
+the correct response is rejection for old items but acceptance for strong new-similar items and weak-new similar items. The correct response 
+probabilities for old, strong new-similar, and weak new-similar test items have been corrected for yea-saying bias with the two-high-threshold 
+method.
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Reyna et al.
+Page 27
+Table 3
+Mean false alarm probabilities (SDs in parentheses) for new-different items in the old (O?) and new-similar 
+(NS?) memory test conditions of Experiments 1–4
+Age level/memory test condition
+Experiment
+6 years
+10 years
+14 years
+Adult
+O?
+NS?
+O?
+NS?
+O?
+NS?
+O?
+NS?
+Experiment 1
+.14 (.12)
+.14 (.17)
+.04 (.06)
+.17 (.11)
+.01 (.03)
+.12 (.13)
+Experiment 2
+.09 (.14)
+.12 (.12)
+.09 (.12)
+.07 (.13)
+.02 (.06)
+.07 (.12)
+.04 (.07)
+.01 (.03)
+Experiment 3
+.12 (.16)
+.10 (.16)
+.06 (.12)
+.09 (.11)
+.05 (.10)
+.07 (.11)
+.01 (.05)
+.01 (.03)
+Experiment 4
+.09 (.14)
+.12 (.12)
+.11 (.12)
+.08 (.13)
+.02 (.06)
+.18 (.24)
+.03 (.07)
+.01 (.02)

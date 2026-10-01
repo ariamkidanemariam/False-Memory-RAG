@@ -1,0 +1,973 @@
+F1000Research
+Open Peer Review
+, University of Surrey UK
+Rob Nash
+, University of Newcastle
+Tom Smulders
+UK
+Discuss this article
+ (0)
+Comments
+2
+1
+RESEARCH ARTICLE
+
+False memory susceptibility is correlated with categorisation
+
+ability in humans [v2; ref status: indexed, http://f1000r.es/4k0]
+Kathryn Hunt, Lars Chittka
+Biological and Experimental Psychology, School of Biological and Chemical Sciences, Queen Mary University of London, Mile End Road,
+London, E1 4NS, UK
+Abstract
+Our memory is often surprisingly inaccurate, with errors ranging from
+misremembering minor details of events to generating illusory memories of
+entire episodes. The pervasiveness of such false memories generates a
+puzzle: in the face of selection pressure for accuracy of memory, how could
+such systematic failures have persisted over evolutionary time? It is possible
+that memory errors are an inevitable by-product of our adaptive memories and
+that semantic false memories are specifically connected to our ability to learn
+rules and concepts and to classify objects by category memberships. Here we
+test this possibility using a standard experimental false memory paradigm and
+inter-individual variation in verbal categorisation ability. Indeed it turns out that
+the error scores are significantly negatively correlated, with those individuals
+scoring fewer errors on the categorisation test being more susceptible to false
+memory intrusions in a free recall test. A similar trend, though not significant,
+was observed between individual categorisation ability and false memory
+susceptibility in a word recognition task. Our results therefore indicate that false
+memories, to some extent, might be a by-product of our ability to learn rules,
+categories and concepts.
+ Kathryn Hunt (
+), Lars Chittka (
+)
+Corresponding authors:
+k.l.hunt@qmul.ac.uk
+l.chittka@qmul.ac.uk
+ Hunt K and Chittka L. 
+How to cite this article:
+False memory susceptibility is correlated with categorisation ability in humans [v2; ref
+
+2014, :154 (doi: 
+)
+status: indexed, 
+]
+http://f1000r.es/4k0 F1000Research
+3
+10.12688/f1000research.4645.2
+ © 2014 Hunt K and Chittka L. This is an open access article distributed under the terms of the 
+,
+Copyright:
+Creative Commons Attribution Licence
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. Data associated with the
+article are available under the terms of the 
+ (CC0 1.0 Public domain dedication).
+Creative Commons Zero "No rights reserved" data waiver
+ This work was funded as part of a PhD studentship provided by the Natural Environment Research Council (NE/H525089/1).
+Grant information:
+
+Competing interests: No competing interests were disclosed.
+ 04 Jul 2014, :154 (doi: 
+) 
+First published:
+3
+ 16 Sep 2014, :154 (doi: 
+)
+First indexed:
+3
+
+Referee Status:
+
+Invited Referees
+
+version 2
+published
+16 Oct 2014
+version 1
+published
+04 Jul 2014
+
+1
+2
+AWAITING PEER REVIEW
+report
+report
+ 04 Jul 2014, :154 (doi: 
+)
+First published:
+3
+ 16 Oct 2014, :154 (doi: 
+)
+Latest published:
+3
+10.12688/f1000research.4645.2
+v2
+Page 1 of 11
+
+Introduction
+When remembering the past, we typically feel that our memory 
+allows retrieval of events as they really occurred. Yet a large body 
+of work shows that memory is often surprisingly inaccurate, with 
+errors ranging from misremembering minor details of events to 
+generating illusory memories of entire episodes (Loftus, 1997). 
+False memory, the phenomenon of remembering something that 
+actually never occurred, has become a widely studied topic since 
+its origins in Binet’s (1900) La Suggestibilité and Bartlett’s (1932) 
+Remembering. The pervasiveness of such false memories generates 
+an evolutionary puzzle; in the face of selection pressure for accu-
+racy of memory (Dukas, 1999; Mery, 2013; Raine & Chittka, 2008), 
+how could such systematic failures have persisted over evolutionary 
+time? As with perceptual illusions, false memories might be inevi-
+table by-products of otherwise adaptive cognitive processes. Here 
+we explore whether individuals with a higher propensity to form 
+false memories are better at other cognitive tasks, thus generating 
+a trade-off by which certain cognitive capacities (in this case form-
+ing links between distinct memories, as in categorisation) cannot be 
+achieved without the cost of memory inaccuracies.
+A plethora of experimental paradigms exist for eliciting differing 
+types of false memories in declarative memory, i.e. people’s con-
+scious memory for facts (Brainerd & Reyna, 2005). Episodic (and 
+as such autobiographical) false memories are commonly elicited 
+using the misinformation paradigm, in which information provided 
+or questions asked after an event can bias memory (Loftus, 2005). 
+Conversely, semantic false memories can be elicited using the 
+presentation of lists of semantically related words (Deese, 1959; 
+Roediger & McDermott, 1995). The so called Deese-Roediger-
+McDermott (DRM) paradigm has become widely used for explor-
+ing the malleability of memory. In this paradigm, participants begin 
+by studying lists of words; for example a list may comprise the 
+words mad, fear, hate, rage, temper, fury, ire, wrath, happy, fight, 
+hatred, mean, calm, emotion, enrage. Each list is composed of the 
+15 strongest associates of one critically non-presented word, for 
+example anger for the above list. Upon free recall of the lists or dur-
+ing a recognition test, the non-presented words are ‘remembered’ 
+at high rates and with high levels of confidence. This high propor-
+tion of false memories is attributed to the strength of the associa-
+tions between the words presented in the lists and the words falsely 
+remembered (Deese, 1959).
+While such tests might be viewed as rather remote from real-life 
+situations in which the accuracy of memory matters, including epi-
+sodic memories (DePrince et al., 2004; Freyd & Gleaves, 1996), 
+it has recently been proposed that different types of false memo-
+ries may share, at least in part, the same underlying mechanisms 
+(Otgaar et al., 2012; Zhu et al., 2013). Otgaar et al., (2012) showed 
+that children who generate a rich false memory when subjected to 
+a typical false memory implantation paradigm, such as being led 
+to believe they once took a ride in a hot air balloon (which in fact 
+never occurred), are also more susceptible to false memories in a 
+DRM test than children who do not develop a rich implanted false 
+memory. Thus the DRM paradigm, artificial though it may seem, 
+can be a useful laboratory paradigm to test individual false memory 
+susceptibility more generally (but see Ost et al., 2013).
+False memories, like other memory inaccuracies (such as forget-
+ting) might be by-products of the otherwise adaptive nature of 
+memory processes (Howe et al., 2013; Schacter, 1999; Schacter & 
+Dodson, 2001; Schacter et al., 2011). But what cognitive processes 
+might facilitate the generation of false memories as a by-product? 
+It is possible that our abilities for rule learning, association and 
+categorisation might come at a cost when it comes to memorising 
+isolated facts, events, or indeed words. Specifically with respect to 
+the semantic false memories tested in the DRM paradigm, errors 
+might be produced by the ability of individuals to group words 
+together, placing them in categories based on rules for membership. 
+It therefore seems plausible that the creation of these semantic false 
+memories may be a by-product of our ability to group words into 
+categories.
+Categorising items is known to generate adaptive benefits such as 
+the ability to learn information more quickly and to show greater 
+efficiency during decision-making (Merritt et al., 2010), but 
+McClelland (1995) argues that whilst such categorisation “is cen-
+tral to our ability to act intelligently” it however “gives rise to distor-
+tion as an inherent by-product” (p. 84). It is therefore possible that 
+some memory errors are an inevitable fluke of a powerful, adaptive 
+cognitive phenomenon, in the case of semantic false memories our 
+ability to learn rules and concepts, and to classify novel objects 
+by category memberships (Carey, 2011; Chittka & Jensen, 2011). 
+Indeed, categorisation is a strategy to economise on memory, since 
+it allows recognising objects by a limited set of features that define 
+the category, rather than memorising every single possible mem-
+ber of the category (Avarguès-Weber et al., 2011; Chittka & Niven, 
+2009; Srinivasan, 2006).
+One possibility to explore the potential trade-off between categori-
+sation ability and false memory susceptibility is to exploit variation 
+between individuals, and to test whether superior performance on 
+the one test comes with increased error rates on the other. Inter-
+individual variation is the raw material for evolution, and offers 
+the possibility to quantify the fitness benefits of cognitive traits in 
+natural settings (Cole et al., 2012; Raine & Chittka, 2008; Rowe & 
+Healy, 2014; Thornton et al., 2014) and to test potential trade-offs 
+between one cognitive capacity and another (Boogert et al., 2011; 
+Raine & Chittka, 2012). Here we investigate a potential correlation 
+between an individual’s proneness to semantic type false memories 
+and their categorisation ability. For this purpose we subjected par-
+ticipants to a DRM paradigm to assess their semantic false memory 
+susceptibility and a test consisting of verbal reasoning questions 
+to assess their ability to form categories. Our findings indicate that 
+false memories, to some extent, might be a by-product of our ability 
+to learn rules, categories and concepts.
+Methods
+The general method for eliciting false memories was based on 
+Roediger & McDermott (1995) and Stadler et al., (1999). The 
+protocol for the visual presentation of the wordlists was adapted 
+ Amendments from Version 1
+We have addressed both referees’ minor comments in the revised 
+version, and added several references as requested by referee 2.
+See referee reports
+REVISED
+Page 2 of 11
+
+from Peters et al., (2008). The categorisation test was constructed 
+from educational aids published by Coordination Group Publica-
+tions Ltd (Parsons, 2002a; Parsons, 2002b), Chukra Ltd, (2007) and 
+Eleven Plus Exam Group, (2010).
+Participants
+Thirty-nine 2nd year undergraduate students from the School of 
+Biological & Chemical Sciences, Queen Mary University of London 
+participated in the study. The participants were one full class undertaking 
+a ‘statistics’ module and as such the experiment formed part of their 
+learning, with a report writing task set from the results. Participant 
+demographics were as follows: seven male, thirty-two female, aged 
+nineteen to thirty years. Full ethics approval was obtained from 
+Queen Mary University of London Research Ethics Committee (Ref 
+#0355) and all participants gave written consent of their acceptance 
+to participate in the study.
+Materials
+To elicit the false memories, eighteen wordlists were used. Each 
+wordlist consisted of the fifteen most commonly associated words 
+of a critical non-presented word. For example the list mad, fear, 
+hate, rage, temper, fury, ire, wrath, happy, fight, hatred, mean, calm, 
+emotion, enrage is composed of the fifteen strongest associates of 
+the word anger and whilst the fifteen words in the list were shown 
+to participants, the critical word anger was not.
+The wordlists were constructed using the first fifteen words listed in 
+the Russell & Jenkins, (1954) norms for the critical non-presented 
+words (see Roediger & McDermott, 1995; Stadler et al., 1999 
+for full details of list construction). The eighteen wordlists were 
+chosen for their known ability to elicit a high proportion of false 
+memories during recall (Stadler et al., 1999). The eighteen critical 
+non-presented words used (and their corresponding fifteen word-
+lists) were: window, sleep, smell, doctor, sweet, chair, smoke, rough, 
+needle, anger, trash, soft, city, cup, cold, mountain, slow, river (Stadler 
+et al., 1999).
+The wordlists were put into an automated computerised visual 
+presentation (Microsoft Powerpoint 2007, version 12.0.6654.5000) 
+in which each word was displayed in bold, black ‘Calibri Head-
+ings’ typeface, font size eighteen. Each word was displayed in the 
+centre of a white screen at a rate of one second per word, with an 
+inter-word interval of approximately five hundred milliseconds. To 
+mark the start and end of a wordlist a white screen containing a 
+black cross was displayed for one second. Following the end of 
+each wordlist a blank white screen was displayed for two minutes. 
+This coincided with the two minute free recall period (see below). 
+The list order was randomised and the words within each list were 
+presented in order of their associative strength to the critical non-
+presented word, strongest to weakest.
+The recognition test was comprised of one hundred and eight words 
+randomly ordered in four columns of twenty-seven on a sheet of 
+paper. The one hundred and eight words were those from serial 
+positions one, eight, and ten of each of the eighteen studied lists, 
+the eighteen critical lures, and thirty-six unrelated words not found 
+in any of the eighteen lists. The thirty-six unrelated words were 
+selected from the other eighteen word lists published in Stadler et al., 
+(1999) and from the Oxford English Dictionary. The 36 ‘incorrect’ 
+words were: young, chess, circus, march, ink, rye, keys, chequered, 
+soccer, basket, noon, muscle, piano, scribble, bounce, button, feelers, 
+jail, jubilee, rubric, folder, paint, postcard, fan, lamp, book, com-
+puter, first, thought, tile, hide, worth, planet, radio, arm, basement.
+The categorisation test consisted of forty-five printed questions. 
+Each question consisted of five words, three of which were associ-
+ated with one another and two of which were not. Participants were 
+required to circle the two words that were not associated. An exam-
+ple of a question is as follows: 1. curve, arc, crouch, bend, medicine, 
+where curve, arc and bend are the three words associated with one 
+another and crouch and medicine are the words to be correctly cir-
+cled. Source materials for the categorisation test were example ver-
+bal reasoning questions for UK 11+ exams (secondary school entry 
+exams). Questions were reproduced with copyright permission from 
+Coordination Group Publications Ltd (Parsons, 2002a; Parsons, 
+2002b), Chukra Ltd, (2007) and Eleven Plus Exam Group, (2010).
+Protocol
+All participants were tested in one sitting. Participants were advised 
+that they would be tested on their memory for lists of words and that 
+they would be required to solve some word puzzles.
+Participants viewed the visual presentation containing the eighteen 
+wordlists on a large screen (240cm width, 180cm height). At the 
+end of each list a two minute recall period was given. During these 
+free recall periods, participants were instructed to write down as 
+many of the words from the list they had just seen as they could 
+remember. Participants were instructed not to guess, but to only 
+write down words that they were reasonably sure they had seen. 
+Participants were provided with a booklet in which to write down 
+their responses.
+Participants then undertook the recognition test. They were instructed 
+to carefully read the words on the sheet provided and to circle any 
+words that they remembered being presented in the eighteen word-
+lists. Again participants were instructed not to guess but to only 
+circle words they were reasonably sure they had seen.
+After the final recall period a ten minute break was given, but par-
+ticipants were instructed not to talk to each other about the study. 
+Participants were then given seven minutes to work through the cat-
+egorisation test. Again they were instructed not to guess, but to only 
+answer those questions to whose answer they were reasonably sure 
+of. Upon completion participants were fully de-briefed as to the 
+purpose of the study.
+Data analysis
+The number of critical non-presented words recalled (false memo-
+ries), the number of critical non-presented words recognised (false 
+memories), and the number of errors made on the categorisation 
+test were calculated for each individual. These were also converted 
+to give percentage errors (out of those possible to produce) to dis-
+play graphically. We tested the data for normality and found that 
+the distribution for both the categorisation test and the recognition 
+Page 3 of 11
+
+false memory test departed significantly from a normal distribution 
+(Shapiro-Wilk normality test). Therefore a non-parametric correla-
+tion analysis (Spearman’s rank correlation coefficient) was used to 
+look for a potential link between categorisation ability (categorisa-
+tion test errors) and false memory susceptibility (recall and recog-
+nition errors). Additional correlations were used on subsets of the 
+data to check for any biasing effects of priming, outliers and age. 
+Finally, the numbers of recall, recognition and categorisation errors 
+were compared between males and females using Wilcoxon rank 
+sum tests to look for an effect of gender. All analyses were carried 
+out using R statistical software (v.2.14.1). P values below 0.05 were 
+deemed significant.
+Results
+Dataset 1. False memory susceptibility and categorisation ability
+http://dx.doi.org/10.5256/f1000research.4645.d31516
+Individuals’ susceptibilities to false memories elicited using the 
+Deese-Roediger-McDermott (DRM) paradigm (given as the number 
+of critical non-presented words recalled (Recall False memories, 
+out of a total of 18) and recognised (Recognition False Memories, 
+again out of 18)), and their categorisation abilities (given as the 
+number of questions answered incorrectly on the categorisation test 
+(Categorisation Test Errors, out of a total of 45)).
+There were substantial inter-individual differences in both partici-
+pants’ verbal categorisation abilities and their scores on a standard-
+ised false memory test. Categorisation errors ranged from 7% to 
+78% in different individuals (Mean 23%, SD 14%), showing that 
+even though the test we had chosen was originally designed for pre-
+teens, the task was sufficiently challenging for the tested population 
+to capture a large range of inter-individual variation (Figure 1a). 
+It was important to establish this since if all participants had near-
+perfect scores (or indeed if all had equally poor scores), the test 
+would not have been suitable to correlate individual variation with 
+other assessments of cognitive performance.
+Variation in individual false memory scores was likewise extensive. 
+Recall false memory scores ranged from 0% to 78% (Mean 41%, 
+SD 21%) of possible false memories made (Figure 1b). Two indi-
+viduals did not recall a single critical non-presented word and thus 
+had a score of zero (and 0%) for recall false memories. Conversely 
+three individuals recalled thirteen out of the possible eighteen false 
+memories (and thus scored 72%), and one participant even scored 
+fourteen (78%). Recognition false memory scores ranged from 17% 
+to 94% (Mean 63%, SD 21%) of possible false memories made 
+(Figure 1c). Five individuals recognised five or less of the critical 
+non-presented words (and thus scored 28% or less), whilst eighteen 
+individuals recognised thirteen or more out of the eighteen possible 
+false memories (and thus scored 72% or more).
+Figure 1. Frequency histograms of individual variation in categorisation ability and false memory performance. a) the percentage 
+of errors scored by individuals on the categorisation test, b) the percentage of false memories (out of those possible to elicit) recalled by 
+individuals during the DRM paradigm and c) the percentage of false memories (out of those possible to elicit) recognised by individuals 
+during the DRM paradigm. N=39. All show a spread of inter-individual variation.
+Frequency
+0
+20
+40
+60
+80
+0
+5
+10
+15
+a
+Recall false memories (%)
+Frequency
+0
+20
+40
+60
+80
+0
+2
+4
+6
+8
+b
+Recognition false memories (%)
+Frequency
+20
+40
+60
+80
+100
+0
+2
+4
+6
+8
+10
+c
+Page 4 of 11
+
+We found a significant negative correlation between individuals’ 
+categorisation error scores (given as the number of questions answered 
+incorrectly on the categorisation test) and their false memory sus-
+ceptibility during free recall (given as the number of critical non-
+presented words recalled) (rs=-0.345, df=37, p=0.032, Figure 2), 
+thus those individuals scoring fewer errors on the categorisation 
+test were more susceptible to false memory intrusions during free 
+recall. In other words, participants that performed worse on the one 
+test performed better on the other, and vice versa – indicating an 
+inter-individual trade-off between categorisation ability on the one 
+hand and false memory susceptibility during free recall on the other.
+We also found a slight negative correlation between individuals’ 
+categorisation error scores (given as the number of questions answered 
+incorrectly on the categorisation test) and their false memory sus-
+ceptibility during recognition (given as the number of critical non-
+presented words recognised); however this trend was not significant 
+(rs=-0.202, df=37, p=0.219, Figure 3).
+To exclude the possibility that any correlation could be caused by 
+priming, the data were also analysed excluding those categorisa-
+tion test questions that contained words previously presented in the 
+wordlists, and non-presented as one of the critical non-presented 
+words. In our experiment for example, priming may have meant 
+that the word eye presented as part of a question in the categorisa-
+tion test: 41. Eye neck nose mouth shoulder, may have been pref-
+erentially selected as an answer due to its previous presentation in 
+the word list associated with the critical non-presented word needle 
+– thread, pin, eye, sewing, sharp, point, prick, thimble, haystack, 
+thorn, hurt, injection, syringe, cloth, knitting. As such the scores for 
+twelve questions were removed. A significant negative correlation 
+was still found for free recall and a moderate negative, though non-
+significant, correlation found for recognition; thus priming cannot 
+account for the result (recall: rs=-0.362, df=37, p=0.024, recogni-
+tion: rs=-0.206, df=37, p=0.208).
+Additionally, the removal of an outlier (a residuals vs. leverage plot 
+showed a Cook’s distance greater than 0.5 for participant 24, see 
+Dataset 1) did not change the statistical significance of the origi-
+nal result, thus it was not skewing the data unnecessarily in one 
+direction and was therefore not the cause of the significant negative 
+correlation found (recall: rs=-0.341, df=36, p=0.036, recognition: 
+rs=-0.175, df=36, p=0.293).
+The ages of the participants were not greatly varied, with thirty-six 
+out of thirty-nine participants aged nineteen to twenty-one, one 
+participant aged twenty-three, one participant aged thirty and one 
+participant not stating their age. The removal of the data for the par-
+ticipant aged thirty did not change the statistical significance of the 
+original result, thus the greater age of this participant in compari-
+son to the others was also not the cause of the significant negative 
+correlation found (recall: rs=-0.387, df=36, p=0.016, recognition: 
+rs=-0.251, df=36, p=0.129). Furthermore, the imbalance in the num-
+ber of male and female participants (seven male, thirty-two female) 
+Figure 2. Categorisation ability versus false recall. Individuals’ 
+categorisation abilities (given as the percentage of questions 
+answered incorrectly on the categorisation test) plotted against 
+their susceptibilities to false memories (given as the percentage of 
+critical non-presented words recalled, out of those possible). Those 
+individuals scoring fewer errors on the categorisation test were more 
+susceptible to false memory intrusions and correspondingly had a 
+higher false memory score (rs=-0.345, df=37, p=0.032).
+Figure 3. Categorisation ability versus false recognition. 
+Individuals’ categorisation abilities (given as the percentage of 
+questions answered incorrectly on the categorisation test) plotted 
+against their susceptibilities to false memories (given as the 
+percentage of critical non-presented words recognised, out of 
+those possible). Again, those individuals scoring fewer errors on the 
+categorisation test were more susceptible to false memory intrusions 
+and correspondingly had a higher false memory score, though in this 
+case the correlation was not significant: rs=-0.202, df=37, p=0.219.
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+Recall false memories (%)
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+Recognition false memories (%)
+Page 5 of 11
+
+and were processed for pleasantness. They concluded that whilst 
+it does not at first seem adaptive for survival-related memories 
+to be less accurate and in fact be more prone to false intrusions 
+than other types of memory, it does make sense if considered as 
+a by-product of the adaptive processing of information related to 
+survival. Howe & Derbish (2010) argue that during the processing 
+of information related to survival, any related information in mem-
+ory is then primed, which may or may not be false, but that this 
+information is then used to guide attention to other survival-related 
+items, which may be crucial in the current situation (Howe & 
+Derbish, 2010).
+It has even been postulated that this greater inaccuracy may actually 
+have adaptive significance, being more helpful in real-world sce-
+narios. For example, in responses to predation threat, false alarms, 
+such as generalising to a large set of cues that might indicate preda-
+tor presence are clearly less detrimental errors than missing preda-
+tor presence based on interpreting predators’ cues too narrowly 
+(Howe & Derbish, 2010). Thus our finding of a significant positive 
+correlation between susceptibility to semantic false memories in a 
+free recall DRM paradigm and word-based categorisation ability, 
+with the creation of these errors a by-product of our ability to group 
+words, is in keeping with recent explorations of the adaptive condi-
+tions related to the phenomenon of false memories.
+Whilst the age range of the subjects tested was narrow (nineteen to 
+twenty-one years old in the majority) many of the key studies using 
+the DRM paradigm have used only participants also of average 
+undergraduate college study age (Roediger & McDermott, 1995; 
+Stadler et al., 1999). Additionally the only significant difference 
+in spontaneous false memory creation, caused by the DRM para-
+digm that is known to occur between participants of different ages, 
+is between children and adults. Several studies have shown that 
+children are less prone to these memory errors, with an increase in 
+their propensity occurring during both childhood and early adoles-
+cence (Brainerd et al., 2002; Brainerd et al., 2004; Forrest, 2002). 
+As such, inferences made from our findings are not just applicable 
+to young adults but should also be pertinent to the ‘average’ adult 
+population as a whole.
+Our result of a significant negative correlation between individuals’ 
+errors on a categorisation test and their susceptibilities to semantic 
+type false memories during free recall demonstrates that false mem-
+ories, to some extent, might be a by-product of our ability to learn 
+rules, categories and concepts. For example, once we have learnt 
+the concept/category of mammals, we can identify new animals as 
+members of this category even if we have never seen them before. 
+In this case, labelling the new animal as mammal is not based on 
+false classification, but a correct one based on category member-
+ship: the simple flipside of the DRM paradigm, where inferences 
+based on concepts and categories are classed as errors. Thus, our 
+findings add to the increasing body of literature that proposes that 
+some types of false memories might be an inevitable by-product 
+of adaptive cognitive processes as is the case with other memory 
+aberrations (Abbott & Sherratt, 2011; Beck & Forstmeier, 2007; 
+Newman & Lindsay, 2009).
+is unlikely to have caused any bias in the data as there was no sig-
+nificant difference between the two genders in the mean values 
+for the recall errors (Wilcoxon rank sum test: W=114, p=0.956), 
+recognition errors (Wilcoxon rank sum test: W=97.5, p=0.605) nor 
+the categorisation test scores (Wilcoxon rank sum test: W=102, 
+p=0.727).
+Discussion
+Our findings show a trade-off between word categorisation ability 
+and semantic false memory susceptibility, so that individuals that 
+make more errors on the false memory test make fewer errors on 
+the categorisation test, and vice versa. Thus our results cannot 
+simply be explained by differences in level of education, literacy, 
+vocabulary or intelligence. If such an underlying factor would have 
+explained performance on both tasks, then superior performance on 
+one task would have been a predictor of superior performance on 
+the other task. For example, short term memorisation of word lists 
+recruits working memory, which is often regarded as a general pre-
+dictor of intelligence (Oberauer et al., 2005; Oberauer et al., 2008) 
+and likewise the categorisation tests used here are typical compo-
+nents of standardised intelligence tests (Wechsler, 2004; Wechsler, 
+2008). Thus one might have predicted a positive correlation of error 
+scores in both tasks if an underlying single factor such as intel-
+ligence would explain the data. However, the correlation of error 
+scores in the two measured tasks was negative. Thus even though 
+this study is clearly correlative in nature, and therefore does not 
+allow us to conclude with certainty that the two performances are 
+based on the same underlying mechanisms, it is intriguing that hav-
+ing a lower tendency to generate false memories comes at a cost, i.e. 
+lower categorisation scores.
+To date the majority of scholars interested in false memories have 
+focused on factors which may exacerbate or reduce the occurrence 
+of such memory errors (Dodson et al., 2000). The adaptive nature 
+of the human memory system as a potential reason for the occur-
+rence false memories has been suggested (Schacter, 1999; Schacter, 
+2001), yet the ultimate reasons for their existence has been infre-
+quently explored empirically. More recently, however, evidence has 
+grown for links between individuals’ differing susceptibilities to 
+false memories and their variations in a range of cognitive features. 
+False recall and/or recognition rates in a DRM paradigm have been 
+shown to vary with individuals’ variations in levels of vivid men-
+tal imagery (Winograd et al., 1998), specific area expertise (Baird, 
+2003; Castel et al., 2007), working memory capacity (Watson et al., 
+2005) and need for cognition (the degree to which an individual 
+actively engages in cognitive tasks) (Graham, 2007).
+Additionally it has been shown that when survival-related (i.e. evo-
+lutionarily relevant) information is used in a list-learning paradigm, 
+increased susceptibility to false memories occurs. Howe & Derbish, 
+(2010) found that when participants are asked to process words for 
+their survival value and when the words presented were themselves 
+survival relevant (i.e., ‘death: burial, casket, cemetery, funeral, 
+grave, life, murder, suicide, tragedy, widow), veridical and false rec-
+ognition were significantly higher (leading to an overall decrease in 
+net accuracy) than when the words viewed were neutral or negative 
+Page 6 of 11
+
+Competing interests
+No competing interests were disclosed.
+Grant information
+This work was funded as part of a PhD studentship provided by the 
+Natural Environment Research Council (NE/H525089/1).
+Acknowledgments
+The authors acknowledge S. Ali and R. Begum for their help with 
+resource construction and data collection.
+Data availability
+F1000Research: Dataset 1. False memory susceptibility and cat-
+egorisation ability, http://dx.doi.org/10.5256/f1000research.4645.
+d31516 (Hunt & Chittka, 2014).
+Author contributions
+LC conceived the study. KH designed the experiments and carried 
+out the research. Both authors were involved in writing all versions 
+of the manuscript and have agreed to the final content.
+References
+
+Abbott KR, Sherratt TN: The evolution of superstition through optimal use of 
+incomplete information. Anim Behav. 2011; 82(1): 85–92.
+
+Avarguès-Weber A, Deisig N, Giurfa M: Visual cognition in social insects. Annu 
+Rev Entomol. 2011; 56: 423–443.
+
+Baird RR: Experts sometimes show more false recall than novices: A cost of 
+knowing too much. Learn Individ Differ. 2003; 13(4): 349–355.
+
+Bartlett FC: Remembering: A Study in Experimental and Social Psychology. 
+Cambridge University Press: Cambridge, UK. 1932; 8(31).
+
+Beck J, Forstmeier W: Superstition and belief as inevitable by-products of an 
+adaptive learning strategy. Hum Nat. 2007; 18(1): 35–46.
+
+Bernstein DM, Loftus EF: The consequences of false memories for food 
+preferences and choices. Persp Psych Sci. 2009; 4(2): 135–139.
+
+Binet A: La Suggestibilité. Schleicher Fréres: Paris, France. 1900; 391. 
+Reference Source
+
+Boogert NJ, Anderson RC, Peters S, et al.: Song repertoire size in male song 
+sparrows correlates with detour reaching, but not with other cognitive 
+measures. Anim Behav. 2011; 81(6): 1209–1216.
+
+Brainerd CJ, Holliday RE, Reyna VF: Behavioral measurement of remembering 
+phenomenologies: so simple a child can do it. Child Dev. 2004; 75(2): 505–522.
+
+Brainerd CJ, Reyna VF: The Science of False Memory. Oxford University Press: 
+New York, USA. 2005; 559.
+
+Brainerd CJ, Reyna VF, Forrest TJ: AreYoung children susceptible to the false-
+memory illusion? Child Dev. 2002; 73(5): 1363–1377.
+
+Carey S: Précis of ‘The Origin of Concepts’. Behav Brain Sci. 2011; 34(3): 
+113–124 discussion 124–62.
+
+Castel AD, Mccabe DP, Roediger HL 3rd, et al.: The dark side of expertise: 
+domain-specific memory errors. Psychol Sci. 2007; 18(1): 3–5.
+
+Chittka L, Jensen K: Animal cognition: concepts from apes to bees. Curr Biol. 
+2011; 21(3): R116–R119.
+
+Chittka L, Niven J: Are bigger brains better? Curr Biol. 2009; 19(21): R995–R1008.
+
+Chukra Ltd. Verbal Reasoning Type 14 Revision. Chukra Ltd: UK. 2007.
+
+Cole EF, Morand-Ferron J, Hinks AE, et al.: Cognitive ability influences 
+reproductive life history variation in the wild. Curr Biol. 2012; 22(19): 1808–1812.
+
+Deese J: On the prediction of occurrence of particular verbal intrusions in 
+immediate recall. J Exp Psychol. 1959; 58(1): 17–22.
+
+DePrince AP, Allard CB, Oh H, et al.: What’s in a name for memory errors? 
+Implications and ethical issues arising from the use of the term “false 
+memory” for errors in memory for details. Ethics Behav. 2004; 14(3): 201–233.
+
+Dodson CS, Koutstaal W, Schacter DL: Escape from illusion: reducing false 
+memories. Trends Cogn Sci. 2000; 4(10): 391–397.
+
+Dukas R: Costs of memory: ideas and predictions. J Theor Biol. 1999; 197(1): 41–50.
+
+Eleven Plus Exam Group. Verbal Reasoning Type B Sample Paper. IPS 
+Publishing: UK. 2010. 
+Reference Source
+
+Forrest TJ: Memory errors in elementary school children. Doctoral Dissertation 
+University of Arizona: Tucson, Arizona, USA. 2002. 
+Reference Source
+
+Freyd JJ, Gleaves DH: “Remembering” words not presented in lists: relevance 
+to the current recovered/false memory controversy. J Exp Psychol Learn Mem 
+Cogn. 1996; 22(3): 811–813; discussion 814–6.
+
+Graham LM: Need for cognition and false memory in the Deese–Roediger–
+McDermott paradigm. Pers Indiv Differ. 2007; 42(3): 409–418.
+
+Howe ML, Derbish MH: On the susceptibility of adaptive memory to false 
+memory illusions. Cognition. 2010; 115(2): 252–267.
+
+Howe ML, Garner SR, Patel M: Positive consequences of false memories. Behav 
+Sci Law. 2013; 31(5): 652–65.
+
+Hunt KL, Chittka L: Dataset 1. False memory susceptibility and categorisation 
+ability. F1000Research. 2014. 
+Data Source
+
+Loftus EF: Creating false memories. Sci Am. 1997; 277(3): 70–75. 
+PubMed Abstract
+
+Loftus EF: Planting misinformation in the human mind: a 30-year investigation 
+of the malleability of memory. Learn Mem. 2005; 12(4): 361–366.
+
+Mcclelland JL: Constructive memory and memory distortions: A parallel-
+distributed processing approach. In Schacter, D. L. (Ed.), Memory Distortion: 
+How Minds, Brains, and Societies Reconstruct the Past Harvard University Press: 
+Cambridge, Massachusetts, USA. 1995. 
+Reference Source
+
+Merritt A, Karlsson L, Cokely ET: Category learning and adaptive benefits of 
+aging. In Ohlsson, S. & Catrambone, R. (Eds.), Cognition in Flux: Proceedings of the 
+32nd Annual Meeting of the Cognitive Science Society, Austin, Texas. 2010. 
+Reference Source
+
+Mery F: Natural variation in learning and memory. Curr Opin Neurobiol. 2013; 
+23(1): 52–56.
+
+Newman EJ, Lindsay DS: False memories: what the hell are they for? Appl Cogn 
+Psychol. 2009; 23(8): 1105–1121.
+
+Oberauer K, Schulze R, Wilhelm O, et al.: Working memory and intelligence--
+their correlation and their relation: comment on Ackerman, Beier, and Boyle 
+(2005). Psychol Bull. 2005; 131(1): 61–65.
+
+Oberauer K, Süβ HM, Wilhelm O, et al.: Which working memory functions predict 
+intelligence? Intelligence. 2008; 36(6): 641–652.
+
+Ost J, Blank H, Davies J, et al.: False Memory not equal False Memory: DRM 
+Errors Are Unrelated to the Misinformation Effect. PLoS One. 2013; 8(4): 
+e57939.
+
+Otgaar H, Verschuere B, Meijer EH, et al.: The origin of children’s implanted false 
+memories: memory traces or compliance? Acta Psychol (Amst). 2012; 139(3): 
+397–403. 
+Page 7 of 11
+
+Parsons R: 11+ Verbal Reasoning Practice Test 2. In 11+ Practice Tests Multiple 
+Choice Pack Coordination Group Publications Ltd: Cumbria, UK. 2002a. 
+Reference Source
+
+Parsons R: 11+ Verbal Reasoning Practice Test 3. In 11+ Practice Tests Multiple 
+Choice Pack Coordination Group Publications Ltd: Cumbria, UK. 2002b. 
+Reference Source
+
+Peters MJ, Jelicic M, Gorski B, et al.: The corrective effects of warning on false 
+memories in the DRM paradigm are limited to full attention conditions. Acta 
+Psychol (Amst). 2008; 129(2): 308–314.
+
+Raine NE, Chittka L: The correlation of learning speed and natural foraging 
+success in bumble-bees. Proc Biol Sci. 2008; 275(1636): 803–808.
+
+Raine NE, Chittka L: No trade-off between learning speed and associative 
+flexibility in bumblebees: a reversal learning test with multiple colonies. PLoS 
+One. 2012; 7(9): e45096.
+
+Roediger HL, Mcdermott KB: Creating false memories - Remembering words not 
+presented in lists. J Exp Psychol Learn Mem Cogn. 1995; 21(4): 803–814.
+
+Rowe C, Healy SD: Measuring variation in cognition. Behav Ecol. 2014; aru090.
+
+Russell WA, Jenkins JJ: The Complete Minnesota Norms for Responses to 100 
+Words from the Kent-Rosanoff Word Association Test. University of Minnesota: 
+Minneapolis, Minnesota, USA. 1954. 
+Reference Source
+
+Schacter DL: The seven sins of memory. Insights from psychology and 
+cognitive neuroscience. Am Psychol. 1999; 54(3): 182–203.
+
+Schacter DL: The seven sins of memory. Houghton Mifflin: Boston, USA. 2001. 
+Reference Source
+
+Schacter DL, Dodson CS: Misattribution, false recognition and the sins of 
+memory. Philos Trans R Soc Lond B Biol Sci. 2001; 356(1413): 1385–1393.
+
+Schacter DL, Guerin SA, St Jacques PL: Memory distortion: an adaptive 
+perspective. Trends Cogn Sci. 2011; 15(10): 467–474.
+
+Srinivasan MV: Honeybee vision: in good shape for shape recognition. Curr 
+Biol. 2006; 16(2): R58–R60.
+
+Stadler MA, Roediger HL, Mcdermott KB: Norms for word lists that create false 
+memories. Mem Cognit. 1999; 27(3): 494–500.
+
+Thornton A, Isden J, Madden JR: Toward wild psychometrics: linking individual 
+cognitive differences to fitness. Behav Ecol. 2014; aru095.
+
+Watson JM, Bunting MF, Poole BJ, et al.: Individual differences in susceptibility 
+to false memory in the Deese-Roediger-McDermott paradigm. J Exp Psychol 
+Learn Mem Cogn. 2005; 31(1): 76–85.
+
+Wechsler D: Wechsler Intelligence Scale for Children – Fourth Edition (WASC–
+IV). Pearson Education: New Jersey, USA. 2004. 
+Reference Source
+
+Wechsler D: Wechsler Adult Intelligence Scale – Fourth Edition (WAIS–IV). 
+Pearson Education: New Jersey, USA. 2008. 
+Reference Source
+
+Winograd E, Peluso JP, Glover TA: Individual differences in susceptibility to 
+memory illusions. Appl Cogn Psych. 1998; 12(7): S5–S27.
+
+Zhu B, Chen CS, Loftus EF: The relationship between DRM and misinformation 
+false memories. Mem Cognit. 2013; 41(6): 832–8. 
+Page 8 of 11
+
+F1000Research
+Open Peer Review
+
+Current Referee Status:
+Version 1
+ 16 September 2014
+Referee Report
+doi:10.5256/f1000research.4966.r5357
+
+Tom Smulders
+Centre for Behaviour and Evolution, University of Newcastle, Newcastle upon Tyne, UK
+In this paper, Hunt and Chittka show that people who are better at a categorization task also tend to
+produce more "memory errors" on the DRM paradigm, in which 15 words are shown which are strongly
+associated with a non-presented word (which is then often (wrongly) recalled or recognized later by the
+participants). The experiment has been conducted properly (the issue of counterbalancing has been
+addressed by the priming re-analysis) and the results are clear, although the effect size does not seem
+large.
+The conclusions the authors draw from this result seem eminently reasonable, although they may go a bit
+beyond the immediate data. After all, they specifically picked a form of false-memory testing that relies
+heavily on the fact that words in a semantic category are tightly associated with each other. It is then not a
+great surprise that people who are good at keeping words from the same semantic categories together
+also show more memory errors. It might have been interesting to ask people to categorize on different
+criteria than semantic (e.g. based on the letters they contain). Even though this is still a test of finding odd
+words out in a group, it does not call on semantic categories...
+The introduction is probably setting up a bit of a straw man. I think false memories as discussed here
+should be limited to those in episodic memory. Even the DRM is an episodic memory task (recall the
+unique list you've just been presented with), which is influenced by semantic associations between words.
+Therefore, any discussion of selective pressures on memory accuracy should be based on episodic
+memory alone. And there are lots of debates about what episodic memory is for, and indeed whether
+accuracy is the most important part of episodic memories. False memories in episodic memories often
+come about by "intrusion" of more common events into a unique episode. If the common events are that
+common, the unique exception may not be important to remember and indeed may interfere with the
+(adaptive) application of a learned rule. So there may be many arguments against the idea that memory
+should always be accurate. Nevertheless, this does not take away from the data or the final conclusions
+of this paper.
+I have read this submission. I believe that I have an appropriate level of expertise to confirm that
+it is of an acceptable scientific standard.
+ No competing interests were disclosed.
+Author Response ( 
+ ) 17 Oct 2014
+Member of the F1000 Faculty
+Page 9 of 11
+
+F1000Research
+, School of Biological and Chemical Sciences, Queen Mary, University of London, UK
+Lars Chittka
+We thank the referee for the constructive comments. We agree with the referee that one function of
+cognition (probably not just episodic memory) is to extract commonalities between distinct
+individual memories, learn rules, and to categorise objects and events by common properties, and
+to classify novel objects or events into existing frameworks. Certainly such rule-learning and
+classification abilities are adaptive, and we have thus deleted the statement that “false memories
+cannot in themselves be useful”.
+Nonetheless, it is probably fair to say that many of the contexts in which false memories occur
+‘naturally’, as well as the common experimental paradigms (not just ours), rely on rule learning and
+classification abilities. Witnesses of a nocturnal street robbery might describe the perpetrator as a
+hooded teenager, when it later turns out that the assailant was middle-aged and balding. While
+such false memories create enormous difficulties for the police and criminal courts, the witnesses
+may have made of use of their (typically, but clearly not always, adaptive) ability to learn rules
+about settings or conditions that, at least potentially, indicate danger. From the earliest explorations
+of false memories, such as the transmission chain studies in Bartlett’s work, it was investigated
+how distorted memories fall in with previously memorised rules, cultural norms etc. Whether this
+means that individuals that are better at extracting common properties incur a cost when it comes
+to storing large number of individual items/memories is precisely the subject of this study. We
+agree with the referee that it might sometimes be more useful to memorise common events than
+individual ones, or indeed to extract the commonalities between events and discard their
+idiosyncrasies, and this is hopefully clearer in the revised version. 
+ No competing interests.
+ 08 August 2014
+Referee Report
+doi:10.5256/f1000research.4966.r5492
+
+Rob Nash
+Department of Psychology, University of Surrey, Guildford, Surrey, UK
+This is an interesting article that has good relevance to ongoing debates on the adaptiveness of memory
+errors. The methods and analyses are appropriate and the authors have generally represented the
+scientific literature well. I have a few minor suggestion for improvement, as follows:
+
+In the paragraph beginning “
+” it
+While such tests might be viewed as rather remote from real-life situations..
+should be noted that there are several more studies in which errors in different false memory paradigms
+are correlated either weakly (e.g., 
+) or not at all (e.g. 
+).
+Zhu 
+, 2013
+et al.
+Ost 
+., 2013
+et al
+
+The line “
+” is disputable – several studies now
+Clearly false memories cannot in themselves be useful
+show positive consequences of distorted memories, see e.g. 
+; 
+Howe, Garner & Patel, 2013 Bernstein &
+).
+Loftus, 2009
+
+Line “It is therefore possible that memory errors are an inevitable fluke of a powerful, adaptive cognitive
+ – I would prefer to say 
+ – there is a broad literature on other adaptive
+phenomenon”
+“some memory errors”
+reasons why memory errors occur, see e.g. 
+. Same point applies to the very
+Newman & Lindsay (2009)
+final sentence of the Discussion.
+Page 10 of 11
+
+F1000Research
+
+Why wasn't the order of the two tasks counterbalanced? Is it plausible that the first (memory) task might
+have primed a particular mindset in participants that affected their categorization performance? I’d
+suggest the addition of a little discussion of this point.
+
+Data analysis – which data departed from normality? The authors have reported a normality test but it isn't
+clear to which variable this test pertains.
+
+The line “A significant negative correlation was still found for free recall and a moderate negative
+” – the authors should reiterate explicitly that the latter correlation was
+correlation still found for recognition
+non-significant.
+I have read this submission. I believe that I have an appropriate level of expertise to confirm that
+it is of an acceptable scientific standard.
+ No competing interests were disclosed.
+Author Response ( 
+ ) 17 Oct 2014
+Member of the F1000 Faculty
+, School of Biological and Chemical Sciences, Queen Mary, University of London, UK
+Lars Chittka
+We thank the referee for the constructive comments. We have taken all of them on board in the
+revised version. We have also added the five additional references indicated by the referee, and
+modified the text in line with the contents of these publications. We have added the requested
+information about non-normality of some of the data.
+The referee asks why we have not used a counterbalanced design, so that in addition to setting the
+false memory test first and the categorisation test second, we might have reversed the order. This
+would indeed be a useful procedure to exclude the possibility that any correlation could be caused
+by priming, occurring as a result of words occurring in both tests. However, to address the potential
+complication of priming, we had already reanalysed the data excluding those categorisation test
+questions that contained words previously presented in the DRM word lists, and non-presented as
+one of the critical non-presented words. However, even after removal of all individual tasks where
+such words occurred, the overall results remained unaltered (see results section). 
+ No competing interests.
+Page 11 of 11

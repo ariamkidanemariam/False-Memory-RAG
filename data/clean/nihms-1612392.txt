@@ -1,0 +1,1162 @@
+Blurring past and present: Using false memory to better 
+understand false hearing in young and older adults
+Eric Failes, Mitchell S. Sommers, Larry L. Jacoby
+Department of Psychological and Brain Sciences, Washington University, 1 Brookings Dr., 
+Campus Box 1125, St. Louis, MO 63130, USA
+Abstract
+A number of recent studies have shown that older adults are more susceptible to context-based 
+misperceptions in hearing (Rogers et al., 2012; Sommers et al., 2015) than are young adults. One 
+explanation for these age-related increases in, what we term, false hearing is that older adults are 
+less able than young individuals to inhibit a prepotent response favored by context. A similar 
+explanation has been proposed for demonstrations of age-related increases in false memory 
+(Jacoby et al., 2005). The present study was designed to compare susceptibility to false hearing 
+and false memory in a group of older adults. In Experiment 1, we replicated the findings of past 
+studies demonstrating increased frequency of false hearing in older, relative to young, adults. In 
+Experiment 2, we demonstrated older adults’ increased susceptibility to false memory in the same 
+sample. Importantly, we found that participants who were more prone to false hearing also tended 
+to be more prone to false memory, supporting the idea that the two phenomena share a common 
+mechanism. The results are discussed within the framework of a capture model, which 
+differentiates between context-based responding resulting from failures of cognitive control and 
+context-based guessing.
+Keywords
+false hearing; false memory; speech perception; context effects; aging
+Although early conceptualizations of memory and perception considered both to be veridical 
+recordings of events and sensations that occurred, it is now clear that these processes are 
+influenced by prior knowledge and expectations, and often reflect a reconstruction of the 
+experienced events (Alba & Hasher, 1983; Bartlett, 1932; Bugelski & Alampay, 1961). One 
+of the most powerful demonstrations of such active reconstruction in both memory and 
+perception are cases in which our expectations result in either false memories or false 
+Terms of use and reuse: academic research for non-commercial purposes, see here for full terms. http://www.springer.com/gb/open-
+access/authors-rights/aam-terms-v1
+Contact: Eric Failes, e.failes@wustl.edu. 
+Publisher's Disclaimer: This Author Accepted Manuscript is a PDF file of a an unedited peer-reviewed manuscript that has been 
+accepted for publication but has not been copyedited or corrected. The official version of record that is published in the journal is kept 
+up to date and so may therefore differ from this version.
+Open Practices Statement
+The data and materials for all tasks in this experiment are available at https://osf.io/dtvxy/?
+view_only=258f71d332c148ed9741d3ea66fb4bc1. This experiment was not preregistered.
+HHS Public Access
+Author manuscript
+Published in final edited form as:
+Mem Cognit. 2020 November ; 48(8): 1403–1416. doi:10.3758/s13421-020-01068-8.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+perceptions - incorrectly remembering or perceiving events based on expectations. The study 
+of false memory dates back at least to the publication of Bartlett’s (1932) book 
+Remembering, in which he showed that participants’ memory for the Native American folk 
+story “The War of the Ghosts” became distorted to more closely resemble their own 
+experiences. For example, although the story describes two men hunting seals, participants 
+often recalled that the two men were fishing. The history of false perception research 
+extends back even further, with hundreds of studies describing visual illusions being 
+published before the start of the twentieth century (Coren & Girgus, 1978).
+One framework that has been useful for understanding the mechanisms mediating both false 
+memory and false perception is the process dissociation framework (Jacoby, 1991). As 
+applied to memory and perception, the process dissociation framework posits that individual 
+memories and perceptual experiences are determined by both controlled and automatic 
+processes. The relative importance of controlled and automatic processes in determining 
+perceptual or memorial experiences can be established by having conditions in which the 
+two function in concert as well as those in which they are in opposition. For example, 
+Jacoby et al. (2005, Experiment 2) applied the process dissociation framework to understand 
+the mechanisms underlying one type of false memory. In their study, young and older adult 
+participants first studied a list of semantically-related cue-target word pairs (e.g., knee - 
+bend). Following the study phase, participants were again shown the studied word pairs, but 
+in each case, only a fragment of the second word in each pair was shown (e.g., knee - b_n_). 
+Participants were tasked with verbally completing the fragment with the word from the study 
+phase and judged their confidence in their answer by indicating whether they remembered 
+the reported word from the study phase, whether the reported word simply seemed familiar, 
+or whether they were guessing. The critical manipulation was that immediately prior to 
+viewing the cue-fragment pair, a prime was briefly presented on screen. The prime was 
+either the word from the study phase that correctly completed the fragment (congruent 
+condition; e.g., bend), an unstudied word that was semantically-related to the cue and could 
+complete the fragment (incongruent condition; e.g., bone), or a string of ampersands 
+(baseline condition; &&&&&), introducing helpful, misleading, or no bias, respectively. 
+Jacoby et al. suggested that successful retrieval of the study phase word indexed controlled 
+processing, whereas responses based on the prime indexed automatic processes. In the 
+congruent condition, reliance on either controlled or automatic processing would lead to a 
+correct response (bend). However, in the incongruent condition, correct responding required 
+participants to resist the automatic process (bone) and respond based on controlled 
+processing (i.e. retrieval from the study phase).
+Although both young and older adults in the study by Jacoby et al. (2005, Experiment 2) 
+produced false memories (e.g., responding with the prime word bone rather than the studied 
+word bend), older adults were more likely to produce such false memories and did so with 
+higher confidence. This difference was found despite equating performance in the baseline 
+condition for young and older adults by presenting the cue-target pairs for a longer duration 
+for older adults in the study phase. Jacoby et al. concluded that the age differences in 
+performance in the incongruent condition was due to differences in cognitive control - an 
+inability to resist an automatic response - rather than a difference in memory per se. The 
+Jacoby et al. results therefore supported previous findings (Hay & Jacoby, 1999; Jacoby, 
+Failes et al.
+Page 2
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+1999; see Jacoby & Rhodes, 2006) suggesting that, relative to young adults, older adults 
+have an increased reliance on automatic rather than controlled processing as a basis for 
+responding.
+Rogers et al. (2012, Experiment 2) conducted an analogous experiment examining the 
+relative contributions of automatic and controlled processes to speech perception. 
+Participants first studied semantically-related, cue-target word pairs (e.g., barn - hay) 
+presented both visually and aurally. Once participants had learned the word pairs, they 
+completed a speech perception task in which two words were presented aurally, the first 
+word in the clear and the second word in background noise. The word pairs were either the 
+same as those learned in the study phase (congruent condition; e.g., barn - hay), a cue from 
+the study phase paired with a word differing from the learned target word by a single 
+phoneme, known as a phonological neighbor (incongruent condition; e.g., barn - pay), or a 
+pair of novel, unrelated words (baseline condition; e.g., cloud - fun). The signal-to-noise 
+ratio (SNR) for the second word in the pair was set individually such that each participant 
+achieved approximately 50% accuracy in the baseline condition. Participants were tasked 
+with saying aloud the word they heard in the background noise and judging their confidence 
+that they had actually heard the word in noise on a 0–100% scale.
+In this case, controlled processes indexed participants’ ability to respond on the basis of 
+sensory information (the acoustic signal) and automatic processes indexed their reliance on 
+the semantic relationship between the two words. As in the memory experiment by Jacoby et 
+al. (2005), using either automatic or controlled processes as a basis for responding would 
+lead to a correct response in the congruent condition. However, in the incongruent condition, 
+reliance on automatic processes would lead to an incorrect response (e.g., reporting having 
+heard hay when pay was actually presented). Rogers et al. (2005) used the term false hearing 
+to refer to responses based on context in the incongruent condition that were accompanied 
+by high levels of confidence. As expected, baseline performance was approximately 50% in 
+both groups, indicating that overall audibility was equated for young and older adults. 
+Similar to the Jacoby et al. (2005, Experiment 2) findings with regards to false memory, both 
+young and older adults experienced false hearing, but older adults were more prone to false 
+hearing than were young adults. Additionally, older adults gave higher confidence ratings to 
+those incorrect responses than did young adults. Together, these findings indicate an age-
+related increase in responding based on automatic rather than controlled processes.
+In a follow-up experiment, Sommers et al. (2015, Experiment 2) demonstrated that the 
+semantic context provided by natural speech also influences perception of individual words. 
+Sommers et al. had young and older adults identify sentence-final words in background 
+noise. The target words were either highly predicted by the preceding sentence (congruent 
+condition; e.g., The shepherd watched his sheep), a phonological neighbor of the word 
+predicted by context (incongruent condition; e.g., The shepherd watched his sheath), or were 
+unpredictable from the preceding sentence (baseline condition; e.g., Paul heard they asked 
+about the sheep). As in the study by Rogers et al. (2012, Experiment 2), the SNR was set 
+individually such that each participant achieved approximately 50% accuracy in the baseline 
+condition, and all participants made a 0–100% confidence judgement after identifying each 
+target word.
+Failes et al.
+Page 3
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+The results of Sommers et al. (2015, Experiment 2) provided a conceptual replication of 
+both Jacoby et al. (2005, Experiment 2) and Rogers et al. (2012, Experiment 2). Participants 
+correctly identified in excess of 90% of target words in the congruent condition, but 
+frequently misheard the target words in the incongruent condition as the contextually 
+predicted word (e.g., responding sheep when sheath was actually presented), demonstrating 
+the ability of automatic responses - in this case provided by the preceding sentence context - 
+to override available sensory information. Furthermore, as in the studies by Jacoby et al. and 
+Rogers et al., older adults were more prone to context-based errors and were more confident 
+in those errors than were young adults, with older adults reporting maximum confidence in 
+cases of false hearing - which the authors referred to as dramatic false hearing - four times as 
+frequently as young adults (.16 vs. .04). These findings further supported the idea that older 
+adults are more reliant on automatic processes as a basis for responding than are young 
+adults. Furthermore, as in the study by Rogers et al., performance in the baseline condition 
+was equated between older and young adults by individually setting the SNR, meaning that 
+age differences observed in the congruent and incongruent conditions could not be attributed 
+to differences in hearing acuity.
+In summary, both false memories (Jacoby et al., 2005) and false perceptions (Rogers et al., 
+2012; Sommers et al., 2015) can be accounted for within the process dissociation 
+framework. Specifically, when automatic and controlled processes are placed in opposition, 
+responding based on the former can lead to errors in memory and perception. Furthermore, 
+age-related increases in both false memory and false hearing are consistent with greater 
+reliance on automatic processing by older compared with young adults (Hay & Jacoby, 
+1999; Jennings & Jacoby, 1997). In the present study, we examined whether similar 
+mechanisms mediate false memory and false perception by obtaining measures of both 
+phenomena within the same individuals. In Experiment 1, we attempted to replicate the 
+Sommers et al. (2015) finding of robust levels of false hearing in young and older adults. In 
+Experiment 2, we used the memory test from Jacoby et al. (2005, Experiment 2) to assess 
+susceptibility to false memory in the same group of young and older adults and compared 
+this to their susceptibility to false hearing from Experiment 1. Finding that individual 
+differences in false memory predict individual differences in false hearing would suggest 
+that the two phenomena may, at least in part, arise from mechanisms that are not specific to 
+either memory or perception, but instead reflect the operation of more global cognitive 
+control mechanisms, which would be critical for developing a unified theory to explain 
+context-based errors encompassing both false memory and false perception.
+Experiment 1
+Materials and Methods
+Participants—Participants in this study were 60 young adults (18 male) ages 18 to 23 (M 
+= 19.05, SD = 1.05) and 58 community-dwelling older adults (18 male) ages 65 to 81 (M = 
+71.17, SD = 4.14). Participants who required glasses or corrective lenses wore them on the 
+day of testing, and no participants reported using hearing aids. All participants were native 
+English speakers, and completed the Shipley Vocabulary Test (Shipley, 1940). Young adults 
+Failes et al.
+Page 4
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+in our study had significantly poorer vocabulary knowledge (M = 30.83, SD = 3.61) than 
+older adults (M = 34.98, SD = 2.98), t(112.80) = −6.79, p < .001.
+Stimuli and Materials—Stimuli in the hearing task were 84 high-predictability sentences 
+(hereafter referred to as congruent sentences; e.g., She put the toys in the box) and 42 carrier 
+sentences (hereafter referred to as baseline sentences; e.g., The word is page) selected from 
+the Revised Speech Perception in Noise Test (Bilger et al., 1984) or created by the 
+researchers. For each congruent sentence, an incongruent sentence was created by changing 
+either the first or last phoneme in the sentence-final target word to form an alternative word 
+that was not predicted by the sentence context (e.g., She put the toys in the fox). The length, 
+frequency, and phonological neighborhood density of all target words were gathered from 
+the English Lexicon Project (Balota et al., 2007). The length of target words in the congruent 
+(M = 4.35, SD = .99), incongruent (M = 4.36, SD = 1.05), and baseline conditions (M = 
+4.08, SD = .73) did not differ significantly, F(2,197) = 1.35, p > .05. The frequency of target 
+words in the congruent (M = 53,839, SD = 120,601.25, incongruent (M = 57,573, SD = 
+86,165.11), and baseline conditions (M = 59,267, SD = 115,873.36) also did not differ 
+significantly, F(2,197) = .04, p > .05. Finally, the phonological neighborhood density of 
+target words in the congruent (M = 19.22, SD = 11.03), incongruent (M = 19.20, SD = 
+11.45), and baseline conditions (M = 18.95, SD = 9.73) did not differ significantly, F(2,197) 
+= .01, p > .05. All sentences were recorded at 48,000 Hz and 16-bit resolution. Sentences 
+were recorded in a double-walled, sound-attenuating booth, and were spoken at a normal 
+rate by a male with a Midwestern American accent. All sentences were played at an average 
+amplitude of 64 dB SPL.
+Procedure—Participants were told that they would hear complete sentences with the final 
+word in background noise, and that their task would be to type the word presented in noise. 
+The target word (but not the preceding context) in each sentence was embedded in speech 
+shaped noise that onset 500 ms prior to the target word and continued for 500 ms after the 
+offset of the target word. The SNR was set at −4 dB SPL for all young adults and at +1 dB 
+SPL for all older adults, SNRs found to produce approximately 50% accuracy in the baseline 
+condition from pilot testing. Participants were explicitly warned that the target words would 
+sometimes be predictable based on the context provided by the sentence, but that sometimes 
+the sentence context would be misleading, and were provided examples of congruent and 
+incongruent sentences. After typing the word they heard in the background noise, 
+participants indicated their reason for providing their response by selecting one of three 
+options - hear, know, or guess - based on the remember/know paradigm (Tulving, 1985). 
+Participants were instructed to select “hear” if they heard the specific sounds of the target 
+word when it was presented, so they were certain that the response they typed was the word 
+that was presented. They were told to select “know” if they did not hear the specific sounds 
+of the target word when it was presented, but still knew that their response was the word that 
+was presented. Finally, they were told to select “guess” if they were purely guessing with no 
+idea of the correct answer. The descriptions for each of these response types were presented 
+on screen each time participants made the hear/know/guess judgement. There was no time 
+limit for identification of the target word or for the hear/know/guess judgement.
+Failes et al.
+Page 5
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Participants completed six practice trials, consisting of two baseline, two congruent, and two 
+incongruent sentences, followed by 120 test trials consisting of 40 baseline, 40 congruent, 
+and 40 incongruent sentences. It should be noted that the sentence context was only an 
+accurate cue for responding in 40 out of 120 total trials (33.33%) and therefore, if anything, 
+participants should be biased against using the sentence context as a basis for responding. In 
+order to reduce error variance from differences in presentation order, sentences within the 
+practice and test blocks were randomized once and this same order was used for all 
+participants. Each high-predictability sentence was presented with either the congruent or 
+incongruent target word and this was counterbalanced across participants so that congruent 
+and incongruent versions of the same sentence were never presented to the same participant. 
+A 1000 ms pure tone was presented to signal the start of each new trial.
+Statistical Analyses—We conducted mixed logistic regression analyses using the glmer 
+function in the lme4 package in R (Bates et al., 2015) to ensure that the context 
+manipulations had the predicted effects on accuracy. Level 1 of the model included an 
+intercept term corresponding to the odds of an accurate response in the baseline condition 
+and two dummy coded variables corresponding to the change in performance from the 
+baseline condition to the congruent and incongruent context conditions, each of which was 
+allowed to vary randomly across participants. At level 2 of the model, we included a dummy 
+coded Group variable (young adults coded 0, older adults coded 1), and the interaction of the 
+Group variable with the congruent and incongruent dummy variables from level 1. This 
+allowed us to assess the change in the odds of an accurate response from the young adult 
+group to the older adult group in the baseline condition, and the difference in the magnitude 
+of change between young and older adults from the baseline condition to the congruent and 
+incongruent conditions. The dependent variable was trial-by-trial accuracy. Fixed effect 
+estimates were converted to odds in the presented tables to facilitate interpretation.
+Susceptibility to false hearing was assessed using a second mixed logistic regression model. 
+This model included only an intercept and Group, allowing us to assess differences in 
+susceptibility to false hearing across groups. We then conducted a mixed effects multinomial 
+regression model using the brm function from the brms package in R (Bürkner, 2017) to 
+assess the relative odds of judging a false hearing experience as heard relative to known or 
+guessed. The data used in this model was a subset of data that included only cases of false 
+hearing in the incongruent condition. The model included an intercept term and Group as 
+predictors, and the intercept term was allowed to vary randomly across subjects. False 
+hearing responses classified as heard were used as the reference condition, allowing us to 
+assess the relative odds of classifying a response as heard relative to known or guessed, and 
+whether this differed across age groups. Fixed effect estimates (output as logits) were 
+exponentiated to yield an odds ratio to facilitate interpretation. Since the brms package does 
+not calculate p-values, we will report the 95% confidence intervals (CI) around the 
+exponentiated fixed effect estimates. A 95% CI that does not include 1 can be interpreted as 
+a significant effect at the α = .05 level.
+Failes et al.
+Page 6
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Results
+Accuracy—The proportion of accurate responses in each condition of the hearing task are 
+presented in Figure 1. Trends in the hearing task are consistent with those of Rogers et al. 
+(2012, Experiment 2). While participants achieved accuracy between 50% and 70% on 
+average in the baseline condition, they demonstrated nearly perfect performance when the 
+target word was preceded by a congruent semantic context. On the other hand, performance 
+suffered when the target word was preceded by an incongruent semantic context. The mixed 
+logistic regression model confirmed these trends (Table 1). First, it is important to note that 
+the groups differed in the baseline condition, with the odds of an older adult accurately 
+identifying the target word being 1.35 times greater than young adults (z = 1.35, p < .05). 
+This was surprising given that we used SNRs identified in a pilot study to equate the age 
+groups in baseline performance. One potential consequence of the inequality between 
+groups in the baseline condition is that older adults may have a more limited ability to 
+benefit from congruent context due to their elevated baseline performance. However, our 
+data suggest that this was not the case. Whereas we found that the odds of correctly 
+identifying the target word was more than 8.34 times greater in the congruent condition than 
+in the baseline condition for young adults (z = 16.59, p < .001), older adults actually 
+experienced greater benefit from congruent context (z = 2.90, p < .01). Similarly, whereas 
+the odds of correctly identifying the target word in the incongruent condition for young 
+adults was 2.35 times worse than in the baseline condition (z = −7.93, p < .001), older adults 
+experienced an even greater detriment to performance (z = −2.28, p < .05). Thus, despite 
+older adults being more likely than young adults to accurately identify the target word in the 
+baseline condition, older adults were influenced by available contextual cues to a greater 
+degree than were young adults.
+False Hearing—We next investigated group differences in susceptibility to false hearing in 
+incongruent trials of the hearing task. We found that both young and older adults frequently 
+reported hearing the contextually predicted word in the incongruent condition (see Figure 1). 
+Additionally, as shown in Table 2, the odds that an older adult would experience false 
+hearing was 1.41 times greater than for a young adult, which was significant (z = 1.95, p 
+= .05). Thus, we replicated the findings of past studies that older adults are more susceptible 
+to false hearing than young adults (Rogers et al., 2012; Sommers et al., 2015).
+Subjective Experience of False Hearing—Finally, we investigated the likelihood of 
+experiencing false hearing rated as heard, known, or guessed across groups. As shown in 
+Figure 2, both young and older adults frequently (and incorrectly) judged that they had heard 
+the contextually predicted word in the incongruent condition when a similar sounding but 
+unpredicted word was, in fact, presented. Young adults were more likely to judge cases of 
+false hearing as heard than known (OR = .43, 95% CI = .32 – .58) or guessed (OR = .05, 
+95% CI = .03 – .08). The difference in the odds of judging cases of false hearing as heard 
+relative to known was even greater in older adults (OR = .47, 95% CI = .30 – .72), but the 
+difference in the odds of judging cases of false hearing as heard relative to guessed did not 
+differ significantly across groups (OR = 1.02, 95% CI = .54 – 2.03).
+Failes et al.
+Page 7
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Experiment 1 Discussion
+Taken together, the results of Experiment 1 look quite similar to those in the studies by 
+Rogers et al. (2012, Experiment 2) and Sommers et al. (2015, Experiment 2). In all cases, 
+accuracy was modulated by the validity of contextual cues, with the highest accuracy when 
+contextual cues were valid predictors of the sentence final word (congruent condition), 
+followed by when there were no contextual cues (baseline condition), and then by when 
+contextual cues were misleading (incongruent condition). Importantly, we also replicated the 
+finding of increased susceptibility to false hearing exhibited by older, relative to young, 
+adults observed in past studies. This finding was particularly remarkable given that older 
+adults exhibited improved audibility of the target word relative to young adults in the 
+baseline condition. Thus, older adults were more likely to use context as a basis for 
+responding than young adults even when the auditory stimulus was easier to discern for 
+older adults. This further supports the idea that older adults are over-reliant on contextual 
+cues in speech perception, such that they continue to use contextual cues even when they are 
+not valid.
+A novel contribution of Experiment 1 was assessing the subjective experience of false 
+hearing through hear/know/guess judgements. We found that both young and older adults 
+were more likely to judge cases of false hearing as heard as opposed to either known or 
+guessed. Additionally, older adults were more likely to judge cases of false hearing as heard 
+as opposed to known than were young adults. These findings mirror those in false memory, 
+where older adults have been shown to be more likely to judge their false memories as 
+“remembered” than young adults (Jacoby et al., 2005, Experiment 2).
+Experiment 2
+Having established robust rates of false hearing in our group of older adults, we next sought 
+to determine whether this over-reliance on context would transfer to a task in a completely 
+different domain: memory. We employed the same memory task that was used by Jacoby et 
+al. (2005, Experiment 2) described above, which produced high rates of false memory in 
+older adults.
+In Experiment 2, we first sought to determine whether memory accuracy was affected by 
+valid, neutral, and misleading contextual cues in a similar way as in the hearing task in 
+Experiment 1. We expected that participants’ memory would be best when cued with a valid 
+prime, followed by neutral primes, and then by misleading primes. Based on the findings of 
+Jacoby et al. (2005, Experiment 2), we expected that participants would frequently 
+experience false memories when primes were misleading, and that participants - particularly 
+older adults - would often judge their false memories as remembered. Most importantly, we 
+predicted that older adults who were more susceptible to false hearing in Experiment 1 
+would be more susceptible to false memory in Experiment 2. This would suggest that false 
+hearing and false memory may share a common cognitive mechanism, as opposed to being 
+driven by separate, domain-specific mechanisms.
+Failes et al.
+Page 8
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Materials and Methods
+Participants—Participants were the same 60 young adults and 58 community-dwelling 
+older adults from Experiment 1. Participants completed Experiments 1 and 2 during separate 
+1-hour sessions on different days.
+Stimuli and Materials—Participants completed two phases in this task, a study phase and 
+a test phase. Stimuli in the study phase were 99 semantically related cue-target word pairs 
+(e.g., head - skull). Cue words ranged from three to nine letters in length (M = 5.08, SD = 
+1.41), and target words ranged from three to seven letters in length (M = 4.59, SD = .79). 
+Stimuli in the test phase consisted of the same cues from the study phase matched with a 
+fragment of its paired target created by replacing certain letters with dashes (e.g., head - s--
+l-). Target words in the test phase had between one and five letters replaced by dashes (M = 
+2.21, SD = .71), and retained between one and four letters (M = 2.38, SD = .63), although all 
+but one fragment (-u- for the target word “mug”) retained at least two letters. The primes in 
+the test phase were either the target word from the study phase (congruent condition; e.g., 
+skull), an alternative word that could complete the target fragment and that was semantically 
+related to the cue (incongruent condition; e.g., scalp), or a string of five ampersands 
+(&&&&&), which provided no predictive value for the fragment completion task (baseline 
+condition). There were no differences in target word length between the congruent (M = 
+4.57, SD = .73), incongruent (M = 4.47, SD = .78), and baseline conditions (M = 4.73, SD 
+= .87), F(2,87) = .87, p > .05. We obtained the log frequencies for targets in the congruent 
+(M = 9.37, SD = 2.01), incongruent (M = 9.67, SD = 1.55), and baseline conditions (M = 
+9.29, SD = 1.74) from the English Lexicon Project (Balota et al., 2007), and found that there 
+were no differences in target word frequency across conditions, F(2,87) = .38, p > .05).
+Procedure—Participants were told to study a list of semantically related word pairs for a 
+later memory test. They were shown six cue-target word pairs as examples. Following the 
+examples, participants completed the study phase, in which 90 cue-target word pairs were 
+presented. An additional three cue-target word pairs were presented following the study 
+phase to act as a buffer against the recency effect. For young adults, each word pair was 
+presented for 1000 ms, whereas each word pair was presented for 3000 ms for older adults, a 
+manipulation used by Jacoby et al. (2005) to equate memory for words in the baseline 
+condition. An interstimulus interval (ISI) of 500 ms separated each cue-target word pair. All 
+stimuli in the study phase were presented in a pre-determined random order and this order 
+was used for all participants, and each cue-target word pair was presented only once.
+To equate the interval from the first word in the study phase to the last word in the buffer 
+trials, young adults waited 186 seconds before starting the memory test, whereas older adults 
+started the memory test immediately following the buffer trials. In the memory test, 
+participants were again shown the word pairs from the learning phase, but in each case the 
+second word in the pair was fragmented by substituting dashes for some of the letters. 
+Participants were instructed that their job was to complete the word fragment by typing the 
+word that accurately completed the learned word pair from the study phase. Before each 
+cue-fragment pair was presented, a congruent, incongruent, or baseline prime was flashed on 
+screen. Participants were explicitly warned at the start of the study that primes would appear, 
+Failes et al.
+Page 9
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+and were told that the prime would either be the target word from the study phase, in which 
+case they should use this word to complete the word fragment, an unstudied word that was 
+semantically related to the presented cue and that could complete the word fragment, in 
+which case they should not use this word to complete the word fragment, or a string of 
+ampersands. The prime remained on screen for 500 ms and offset 500 ms before 
+presentation of the fragmented target word. Participants completed 30 trials in each of the 
+three prime conditions (congruent, baseline, and incongruent), and trials were presented in a 
+pre-determined random order. It should be noted that the prime was only an accurate cue for 
+memory in 30 out of 90 total trials (33.33%) and therefore, if anything, participants should 
+be biased against using the prime as a basis for responding.
+After typing the word that completed each cue-target word pair, participants indicated their 
+reason for providing their response by selecting one of three options: remember, know, or 
+guess (Tulving, 1985). Participants were told to select “remember” if they recalled specific 
+details of the word’s presentation in the study list, so they were certain that their response 
+was the word from the study list. They were told to select “know” if they knew that they had 
+studied the word they typed, but could not recall specific details about studying it. Finally, 
+they were told to select “guess” if they were purely guessing with no idea of the correct 
+answer. The descriptions for each these response types were presented on screen each time 
+participants made the remember/know/guess judgement.
+Statistical Analyses—Statistical analyses were identical to Experiment 1, predicting 
+accurate responses, susceptibility to false memory in general, and susceptibility to false 
+memories judged as remembered, known, or guessed. In addition to these analyses, we 
+compared susceptibility to false memory to susceptibility to false hearing from Experiment 
+1. For this analysis, we created a mixed effects logistic regression predicting trial-by-trial 
+false hearing from Experiment 1. We included each participant’s z-scored average 
+susceptibility to false memory from Experiment 2 and Group as predictors, as well as the 
+interaction between susceptibility to false memory and Group. As in the other models 
+conducted in this experiment, the intercept term was allowed to vary randomly across 
+subjects.
+Results
+Accuracy—The proportion of accurate responses in each condition of the memory task are 
+shown in Figure 3. Our data replicate those of Jacoby et al. (2005), with congruent primes 
+improving memory accuracy relative to baseline primes, and incongruent primes decreasing 
+accuracy relative to baseline primes. These trends were confirmed by our mixed logistic 
+regression model (see Table 3). As in the hearing task in Experiment 1, performance in the 
+age groups was not equated in the baseline condition. The odds of an accurate response in 
+the baseline condition were 1.52 times greater for older adults than young adults (z = 4.05, p 
+< .001). The inequality in the baseline condition was surprising given that we used the exact 
+same task as that used by Jacoby et al. (2005, Experiment 2), where young and older adults 
+achieved equivalent performance in the baseline condition. Despite the inequality in the 
+baseline condition, we again observed that the performance of older adult participants was 
+impacted to a greater degree by context than was that of young adults. When the word 
+Failes et al.
+Page 10
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+fragment was preceded by a congruent prime, the odds that young adults would correctly 
+complete the word fragment increased by a factor of 4.90 relative to the baseline condition 
+(z = 11.61, p < .001). However, when the prime was misleading (i.e., in the incongruent 
+condition), the odds that young adults would correctly complete the word fragment 
+decreased by a factor of 1.93 relative to the baseline condition (z = −5.67, p < .001). The 
+differences between the baseline condition and both the congruent (OR = 1.63, z = 2.36, p 
+< .05) and incongruent conditions (OR = .40, z = −5.32, p < .001) was greater in older, 
+relative to young, adults. Thus, as in the hearing task in Experiment 1, accuracy in the 
+memory task was modulated by the validity of available contextual cues, in this case, the 
+primes.
+False Memory—We next compared the likelihood of participants incorrectly completing 
+the word fragment with the incongruent prime word (i.e., experiencing a false memory) 
+across age groups (Table 4). We found that the odds that older adults would experience a 
+false memory was 1.64 times greater than for young adults (z = 2.47, p < .05). This 
+replicates the findings of Jacoby et al. (2005, Experiment 2), who reported that older adults 
+were more likely to falsely remember having studied the prime word in the incongruent 
+condition than young adults.
+Subjective Experience of False Memory—We next investigated the likelihood of 
+experiencing false memories rated as remembered, known, or guessed across groups. As 
+shown in Figure 4, both young and older adults frequently judged cases of false memory as 
+remembered. However, unlike for false hearing in Experiment 1, young adults were not more 
+likely to judge cases of false memory as remembered than either known (OR = 1.17, 95% CI 
+= .73 – 1.86) or guessed (OR = 1.36, 95% CI = .85 – 2.21). The difference in the odds of 
+judging cases of false memory as remembered relative to known was not different in older 
+adults than in young adults (OR = .52, 95% CI = .27 – 1.00). However, the difference in the 
+odds of judging cases of false memory as remembered relative to guessed was greater in 
+older adults (OR = .19, 95% CI = .09 – .37). In fact, whereas young adults were non-
+significantly more likely to judge their false memories as guessed than remembered, older 
+adults displayed the opposite pattern.
+Relationship between False Memory and False Hearing—Our final set of analyses 
+sought to answer the question of whether performance on the memory task could be used to 
+predict performance on the hearing task from Experiment 1. We first conducted a basic 
+Pearson’s product moment correlation between average susceptibility to false hearing and 
+average susceptibility to false memory on incongruent trials of the hearing and memory 
+tasks, respectively (see Figure 5). The correlation was significant (r = .39, p < .001), 
+indicating that participants who were more susceptible to false hearing also tended to be 
+more susceptible to false memory.
+The results of the mixed-effect logistic regression model supported the same relationship. 
+We found that the interaction between susceptibility to false memory and Group was non-
+significant (OR = 1.20, z = .99, p > .05), so we removed it from the model since it may 
+obscure the main effects of false memory and Group. In the updated model (see Table 5), a 
+one standard deviation increase in susceptibility to false memory increased the odds of 
+Failes et al.
+Page 11
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+experiencing false hearing by a factor of 1.45, which was significant (z = 4.34, p < .001). 
+Thus, participants who were more susceptible to false memory also tended to be more 
+susceptible to false hearing, and this relationship did not differ across age groups.
+Experiment 2 Discussion
+In all, the results of Experiment 2 replicated those of Jacoby et al. (2005, Experiment 2), 
+showing that both young and older adults employ available contextual cues as a basis for 
+responding in the memory task. Additionally, as in the hearing task in Experiment 1, older 
+adults - and, to a lesser degree, young adults - continued to use contextual cues even when 
+context was misleading, resulting in high rates of false memory. Thus, older adults were 
+overly reliant on contextual cues in both hearing and memory.
+Similarly to false hearing in Experiment 1, older adults were more likely to judge their false 
+memories as remembered relative to known or guessed. Unlike in Experiment 1, however, 
+young adults’ subjective experience was better tuned to the accuracy of their response, as 
+they were non-significantly more likely to judge false memories as guessed as opposed to 
+remembered or known. This suggests that young adults had better metacognition regarding 
+the accuracy of their false memory responses than their false hearing responses.
+Importantly, older adults’ susceptibility to false memory in Experiment 2 was predictive of 
+their susceptibility to false hearing in Experiment 1. Participants who were more susceptible 
+to false hearing in Experiment 1 also tended to be more susceptible to false memory in 
+Experiment 2. These findings suggest that the ability to resist misleading contextual cues in 
+speech perception and in memory may rely, at least in part, on a common cognitive 
+mechanism as opposed to separate, domain-specific mechanisms.
+It is notable that there was no significant age difference in the magnitude of the relationship 
+between false hearing and false memory, as indicated by the non-significant interaction 
+between age group and average susceptibility to false memory predicting trial-by-trial false 
+hearing. One explanation for this lack of age differences is that our study may simply have 
+been underpowered to detect age group differences in the magnitude of the relationship 
+between false hearing and false memory. Indeed, looking at the raw correlations between 
+false hearing and false memory revealed a larger correlation in older adults (r = .44, p 
+< .001) than in young adults (r = .21, p =.11). This suggests that the relationship between 
+false hearing and false memory may have been greater in older, relative to young, adults. 
+Additionally, age differences in the magnitude of the relationship between false hearing and 
+false memory may have been mitigated by unequal performance between groups in the 
+baseline condition of both the hearing and memory tasks. Since older adults were better able 
+to identify the target word in the absence of contextual cues than were young adults, they 
+may have had less need to rely on context as a basis for responding relative to if their 
+performance in the baseline condition had been equal to that of the young adult group. This 
+would diminish the positive relationship between age and reliance on context as a basis for 
+responding reported in past studies (Rogers et al., 2012; Sommers et al., 2015), which could, 
+in turn, mitigate age differences in the magnitude of the correlation between false hearing 
+and false memory. Future studies should test whether age groups differ in the magnitude of 
+Failes et al.
+Page 12
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+the relationship between false hearing and false memory with a larger sample size and with 
+age groups equated in baseline performance to determine whether this effect emerges.
+General Discussion
+In the present study, we compared young and older adults’ performance on a hearing task 
+and a memory task to determine whether susceptibility to false hearing was correlated with 
+susceptibility to false memory. We were able to successfully replicate the findings of 
+Sommers et al. (2015, Experiment 2) and Jacoby et al. (2005, Experiment 2) using their 
+respective hearing and memory tasks. In both tasks, adding predictive context significantly 
+improved performance relative to when no context was present, supporting the findings of 
+past studies showing that older adults are able to use available contextual cues to support 
+memory (Jacoby, 1999; Jacoby et al., 2005, Experiment 2) and hearing (Dubno et al. , 2000; 
+Hutchinson, 1989; Rogers et al., 2012, Experiment 2; Sommers et al., 2015, Experiment 2). 
+However, introducing misleading context was detrimental to performance relative to 
+baseline, with participants often providing the contextually predicted response, leading to 
+robust rates of both false hearing and false memory. Importantly, we found that participants 
+who were more prone to false hearing also tended to be more prone to false memory. This 
+finding supports the idea that false hearing and false memory share at least one common 
+underlying mechanism.
+As noted above, the process dissociation framework (Jacoby, 1991) provides a platform for 
+understanding how the distinct tasks used to elicit false hearing and false memories may 
+engage similar underlying mechanisms. Specifically, the process dissociation framework 
+provides a method for establishing the independent contributions of controlled and 
+automatic processes to memory and speech perception. Our findings suggest that 
+susceptibility to both false hearing and false memory stems primarily from an overreliance 
+on automatic processes, resulting in an inability to resist a prepotent, but inaccurate, 
+response. On incongruent trials of the hearing task, participants had to resist a response 
+option that was made highly salient by the preceding sentence context and listen closely to 
+the presented target word in order to give the unpredicted, but correct, response. Similarly, 
+on incongruent trials of the memory task, an unstudied word that could complete the 
+fragment was presented as a prime before the fragment completion task, making it a highly 
+salient response option. To correctly complete the fragment, participants had to resist the 
+salient, but false, prime and engage in conscious recollection to remember the studied word 
+that completed the word pair. Therefore, a failure to resist a salient, automatic response is 
+one possible mechanism to explain the correlation between false hearing and false memory 
+observed in our study.
+One model that has been used to explain age-related increases in automatic processes as a 
+basis for responding is the capture model (Jacoby et al., 2005; see also Millar et al., 2018). 
+According to this model, false memories can arise from two different processes. First, 
+participants may be “captured” by the available contextual cues, leading them to provide the 
+context-based response without attempting to recollect the studied target word. Second, false 
+memories can occur when the individual is not captured by context, but their attempt at 
+recollecting the studied target word fails. In this second scenario, the individual may provide 
+Failes et al.
+Page 13
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+the contextually predicted response because it is an easily accessible and plausible response 
+option. Jacoby et al. found that the capture model - which included parameters for capture, 
+recollection, accessibility bias (i.e., the probability of generating the prime in the memory 
+task when attempts at recollection failed), and word generation (i.e., the probability of 
+generating the pre-selected alternative word in the memory task) - provided a better fit to 
+their data than a model that only included parameters for recollection, accessibility bias, and 
+word generation. This suggests that automatic capture by the prime made an important 
+contribution to responding in their memory task. This was especially true for older adults in 
+their sample, who were more prone to capture than young adults. In fact, the authors found 
+that young and older adults differed only in the capture parameter, and did not differ in 
+recollection, accessibility bias, or word generation. More recently, however, Millar et al. 
+(2018) found that age differences in the same memory task were best explained by a model 
+that accounted for both older adults’ increased susceptibility to capture and decreased 
+likelihood of recollecting the target word relative to young adults, with no age differences in 
+accessibility bias or word generation.
+Importantly, the recollection parameter in the studies by Jacoby et al. (2005, Experiment 2) 
+and Millar et al. (2018) reported above corresponded to performance in the baseline 
+condition of the memory task: Answering correctly in the baseline condition required 
+participants to remember the target word without the influence of contextual cues. As was 
+true of the recollection parameter, age groups did not differ in the baseline condition of the 
+study by Jacoby et al., whereas older adults displayed poorer performance than young adults 
+in the baseline condition of the study by Millar et al.. In the present study, it is interesting to 
+note that older adults were more likely to experience false hearing and false memory than 
+young adults despite having higher baseline accuracy in both tasks (i.e., being better able to 
+hear and recollect the target words). This lends further support to the idea that age-related 
+declines in cognitive control - as opposed to declines in hearing or memory per se - gave rise 
+to older adults’ increased susceptibility to false hearing and false memory in the present 
+study.
+Although the capture model has not been tested with regards to false hearing, the same 
+parameters that were used successfully to explain false memory can also be applied to the 
+false hearing paradigm. When the preceding sentence context is highly predictive of a 
+sentence-final word in noise, individuals may be captured by the context, leading 
+participants to report hearing the word predicted by context without attending to the target 
+word itself. As was the case with false memory, false hearing can also occur when 
+individuals are unable to identify the target word (in this case because of the presence of 
+noise), leading them to provide the contextually predicted response due to its accessibility 
+and plausibility. The fit of the capture model to false hearing should be tested in future 
+studies, as it may help to dissociate between automatic capture by context and context-based 
+guessing, and may provide a framework for understanding older adults’ increased 
+susceptibility to false hearing relative to young adults. Additionally, fitting the capture model 
+to hearing data may help to distinguish between age-related deficits in cognitive control and 
+sensation, just as it has been useful for distinguishing between age-related deficits in 
+cognitive control and memory per se (Jacoby et al., 2005; Millar et al., 2018). Finding that 
+age-related deficits in cognitive control contribute to errors in hearing would motivate 
+Failes et al.
+Page 14
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+development of cognitive interventions to supplement sensory interventions (e.g., hearing 
+aids) when treating hearing loss, which could improve speech perception outcomes for older 
+adults.
+The idea that false memory and false hearing can occur when the individual is captured by 
+available contextual cues is similar to a prevalent theory that false memories result, in part, 
+from failures to inhibit a prepotent response (see Balota et al., 1999). According to this 
+theory, contextually predicted, but unpresented, words or events can become activated due to 
+their association with actually presented words or contextual cues, which can lead 
+participants to falsely remember that the unpresented word or event had been present in the 
+studied material. Within this framework, inhibitory control is thought to be required to 
+suppress activation of words or events that become activated due to spreading activation 
+rather than from their presence in the studied information. Since inhibitory control is thought 
+to be needed to suppress a prepotent response, it is possible that poor inhibitory control 
+increases the likelihood of being captured by misleading contextual cues. Thus, individual 
+differences in inhibitory control could account for differences in susceptibility to both false 
+memory and false hearing. Differences in inhibitory control could also account for older 
+adults’ greater susceptibility to both false memory (Jacoby et al., 2005) and false hearing 
+(Rogers et al., 2012; Sommers et al., 2015) relative to young adults, as older adults have 
+been found to exhibit poorer inhibitory control than young adults (Cohn et al., 1984; Hasher 
+et al., 1997; Hasher & Zacks, 1988; Sommers & Huff, 2003).
+In support of the role of inhibitory control in false memory, two studies (Colombel et al., 
+2016; Sommers & Huff, 2003) have shown that poor inhibitory control is related to 
+increased susceptibility to associative false memories in the Deese/Roediger-McDermott 
+(DRM) paradigm (Deese, 1959; Roediger & McDermott, 1995). Sommers and Huff (2003, 
+Experiment 2), for example, showed that poor inhibitory control - as measured by an 
+auditory Stroop task - was related to increased susceptibility to both false recall and false 
+recognition in a DRM paradigm using phonologically-related word lists. Additionally, 
+several studies have found that age-related differences in executive functioning - a set of 
+cognitive processes including inhibitory control that regulate planning and goal-directed 
+behavior (see Wheeler et al., 1997) - accounts for age-differences in susceptibility to false 
+memory, such that age-differences in false memory are reduced or disappear when 
+comparing older adults with high executive functioning to young adults (Butler et al., 2004; 
+McCabe et al., 2009; Roediger & Geraci, 2007).
+The idea that both false hearing and false memory may result from failures of inhibitory 
+control can help to explain why participants often reported the subjective experience of 
+“hearing” or “remembering” in cases of false hearing and false memory in our study. If it is 
+the case that false hearing and false memory can occur when a response option becomes 
+highly activated due to preceding context, it is plausible that the subjective experience in 
+these cases may be similar to that of veridical hearing or memory. In our hearing task, there 
+are two sources of information upon which to base a response: context and the sensory 
+signal. If one’s perceptual experience is determined by whatever response gains the most 
+activation, as would be argued by models of speech perception such as the Neighborhood 
+Activation Model (Luce & Pisoni, 1998), then the source of the activation - context or 
+Failes et al.
+Page 15
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+sensory information - should not matter when it comes to the perceptual experience. 
+Similarly, in memory, one’s subjective memory can be determined by the degree of 
+activation from context relative to that of the original memory trace. Thus, in cases where 
+participants reported the experience of hearing or remembering in cases of false hearing and 
+false memory, it may be the case that the activation provided by context exceeded that of the 
+sensory signal or memory trace.
+It is clear from our data, however, that cases of false hearing and false memory are not 
+always accompanied by the subjective experience of hearing or remembering. In the case of 
+false memory in particular, participants frequently characterized their responses as either 
+known or guessed. This would be expected based on the explanation of false memory 
+provided by the capture model proposed by Jacoby et al. (2005). As described above, false 
+memory - and, we argue, false hearing - can result either from being captured by context or 
+from context-based guessing. Jacoby et al. argued that whereas cases of false memory 
+resulting from capture would be characterized as remembered or known, cases of false 
+memory that do not result from capture would be more likely to be characterized as guesses.
+Based upon this explanation, both false hearing and false memory in our study were more 
+likely to result from capture than context-based guessing, evidenced by the proportion of 
+responses characterized as heard/remembered or known relative to guessed. However, our 
+findings suggest that a greater proportion of cases of false hearing (see Figure 2) resulted 
+from capture than false memory (see Figure 4). This was likely due to differences in the 
+strength of contextual cues in the hearing and memory tasks. In the hearing task, context was 
+provided by highly predictive sentences, whereas in the memory task, context was a single 
+prime word. Therefore, we suggest that the likelihood of being captured by context is 
+determined in part by the predictive strength of available contextual cues. Future studies 
+should investigate the relationship between predictive strength and subjective experience in 
+false hearing and false memory.
+Conclusions
+Previous studies (Jacoby et al., 2012; Rogers et al., 2012) have suggested that false hearing 
+and false memory result from a common mechanism. The present study is the first to explore 
+this hypothesis directly by comparing rates of false hearing to those of false memory in 
+young and older adults. We found that participants who were more prone to false hearing 
+were also more prone to false memory, supporting the idea that the two phenomena share at 
+least one common mechanism. As in past studies (Jacoby et al., 2012; Rogers et al., 2012), 
+we suggested that the mechanism underlying both false hearing and false memory is a deficit 
+in inhibitory control, leading participants to respond based on available context, even when 
+the context is misleading. In support of this hypothesis, we drew upon the capture model 
+proposed by Jacoby et al. (2005) and described its compatibility with the patterns observed 
+in our study, both in terms of response accuracy and subjective experience.
+Acknowledgements
+We would like to acknowledge the hard work of the research assistants in the Speech & Hearing lab at Washington 
+University in St. Louis - Adam Isaacs, Aryn Lyke, Audrey Ulfers, Davis Holmes, Forrest Whiting, and Zi’Onay 
+Walker - who aided in data collection.
+Failes et al.
+Page 16
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Funding
+This project was funded by the National Institutes of Health (NIH) [1 R21AG041958-01A1].
+References
+Alba JW, & Hasher L (1983). Is memory schematic? Psychological Bulletin, 93, 203–231. 
+10.1037/0033-2909.93.2.203
+Balota DA, Cortese MJ, Duchek JM, Adams D, Roediger HL III, McDermott KB, & Yerys BE (1999). 
+Veridical and false memories in healthy older adults and in dementia of the Alzheimer’s type. 
+Cognitive Neuropsychology, 16, 361–384. 10.1080/026432999380834
+Balota DA, Yap MJ, Cortese MJ, Hutchison KA, Kessler B, Loftis B, Neely JH, Nelson DL, Simpson 
+GB, & Treiman R (2007). The English Lexicon Project. Behavior Research Methods, 39, 445–459. 
+10.3758/BF03193014 [PubMed: 17958156] 
+Bartlett FC (1932). Remembering: A study in experimental and social psychology. Cambridge, 
+England: Cambridge University Press.
+Bates D, Maechler M, Bolker B, Walker S (2015). Fitting linear mixed-effects models using lme4. 
+Journal of Statistical Software, 67, 1–48. 10.18637/jss.v067.i01
+Bilger RC, Nuetzel JM, Rabinowitz WM, & Rzeczkowski C (1984). Standardization of a test of speech 
+perception in noise. Journal of Speech and Hearing Research, 27, 32–48. 10.1121/1.2017541 
+[PubMed: 6717005] 
+Bugelski BR, & Alampay DA (1961). The role of frequency in developing perceptual sets. Canadian 
+Journal of Psychology, 15, 205–211. 10.1037/h0083443 [PubMed: 13874512] 
+Bürkner P (2017). brms: An R package for Bayesian multilevel models using Stan. Journal of 
+Statistical Software, 80, 1–28. 10.18637/jss.v080.i01
+Butler KM, McDaniel MA, Dornburg CC, Price AL, & Roediger HL III (2004). Age differences in 
+veridical and false recall are not inevitable: The role of frontal lobe function. Psychonomic Bulletin 
+& Review, 11, 921–925. 10.3758/BF03196722 [PubMed: 15732704] 
+Cohn NB, Dustman RE, & Bradford DC (1984). Age-related decrements in Stroop Color Test 
+performance. Journal of Clinical Psychology, 40, 1244–1250. 
+10.1002/1097-4679(198409)40:5<1244::AID-JCLP2270400521>3.0.CO;2-D [PubMed: 6490922] 
+Colombel F, Tessoulin M, Gilet A-L, & Corson Y (2016). False memories and normal aging: Links 
+between inhibitory capacities and monitoring processes. Psychology and Aging, 31, 239–248. 
+10.1037/pag0000086 [PubMed: 27111523] 
+Coren S, & Girgus JS (1978). Seeing is deceiving: The psychology of visual illusions. Hillsdale, NJ: 
+Erlbaum.
+Deese J (1959). On the prediction of occurrence of particular verbal intrusions in immediate recall. 
+Journal of Experimental Psychology, 58, 17–22. 10.1037/h0046671 [PubMed: 13664879] 
+Dubno JR, Ahlstrom JB, Horwitz AR (2000). Use of context by young and aged adults with normal 
+hearing. Journal of the Acoustical Society of America, 107, 538–546. 10.1121/1.428322 [PubMed: 
+10641662] 
+Hasher L, Quig MB, & May CP (1997). Inhibitory control over no-longer relevant information: Adult 
+age differences. Memory & Cognition, 25, 286–295. 10.3758/BF03211284
+Hasher L, & Zacks RT (1988). Working memory, comprehension, and aging: A review and a new view. 
+Psychology of Learning and Motivation, 22, 193–225. 10.1016/S0079-7421(08)60041-9
+Hay JF, & Jacoby LL (1999). Separating habit and recollection in young and older adults: Effects of 
+elaborative processing and distinctiveness. Psychology and Aging, 14, 122–134. 
+10.1037/0882-7974.14.1.122 [PubMed: 10224637] 
+Hutchinson KM (1989). Influence of sentence context on speech perception in young and older adults. 
+Journal of Gerontology: Psychological Sciences, 44, 36–44. 10.1093/geronj/44.2.p36
+Jacoby LL (1991). A process dissociation framework: Separating automatic from intentional uses of 
+memory. Journal of Memory and Language, 30, 513–541. 10.1016/0749-596X(91)90025-F
+Jacoby LL (1999). Deceiving the elderly: Effects of accessibility bias in cued-recall performance. 
+Cognitive Neuropsychology, 16, 417–436. 10.1080/026432999380861
+Failes et al.
+Page 17
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Jacoby LL, Bishara AJ, Hessels S, & Toth JP (2005). Aging, subjective experience, and cognitive 
+control: Dramatic false remembering by older adults. Journal of Experimental Psychology: 
+General, 134, 131–148. 10.1037/0096-3445.134.2.131 [PubMed: 15869342] 
+Jacoby LL, & Rhodes MG (2006). False remembering in the aged. Current Directions in Psychological 
+Science, 15, 49–53. 10.1111/j.0963-7214.2006.00405.x
+Jacoby LL, Rogers CS, Bishara AJ, & Shimizu Y (2012). Mistaking the recent past for the present: 
+False seeing by older adults. Psychology and Aging, 27, 22–32. 10.1037/a0025924 [PubMed: 
+22023508] 
+Jennings JM, & Jacoby LL (1997). An opposition procedure for detecting age-related deficits in 
+recollection: Telling effects of repetition. Psychology and Aging, 12, 352–361. 
+10.1037/0882-7974.12.2.352 [PubMed: 9189995] 
+Luce PA, & Pisoni DB (1998). Recognizing spoken words: The Neighborhood Activation Model. Ear 
+Hear, 19, 1–36. 10.1097/00003446-199802000-00001 [PubMed: 9504270] 
+McCabe DP, Roediger HL III, McDaniel MA, & Balota DA (2009). Aging reduces veridical 
+remembering but increases false remembering: Neuropsychological test correlates of remember-
+know judgments. Neuropsychologia, 47, 2164–2173. 10.1016/j.neuropsychologia.2008.11.025 
+[PubMed: 19100756] 
+Millar PR, Balota DA, Bishara AJ, & Jacoby LL (2018). Multinomial models reveal deficits of two 
+distinct controlled retrieval processes in aging and very mild Alzheimer disease. Memory & 
+Cognition, 46, 1058–1075. 10.3758/s13421-018-0821-9 [PubMed: 29796864] 
+Roediger HL III, & Geraci L (2007). Aging and the misinformation effect: A neuropsychological 
+analysis. Journal of Experimental Psychology: Learning, Memory, and Cognition, 33, 321–334. 
+10.1037/0278-7393.33.2.321
+Roediger HL III, & McDermott KB (1995). Creating false memories: Remembering words not 
+presented in lists. Journal of Experimental Psychology: Learning, Memory, and Cognition, 21, 
+803–814. 10.1037/0278-7393.21.4.803
+Rogers CS, Jacoby LL, Sommers MS (2012). Frequent false hearing by older adults: The role of age 
+differences in metacognition. Psychology and Aging, 27, 33–45. 10.1037/a0026231 [PubMed: 
+22149253] 
+Shipley WC (1940). A self-administering scale for measuring intellectual impairment and 
+deterioration. The Journal of Psychology, 9, 371–377. 10.1080/00223980.1940.9917704
+Sommers MS, & Huff LM (2003). The effects of age and dementia of the Alzheimer’s type on 
+phonological false memories. Psychology and Aging, 18, 791–806. 10.1037/0882-7974.18.4.791 
+[PubMed: 14692865] 
+Sommers MS, Morton J, & Rogers C (2015). You are not listening to what I said: False hearing in 
+young and older adults In Lindsay DS, Kelley CM, Yonelinas AP, & Roediger HL III (Eds), 
+Remembering: Attributions, Processes, and Control in Human Memory (essays in Honor of Larry 
+Jacoby) (pp. 269–284). New York, NY: Psychology Press.
+Tulving E (1985). Memory and consciousness. Canadian Psychology, 26, 1–12. 10.1037/h0080017
+Wheeler MA, Stuss DT, & Tulving E (1997). Toward a theory of episodic memory: The frontal lobes 
+and autonoetic consciousness. Psychological Bulletin, 121, 331–354. 
+10.1037/0033-2909.121.3.331 [PubMed: 9136640] 
+Failes et al.
+Page 18
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 1. 
+Mean proportion of correct responses (hits) across possible response types and cases of false 
+hearing (FH) in the hearing task. Error bars represent 95% confidence intervals.
+Failes et al.
+Page 19
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 2. 
+Proportion of false hearing responses on incongruent trials rated as hear, know, or guess. 
+Error bars represent 95% confidence intervals.
+Failes et al.
+Page 20
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 3. 
+Mean proportion of correct responses (hits) across possible response types and cases of false 
+memory (FM) in the memory task. Error bars represent 95% confidence intervals.
+Failes et al.
+Page 21
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 4. 
+Proportion of false memory responses on incongruent trials rated as remember, know, or 
+guess. Error bars represent 95% confidence intervals.
+Failes et al.
+Page 22
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 5. 
+Correlation between average susceptibility to false hearing and average susceptibility to 
+false memory (r = .39).
+Failes et al.
+Page 23
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Failes et al.
+Page 24
+Table 1
+Odds of an accurate response by condition in the hearing task
+Accurate response
+Predictors
+Odds Ratios
+CI
+P
+ (Intercept)
+1.20
+1.00 – 1.44
+0.049
+ Congruent
+8.34
+6.49 – 10.72
+<0.001
+ Incongruent
+0.43
+0.34 – 0.53
+<0.001
+ Group
+1.35
+1.04 – 1.75
+0.026
+ Congruent:Group
+1.76
+1.20 – 2.59
+0.004
+ Incongruent:Group
+0.70
+0.51 – 0.95
+0.023
+Random Effects
+ σ2
+3.29
+ τ00 Subject
+0.42
+ τ11 Subject.Congruent
+0.53
+ τ11 Subject.Incongruent
+0.47
+ ρ01
+−0.13
+−0.02
+ ICC
+0.18
+ N Subject
+118
+ Observations
+14160
+0.348 / 0.463
+Note. CI = 95% confidence interval around the odds; σ2 = residual variance in model; τ11 = variation in odds of a correct response within a given 
+condition across subjects; ρ01 = correlation of deviations from the average odds between the baseline condition and the specified condition across 
+subjects; ICC = intraclass correlation coefficient, a measure of response consistency within subjects.
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Failes et al.
+Page 25
+Table 2
+Odds of false hearing on incongruent trials in the hearing task
+False hearing
+Predictors
+Odds Ratios
+CI
+P
+ (Intercept)
+0.49
+0.38 – 0.62
+<0.001
+ Group
+1.41
+1.00 – 2.00
+0.051
+Random Effects
+ σ2
+3.29
+ τ00 Subject
+0.80
+ ICC
+0.20
+ N Subject
+118
+ Observations
+4720
+0.007 / 0.202
+Note. CI = 95% confidence interval around the odds; σ2 = residual variance in model; τ00 = variation in odds of false hearing in the incongruent
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Failes et al.
+Page 26
+Table 3
+Odds of an accurate response by condition in the memory task
+Accuracy
+Predictors
+Odds Ratios
+CI
+P
+ (Intercept)
+1.22
+1.06 – 1.40
+0.006
+ Congruent
+4.90
+3.75 – 6.40
+<0.001
+ Incongruent
+0.52
+0.41 – 0.65
+<0.001
+ Group
+1.52
+1.24 – 1.87
+<0.001
+ Congruent:Group
+1.63
+1.09 – 2.43
+0.018
+ Incongruent:Group
+0.40
+0.29 – 0.56
+<0.001
+Random Effects
+ σ2
+3.29
+ τ00 Subject
+0.17
+ τ11 Subject.Congruent
+0.69
+ τ11 Subject.Incongruent
+0.50
+ ρ01
+−0.58
+0.75
+ N Subject
+118
+ Observations
+10620
+0.322 / NA
+Note. CI = 95% confidence interval around the odds; σ2 = residual variance in model; τ11 = variation in odds of a correct response within a given 
+condition across subjects; ρ01 = correlation of deviations from the average odds between the baseline condition and the specified condition across 
+subjects; ICC = intraclass correlation coefficient, a measure of response consistency within subjects.
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Failes et al.
+Page 27
+Table 4
+Odds of false memory across age groups
+False memory
+Predictors
+Odds Ratios
+CI
+P
+ (Intercept)
+1.32
+1.01 – 1.74
+0.044
+ Group
+1.64
+1.11 – 2.43
+0.013
+Random Effects
+ σ2
+3.29
+ τ00 Subject
+1.00
+ ICC
+0.23
+ N Subject
+118
+ Observations
+3540
+0.014 / 0.244
+Note. CI = 95% confidence interval around the odds; σ2 = residual variance in model; τ00 = variation in odds of false memory in the incongruent
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Failes et al.
+Page 28
+Table 5
+The relationship between susceptibility to false memory and susceptibility to false hearing
+False hearing
+Predictors
+Odds Ratios
+CI
+P
+ (Intercept)
+0.52
+0.42 – 0.66
+<0.001
+ Group
+1.23
+0.89 – 1.71
+0.212
+ Average false memory (z-scored)
+1.45
+1.22 – 1.71
+<0.001
+Random Effects
+ σ2
+3.29
+ τ00 Subject
+0.67
+ ICC
+0.17
+ N Subject
+118
+ Observations
+4720
+0.039 / 0.202
+Note. CI = 95% confidence interval around the odds; σ2 = residual variance in model; τ00 = variation in odds of false hearing in the incongruent

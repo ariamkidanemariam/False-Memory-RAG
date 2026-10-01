@@ -1,0 +1,946 @@
+Rich false memories of autobiographical events can
+be reversed
+Aileen Oebersta,b,1, Merle Madita Wachendörfera, Roland Imhoffc, and Hartmut Blankd
+aDepartment of Psychology, University of Hagen, 58084 Hagen, Germany; bLeibniz-Institut für Wissensmedien, 72076 Tübingen, Germany; cDepartment of
+Psychology, Johannes Gutenberg Universität Mainz, 55122 Mainz, Germany; and dDepartment of Psychology, University of Portsmouth, Portsmouth PO1
+2DY, Hampshire, United Kingdom
+Edited by Henry L. Roediger III, Washington University in St. Louis, St. Louis, MO, and approved February 16, 2021 (received for review January 11, 2021)
+False memories of autobiographical events can create enormous
+problems in forensic settings (e.g., false accusations). While mul-
+tiple studies succeeded in inducing false memories in interview
+settings, we present research trying to reverse this effect (and
+thereby reduce the potential damage) by means of two ecologi-
+cally valid strategies. We first successfully implanted false mem-
+ories for two plausible autobiographical events (suggested by the
+students’ parents, alongside two true events). Over three repeated
+interviews, participants developed false memories (measured by
+state-of-the-art coding) of the suggested events under minimally
+suggestive conditions (27%) and even more so using massive sug-
+gestion (56%). We then used two techniques to reduce false mem-
+ory endorsement, source sensitization (alerting interviewees to
+possible external sources of the memories, e.g., family narratives)
+and false memory sensitization (raising the possibility of false
+memories being inadvertently created in memory interviews, de-
+livered by a new interviewer). This reversed the false memory
+build-up over the first three interviews, returning false memory
+rates in both suggestion conditions to the baseline levels of the
+first interview (i.e., to ∼15% and ∼25%, respectively). By compar-
+ison, true event memories were endorsed at a higher level overall
+and less affected by either the repeated interviews or the sensiti-
+zation techniques. In a 1-y follow-up (after the original interviews
+and debriefing), false memory rates further dropped to 5%, and
+participants overwhelmingly rejected the false events. One strong
+practical implication is that false memories can be substantially
+reduced by easy-to-implement techniques without causing collat-
+eral damage to true memories.
+false memory | suggestion | reversibility | long-term effects
+U
+ntil he was 14, Jean Piaget vividly recollected an attempt to
+kidnap him at a young age: “I was held in by the strap fas-
+tened round me while my nurse bravely tried to stand between me
+and the thief. She received various scratches, and I can still see
+vaguely those on her face. Then a crowd gathered, a policeman
+with a short cloak and a white baton came up and the man took to
+his heels. I can still see the whole scene, and can even place it near
+the tube station” (1). One year later, however, Piaget’s former
+nurse confessed that she had made up the whole story.
+Contrary to common belief (2–5), vivid recollections such as
+the one reported by Piaget can be entirely false. That is, they may
+describe an event that never actually happened. To date, much
+psychological research has demonstrated that our memory does
+not at all resemble a recorder but is reconstructive in nature (6)
+and potentially fallible (7–10) and malleable (11–13). The most
+impressive evidence for this comes from studies implanting false
+memories of entire events that never happened in children (14–17)
+as well as adults (18–28). A recent “mega-analysis” (29) of several
+studies on false memories concluded that 30% of all 423 partici-
+pants had developed false memories; another 23% developed false
+beliefs only (i.e., believed that the suggested, fictitious event had
+actually taken place without, however, experiencing recollec-
+tions), and 47% developed neither a false memory nor belief. In
+other words, about half of the participants could be persuaded to
+incorporate an event into their autobiographical memory that
+never happened. The enormous relevance of this becomes im-
+mediately apparent in the forensic context: Believing, or even
+remembering, something that never happened may lead to false
+confessions (30–32) as well as false allegations (33–35). More-
+over, estimates of the real-life prevalence of false memories as
+well as retrospective analyses of exoneration cases clearly suggest
+that these are not rare occurrences (36–38). In police interroga-
+tions or legal proceedings, it is therefore of the utmost importance
+to discriminate authentic from false memories and ideally em-
+power the interviewee to retract the latter.
+While remedies are urgently needed, systematic research on
+how to undo or reverse implanted false autobiographical mem-
+ories has been scarce. Specifically, previous attempts at reversing
+false memories have been limited in two important respects:
+First, they involved mostly small and peripheral details of ob-
+served events [i.e., using the eyewitness misinformation para-
+digm (39)] or laboratory-produced mini-events [such as clicking
+one’s fingers (40)], both of which lack the embeddedness of
+autobiographical memories within the person’s life story. Sec-
+ond, almost all of these studies used reversal techniques that are
+impossible to implement or highly implausible in the real world,
+such as positively telling participants that some events had merely
+been suggested or even identifying those events (15, 16, 39–45).
+This not only requires privileged knowledge on the part of the
+investigator but also creates a highly targeted response set in
+participants (i.e., trying to positively identify the false events) that
+is unlikely to be transferable to real-world settings. Lastly, existing
+real-world evidence stemming from individuals who later retracted
+Significance
+Human memory is fallible and malleable. In forensic settings in
+particular, this poses a challenge because people may falsely
+remember events with legal implications that never actually
+happened. Despite an urgent need for remedies, however,
+research on whether and how rich false autobiographical
+memories can be reversed under realistic conditions (i.e., using
+reversal strategies that can be applied in real-world settings) is
+virtually nonexistent. The present study therefore not only
+replicates
+and
+extends
+previous
+demonstrations
+of
+false
+memories but, crucially, documents their reversibility after the
+fact: Employing two ecologically valid strategies, we show that
+rich but false autobiographical memories can mostly be un-
+done. Importantly, reversal was specific to false memories
+(i.e., did not occur for true memories).
+Author contributions: A.O., M.M.W., R.I., and H.B. designed research; M.M.W. performed
+research; A.O. and M.M.W. analyzed data; A.O. and H.B. wrote the paper; and M.M.W.
+and R.I. provided critical commentary.
+The authors declare no competing interest.
+This article is a PNAS Direct Submission.
+Published under the PNAS license.
+1To whom correspondence may be addressed. Email: aileen.oeberst@fernuni-hagen.de.
+Published March 22, 2021.
+PNAS 2021 Vol. 118 No. 13 e2026447118
+|
+1 of 8
+PSYCHOLOGICAL AND
+COGNITIVE SCIENCES
+
+a belief or memory due to their conviction that it was false
+[i.e., retractor reports (46, 47)] is anecdotal and lacks crucial in-
+formation about ground truth. In summary, systematic research on
+how rich false autobiographical memories can be reversed in the
+real world is virtually nonexistent, though urgently needed.
+Here, we present a systematic attempt to undo false memories
+of autobiographical events. As this requires the antecedent cre-
+ation of false memories, the first part of this study consisted of
+interviews designed to elicit false memories. Following previous
+procedures (27), we recruited participants for a study on “child-
+hood memories” and sent their parents questionnaires detailing
+the purpose of the study but asking them not to tell their children,
+who were likewise instructed not to talk about the study with their
+parents. Parents indicated for a number of negative events (see
+https://osf.io/ser63/ for the full list) whether or not their child had
+experienced them and additionally suggested two negative events
+that did definitely not happen to their children but were plausible.
+Participants were then invited to three successive memory inter-
+views (with a lag of 1 wk between each interview) and asked to
+recollect four events from their childhood—the two plausible but
+not experienced (false) events (e.g., getting lost, running away,
+being involved in a car accident, injuries, being the perpetrator or
+victim of material damage) and two actually experienced (true)
+events (see https://osf.io/ser63/ for the full interview protocol).
+Different from prior research (22, 27, 28), our interviewer was
+completely blind to the study design and the status of each event
+(true or false) in order to rule out interviewer effects (48–54) and
+to increase ecological validity. We further extended previous
+research in two ways. First, we contrasted two suggestion condi-
+tions (minimal versus massive suggestion) in order to separately
+capture the effect of using massively suggestive techniques in ad-
+dition to the basic effect of establishing rapport and informing
+participants that their parents had told us about the events (in the
+minimal suggestion condition); these elements have mostly been
+conflated in previous research. Second, in a comprehensive as-
+sessment of our reversal procedure, we analyzed not only recol-
+lections of false events but also true events. After all, even a
+perfectly effective reversal procedure in terms of undoing false
+memories would be of little value if it likewise led to the re-
+traction of true memories [i.e., made people generally skeptical
+of their recollections (45, 55)]. Importantly, including true
+memories also enabled truly blind coding of participants’ mem-
+ory reports (independent coders did not know the truth status of
+the recollections they were categorizing).
+Our reversal attempts consisted of two sensitization strategies
+that were ecologically valid in the sense that they 1) can princi-
+pally be implemented in the real world and 2) do not require
+knowledge about the truth status of the memories. They were
+employed successively and immediately following the third mem-
+ory interview. The first strategy (source sensitization) involved
+reminding participants that memories may not always be based on
+people’s own experience but also on other sources (e.g., family
+narratives about an event, a photograph, etc.) and involved asking
+them to specify the source of each of their recollections. This
+addresses one of the mechanisms underlying the development of
+false memories, source misattributions (56–58) (see https://osf.io/
+ser63/ for verbatim instructions). Moreover, it allows us to pre-
+cisely identify recollections that participants explicitly endorse as
+their own (false) memories.
+The second strategy (false memory sensitization) was inspired
+by the enlightenment technique (59), a type of postwarning that
+has been successfully used to reverse the eyewitness misinfor-
+mation effect (39, 45) and stereotype effects on memory (60) and
+involved alerting participants to the possibility of false memories
+while trying to avoid a general response bias. To this end, we told
+participants that repeatedly cueing recollections involves some
+risk of inadvertently producing false memories and asked them
+to revisit their event memories with this possibility in mind and to
+let us know if they thought this applied to one or more of the
+events they reported (while emphasizing that there was no au-
+tomatic expectation that it would). Furthermore, to emulate an
+important real-life context, these instructions were delivered by a
+new interviewer who asked the participants to imagine she was
+an expert witness with no knowledge about the previous inter-
+views and trying to critically review the remembered events (see
+https://osf.io/ser63/ for verbatim instructions). In summary, the
+Fig. 1.
+Average classification of participants’ memory reports as a function of measurement occasion (1 through 3, after source sensitization, after false
+memory sensitization, follow-up), event type (true, false), and suggestion condition (minimal, massive). Error bars represent SEs.
+2 of 8
+|
+PNAS
+Oeberst et al.
+
+rationale behind this strategy was to 1) raise participants’ aware-
+ness of the possibility of false memories, 2) urge them to critically
+reflect on their recollections, 3) facilitate false memory identifi-
+cation by reducing the uncertainty the initial suggestion had eli-
+cited, 4) strengthen participants’ trust in their own perspective,
+and—through the new interviewer—5) lower the social costs as-
+sociated with memory retraction (61–63). As preregistered (see
+Methods), we expected both strategies to significantly reduce false
+memories without exerting the same influence on true memories.
+Results
+Did We Effectively Induce False Memories? We first tested a nec-
+essary precondition for false memory reversal—that false mem-
+ories had been induced and consolidated in the initial interviews.
+We analyzed memory reports for false events across Interviews 1
+through 3, rated by two coders on a memory quality scale used in
+previous research (29) but slightly adapted for the present pur-
+poses (see below). As displayed in Fig. 1 (orange lines), memory
+quality increased across the first three interviews (F(1.238, 102) =
+25.327, P < 0.001, ηp
+2 = 0.332), from means around 3 (repre-
+senting mere belief in/acceptance of the event) to means closer to
+4 (representing at least partial false memory). Furthermore, using
+massive suggestion led to higher overall levels of false memory
+(F(1, 51) = 9.859, P = 0.003, ηp
+2 = 0.162) but not to a steeper
+increase in (false) memory quality over time (F(1.518, 102) =
+2.698, P = 0.086 for the interaction).
+When true events were included in the analysis, a main effect
+of event type (true or false) indicated that memory quality was
+generally (and unsurprisingly) higher for true events (F(1, 51) =
+114.170, P < 0.001, ηp
+2 = 0.691, green lines in Fig. 1). More
+interesting, a significant interaction of event type, measurement
+occasion, and suggestion emerged (F(1.730, 102) = 5.762, P =
+0.006, ηp
+2 = 0.102). A breakdown showed that true and false
+events were similar in their development over time in the mini-
+mal suggestion interviewing condition (F(1.554, 102) = 0.987,
+P = 0.358), but this trajectory differed significantly in the massive
+suggestion condition (F(1.758, 102) = 15.829, P < 0.001, ηp
+2 =
+0.237); false events increased significantly in memory quality across
+interviews (F(1.492, 102) = 22.977, P < 0.001, ηp
+2 = 0.311), but true
+events remained rather stable (F(1.662, 102) = 2.608, P = 0.088).
+That is, massive suggestion produced additional effects over time
+compared with the mere assertion that the events happened.
+Breaking down (false) memory quality into distinct levels in a
+separate analysis (Fig. 2), we found that 27% and 56% of par-
+ticipants in the minimal and massive suggestion conditions, re-
+spectively, developed false memories (partial to robust) for the
+false event after 2 wk (Interview 3). Furthermore, coded false
+memory quality was generally (i.e., across interview conditions and
+times) meaningfully related to recollective experience (e.g., par-
+ticipants’ self-rated amount of sensory information, rs = 0.427 to
+0.645, Ps < 0.003; clarity/vividness of the recollection, rs = 0.530 to
+0.631, Ps < 0.001; participants’ confidence, rs = 0.529 to 0.640,
+Ps < 0.001; there were only two exceptions, both in the first minimal
+suggestion interview: clarity/vividness, r = 0.217, P = 0.192, and
+confidence, r = 0.233, P = 0.158).
+Could We Reverse False Memories after the Fact? To examine if the
+source sensitization and false memory sensitization procedures
+led to a reversal of false memories, we compared (false) memory
+quality across the last three measurement occasions (Interview 3,
+source sensitization, false memory sensitization) and found the
+predicted decrease across measurements (F(1.740, 102) = 44.732,
+P < 0.001, ηp
+2 = 0.467). Specifically, (false) memory quality de-
+creased significantly from Interview 3 to the source memory test
+(P < 0.001, ηp
+2 = 0.223) and further after false memory sensiti-
+zation (P < 0.001, ηp
+2 = 0.548) (see Fig. 1, orange lines). Rec-
+ollections elicited with massive suggestion remained higher in
+(false) memory quality than those with minimal suggestion (F(1,
+51) = 8.066, P = 0.006, ηp
+2 = 0.137), but the temporal trajectory
+was similar (F(1.563, 102) = 2.005, P = 0.150, for the interac-
+tion). Fig. 2 shows the proportions of participants who continued
+to report false memories (partial to robust) after source sensi-
+tization (minimal suggestion: 21%, massive suggestion: 42%)
+and after false memory sensitization (minimal suggestion: 15%,
+massive suggestion: 23%).
+Was This Reversal due to General Memory Skepticism? To see if the
+reduction of false memories came at the expense of participants
+generally doubting their recollections and therefore also ques-
+tioning their memories for actually experienced events, we
+looked at recollections of true events as well. Although true
+memory quality decreased slightly after source sensitization (F(1,
+51) = 5.829, P = 0.019, ηp
+2 = 0.103) and further after false
+memory sensitization (F(1, 51) = 7.696, P = 0.008, ηp
+2 = 0.131),
+true and false memories were still differentially affected by the
+reversal procedure, as predicted and reflected in a strong event ×
+measurement occasion interaction (F(1.652, 102) = 28.416, P <
+0.001, ηp
+2 = 0.358). Specifically, the decrease in memory quality
+was significantly more pronounced for false memories (Fig. 1).
+That is, our reversal procedures did have a slight impact on true
+events as well, but the false memory reversal cannot be reason-
+ably attributed to general memory skepticism.
+Reversal or Only Reduction? The absence of a realistic baseline
+measure before applying some minimal suggestion (i.e., before
+claiming that parents had told us about the event) makes it diffi-
+cult to decide if false memories have been reversed in an absolute
+sense or merely reduced. Conceivably, if participants had been
+asked before the study whether or not any of the events proposed
+by the parents had happened to them, or if they remembered
+anything along these lines, the false memory incidence would have
+been lower—although we cannot be sure by how much (it may not
+necessarily be zero, given that the parents had proposed the false
+events on the basis of plausibility for their child).
+Therefore, the best available baseline in the context of our
+study remains the false memory level at Interview 1 in the minimal
+suggestion condition (i.e., at the first measurement occasion and
+without any further suggestive intervention). Pairwise comparisons
+showed that (false) memory quality did not differ from this value
+after our two reversal strategies had been applied—neither after
+minimally (t (51) = 1.02, P = 0.31, d = 0.14) nor after massively
+suggestive interviews (t (51) = 1.23, P = 0.22, d = 0.17). Fur-
+thermore, within both the minimal and massive suggestion con-
+ditions, participants showed descriptively less endorsement of
+their false memories at the last compared to the first measurement
+occasion (Fig. 1). That is, the false memory buildup over the 2 wk
+interview period reverted back after source and false memory
+sensitization to the baseline level that was obtained before (mas-
+sive) suggestion techniques were (repeatedly) applied.
+Long-Term Effects? False information provided in the context of
+psychological research may have long-term effects despite thor-
+ough debriefing (64), and false memories have partly survived
+their discrediting in other research (15, 40, 65, 66). To explore
+the persistence of false event memories in our young adult par-
+ticipants after source sensitization, false memory sensitization, and
+debriefing, we invited them back for a follow-up interview more
+than a year (mean [M] = 390.71 d; range = 277 to 485; SD =
+63.28) after the original study (see below for details). Not all
+original participants attended, but the subsample who did (see
+Methods) was statistically indistinguishable from those who did not
+(as measured by their scores at the end of the original study,
+Ps > 0.227).
+Memory quality ratings for true and false memories at follow-
+up are shown in Fig. 1. Overall, the ratings are lower than in the
+original study but particularly so for false memories. Note, however,
+Oeberst et al.
+PNAS
+|
+3 of 8
+PSYCHOLOGICAL AND
+COGNITIVE SCIENCES
+
+that the interview procedures at follow-up differed slightly from
+the original interviews (inevitably, see Methods), which is why we
+refrain from making direct statistical comparisons with the original
+study. Still, in absolute terms, there is very little endorsement of the
+false memories at follow-up. As shown further in Fig. 2, the over-
+whelming majority (74% across suggestion conditions) of participants
+either rejected the false event (mostly straight away—e.g., “Well this
+was one of the events that don’t exist”) or had no memory of it. The
+remaining events were mostly just accepted (i.e., merely believed to
+have happened), and in only a handful of cases (n = 4) in the massive
+suggestion condition one could still speak of false memories.
+Statistical comparisons within the follow-up are still appro-
+priate and show, unsurprisingly, a massive difference in memory
+quality between true and false events (F(1, 37) = 126.02, P <
+0.001, ηp
+2 = 0.77). More interesting, and different from what we
+expected, there was no statistical difference between the two sug-
+gestion conditions (F(1, 37) = 0.21, P = 0.648), unlike in the original
+interviews where massive suggestion resulted in clearly higher levels
+of false memory, even after source and false memory sensitization.
+That is, the effects of massive suggestion in the original interviews
+did not persist over time.
+These findings were further validated by additional ratings
+(i.e., their self-reported belief in occurrence and recollection of
+events) participants provided in the follow-up. True events scored
+higher on both dimensions (belief: M = 6.34, SE = 0.17; recol-
+lection: M = 5.48, SE = 0.21) than false events (belief: M = 2.54,
+SE = 0.23; recollection: M = 2.77, SE = 0.19), with the differences
+being highly significant (belief: F(1, 37) = 139.18, P < 0.001, ηp
+2 =
+0.79; recollection: F(1, 37) = 77.47, P < 0.001, ηp
+2 = 0.68). Fur-
+thermore, paralleling the coding-based findings above, there were
+no significant effects of the amount of suggestion (minimal versus
+massive; Fs < 2.4, Ps > 0.128).
+Discussion
+Our study demonstrates that successfully induced and consoli-
+dated (over three successive interviews) false memories can be
+substantially reversed again after the fact, using two ecologically
+realistic sensitization strategies that reshape the way interviewees
+approach the retrieval task (even before full debriefing). At a
+follow-up 1 y later, endorsement of the false memories further
+declined to a very low level of 5% overall. Several aspects of
+these findings are noteworthy and deserve further comment.
+First, the incidence of false memory in our study, at least in the
+massive suggestion condition (56%), was relatively high com-
+pared to prior research [30% (29)], particularly in light of our
+blind interviewing procedure that minimized potential experi-
+menter effects (67). We think this was partly due to our asking
+parents to come up with plausible events (22, 68, 69), making the
+suggestion more credible overall (25, 61, 69, 70) and avoiding
+implausible and probably ineffective suggestions (e.g., of a pet’s
+death even though participants never had a pet). Supporting this
+idea, it is of interest that 44 participants (85%) indicated after
+debriefing that they thought they had simply forgotten about the
+false events. In turn, this provided them with an explanation for
+their lack of recollection, and they subsequently worked on
+“retrieving” (rather than reconstructing) them.
+Second, while we eliminated most of the false memories at the
+end of the original interviews, some degree of acceptance of the
+false events persisted. In other words, our two sensitization strat-
+egies (source and false memory sensitization) mostly reversed false
+memories but not so much false beliefs. This probably reflects the
+residual credibility stemming from the combination of trustworthy
+university researchers and highly credible experts on the partici-
+pants’ childhoods (i.e., their parents) who were the sources of the
+false events. As a consequence, participants were unlikely to reject
+these events outright (71) and more likely to compromise some-
+where between “no memory” and “accepting the occurrence of the
+Fig. 2.
+False events only. Proportion of participants in each classification as a function of Measurement Occasion (1 through 3, after source sensitization,
+after false memory sensitization, follow-up) and suggestion (minimal, massive).
+4 of 8
+|
+PNAS
+Oeberst et al.
+
+event,” similar to the minimum suggestion condition in Interview
+1, which served as a pragmatic baseline in our study (i.e., reflecting
+the participants’ initial reaction to the mere probing of plausible
+parent-provided events).
+Third, because this baseline already contained an element of
+suggestion [see also (72)] via experimenter and parent credibility
+(hence the name "minimal suggestion," not "no suggestion"
+condition), it may not be seen as a real-life baseline for the in-
+cidence of false memories—and, by implication, we may not have
+fully reverted the false memories back to a (possibly lower) real-
+life level. It is difficult to say, however, what the true base rate
+would be, not least because any probing of plausible past events
+(remember the parents were asked to provide events that were
+plausible for their child) might yield an above-zero rate of
+reporting. In any case, there is no doubt that we fully reversed all
+the incremental false memories obtained after the first interview
+and/or under massive suggestion conditions.
+Fourth, the incidence of false memories and beliefs further
+changed at the follow-up where the majority of suggested false
+events were positively rejected, likely as a consequence of the full
+debrief at the end of the original interviews and ensuing conver-
+sations with parents to confirm the debrief. Interestingly, some
+degree of false memory rejection (∼20%) was already present at
+the end of the original interviews, after false memory sensitization.
+It seems that being prompted to realistically consider the possi-
+bility of false memories helps disrupt a previous confirmatory
+mindset (i.e., trying to retrieve memories that “must be there”).
+Fifth, in line with much existing false memory research, the
+process of building up the false memories in our study was rel-
+atively simple, fast, and brief (i.e., 2 wk), and the process of re-
+versal was even swifter (i.e., within minutes in the third interview
+session). By comparison, many real-world false memory cases
+involve much longer build-up times as well as additional tech-
+niques (47, 69, 73–77) and social pressure (78). It is difficult to
+say with any confidence how immediate and effective our reversal
+attempts would be under those circumstances; some existing re-
+search suggests that reversal of highly significant personal (false)
+memories can be less straightforward and take much longer (79).
+In any case, our study demonstrates that reversing false memories
+is possible in principle, offering a promising outlook for both fu-
+ture research and practice.
+Sixth, with respect to practice, it cannot be emphasized
+enough that our two sensitization techniques were designed with
+ecological realism in mind—both source and false memory sen-
+sitization do not require ground truth knowledge [unlike many
+existing warning techniques (45)] and can therefore be imple-
+mented more widely. False memory sensitization was also
+designed to include a change of interviewer that occurs with
+regularity in real-life investigations, but it could also be admin-
+istered by the same interviewer if necessary (e.g., if the investi-
+gation has brought new evidence to light that suggests the
+possibility of false memories). Furthermore, note that we ad-
+ministered the two techniques in a constant order (source sen-
+sitization first, then false memory sensitization), because false
+memory sensitization already implies some focus on sources
+other than one’s own memory, and therefore this order seemed
+natural. It is an interesting question for future research if the
+entire package is needed to produce the effects or if the false
+memory sensitization alone may suffice.
+Seventh, from an ethical perspective, and in light of previous
+research showing a resurgence of false memories after initial
+discrediting (78, 80), it is reassuring to see that this is not an
+inevitable outcome of false memory induction procedures. In
+fact, with our procedures, hardly any of the induced false
+memories survived at the 1-y follow-up.
+Conclusions and Outlook
+Finally, let us locate our findings more generally within the
+context of the ongoing false memory debate. Does our study
+support the idea that the case for false memories has been
+overstated (as some have argued, e.g., ref. 81) and that there is
+not much to worry about them as they can be made to go away?
+The answer is an emphatic no. What our study shows is that false
+memories can both be induced under suitable conditions and
+reversed under other suitable conditions. That is, in the most
+general sense, it demonstrates the dependence of false memories
+(or memories in general) on context. Pragmatically, this alerts us
+to the importance of interviewing conditions, or more generally
+memory retrieval context (e.g., our two suggestion conditions and
+the two sensitization strategies), and it also highlights the role of
+the social environment for scaffolding/upholding false or true
+memories (e.g., parents’ statements were an important factor in
+the initial induction of the false memories and then most likely
+again in their abandonment after debriefing).*
+In other words, our study reframes the discussion in terms of
+(false) remembering (statements about events that are code-
+termined by memory information and the context of remem-
+bering, e.g., ref. 61) rather than (false) memories (supposed
+stable entities within people’s minds). This, again, is not meant to
+belittle the importance of false memories in any way (e.g., by
+suggesting that they are inherently transitory); quite to the
+contrary, social context will often help to sustain them (e.g., refs.
+70, 79, 82–84), and there is no doubt whatsoever that false re-
+membering/memories can have devastating real-life conse-
+quences. It does suggest, however, that—given the situational
+dependency of false remembering demonstrated here—focusing
+on the mere prevalence of false memories (as if it were a con-
+stant) in attempts to resolve the false memory debate leads to an
+unproductive dead end. Future research should rather seek
+(similar to the system factors approach in eyewitness identifica-
+tion research; e.g., refs. 85–87) to further our understanding of
+situational factors under the potential control of investigators
+that minimize the risk of producing/retrieving false memories
+and maximize veridical remembering.
+Methods
+Ethical Approval and Informed Consent. This research was conducted in ac-
+cordance with American Psychological Association standards for ethical
+treatment of participants and was approved by the institutional review board
+of the Johannes Gutenberg University of Mainz (2017-JGU-psychEK-016). All
+parents and participants provided written informed consent before partici-
+pating in this study; all participants agreed to the use of their data after full
+debriefing.
+Participants and Design. As preregistered (https://aspredicted.org/me8at.pdf),
+we aimed at a sample size of n = 56 in order to be able to detect even small
+effects (f = 0.1). We recruited 91 participants altogether (no psychology
+students), but only 79 parents returned the questionnaires, of which 57 were
+filled out completely, which was a requirement for participation in the
+study. Fifty-six participants completed the study, but four participants had to
+be excluded after the interviews because the false events suggested by the
+parents turned out to be closely modeled after true events with only minor
+alterations and thus did not fully qualify as false events (as required by the
+preregistered inclusion criteria). Therefore, the final sample consisted of n =
+52 participants (41 female, 11 male, MAge = 22.8, SD = 2.47). Each participant
+was interviewed five times (suggestive interviews 1 through 3, plus source
+and false memory sensitization) about four events, resulting from the
+combination of event category (true, false) × suggestion condition (minimal
+*Note that context also bears on the likelihood that false memories will be scrutinized
+and challenged in the first place. In many everyday situations, false memories are in-
+consequential enough and/or their sources are sufficiently trusted for us to never even
+contemplate the idea that our memory of something may be incorrect (see, e.g., ref. 70
+for the role of social context in memory distortion). In this sense, even the best reversal
+techniques can only be effective if there is sufficient awareness of a potential for false
+memories in a given context.
+Oeberst et al.
+PNAS
+|
+5 of 8
+PSYCHOLOGICAL AND
+COGNITIVE SCIENCES
+
+suggestion, massive suggestion). Thus, the study comprised a 5 × 2 ×
+2 within-subjects design.
+Parent Questionnaire. Following previous studies, we asked participants’
+parents to indicate in a list of negative events (20–22, 24, 26, 27, 88) whether
+these had happened to their children or not. Additionally, we asked them to
+generate two plausible negative events that had not happened (see https://
+osf.io/ser63/ for the entire parent questionnaire).
+Interviews. To standardize interviews as much as possible, we used a modified
+version of the Step-Wise Interview (26) that has been used in prior research
+on false memories (27). All interviews began with a free recall phase (Step 1),
+followed by general open questions (e.g., “You mentioned x. Can you tell
+me more about it?”) in order to clarify information provided during the free
+narrative phase (Step 2). Thereafter, more specific open questions about key
+details and phenomenological reports about sensory aspects of the incident
+followed (e.g., “Where exactly did it happen?”, “Who was with you?”, “Can
+you see/ hear/ smell/ feel/ taste things in your memory?”, yes/no rating for
+each sense; Step 3).
+There were no further interview parts in the minimal suggestion condition;
+in this condition, suggestive elements of the interview were limited to building
+rapport and informing participants that their parents had told us about the
+events. In the massive suggestion condition, additional suggestive influence
+was exerted through 1) encouraging further retrieval attempts when partici-
+pants did not remember an event, 2) verbally reinforcing anything participants
+came up with, 3) using guided imagery and context reinstatement, 4) sug-
+gesting that recollection is mostly possible when trying hard enough, 5)
+claiming a detailed report provided by parents whenever participants expressed
+suspicions of parents’ memories, and 6) asking participants to think about the
+events at home between interviews. The interview protocols for both sug-
+gestion conditions are available at https://osf.io/ser63/.
+Each interview session started with the minimal suggestion condition and
+with the true event (in order to facilitate rapport and trust), followed by the
+false event. The massive suggestion condition was always realized for the
+third and fourth event, with the order of true or false events counter-
+balanced. Also, the order in which the four events were probed (and
+therefore also the assignment of events to conditions) stayed the same across
+all interviews. The source and false memory sensitization procedures that
+were aimed at reversing induced false memories took part directly after
+Interview 3, that is, in the third experimental session. Instructions in both
+interviews were provided orally but were highly standardized (see https://osf.
+io/ser63/).
+Blinding of Interviewer and Coders. To minimize expectancy effects (89), the
+interviewer who conducted the three interviews and the source sensiti-
+zation procedure was kept blind to the design of the study as well as the
+hypotheses being investigated. That is, although he was aware of the
+study being “somehow about false memories,” he neither knew that every
+participant was being asked about two true and two false events nor was
+he familiar with the literature on false memories. The two coders (see
+below) were likewise kept uninformed about the topic of the study, its
+design, and the specific research questions and hypotheses being exam-
+ined. Two additional measures contributed to their blindness: First, re-
+quiring them to rate not only false but also true memories, without
+informing them which were which, minimized any coding bias due to
+being aware of the truth status of a memory. Second, we adapted the
+coding scheme accordingly to accommodate both true and false events
+without giving the truth status away (e.g., coding “full memory” instead
+of “full false memory”).
+Materials and Coding. All materials (parent questionnaire, complete interview
+scripts, and the source and false memory sensitization instructions) were
+developed following previous studies but slightly extended and adapted (see
+above) and can be retrieved at https://osf.io/ser63/.
+Memory reports were subsequently coded by two trained raters who were
+blind to the overall research question as well as the design of the study. The
+coding procedure was based on the classification developed by Scoboria and
+colleagues (29) but adapted in order to fit true events as well (see https://osf.
+io/ser63/ for the full coding scheme). Raters classified the quality of partici-
+pants’ recollections (1 = rejection of the event, 2 = no memory, 3 = accepting
+event, 4 = partial memory, 5 = full memory, 6 = robust memory). Impor-
+tantly, “memories” were coded conservatively. That is, general information
+(i.e., not specific to the event in question), plausible assumptions (e.g., “if
+this happened in the Italy holiday, then it must have happened in the
+camping ground”), or speculations (e.g., “it could have been. . .”) did not
+count as (true or false) recollections (see coding scheme for details). Initial
+interrater agreement was high (r(1040) = 0.89, P < 0.001), and disagree-
+ments were subsequently resolved by discussion. All analyses reported here
+are based on these agreed classifications. Given the high interrater agree-
+ment, the agreed codings were in turn highly correlated with the averaged
+initial codings (r = 0.96, P < 0.001), and therefore, parallel analyses based on
+averaged initial ratings (instead of agreed codings) led to an identical pat-
+tern of results (see https://osf.io/ser63/). Finally, the classifications resulting
+from our adapted coding scheme correlated highly with the classifications
+obtained with Scoboria and colleagues’ procedure, (r = 0.81, P < 0.001), and
+again the same pattern of results emerged.
+Follow-Up. A total of 38 participants (30 female, 8 male, MAge = 23.16, SD =
+2.44) took part in the follow-up interview about 1 y after the original study
+took place (M = 390.71 d; SD = 63.28). To minimize any expectation effects,
+the follow-up was conducted by yet another interviewer, who was blind to
+the experimental conditions. In addition, participants’ event memory tran-
+scripts were coded by new raters (r = 0.79 prior to solving disagreements)
+who had not seen the previous transcripts.
+Due to the participants having already been debriefed a year earlier, the
+interview procedure differed slightly from the original study. The interviewer
+first made it clear that she had joined this research project only at a later stage
+and then told participants that she wanted to find out what participants
+could still remember of the events they had previously been interviewed
+about. She emphasized that she was interested in both the content and
+quality of the memory, for instance, in the participant’s confidence in it but
+also any reservations they might have about it or any thoughts they had
+when first reporting the event. We kept these instructions deliberately
+vague and neutral in an attempt to minimize demand characteristics.
+Participants were then presented with the same brief summary of infor-
+mation regarding each event as in the original interviews and then completed
+Parts 1 and 2 of the Step-Wise Interview as described above (i.e., free recall
+and general open follow-up questions). Part 3 (questions about specific in-
+formation and sensory details) was omitted because there was a risk that
+going through these details for events that participants might not remem-
+ber any more or deny had happened (particularly after the debriefing)
+would feel very awkward and undermine their engagement with the study.
+However, in an effort to directly determine whether participants did or did
+not 1) hold a belief that the event had happened and 2) show genuine
+recollection of the event, the interviewer asked additional follow-up ques-
+tions tailored to participants’ reports (see https://osf.io/ser63/ for the
+verbatim interview protocol).
+Subsequent to the interviews, follow-up participants were asked to fill out
+additional self-report measures separately for each event (https://osf.io/
+ser63/). These included three Belief in Occurrence and three Recollection
+items taken from previous research (90) as well as the Memory Character-
+istics Questionnaire (91, 92). For the sake of brevity, results based on the
+Memory Characteristics Questionnaire are not reported here, but the effects
+were the same as those based on coding of memory reports and on the
+Belief in Occurrence and Recollection items.
+Statistical Analyses. All statistical tests reported in this manuscript were two-
+tailed and guided by our preregistered hypotheses (https://aspredicted.org/
+me8at.pdf; https://aspredicted.org/bw9x8.pdf; https://aspredicted.org/9ws66.
+pdf). Our main findings are based on repeated-measures ANOVA across the
+above-specified interviews and with suggestion condition (minimal, massive)
+and event type (false, true) as within-subjects factors as appropriate. Violations
+of the sphericity assumption were met with the Greenhouse–Geisser correc-
+tion. Pairwise comparisons were performed using Student’s t tests. To check
+the robustness of our findings, we additionally performed nonparametric
+analyses; these produced an identical pattern of results (https://osf.io/ser63/).
+Data Availability. Anonymized (.sav) data have been deposited in Open Sci-
+ence Framework (http://dx.doi.org/10.17605/OSF.IO/SER63) (93).
+ACKNOWLEDGMENTS. We gratefully acknowledge the support of many
+people without whom this labor-intensive research would not have been
+possible. First and foremost, these are our participants as well as their
+parents, who did not only invest time but trusted and supported us in this
+delicate research. Furthermore, we are indebted to (in chronological order)
+Alena Fleischmann, Hilde Fuß, Katharina Kinder, Aljoscha Klemm, Jonas
+Krämer, Katharina Küper, Annegret Isensee, Mandy Montag, Matthias
+Moosburner, Sören Porth, Yannick Schmidt, Daniela Schwindt, and Theresa
+Sinn, who conducted, transcribed, or coded the interviews. Finally, we are
+grateful to Kim Wade for helpful comments on a draft.
+6 of 8
+|
+PNAS
+Oeberst et al.
+
+1. E. F. Loftus, J. Palmer, “Eyewitness testimony” in Introducing Psychological Research
+(Springer, 1979), pp. 62–63, 10.1007/978-1-349-24483-6_46.
+2. D. J. Simons, C. F. Chabris, What people believe about how memory works: A rep-
+resentative survey of the U.S. population. PLoS One 6, e22757 (2011).
+3. W. Hirst et al., A ten-year follow-up of a study of memory for the attack of September
+11, 2001: Flashbulb memories and memories for flashbulb events. J. Exp. Psychol. Gen.
+144, 604–623 (2015).
+4. L. Patihis, L. Y. Ho, I. W. Tingen, S. O. Lilienfeld, E. F. Loftus, Are the “memory wars”
+over? A scientist-practitioner gap in beliefs about repressed memory (vol 25, pg 519,
+2014). Psychol. Sci. 25, 1506 (2014).
+5. J. M. Talarico, D. C. Rubin, Flashbulb memories are special after all; in phenomenol-
+ogy, not accuracy. Appl. Cogn. Psychol. 21, 557–578 (2007).
+6. F. C. Bartlett, Remembering: A Study in Experimental and Social Psychology (Cam-
+bridge University Press, Cambridge, ed. 2, 1995), 10.1017/CBO9780511759185.
+7. L. L. Carli, Cognitive reconstruction, hindsight, and reactions to victims and perpe-
+trators. Pers. Soc. Psychol. Bull. 25, 966–979 (1999).
+8. R. L. Cohen, On the generality of some memory laws. Scand. J. Psychol. 22, 267–281
+(1981).
+9. H. M. Kleider, K. Pezdek, S. D. Goldinger, A. Kirk, Schema-driven source misattribution
+errors: Remembering the expected from a witnessed event. Appl. Cogn. Psychol. 22,
+1–20 (2008).
+10. M. Snyder, S. W. Uranowitz, Reconstructing past - some cognitive consequences of
+person perception. J. Pers. Soc. Psychol. 36, 941–950 (1978).
+11. M. R. Kebbell, D. C. Giles, Some experimental influences of lawyers’ complicated
+questions on eyewitness confidence and accuracy. J. Psychol. 134, 129–139 (2000).
+12. E. F. Loftus, Catching liars. Psychol. Sci. Public Interest 11, 87–88 (2010).
+13. E. F. Loftus, J. C. Palmer, Reconstruction of automobile destruction - example of in-
+teraction between Language and memory. J. Verbal Learn. Verbal Behav. 13, 585–589
+(1974).
+14. S. J. Ceci, M. L. C. Huffman, E. Smith, E. F. Loftus, Repeatedly thinking about a non-
+event - source misattributions among preschoolers. Conscious. Cogn. 3, 388–407
+(1994).
+15. K. Erdmann, R. Volbert, C. Böhm, Children report suggested events even when in-
+terviewed in a non‐suggestive manner: What are its implications for credibility as-
+sessment? Appl. Cognit. Psychol. 18, 589–611 (2004).
+16. H. Otgaar, A. Scoboria, T. Smeets, Experimentally evoking nonbelieved memories for
+childhood events. J. Exp. Psychol. Learn. Mem. Cogn. 39, 717–730 (2013).
+17. D. Strange, R. Sutherland, M. Garry, Event plausibility does not determine children’s
+false memories. Memory 14, 937–951 (2006).
+18. K. A. Braun, R. Ellis, E. F. Loftus, Make my memory: How advertising can change our
+memories of the past. Psychol. Mark. 19, 1–23 (2002).
+19. J. K. Hessen-Kayfitz, A. Scoboria, False memory is in the details: Photographic details
+differentially predict memory formation. Appl. Cogn. Psychol. 26, 333–341 (2012).
+20. I. E. Hyman Jr, F. J. Billings, Individual differences and the creation of false childhood
+memories. Memory 6, 1–20 (1998).
+21. I. E. Hyman, T. H. Husband, F. J. Billings, False memories of childhood experiences.
+Appl. Cogn. Psychol. 9, 181–197 (1995).
+22. I. E. Hyman, J. Pentland, The role of mental imagery in the creation of false childhood
+memories. J. Mem. Lang. 35, 101–117 (1996).
+23. D. S. Lindsay, L. Hagen, J. D. Read, K. A. Wade, M. Garry, True photographs and false
+memories. Psychol. Sci. 15, 149–154 (2004).
+24. E. F. Loftus, J. E. Pickrell, The formation of false memories. Psychiatr. Ann. 25, 720–725
+(1995).
+25. K. Pezdek, K. Finger, D. Hedge, Planting false childhood memories: The role of event
+plausibility. Psychol. Sci. 8, 437–441 (1997).
+26. S. Porter, J. C. Yuille, D. R. Lehman, The nature of real, implanted, and fabricated
+memories for emotional childhood events: Implications for the recovered memory
+debate. Law Hum. Behav. 23, 517–537 (1999).
+27. J. Shaw, S. Porter, Constructing rich false memories of committing crime. Psychol. Sci.
+26, 291–301 (2015).
+28. K. A. Wade, M. Garry, J. D. Read, D. S. Lindsay, A picture is worth a thousand lies:
+Using false photographs to create false childhood memories. Psychon. Bull. Rev. 9,
+597–603 (2002).
+29. A. Scoboria et al., A mega-analysis of memory reports from eight peer-reviewed false
+memory implantation studies. Memory 25, 146–163 (2017).
+30. G. H. Gudjonsson, J. Pearse, Suspect interviews and false confessions. Curr. Dir. Psy-
+chol. 20, 33–37 (2011).
+31. G. H. Gudjonsson, J. F. Sigurdsson, A. S. Sigurdardottir, H. Steinthorsson, V. M. Sigurdardottir,
+The role of memory distrust in cases of internalised false confession. Appl. Cogn.
+Psychol. 28, 336–348 (2014).
+32. S. M. Kassin, K. L. Kiechel, The social psychology of false confessions: Compliance,
+internalization, and confabulation. Psychol. Sci. 7, 125–128 (1996).
+33. D. S. Wright, R. A. Nash, K. A. Wade, Encouraging eyewitnesses to falsely corroborate
+allegations: Effects of rapport-building and incriminating evidence. Psychol. Crime
+Law 21, 648–660 (2015).
+34. S. Niehaus, R. Volbert, J. M. Fegert, “Kindliche Suggestibilität und Suggestivität der
+Befragung” in Entwicklungsgerechte Befragung von Kindern in Strafverfahren
+(Springer, 2017), pp. 47–56.
+35. S. Rückert, G. Pietsch, Unrecht im Namen des Volkes: Ein Justizirrtum und seine Folgen
+(Hoffmann und Campe Hamburg, 2007).
+36. J. deRivera, Estimating the number of false memory syndrome cases. Am. Psychol. 52,
+996–997 (1997).
+37. L. Patihis, M. H. Pendergrast, Reports of recovered memories of abuse in therapy in a
+large age-representative US national sample: Therapy type and decade comparisons.
+Clin. Psychol. Sci. 7, 3–21 (2019).
+38. Anonymous, False Confessions & Recording of Custodial Interrogations. (Innocence
+Project, https://innocenceproject.org/, 2020).
+39. A. Oeberst, H. Blank, Undoing suggestive influence on memory: The reversibility of
+the eyewitness misinformation effect. Cognition 125, 141–159 (2012).
+40. A. Clark, R. A. Nash, G. Fincham, G. Mazzoni, Creating non-believed memories for
+recent autobiographical events. PLoS One 7, e32998 (2012).
+41. G. Murphy, E. Loftus, R. H. Grady, L. J. Levine, C. M. Greene, Fool me twice: How
+effective is debriefing in false memory studies? Memory 28, 938–949 (2020).
+42. H. Otgaar, I. Candel, H. Merckelbach, K. Wade, Abducted by a UFO: Prevalence in-
+formation affects young children’s false memories for an implausible event. Appl.
+Cogn. Psychol. 23, 115–125 (2009).
+43. D. G. Cabalo, F. Ianì, R. Bilge, G. Mazzoni, Memory distortions: When suggestions
+cannot be easily ignored. Appl. Cogn. Psychol., 34 (2019).
+44. J. Endres, C. Poggenpohl, C. Erben, Repetitions, warnings and video: Cognitive and
+motivational components in preschool children’s suggestibility. Leg. Criminol. Psychol.
+4, 129–146 (1999).
+45. H. Blank, C. Launay, How to protect eyewitness memory against the misinformation
+effect: A meta-analysis of post-warning studies. J. Appl. Res. Mem. Cogn. 3, 77–88
+(2014).
+46. J. deRivera, The construction of false memory syndrome: The experience of retractors.
+Psychol. Inq. 8, 271–292 (1997).
+47. M. Pendergrast, Victims of Memory: Incest Accusations and Shattered Lives (Upper
+Access, 1995).
+48. M. R. Phillips, B. D. McAuliff, M. B. Kovera, B. L. Cutler, Double-blind photoarray
+administration as a safeguard against investigator bias. J. Appl. Psychol. 84, 940–951
+(1999).
+49. R. Rosnow, R. Rosenthal, People Studying People: Artifacts and Ethics in Behavioral
+Research (WH Freeman, 1997).
+50. O. Pfungst, Das Pferd des Herrn von Osten. (Der kluge Hans). Ein Beitrag zur ex-
+perimentellen Tier- und Menschen-Psychologie. (Hirzel, Leipzig, 1907).
+51. R. K. Merton, The self-fulfilling prophecy. Antioch Rev. 8, 193–210 (1948).
+52. L. Jussim, Self-fulfilling prophecies: A theoretical and integrative review. Psychol. Rev.
+93, 429 (1986).
+53. M. Chen, J. A. Bargh, Nonconscious behavioral confirmation processes: The self-
+fulfilling consequences of automatic stereotype activation. J. Exp. Soc. Psychol. 33,
+541–560 (1997).
+54. S. A. Rice, Contagious bias in the interview: A methodological note. Am. J. Sociol. 35,
+420–423 (1929).
+55. G. Echterhoff, S. Groll, W. Hirst, Tainted truth: Overcorrection for misinformation
+influence on eyewitness memory. Soc. Cogn. 25, 367–409 (2007).
+56. K. L. Chambers, M. S. Zaragoza, Intended and unintended effects of explicit warnings
+on eyewitness suggestibility: Evidence from source identification tests. Mem. Cognit.
+29, 1120–1129 (2001).
+57. M. K. Johnson, S. Hashtroudi, D. S. Lindsay, Source monitoring. Psychol. Bull. 114, 3–28
+(1993).
+58. M. S. Zaragoza, S. M. Lane, Source misattributions and the suggestibility of eyewit-
+ness memory. J. Exp. Psychol. Learn. Mem. Cogn. 20, 934–945 (1994).
+59. H. Blank, Memory states and memory tasks: An integrative framework for eyewitness
+memory and suggestibility. Memory 6, 481–529 (1998).
+60. H. Blank, L. Rutter, R. Armstrong, Enlightenment beats prejudice: The reversibility of
+stereotype-induced memory distortion. Psychon. Bull. Rev. 26, 1001–1007 (2019).
+61. H. Blank, Remembering: A theoretical interface between memory and social psy-
+chology. Soc. Psychol. (Gott.) 40, 164–175 (2009).
+62. E. Walther, H. Blank, Decision making in the false information paradigm. Psychol.
+Rundsch. 55, 72–81 (2004).
+63. T. Smeets, S. Telgen, J. Ost, M. Jelicic, H. Merckelbach, What’s behind crashing
+memories? Plausibility, belief and memory in reports of having seen non‐existent
+images. Appl. Cognit. Psychol. 23, 1333–1341 (2009).
+64. S. Miketta, M. Friese, Debriefed but still troubled? About the (in)effectiveness of
+postexperimental debriefings after ego threat. J. Pers. Soc. Psychol. 117, 282–309
+(2019).
+65. M. L. Huffman, A. M. Crossman, S. J. Ceci, “Are false memories permanent?”: An
+investigation of the long-term effects of source misattributions. Conscious. Cogn. 6,
+482–490 (1997).
+66. H. Johnson, C. Seifert, Sources of the continued influence effect: When misinforma-
+tion in memory affects later inferences. J. Exp. Psychol. Learn. Mem. Cogn. 20,
+1420–1436 (1994).
+67. R. Rosenthal, D. B. Rubin, Interpersonal expectancy effects: The first 345 studies.
+Behav. Brain Sci. 1, 377–386 (1978).
+68. I. E. Hyman Jr, E. Kleinknecht, False childhood memories. Trauma Memory, 178–188
+(1999).
+69. I. E. Hyman Jr, E. F. Loftus, Errors in autobiographical memory. Clin. Psychol. Rev. 18,
+933–947 (1998).
+70. H. Blank, E. Walther, S. D. Isemann, “The past is a social construction: Susceptibility to
+social influence in (mis)remembering” in Current issues in memory. False and Dis-
+torted Memories, R. A. Nash, J. Ost, Eds. (Routledge/Taylor & Francis Group, New
+York, 2017), pp. 55–71.
+71. C. R. Brewin, B. Andrews, Creating memories for false autobiographical events in
+childhood: A systematic review. Appl. Cogn. Psychol. 31, 2–23 (2017).
+72. C. Laney, E. F. Loftus, Emotional content of true and false memories. Memory 16,
+500–516 (2008).
+73. A. Beetz, A. Von Delhaes, Forensische Hypnose. Der Einsatz von Hypnose als erin-
+nerungsunterstützendes Verfahren im Rahmen polizeilicher Ermittlungen. Hypnose-
+ZHH 6, 165–187 (2011).
+Oeberst et al.
+PNAS
+|
+7 of 8
+PSYCHOLOGICAL AND
+COGNITIVE SCIENCES
+
+74. S. J. Ceci, E. F. Loftus, ‘Memory work’: A royal road to false memories? Appl. Cogn.
+Psychol. 8, 351–364 (1994).
+75. S. Garven, J. M. Wood, R. S. Malpass, J. S. Shaw III, More than suggestion: The effect of
+interviewing techniques from the McMartin preschool case. J. Appl. Psychol. 83,
+347–359 (1998).
+76. G. Mazzoni, J.-R. Laurence, M. Heap, Hypnosis and memory: Two hundred years of
+adventures and still going! Psychol. Conscious. 1, 153 (2014).
+77. R. J. McNally, Can network analysis transform psychopathology? Behav. Res. Ther. 86,
+95–104 (2016).
+78. S. M. Kassin et al., Police interviewing and interrogation: A self-report survey of police
+practices and beliefs. Law Hum. Behav. 31, 381–400 (2007).
+79. J. Ost, A. Costall, R. Bull, A perfect symmetry? A study of retractors’ experiences of
+making and then repudiating claims of early sexual abuse. Psychol. Crime Law 8,
+155–181 (2002).
+80. J. Underwood, K. Pezdek, Memory suggestibility as an example of the sleeper effect.
+Psychon. Bull. Rev. 5, 449–453 (1998).
+81. C. R. Brewin, B. Andrews, L. Mickes, Regaining consensus on the reliability of memory.
+Curr. Dir. Psychol. 29, 121–125 (2020).
+82. M. Halbwachs, On Collective Memory (University of Chicago Press, 1992).
+83. M. Halbwachs, The Collective Memory (Harper & Row, New York, 1980).
+84. K. A. Wade, M. Garry, Strategies for verifying false autobiographical memories. Am.
+J. Psychol. 118, 587–602 (2005).
+85. G. L. Wells, Applied eyewitness-testimony research: System variables and estimator
+variables. J. Pers. Soc. Psychol. 36, 1546–1557 (1978).
+86. S. Gronlund, C. Carlson, “System-based research on eyewitness identification” (2013),
+10.4135/9781446294703.n33.
+87. G. L. Wells, A. Memon, S. D. Penrod, Eyewitness evidence: Improving its probative
+value. Psychol. Sci. Public Interest 7, 45–75 (2006).
+88. E. F. Loftus, B. Levidow, S. Duensing, Who remembers best? Individual differences in
+memory for events that occurred in a science museum. Appl. Cogn. Psychol. 6, 93–107
+(1992).
+89. K. A. Wade, M. Garry, K. Pezdek, Deconstructing rich false memories of committing
+crime: Commentary on Shaw and Porter (2015). Psychol. Sci. 29, 471–476 (2018).
+90. A. Scoboria et al., The role of belief in occurrence within autobiographical memory.
+J. Exp. Psychol. Gen. 143, 1242–1258 (2014).
+91. S. M. McQuaid, M. Woodworth, E. L. Hutton, S. Porter, L. ten Brinke, Automated
+insights: Verbal cues to deception in real-life high-stakes lies. Psychol. Crime Law 21,
+617–631 (2015).
+92. M. K. Johnson, M. A. Foley, A. G. Suengas, C. L. Raye, Phenomenal characteristics of
+memories for perceived and imagined autobiographical events. J. Exp. Psychol. Gen.
+117, 371–376 (1988).
+93. A. Oeberst, M. Wachendörfer, R. Imhoff, H. Blank, Reversing false memories. Open
+Science Framework. https://osf.io/ser63. Deposited 23 March 2020.
+8 of 8
+|
+PNAS
+Oeberst et al.

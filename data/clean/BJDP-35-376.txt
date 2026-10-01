@@ -1,0 +1,841 @@
+British Journal of Developmental Psychology (2017), 35, 376–391
+© 2017 The Authors. British Journal of Developmental Psychology published by
+John Wiley & Sons Ltd on behalf of British Psychological Society
+www.wileyonlinelibrary.com
+Maltreatment increases spontaneous false
+memories but decreases suggestion-induced false
+memories in children
+Henry Otgaar1,2*, Mark L. Howe1,2 and Peter Muris1
+1Maastricht University, The Netherlands
+2City, University of London, UK
+We examined the creation of spontaneous and suggestion-induced false memories in
+maltreated and non-maltreated children. Maltreated and non-maltreated children were
+involved in a Deese–Roediger–McDermott false memory paradigm where they studied
+and remembered negative and neutral word lists. Suggestion-induced false memories
+were created using a misinformation procedure during which both maltreated and non-
+maltreated children viewed a negative video (i.e., bank robbery) and later received
+suggestive misinformation concerning the event. Our results showed that maltreated
+children had higher levels of spontaneous negative false memories but lower levels of
+suggestion-induced false memories as compared to non-maltreated children. Collec-
+tively, our study demonstrates that maltreatment both increases and decreases
+susceptibility to memory illusions depending on the type of false memory being
+induced.
+Statement of contribution
+What is already known on this subject?
+ Trauma affects memory.
+ It is unclear how trauma affects false memory.
+What does this study add?
+ This study focuses on two types of false memories.
+A key issue in legal cases concerns the reliability of testimonies. This is especially
+relevant in cases in which forensic technical evidence is lacking and legal decisions
+are based solely on testimonies from child witnesses or victims. For example, child
+abuse cases are commonly characterized by the presence of children’s statements and
+the absence of any other evidence (Brackmann, Otgaar, Sauerland, & Jelicic, 2016;
+Howe & Knott, 2015). In such cases, it is of considerable importance to determine the
+reliability of children’s eyewitness accounts and decide whether statements about
+these events have been contaminated with errors of omission or commission (i.e.,
+false memories).
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use,
+distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.
+*Correspondence should be addressed to Henry Otgaar, Faculty of Psychology and Neuroscience, Maastricht University, PO
+Box 616, 6200 MD, Maastricht, the Netherlands (email: Henry.Otgaar@maastrichtuniversity.nl).
+DOI:10.1111/bjdp.12177
+376
+
+Many children involved in legal cases have a history of maltreatment. A heated debate
+in the memory literature is whether a history of trauma might affect children’s memory,
+rendering them more susceptible to the formation of false memories. What is important to
+consider here is the distinction between false memories that arise spontaneously (Howe &
+Knott, 2015; Otgaar & Candel, 2011), that is, without any external suggestive influence,
+and false memories that emerge as the result of suggestive interviewing techniques
+(Loftus, 2005). The reason for stressing this distinction is that compared to adults, children
+are less likely to form spontaneous false memories, but more likely to produce suggestion-
+induced false memories (Ceci & Bruck, 1993; but see Otgaar, Howe, Brackmann, &
+Smeets, 2016). Furthermore, stressing this issue is important because spontaneous false
+memories are more likely to occur because of internal memory mechanisms such as
+spreading activation whereas suggestion-induced false memories are often the result of a
+mixture of internal and external factors such as compliance (Otgaar et al., 2016). In child
+abuse cases, both types of false memories are likely to occur; that is, many of these
+children have provided statements to different parties, including their parents and friends.
+The central question here is whether these spontaneous statements are accurate or
+whether they contain errors of commission (false memories). Furthermore, children are
+often interviewed by the police or by therapists in forensic settings, and here, there are
+opportunities for suggestive interviewing techniques that might infect children’s
+statements. In this study, we were interested in maltreated children’s susceptibility to
+both spontaneous and suggestion-induced false memories.
+Regarding the effects of maltreatment, there are reasons to assume that traumatic
+events might adversely affect children’s memory performance. For example, a history of
+trauma has been linked to deficits in memory-related brain areas such as reduced
+hippocampal volume (Carrion, Haas, Garrett, Song, & Reiss, 2009; Carrion, Weems, &
+Reiss, 2007; but see also De Bellis, Hall, Boring, Frustaci, & Moritz, 2001). Also, children
+with an abuse experience show more overgeneral memory than neglected or non-
+maltreated children (Valentino, Toth, & Cicchetti, 2009). Such examples might fuel the
+idea that trauma negatively impacts children’s true memories.
+However, there are also studies showing no clear basic memory differences between
+traumatized and non-traumatized children (Howe, Cicchetti, & Toth, 2006; McWilliams,
+Harris, & Goodman, 2014). One line of work has focused on the effects of trauma on the
+formation of children’s spontaneous false memories. For example, studies that have
+employed the Deese–Roediger–McDermott (DRM) paradigm (Deese, 1959; Roediger &
+McDermott,1995) havefoundlimitedevidencefordifferences betweenmaltreated andnon-
+maltreated children’s true and false memory rates (Howe, Cicchetti, Toth, & Cerrito, 2004).
+In the DRM procedure, participants receive associatively related words (e.g., soda, bitter,
+pie, heart, good, sugar) that are linked to a non-presented word labelled as the critical lure
+(i.e., sweet). The standard finding is that participants falsely recollect the critical lure with
+rates often indistinguishable from rates of true memories (Roediger & McDermott, 1995).
+The absence of differences in children’s susceptibility to spontaneous false memories
+also extends to information that is emotional in nature. For instance, Howe, Toth, and
+Cicchetti (2011) found no differences between maltreated and non-maltreated children’s
+true and false memory rates for negatively valenced word lists. However, other studies
+did find differences when emotionally charged DRM lists are used. Indeed, using
+maltreated children whose abuse was so severe that they had been forcibly removed
+from their biological parents, such children were more likely to produce negative false
+memories than non-maltreated children; that is, Baugerud, Howe, Magnussen, and
+Melinder (2016) presented severely maltreated and non-maltreated children (7- to 12-
+377
+
+year-olds) emotionally negative (e.g., critical lures: violence, dead, scared) and neutral
+(e.g., critical lures: man, bed, flower) DRM word lists. The results revealed no
+differences between the two groups of children with regard to the level of false
+memories elicited by the neutral lists. Interestingly, however, the researchers found that
+maltreated children reported significantly higher levels of false memories in relation to
+the emotionally negative lists as compared to non-maltreated children. This shows that
+maltreatment might increase spontaneous false memories, especially for information
+that is emotionally negative in nature. Similar results were obtained by Goodman, Quas,
+and Ogle (2009) who also noted that adolescents and adults with a history of child sexual
+abuse were more prone to produce emotionally negative false memories than
+participants without a documented history of child sexual abuse. A potential mechanism
+that might have caused these effects is that traumatized individuals are especially
+receptive for emotionally negative stimuli. So, when they are confronted with such
+stimuli they are likely to make both correct and incorrect associations, ones that result in
+the creation of false memories.
+When we focus on trauma and its effect on children’s suggestion-based false memories,
+studies seem to show that maltreatment does not lead to increases or decreases in
+susceptibility to suggestive pressure in children (Chae, Goodman, Eisen, & Qin, 2011; Eisen,
+Goodman, Qin, Davis, & Crayton, 2007). Eisen et al. (2007), for example, tested
+susceptibility to suggestive questions in 3- to- 16-year-old maltreated and non-maltreated
+childrenwhoreceivedaphysicalexamination(i.e.,body,genital,andanal)tocollectmedical
+evidence for signs of child sexual/physical abuse or neglect. After an interval of 4 days,
+children were interviewed about this examination and received open (e.g., ‘What did the
+nurse look like?’) and suggestive (‘The nurse didn’t put something tight on your arm, did
+she?’) questions. Results basically showed that maltreated children responded in a similar
+way to the follow-up questions and thus were not found to be either more or less vulnerable
+to suggestive pressure than control children. This dovetails nicely with other work that also
+revealed that abuse status did not impact suggestibility levels (Chae et al., 2011).
+To recap, although work on maltreated children’s false memory formation is still
+somewhat limited, the picture so far seems to be the following. Severe maltreatment
+appears to increase children’s susceptibility to emotionally negative spontaneous false
+memories but may not influence their susceptibility to suggestion-based false memories.
+However, because of this limited evidence, several theoretical and practically relevant
+issues need to be resolved. First, all of the studies discussed above only focused on one
+specific type of false memory (spontaneous or suggestion-based), and thus, no research
+can be found investigating both types within one and the same study. Such an
+investigation seems crucial because only in this way it can be clarified whether an increase
+in emotionally negative false memories in maltreated children goes hand in hand with any
+effects on suggestibility. So, the question is whether in maltreated children, susceptibility
+to one type of false memory (spontaneous) is related to susceptibility to another type of
+false memory (suggestion-based).
+An examination of spontaneous and suggestion-based false memories in the same
+maltreated children is even more important because there exists debate about the
+relationship between different types of false memories and whether these types of false
+memories share similar underlying mechanisms (Pezdek & Lam, 2007; Wade et al.,
+2007). Work in this area has produced mixed results with some studies showing no
+relationship between spontaneous and suggestion-based false memories in children and
+adults (Ost, Blank, Davies, Jones, Lambert, & Salmon, 2013) and other studies
+demonstrating a positive link between spontaneous false memories and autobiographical
+378
+Henry Otgaar et al.
+
+false memories (Clancy, McNally, Schachter, Lenzenweger, & Pitman, 2002; Otgaar,
+Verschuere, Meijer, & van Oorsouw, 2012). Importantly, although there might be overlap
+in the mechanisms underlying spontaneous and suggestion-induced false memories, one
+fundamental difference is the following. Spontaneous false memories are exclusively the
+result of endogenous processes such as spreading activation whereas suggestion-induced
+false memories are caused by a mixture of both endogenous and exogenous processes
+such as external suggestive interviewing techniques. We will examine both types of false
+memories in this study. From a forensic perspective, a canonical example is that
+maltreated children are repeatedly asked to provide statements and are asked many –
+sometimes suggestive – questions, thereby creating an opportunity for both spontaneous
+and suggestion-based false memories to occur (Ceci & Bruck, 1993; Howe & Knott,
+2015).
+In addition, whereas previous studies on false memories in maltreated children have
+assessed the occurrence of spontaneous false memories by means of a prototypical
+experimental procedure (i.e., the DRM paradigm), suggestion-based false memories have
+been measured in a less standardized way. More precisely, in these studies, children were
+exposed to a variety of events about which quite different suggestive questions were
+asked. It remains unclear to what extent procedures were effective to elicit suggestion-
+induced false memories and to study differences between maltreated and non-maltreated
+children. A reliable and robust way to produce suggestion-based false memories is the
+misinformation paradigm (Loftus, 2005), which surprisingly has not been employed in
+previous studies on false memories in maltreated children. In this paradigm, participants
+are exposed to an event (e.g., a robbery), presented to them either live or on video. After
+this, they receive misinformation concerning the event (e.g., that the robber was carrying
+a knife while in fact he had a gun) often in the form of a narrative. Research has
+demonstrated that many participants incorporate this misinformation into their memory
+reports, thereby producing false memories (Loftus, 2005).
+Another reason for why no differences in false memory propensity for suggestive
+questions were detected in previous work is because of the samples used in those
+studies; that is, in earlier studies, maltreated children did not have a history of severe
+physical/sexual abuse. This is important to consider because Baugerud et al. (2016)
+showed that when the sample included children with more several maltreatment
+histories, these children evinced higher levels of negative spontaneous false memories.
+Hence, in this study, we attempted to test children with a more severe abuse history
+(physical and sexual abuse). Many of these children were involved in legal proceedings,
+and such cases are only being brought to court when children’s accounts refer to serious
+abusive experiences.
+In this study, maltreated and non-maltreated children’s false memories were tested
+using the DRM paradigm and misinformation paradigm. Specifically, we presented
+children with emotionally negative and neutral DRM word lists. Furthermore, during the
+misinformation procedure, we presented children with a video concerning a negative
+event (i.e., robbery). Based on previous work (Baugerud et al., 2016), our predictions
+were that the maltreated children would evince higher levels of spontaneous false
+memories especially for emotionally negative words than the non-maltreated children.
+Based on previous work (Chae et al., 2011), our hypothesis regarding suggestion-induced
+false memories was that we expected to find that misinformation effects would not differ
+between maltreated and non-maltreated children. In addition, we also measured levels of
+intelligence and dissociation as previous work has indicated that these factors might affect
+children’s memory (Chae et al., 2011).
+379
+
+Method
+Participants
+In the current study, 127 4- to 12-year-old children (maltreated: n = 21; mean
+age = 8.24 years,
+SD = 2.28,
+range
+4–11;
+non-maltreated:
+n = 106;
+mean
+age = 9.44 years, SD = 1.66, range 6–12) were tested. Maltreated children were
+recruited from a forensic child abuse centre (n = 11) and a child interrogation studio
+(n = 6), both located in the Netherlands. In the forensic child abuse centre, children
+were medically evaluated for signs of sexual and physical abuse. Parents of four
+elementary children (mean age = 9.25, SD = 0.96) informed us that their children had a
+history of child sexual abuse (see also below). These children were included in the
+maltreated sample leading to a total sample of 21 maltreated children. Referrals to this
+forensic child abuse centre were from child protection services where the alleged child
+sexual abuse was reported. Also, some children who were referred to this centre were
+already involved in legal cases and were brought to the centre by the police. Children
+who were recruited from the child interrogation centre were all involved in legal cases
+concerning sexual abuse. Thus, children from both the forensic centre and the child
+interrogation room were referred to those places because it was suspected that they
+experienced severe forms of abuse (physical and sexual abuse). Parents or other
+caretakers had to provide consent before participation. Children were tested at the
+forensic child abuse centre or at their homes in separate quiet rooms. Twenty-nine per
+cent (n = 7) of the parents reported to have a below average income, and 14% (n = 3)
+reported to have an average or above-average income. We did not receive any
+information regarding the income of the other parents. Children received a small present
+for their participation in the study.
+The non-maltreated children were recruited from elementary schools in middle-class
+areas in the Netherlands. The parents of these children also provided parental consent
+before participation. The schools consisted of children with parents having average
+income. Children were tested in separate rooms at their school. Similar to the maltreated
+children, these non-maltreated children received a present for their participation. The
+study was approved by the ethical committee of the Faculty of Psychology and
+Neuroscience, Maastricht University.
+Materials
+Dissociative Experiences Scale for Adolescents
+For exploratory reasons, we included the Dissociative Experiences Scale for Adolescents
+(A-DES; Armstrong, Putnam, Carlson, Libero, & Smith, 1997). The A-DES is a self-report
+measure of dissociation commonly used for 11-year-old children and older. It contains 30
+items describing dissociative experiences (‘Something inside of me seems to make me do
+things that I don’t want to do’) using 11-point scales (0 = never to 10 = always). The A-
+DES has high reliability, internal validity, and discriminant validity (Armstrong et al.,
+1997).
+Wechsler Intelligence Scale for Children
+We used the third version of the Wechsler Intelligence Scale for Children (WISC)
+(Wechsler, 1991) to estimate children’s level of intelligence. Specifically, the Vocabulary
+and Block Design subtests were administered, which have high correlations with the
+380
+Henry Otgaar et al.
+
+WISC-III full-scale scores. Norm scores were calculated for the present experiment. An
+estimate of the total IQ was derived using the norm scores of the Vocabulary and Block
+Design subtests (Wechsler, 1991).
+Trauma history
+To provide some objective information on children’s history of trauma, we presented
+children’s parents or caretakers with an adapted version of the Childhood Trauma
+Questionnaire-Short Form (CTQ-SF; Bernstein & Fink, 1998; Thombs, Bernstein,
+Lobbestael, & Arntz, 2009). The CTQ-SF is a 28-item self-report questionnaire that
+measures multiple dimensions of childhood maltreatment: Physical abuse, emotional
+abuse, sexual abuse, physical neglect, emotional neglect, and minimization/denial. Each
+dimension contains five items except the minimization/denial scale that comprises three
+items. Items are scored from 1 (never true) to 5 (very often true). Originally, the CTQ-SF is
+a self-report questionnaire, but for the purpose of this study, items were rephrased from
+the perspective of the child. Thus, an item of the original version such as: ‘When I was
+growing up, I didn’t have enough to eat’ was changed into ‘When (s)he was growing up,
+(s)he didn’t have enough to eat’.
+DRM paradigm
+We used five neutral (critical lures: bread, smoke, window, foot, sweet) and five negative
+(critical lures: murder, punishment, cry, death, pain) 10-word DRM lists in this
+experiment. An example of a negative DRM list was as follows: tears, sorrow, laugh,
+whine, baby, scream, roar, whining, wet, weep, which referred to the critical lure ‘cry’.
+These DRM lists have been used in previous research and are effective in generating
+spontaneous false memories (Otgaar et al., 2016). The DRM recognition task contained
+78 words including 40 correct items (e.g., butter, tears), 10 critical lures, 10 non-
+presented related items (e.g., deceased, syrup), and 18 non-presented unrelated items
+(e.g., rock, bus). The recognition task was audiotaped and was presented at a rate of 5-
+second per item. We calculated hit rates (correct responses divided by total possible
+correct items [=40]) and false alarm rates (e.g., for critical lures: false responses divided by
+total number of critical lures [=10]).
+Misinformation paradigm
+We presented children with a negatively laden video of a bank robbery. This video had
+already been successfully used in previous research (Otgaar et al., 2016). Misinformation
+was presented in the form of an eyewitness account, which was audiotaped and presented
+to the children. In the account, the eyewitness suggested five incorrect details that were
+not shown in the video (i.e., pistol, money, laptop, brochures, ticket-dispenser) and 20
+correct details that were really presented during the video. The recognition task was
+composed of 50 items consisting of the five incorrect details and 20 correct details, five
+related but not-presented items, and 20 unrelated but not-presented items. Items were
+presented at a 5-second rate, and responses were recorded by the experimenter. We
+calculated hit rates (correct responses divided by total possible correct items [=20]) and
+false alarm rates (e.g., for incorrect items: false responses divided by total number of
+critical lures [=5]).
+381
+
+Design and procedure
+This study involved a between-subjects design with maltreated versus non-maltreated
+children as our independent variable. For the DRM paradigm, we also had a within-
+subjects factor in that children received both negative and neutral DRM lists. The order of
+the lists was counterbalanced. Furthermore, it was also counterbalanced whether
+children first received the DRM paradigm or the misinformation paradigm.
+After parents/caretakers provided consent, they were given the adapted version of the
+CTQ-SF. During the DRM procedure, children listened to the word lists which were
+presented to them by means of a headphone. After the presentation of the lists, a 3-minute
+filler task was provided to the children (i.e., find the differences). Then, the recognition
+task of the DRM task was administered. During the misinformation paradigm, children
+were first presented with the video, which was displayed by means of a laptop using
+headphones for sound. Following this, there was again a 3-minute filler task (Find the
+differences), after which children received the misinformation by listening to the
+eyewitness account via headphone. Next, children engaged in a third and final 3-minute
+filler task (Find the Differences). After this, children received the recognition task of the
+video. Subsequently, children had to fill in the A-DES. When children did not (fully)
+understand certain items of this questionnaire, the experimenter gave them additional
+explanation. This was especially relevant for younger children as the A-DES is originally
+designed for children aged 11 years and above. After the extra clarification, all children
+were able to complete the A-DES (with or without help of the experimenter). Finally,
+children were presented with the Vocabulary and Block Design subtests of the WISC.
+Results
+Preliminary analysis
+To obtain a more objective estimate of the maltreatment status of our sample, we first
+examined the scores on the CTQ-SF between the maltreated and non-maltreated children.
+As expected, using independent-samples t-tests, on all scales, except for emotional and
+physical neglect, parents/caretakers of maltreated children provided higher trauma-
+related scores than the parents/caregivers of non-maltreated children (Table 1). We also
+examined whether IQ scores differed between the two groups. Although the IQ scores of
+children in both groups fell within the average range, an independent-samples t-test
+showed that the mean IQ score was statistically higher for children in the non-maltreated
+group (M = 109.11, SD = 12.65) than for those in the maltreated group, M = 92.61,
+SD = 14.80, t(124) = 5.21, p < .001, Cohen’s d = 1.20.
+DRM task
+Hit rates
+As dissociation and intelligence have been shown to affect children’s memory (Chae
+et al., 2011), they were included as covariates in our statistical analyses. Also, because the
+age range was quite broad in our sample, we incorporated age as a covariate as well. As is
+customary in developmental research on (spontaneous) false memories, scores were
+corrected for possible response bias, a correction that leads to purer measures of hits and
+false memory (Otgaar et al., 2016). To be moreprecise, scores were transformed using the
+following two-high threshold correction (H  FA(U)) in which H is the hit rate for
+presented items and FA(U) refers to false alarms of non-presented unrelated items
+382
+Henry Otgaar et al.
+
+(Snodgrass & Corwin, 1988). False alarms for critical items were also transformed using
+(FA(CL)  FA(U)) where FA(CL) refers to false alarms for critical items. Finally, we
+corrected false alarms for related items using (FA(R)  FA(U)) where FA(R) is the false
+alarm rate for non-presented related items. This correction was applied for memory types
+of both the DRM and misinformation paradigms.
+A 2 (Group: maltreated vs. non-maltreated) 9 2 (Emotion: negative vs. neutral)
+ANCOVA with the last factor being a repeated measure was conducted on the corrected
+hit rates (Table 2). This was done to examine the effects of trauma on correct recognition.
+The covariates dissociation and intelligence scores did not have statistical effects on the
+hit rates (ps > .05). Age as a covariate did have a statistical effect on hit rates (p < .001)
+with children having higher scores when getting older. Neither the main effects of Group,
+F(1, 118) = 1.39, p = .24, g2
+p = .01, and Emotion, F(1, 118) = 0.01, p = .92, g2
+p = .00,
+Table 1. Childhood Trauma Questionnaire scores between the maltreated and non-maltreated group
+Group
+Mean (SD)
+p-value
+Cohen’s d
+Emotional abuse
+Non-maltreated
+6.28 (1.71)
+<.001
+1.20
+Maltreated
+10.62 (4.80)
+Physical abuse
+Non-maltreated
+5.34 (1.01)
+<.001
+0.78
+Maltreated
+7.33 (3.44)
+Sexual abuse
+Non-maltreated
+5.10 (0.37)
+<.001
+0.92
+Maltreated
+9.50 (6.73)
+Emotional neglect
+Non-maltreated
+8.78 (3.50)
+.42
+0.19
+Maltreated
+9.50 (4.22)
+Physical neglect
+Non-maltreated
+6.21 (1.82)
+.16
+0.32
+Maltreated
+6.86 (2.26)
+Minimization
+Non-maltreated
+3.00 (.00)
+<.001
+5.16
+Maltreated
+0.41 (.71)
+Note. Except for minimization, higher scores indicate higher levels of trauma.
+Table 2. DRM-corrected memory scores in maltreated and non-maltreated children
+Group
+Mean (SD)
+Hit rates neutral
+Non-maltreated
+.39 (.23)
+Maltreated
+.28 (.28)
+Hit rates negative
+Non-maltreated
+.49 (.21)
+Maltreated
+.37 (.25)
+Critical lures neutral
+Non-maltreated
+.38 (.29)
+Maltreated
+.28 (.35)
+Critical lures negative
+Non-maltreated
+.51 (.25)
+Maltreated
+.38 (.30)
+Related items neutral
+Non-maltreated
+.06 (.16)
+Maltreated
+.13 (.22)
+Related items negative
+Non-maltreated
+.03 (.16)
+Maltreated
+.14 (.20)
+Note. Because these scores are corrected, values can become negative.
+383
+
+nor
+the
+interaction
+of
+Group
+and
+Emotion
+attained
+statistical
+significance,
+F(1, 118) = 0.00, p = .97, g2
+p = .00.
+False memories (spontaneous)
+When we conducted a repeated-measures ANCOVA on the corrected false memory scores
+for the critical lures, no statistical effects emerged (ps > .12). However, when we focused
+on false memories for related items, we found a statistically significant interaction,
+F(1, 118) = 14.43, p < .001, g2
+p = .11. As predicted, there were no differences for the
+neutral lists (p = .07), but simple effects analyses for the negative lists showed that
+maltreated children (M = .14, SD = .20) evinced higher levels of spontaneous false
+memories than non-maltreated children (M = .03, SD = .16. p = .02; Table 2). A Bayesian
+analysis identified a Bayes factor (BF; 10) of 4.70, indicating more evidence for the
+alternative (more negative false memories in maltreated than in non-maltreated children)
+than the null hypothesis. In this analysis, none of the covariates was statistically significant
+(all ps > .05).
+Misinformation task
+Hit rates
+Because the assumption of homogeneity of variances was violated, the data were analysed
+using a Mann–Whitney U-test. Our analysis showed that maltreated children (mean
+rank = 36.58) had statistically lower hit rates than non-maltreated children (mean
+rank = 68.58; U = 521.50, z = 3.62, p < .001, r = .32). A BF (10) > 1,000 was found.
+False memories (suggestion-induced)
+A similar analysis showed that suggestion-induced false memories were less likely to
+emerge in maltreated (mean rank = 48.75) than in non-maltreated children (mean
+rank = 66.28; U = 765.00, z = 2.02, p = .04, r = .18; Figure 1). We also found a BF
+(10) of 717.80. We also looked at false alarms for related items. For this analysis, the
+homogeneity of variances assumption was not violated. Using an ANCOVA with
+dissociation, intelligence, and age as covariates, we found a main effect of Group,
+F(1, 119) = 4.27, p = .04, g2
+p = .04. Like our suggestion-induced false memory data, we
+found that false memory levels for related items were statistically lower in the maltreated
+(M = 0.10, SD = 0.14) than in the non-maltreated children (M = 0.16, SD = 0.14; see
+Table 3 for the corrected scores). A BF (10) of 3.66 was detected. The covariates were not
+statistically significant (ps > .15).
+Exploratory analyses
+Although we controlled for age in all our analyses where possible, two issues in our data
+need extra attention. First, the mean age between the maltreated and non-maltreated
+differed statistically from each other, t(125) = 2.85, p = .005, Cohen’s d = .60. Second,
+we tested far more control (n = 106) than maltreated children (n = 21). To deal with
+these issues, we explored the effects of maltreatment on false memory by comparing our
+maltreated sample with a non-maltreated sample that was matched by age. This was done
+by excluding children aged 9 or older from the non-maltreated sample. This resulted in a
+384
+Henry Otgaar et al.
+
+non-maltreated sample consisting of 38 children (mean age = 7.55, SD = 0.55), which
+importantly no longer statistically differed from the maltreated children in terms of age,
+t(57) = 1.77, p = .082, Cohen’s d = .42.
+When we focused on the impact of maltreatment on DRM false memories for critical
+lures, we only found that negative false recall (M = 0.37, SD = 0.26) was statistically
+higher than neutral false recall, M = 0.21, SD = 0.30; F(1, 55) = 9.34, p = .003, g2
+p = .15.
+In line with what we found earlier, for the related items, we found that only the negative
+false memories were statistically higher in the maltreated (M = 0.12, SD = 0.20) than in
+non-maltreated children, M = 0.00, SD = 0.17; F(1, 55) = 7.16, p = .010, g2
+p = .12.
+Regarding the misinformation false memories, we found false memory levels again to be
+lower in maltreated (M = 0.47, SD = 0.38) than in non-maltreated children, M = 0.61,
+SD = 0.21; t(56) = 1.89, p = .06, Cohen’s d = .46, albeit that this difference was not
+staistically significant. Further, we found that maltreated children (M = 0.07, SD = 0.16)
+had statistically lower false memory rates for related items than non-maltreated children,
+M = 0.18, SD = 0.16; t(56) = 2.44, p = .02, Cohen’s d = .69.
+We also explored whether spontaneous false memories were related to suggestion-
+induced false memories. However, we did not find any significant correlations between
+these two types of false memories (all ps > .21).
+Discussion
+We were interested in the effects of maltreatment on children’s spontaneous and
+suggestion-induced false memories. The results of the current study can be catalogued
+as follows. For spontaneous false memories, we found that maltreatment was
+associated with higher rates of negative false memories for related items. However, for
+Figure 1. Mean rank suggestion-induced false memories as a function of maltreatment.
+Table 3. Corrected scores (means and standard deviations) of the misinformation task for children in
+the maltreated and non-maltreated group
+Maltreated
+Non-maltreated
+Hit rates
+0.45 (0.30)
+0.68 (0.12)
+False memory
+0.47 (0.38)
+0.67 (0.24)
+False memory for related items
+0.07 (0.16)
+0.16 (0.14)
+385
+
+false memories induced by misinformation, the reverse was true. Here, we found that
+maltreated children were less susceptible to suggestion-based false memories than
+non-maltreated children. To our knowledge, this study represents the first empirical
+attempt to examine maltreatment effects on different types of children’s false
+memories.
+Our finding that negative spontaneous false memories for related items were more
+easily evoked in maltreated than in non-maltreated children is in line with some of the
+earlier work on this topic (Baugerud et al., 2016; Goodman et al., 2009). Those studies
+also showed that maltreatment was associated with higher false memory rates for negative
+DRM lists. The reason for the increased rates of negative false memories in (severely)
+maltreated children may have to do with the fact that such children are particularly
+sensitive and responsive to emotional stimuli; that is, maltreated children are often
+exposed to multiple and chronic forms of abuse that might deteriorate their general
+memory performance and the way they handle emotional experiences (Beers & De Bellis,
+2002). Studies have shown that maltreated children have problems with emotion
+regulation and display increased arousal levels (Kim & Cicchetti, 2009). As studies show
+that false memories increase as arousal levels become elevated (Howe, Toth, & Cicchetti,
+2006), maltreated children might be more prone to automatically activate related but non-
+presented negative information in memory during encoding. In addition, these children
+might be subject to more failures in monitoring differences between negative true and
+false information during retrieval, something that would also lead to heightened
+spontaneous false memory levels.
+It must be said that these former studies found that maltreatment affected false
+memories for critical lures (Baugerud et al., 2016), whereas our study only found
+support for maltreatment effects on false memories for related items. Of course,
+although our findings are to some extent consistent with earlier work, our study and the
+previous ones differ on some critical points. To begin with, in the study by Baugerud and
+colleagues, recall measures were used whereas we assessed recognition. It is especially
+important when studying the effects of emotion on false memories, that the method
+used to measure memory (recall or recognition) is taken into account; that is, studies
+have shown mixed effects depending on whether recall or recognition tests are used
+(Howe, Candel, Otgaar, Malone, & Wimmer, 2010). For example, research generally
+shows that false recall is frequently higher for neutral than for negative lists, whereas the
+opposite is found when using recognition tests. Furthermore, in the maltreated sample
+in Baugerud et al.’s study, children had been subjected to a mixture of different types of
+abuse such as physical/sexual abuse and neglect. In our study, sexual abuse was most
+likely to have played a role, while there was no obvious evidence for issues of neglect.
+This is important because research suggests that different types of trauma might have
+differential effects on memory (Chae et al., 2011). It is certainly possible that both the
+use of different memory measures and somewhat different trauma samples might have
+contributed to the slightly different false memory outcomes between Baugerud et al.’s
+study and the present investigation. Furthermore, research in the area of the effects of
+trauma on false memory is still scarce and so far results have been quite inconsistent; that
+is, some studies have not found trauma to impact (negative) spontaneous false memories
+(Howe et al., 2004, 2011) while others have found trauma to affect (negative)
+spontaneous false memories (Baugerud et al., 2016; Goodman, Ogle, Block, & Harris,
+2011). These different results could be due to a variety of reasons, such as the use of
+different DRM lists or sample characteristics (i.e., adolescents and adults vs. children;
+Goodman et al., 2011). All in all, the fact that we did not find trauma to effect false
+386
+Henry Otgaar et al.
+
+memory for critical lures is not a completely out of line with prior research. What it does
+suggest is that considerably more research needs to conducted in order to better specify
+the effects of trauma on children’s true and false memory.
+Contrary to our expectations, we found that maltreated children were less prone to
+accept suggestive information than non-maltreated children. We found this result for both
+false alarms and related items. This is a hitherto unreported finding. Previous work has
+found that maltreated and non-maltreated children did not differ with respect to their
+levels of suggestibility (Eisen et al., 2007). It is unclear why the present results deviate
+from those obtained in previous work. However, it must be emphasized that our study was
+the first to employ a standardized way (i.e., misinformation paradigm) to elicit suggestion-
+induced false memories. In previous research, children were involved in different events
+and received different questions by different experimenters. However, we used a well-
+controlled and often-used procedure (i.e., the misinformation paradigm; Loftus, 2005) to
+foster suggestion-induced false memories in children.
+Furthermore, the reason for decreased misinformation effects in maltreated children
+might be that these children also had lower hit rates than non-maltreated children. This is
+relevant because the incorrect details (e.g., pistol) that were mentioned in the eyewitness
+testimony were associatively related to the details presented in the video (e.g., robber).
+There is a wealth of studies showing that false memories are caused by associative
+activation (Howe, Wimmer, Gagnon, & Plumpton, 2009; Otgaar et al., 2016). Because
+maltreated children had lower hit rates in the misinformation task than non-maltreated
+children, there were fewer opportunities to associatively activate related, but false,
+details, thereby leading to reduced suggestion-induced false memory effects in maltreated
+children. It should be stressed here that the lower hit rates of maltreated children were
+only evident in the misinformation task and not in the DRM task. Hence, our reasoning that
+maltreated children were less able to automatically activate related details than non-
+maltreated children only applies to our findings of the misinformation task and does not
+imply that traumatized children have a general deficit in using spreading activation. Of
+course, future studies should attempt to replicate this finding and examine whether
+standardized methods to induce suggestion-induced false memories might indeed lead to
+reduced false memories in maltreated children. Attempting to replicate this finding is all
+the more relevant because when our data were matched by age, we only found on a
+descriptive level that misinformation effects were lower in the maltreated than non-
+maltreated children (p = .06).
+Our study is the first to have combined procedures to elicit both spontaneous and
+suggestion-induced false memories. Previous work in this field has only focused on one
+type of false memory or did not use the standard experimental procedure used to elicit
+these different false memories. For example, in Chae et al.’s (2011) and Eisen et al.’s
+(2007) studies, children’s susceptibility to suggestive questions was examined, but also
+commission errors to non-suggestive questions were measured. One might posit that the
+latter category could be regarded as a form of spontaneous false memory. The crucial
+problem with this interpretation is that it is not clear whether these commission errors
+reflect responses purely based on ‘memory’ or whether they reflect a response bias
+(Brainerd, Reyna, & Ceci, 2008). Therefore, the DRM procedure is frequently employed
+because it has been specifically designed to tap into memory mechanisms, such as
+spreading activation, that might result in the creation of spontaneous false memories.
+There are also some caveats of the present study that need to be discussed. First of all,
+our non-maltreated sample was much larger and on average somewhat older than the
+maltreated sample. To deal with these issues, we controlled for age in our analyses and also
+387
+
+conducted an additional analysis in which we made an attempt to match maltreated and
+non-maltreated children. On both occasions, we found evidence to suggest that
+maltreatment increased negative spontaneous false memories, but decreased sugges-
+tion-induced false memories. Still, future research in this area would benefit from
+including more matched groups of maltreated and non-maltreated children.
+Second, our conclusions might be seen as tentative because of the small sample size
+of maltreated children. Related to this is that our maltreated group mainly consisted of
+children being referred to child interrogation rooms or a forensic child abuse centre.
+Such children are only referred to such places if there are serious indications for severe
+physical and sexual abuse. Of course, a recurrent shortcoming in studies like ours is that
+the abusive claims are not substantiated. Third, in the current study, we sometimes had
+to use materials unsuitable for young children (A-DES, WISC).1 This is particularly true
+for the A-DES, which is normally used in children aged 11 and above and thus may
+contain items that were not fully understood by the young participants in our sample.
+But is also applies to the WISC, which has a lower age limit of 6 years, although the
+subtests Block Design and Vocabulary are included in the preschool version of this test
+(Wechsler, 1989). Of course, prospective work in this area should include develop-
+mentally appropriate measures. Fourth, one might argue that our results have limited
+practical value because our experiment focused on recognition measures. However, in
+DRM research, although it is true that for some findings (e.g., the effect of emotion on
+false memory) recall and recognition results can differ, for other findings (e.g.,
+developmental increases in false memories) the results are the same for recall and
+recognition (Brainerd et al., 2008). Furthermore, in legal contexts, it is known that
+children are often not asked open-ended recall questions, but are interviewed using
+closed questions such as the ones we used in our recognition tasks (e.g., ‘Do you
+remember that your father touched you on your buttocks?’). Also, our results might have
+limited generalizability because our memory test was done in one test session while
+children in legal cases are often asked about their memories after long delays. However,
+one might still expect that when longer delays are used that our results would still hold.
+The reasoning behind this is that memory performance deteriorates after passage of time
+and that people tend to rely more on meaning when remembering, making false
+memories more likely to occur. Furthermore, research shows that emotionally negative
+false memories are more likely to occur after a delay (Howe et al., 2010) which would
+mean that, especially for maltreated children, negative false memories are more likely to
+arise after the passage of time.
+Another possible limitation is that our differences in eliciting spontaneous and
+suggestion-induced false memories between maltreated and non-maltreated children (i.e.,
+increases and decreases in false memory) are an artefact of the type of procedure that was
+used. Of course, our tasks used to induce false memories were quite different from each
+other and so, ideally the same material should be used to elicit both types of false
+memories. For example, word lists were used to elicit spontaneous false memories while a
+video and misinformation was used to elicit suggestion-induced false memories. So, one
+1 The A-DES and the WISC are not suitable for use with very young children such as 4- or 5-year-olds. However, the forensic child
+abuse institute only approved that we used the materials as included in the present study and hence, other materials could not be
+added. To circumvent this issue, we made sure that when young children received the A-DES or the WISC, the research assistant
+sat next to the children to explain the items of the tests and assist them in completing these measures. For example, for the A-DES,
+after each item, children were asked before the rating whether they understood the item. If not, the research assistant explained
+the item, after which they were asked once more if they understood the item. If they did not, they did not complete the rating for
+that particular item.
+388
+Henry Otgaar et al.
+
+could argue that our results merely show that maltreated children are less likely to form
+negative false memories for word lists than non-maltreated children whereas this
+difference changes when procedures (e.g., misinformation paradigm) involving more
+emotionally arousing and complex life events are employed. However, this argument falls
+short for the following reasons. First, research has shown that emotional word lists such as
+the ones used in the DRM paradigm evoke emotional reactions that are quite similar to the
+ones produced by complex real-life events and autobiographical memories (Rubin &
+Talarico, 2009). Second, although there is debate about whether different false memories
+share similar underlying mechanisms (Ost et al., 2013; Otgaar & Candel, 2011), there is
+some evidence showing that DRM false memories are positively related to (false)
+autobiographical memories (Clancy et al., 2002). However, in the current study, we did
+not find evidence for a relationship between suggestion-induced false memories and
+spontaneous false memories which implies different mechanisms probably underlie these
+different types of false memories. The implication of this could be that laboratory tasks
+that induce false memories are not likely to be directly generalized to false memories
+occurring in daily life (e.g., during suggestive police interviews). Nonetheless, apart from
+the question about whether different false memories share similar mechanisms, in the
+legal arena, spontaneous false memories and suggestion-induced false memories are both
+relevant. Children involved in legal proceedings oftentimes provide testimony sponta-
+neously while also being asked (suggestive) questions by interviewers (BLINDED). As the
+DRM and misinformation paradigms have been constructed to mimic such situations, our
+findings could be of definite legal relevance.
+To recap, in the present study, we examined the effects of maltreatment on children’s
+spontaneous and suggestion-induced false memories. Our study extends previous work
+related to the debate on the effects of trauma on memory. Our new angle in this debate is
+that our results suggest that trauma does affect memory, but in a rather complex and
+unique way. Although there is research showing that trauma does not impact memory
+functioning (McWilliams et al., 2014), we found that maltreated children were more
+susceptible to negative false memories than non-maltreated children. In contrast, we also
+showed that misinformation effects were less pronounced in maltreated than in non-
+maltreated children. This study shows that maltreatment might have varying complex
+effects on false memories depending on their type (spontaneous vs. suggested) adding to
+the accumulating evidence that the effects of maltreatment on memory can be both
+positive and negative.
+References
+Armstrong, J. G., Putnam, F. W., Carlson, E. B., Libero, D. Z., & Smith, S. R. (1997). Development and
+validation of a measure of adolescent dissociation: The adolescent dissociative experiences
+scale. Journal of Nervous & Mental Disease, 185, 491–497.
+Baugerud, G. A., Howe, M. L., Magnussen, S., & Melinder, A. (2016). Maltreated and non-maltreated
+children’s true and false memories of neutral and emotional word lists in the Deese/Roediger-
+McDermott task. Journal of Experimental Child Psychology, 143, 102–110. doi:10.1016/j.jecp.
+2015.10.007
+Beers, S. R., & De Bellis, M. D. (2002). Neuropsychological function in children with maltreated-
+related posttraumatic stress disorder. The American Journal of Psychiatry, 159, 483–486.
+doi:10.1176/appi.ajp.159.3.483
+Bernstein, D. P., & Fink, L. (1998). Childhood Trauma Questionnaire: A retrospective self-report.
+Manual. San Antonio, TX: The Psychological Corporation.
+389
+
+Brackmann, N., Otgaar, H., Sauerland, M., & Jelicic, M. (2016). When children are the least
+vulnerable to false memories: A true report or a case of autosuggestion? Journal of Forensic
+Sciences, 61, S271–S275. doi:10.1111/1556-4029.12926
+Brainerd, C. J., Reyna, V. F., & Ceci, S. J. (2008). Developmental reversals in false memory: A review
+of data and theory. Psychological Bulletin, 134, 343–382. doi:10.1037/0033-2909.134.3.343
+Carrion, V. G., Haas, B. W., Garrett, A., Song, S., & Reiss, A. L. (2009). Reduced hippocampal activity
+in youth with posttraumatic stress symptoms: An fMRI study. Journal of Pediatric Psychology,
+41, 1–11. doi:10.1093/jpepsy/jsp112
+Carrion, V. G., Weems, C. F., & Reiss, A. L. (2007). Stress predicts brain changes in children: A pilot
+longitudinal study on youth stress, posttraumatic stress, and the hippocampus. Pediatrics, 119,
+509–516. doi:10.1542/peds.2006-2028
+Ceci, S. J., & Bruck, M. (1993). Suggestibility of the child witness: A historical review and synthesis.
+Psychological Bulletin, 113, 403–439. doi:10.1037/0033-2909.113.3.403
+Chae, Y., Goodman, G. S., Eisen, M. L., & Qin, J. (2011). Event memory and suggestibility in abused
+and neglected children: Trauma-related psychopathology and cognitive functioning. Journal of
+Experimental Child Psychology, 110, 520–538. doi:10.1016/j.jecp.2011.05.006
+Clancy, S. A., McNally, R. J., Schachter, D. L., Lenzenweger, M., & Pitman, R. K. (2002). Memory
+distortion in people reporting abduction by aliens. Journal of Abnormal Psychology, 111, 455–
+461. doi:10.1037/0021-843X.111.3.455
+De Bellis, M. D., Hall, J., Boring, A. M., Frustaci, K., & Moritz, G. (2001). A pilot longitudinal study of
+hippocampal volume in pediatric maltreatment-related posttraumatic stress disorder. Biological
+Psychiatry, 50, 305–309. doi:10.1016/S0006-3223(01)01105-2
+Deese, J. (1959). On the prediction of occurrence of particular verbal intrusions in immediate recall.
+Journal of Experimental Psychology, 58, 17–22. doi:10.1037/h0046671
+Eisen, M. L., Goodman, G. S., Qin, J., Davis, S., & Crayton, J. (2007). Maltreated children’s memory:
+Accuracy, suggestibility, and psychopathology. Developmental Psychology, 43, 1275–1294.
+doi:10.1037/0012-1649.43.6.1275
+Goodman, G. S., Quas, J. A., & Ogle, C. M. (2009). Child maltreatment and memory. Annual Review
+of Psychology, 61, 325–351. doi:10.1146/annurev.psych.093008.100403
+Goodman, G. S., Ogle, C. M., Block, S. D., & Harris, L. S. (2011). False memory for trauma-related
+Deese-Roediger-McDermott lists in adolescents and adults with histories of child sexual abuse.
+Development and Psychopathology, 23, 423–438. doi:10.1017/S0954579411000150
+Howe, M. L., Candel, I., Otgaar, H., Malone, C., & Wimmer, M. C. (2010). Valence and the
+development of immediate and long term false memory illusions. Memory, 18, 58–75. doi:10.
+1080/09658210903476514
+Howe, M. L., Cicchetti, D., & Toth, S. L. (2006). Children’s basic memory processes,
+stress, and maltreatment. Development and Psychopathology, 3, 759–769. doi:10.1017/
+S0954579406060378
+Howe, M. L., Cicchetti, D., Toth, S. L., & Cerrito, B. M. (2004). True and false memories in maltreated
+children. Child Development, 75, 1402–1417. doi:10.1111/j.1467-8624.2004.00748.x
+Howe, M. L., & Knott, L. M. (2015). The fallibility of memory in judicial processes: Lessons from the
+past and their modern consequences. Memory, 23, 633–656. doi:10.1080/09658211.2015.
+1010709
+Howe, M. L., Toth, S., & Cicchetti, D. (2006). Memory and developmental psychopathology. In D.
+Cicchetti & D. Cohen (Eds.), Developmental psychopathology. Vol. 2: Developmental
+neuroscience (2nd ed., pp. 629–655). New York, NY: Wiley. doi:10.1002/9780470939390.ch15
+Howe, M. L., Toth, S. L., & Cicchetti, D. (2011). Can maltreated children inhibit true and false
+memories for emotional information? Child Development, 82, 967–981. doi:10.1111/j.1467-
+8624.2011.01585.x
+Howe, M. L., Wimmer, M. C., Gagnon, N., & Plumpton, S. (2009). An associative-activation theory of
+children’s and adults’ memory illusions. Journal of Memory and Language, 60, 229–251.
+doi:10.1016/j.jml.2008.10.002
+390
+Henry Otgaar et al.
+
+Kim, J., & Cicchetti, D. (2009). Longitudinal pathways linking child maltreatment, emotion
+regulation, peer relations, and psychopathology. The Journal of Child Psychology and
+Psychiatry, 51, 706–716. doi:10.1111/j.1469-7610.2009.02202.x
+Loftus, E. F. (2005). Planting misinformation in the human mind: A 30-year investigation of the
+malleability of memory. Learning & Memory, 12, 361–366. doi:10.1101/lm.94705
+McWilliams, K., Harris, L. S., & Goodman, G. S. (2014). Child maltreatment, trauma-related
+psychopathology, and eyewitness memory in children and adolescents. Behavioral Sciences &
+the Law, 32, 702–717. doi:10.1002/bsl.2143
+Ost, J., Blank, H., Davies, J., Lambert, K., & Salmon, K. (2013). False memory 61⁄4 false memory: DRM
+errors are unrelated to the misinformation effect. PLoS One, 8, e57939. doi:10.1371/journal.
+pone.0057939
+Otgaar, H., & Candel, I. (2011). Children’s false memories: Different false memory paradigms reveal
+different results. Psychology, Crime & Law, 17, 513–528. doi:10.1080/10683160903373392
+Otgaar, H., Howe, M. L., Brackmann, N., & Smeets, T. (2016). The malleability of developmental
+trends in neutral and negative memory illusions. Journal of Experimental Psychology: General,
+145, 31–55. doi:10.1037/xge0000127
+Otgaar, H., Verschuere, B., Meijer, E. H., & van Oorsouw, K. (2012). The origin of children’s
+implanted false memories: Memory traces or compliance. Acta Psychologica, 139, 397–403.
+doi:10.1016/j.actpsy.2012.01.002
+Pezdek, K., & Lam, S. (2007). What research paradigms have cognitive psychologists used to study
+‘False memory’, and what are the implications of these choices? Consciousness and Cognition,
+16, 2–17. doi:10.1016/j.concog.2005.06.006
+Roediger, H. L., & McDermott, K. (1995). Creating false memories: Remembering words not
+presented in a list. Journal of Experimental Psychology: Learning, Memory, and Cognition,
+21, 803–814. doi:10.1037/0278-7393.21.4.803
+Rubin, D., & Talarico, J. (2009). A comparison of dimensional models of emotion: Evidence from
+emotions, prototypical events, autobiographical memories and words. Memory, 17, 802–808.
+doi:10.1080/09658210903130764
+Snodgrass, J. G., & Corwin, J. (1988). Pragmatics of measuring recognition memory: Applications to
+dementia and amnesia. Journal of Experimental Psychology: General, 117, 34–50. doi:10.
+1037/0096-3445.117.1.34
+Thombs, B. D., Bernstein, D. P., Lobbestael, J., & Arntz, A. (2009). A validation study of the Dutch
+Childhood Trauma Questionnaire-Short Form: Factor structure, reliability, and known-groups
+validity. Child Abuse & Neglect, 33, 518–523. doi:10.1016/j.chiabu.2009.03.001
+Valentino, K., Toth, S. L., & Cicchetti, D. (2009). Autobiographical memory functioning among
+abused, neglected, and nonmaltreated children: The overgeneral memory effect. The Journal of
+Child Psychology and Psychiatry, 50, 1029–1038. doi:10.1111/j.1469-7610.2009.02072.x
+Wade, K., Sharman, S., Garry, M., Memon, A., Mazzoni, G., Merckelbach, H., & Loftus, E. (2007). False
+claims about false memory research. Consciousness and Cognition, 16, 18–28. doi:10.1016/
+j.concog.2006.07.001
+Wechsler, D. (1989). Wechsler preschool and primary scale of intelligence-revised. San Antonio,
+TX: Psychological Corporation.
+Wechsler, D. (1991). Wechsler Intelligence Scale for Children (WISC-III). San Antonio, TX:
+Psychological Corporation.
+Received 21 June 2016; revised version received 16 December 2016
+391

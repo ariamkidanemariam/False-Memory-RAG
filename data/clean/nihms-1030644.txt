@@ -1,0 +1,556 @@
+Cognitive Reserve Moderates Older Adults’ Memory Errors in 
+Autobiographical Reality Monitoring Task
+Kyle R. Kraemer, Tasnuva Enam, and Ian M. McDonough
+Department of Psychology, The University of Alabama;
+Abstract
+False memory rates differ in individuals with high versus low cognitive reserve and between 
+young-old and old-old age groups. Here we tested how two types of false memory (false alarms to 
+new items and source memory) in two age groups differed with cognitive reserve. Subjects were 
+presented with words and either instructed to generate a past event from their memory associated 
+with the word or to imagine a future event associated with the word. At test, participants were 
+instructed to determine whether the event was a past, future, or new event. Results showed overall 
+false memory rates were lower for young-old adults and those with high reserve. Critically, low 
+cognitive reserve was most associated with source memory errors in young-old but not old-old 
+adults. Reflecting the opposite pattern, false alarms to new items were most associated with low 
+cognitive reserve for old-old, but not young-old adults. These results seem to suggest two different 
+classes of false memories in old age. That is, cognitive reserve was most protective for familiar 
+lures in earlier stages of old age, whereas it was most protective for new lures in later stages of old 
+age. These results support the idea that retrieval monitoring deteriorates with age, potentially due 
+to declines in working memory capacity, but that the decline may be attenuated by cognitive 
+reserve. Furthermore, we suggest that different levels of working memory capacity may be 
+required for monitoring source memory versus item memory, leading to differential effects of 
+cognitive reserve depending upon age.
+Keywords
+autobiographical memory; false memories; older adults; cognitive reserve; reality monitoring
+Introduction
+The ability to correctly remember the past is vital to being able to function effectively. 
+However, research has thoroughly established that older adults (typically 60–65+ years of 
+age) possess poorer memory ability than younger adults (typically 18–30 years of age), and 
+that diminished memory in older adults frequently leads to deficits in independent 
+functioning (Cahn-Weiner et al., 2007; Giebel, Challis, & Montaldi, 2015; Overdorp, 
+Correspondence concerning this article should be addressed to Ian M. McDonough, Department of Psychology, The University of 
+Alabama. Mailing Address: Box 870348, The University of Alabama, Tuscaloosa, AL 35487-0348. immcdonough@ua.edu.
+These findings were presented at presented at the 58th Annual Meeting of the Psychonomic Society and the 2018 Cognitive Aging 
+Conference. The research described in this study was supported in part by APF/COGDOP Graduate Research Scholarship in 
+Psychology, the APA Dissertation Research Award granted to I.M.M., and National Institute of Aging Grant AG30345.
+HHS Public Access
+Author manuscript
+Published in final edited form as:
+Psychol Neurosci. 2019 June ; 12(2): 247–256. doi:10.1037/pne0000161.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Kessels, Claassen, & Oosterman, 2016). While much aging research focuses on the fact that 
+older adults forget more information than younger adults, memory errors can also take the 
+form of false memories. False memories occur when a person believes they experienced an 
+event that they either did not experience or experienced differently from the original event 
+(Roediger & McDermott, 1995). On average, older adults produce about twice as many false 
+memories as younger adults (for a meta-analysis, see McCabe, Roediger, McDaniel, & 
+Balota, 2009). These false memories could create many problems for older adults if, for 
+example, they believe that they paid bills that were not actually paid, took medication that 
+was not actually taken, or made an agreement that they did not actually make.
+One explanation for the increase in false memories in older adults is that older adults rely 
+more on familiarity to make decisions about their previous memories than do younger adults 
+(Norman & Schacter 1997; Naveh-Benjamin 2000; Yonelinas, 2002). According to the dual- 
+process model of memory, people decide about the occurrence of previous events by 
+evaluating two types of information—familiarity and recollection. Familiarity refers to an 
+automatic process of memory that provides immediate information about whether the 
+current item has been encountered before, while recollection refers to a more effortful, 
+conscious process that involves the recall of actual details of a previous encounter 
+(Yonelinas, 2002). Behavioral studies have consistently demonstrated that aging selectively 
+impairs recollection-based processes, but spares familiarity-based processes (e.g., Jennings 
+& Jacoby, 1993; Koen & Yonelinas, 2014; Pitarque et al., 2016). Neuroimaging studies have 
+yielded converging evidence with behavorioal studies. Older adults exhibit reduced 
+activation of the prefrontal and hippocampal brain regions typically more associated with 
+recollection compared with younger adults (e.g., Cabeza 2002; Logan, Sanders, Morris, & 
+Buckner, 2002; Morcom, Good, Frackowiak, & Rugg, 2003). These reductions in brain 
+activity in recollection-related brain regions are often accompanied by a shift of activation to 
+brain regions associated with familiarity-based processes (e.g., Daselaar, Fleck, Dobbins, 
+Madden, & Cabeza, 2006)
+While the differences in memory between younger and older adults have been widely 
+investigated, relatively fewer studies have focused on age differences within the older 
+population. In particular, sometimes distinctions are made between young-old (typically 
+between ages 60–74 years) and old-old (typically above age of 76 years) adults (e.g., 
+McGinnis, 2012; Wang, Kruggel, & Rugg, 2009). Although the specific ages of these two 
+categories differ by study, consistent patterns still appear when comparing young-old and 
+old-old adults. Interestingly, while old-old adults seem to possess consistently poorer source 
+memory than young-old adults, several studies report no difference between these ages for 
+item memory (Cansino, 2009; Cohen & Faulkner, 1989). These findings are in line with the 
+aforementioned declines in recollection and sparing of familiarity. Generally, while both 
+source and item memory may decline with age, old-old adults show greater impairment in 
+source memory compared to item memory (Cansino et al., 2013; Erngrund, Mántylá & 
+Nilsson, 1996). Thus, advanced age seems to be associated with particularly poorer 
+recollection, and thus, the potential for an increased reliance on familiarity compared to 
+young-old adults.
+Kraemer et al.
+Page 2
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Retrieval Monitoring
+While the increased reliance on familiarity over recollection may partially explain the 
+increase in false memories for older adults, the increase may also be due to a decline in 
+retrieval monitoring ability. That is, when attempting to retrieve a particular event, a person 
+may evaluate the contents of the retrieved memory for consistency and plausibility to inform 
+the veracity of the memory signal (Gallo & Lampinen, 2015). Examples of retrieval 
+monitoring include recollection rejection (a.k.a. “recall-to-reject”; e.g. Brainerd, Reyna, 
+Wright, & Mojardin, 2003; Gallo, 2004) and the distinctiveness heuristic (Schacter, Israel, & 
+Racine, 1999; for review, see Gallo, 2013), which involve the rejection of familiar items 
+based on, respectively, recollected items and expectations of a highly distinctive memory 
+trace. Because retrieval monitoring is critical to accurate memory performance (Johnson, 
+Hashtroudi, & Lindsay, 1993), deficits within retrieval monitoring ability may partially 
+explain the increase in false memories experienced by older adults.
+The relative impairment of retrieval monitoring in older adults has been shown through both 
+behavioral and neuroimaging studies. For example, when elaboration was used to increase 
+recollected features of experiences, only younger adults were able to take advantage of the 
+increase in recollected features to correspondingly reduce their source memory errors, likely 
+due to older adults possessing deficits in retrieval monitoring (McDonough & Gallo, 2013). 
+Furthermore, while younger adults show greater activation in the DLPFC for more difficult 
+memory decisions (words compared with pictures), which indicates that retrieval monitoring 
+is engaged according to the difficulty of the task, older adults show no difference in DLPFC 
+activation for these different tasks. This evidence may indicate that retrieval monitoring 
+dysfunction is at least partially responsible for the differences in source memory observed 
+between older and younger adults (McDonough, Wong, & Gallo, 2013).
+Cognitive Reserve
+Although memory dysfunction can be extremely prohibitive to the function of older adults, 
+some recourse can be found for those who have higher cognitive reserve. Cognitive reserve 
+refers to the observed disconnect between the neural pathology associated with aging and 
+dementia and the expected cognitive symptomology. Studies have repeatedly shown that 
+certain characteristics, such as having high socioeconomic status or high levels of education, 
+are related to reduced cognitive symptomology (Stern, 2009). In one well-known study, the 
+linguistic complexity of a person’s writing at a young age was found to predict the cognitive 
+function of that person in old age, as well as their chance of developing Alzheimer’s disease 
+(Snowdon et al., 1996). Many proxies of cognitive reserve have been considered, including 
+educational level, occupational status, and cognitively stimulating leisure activities—all of 
+which possess a significant positive relationship with general cognition in healthy older 
+adults (Opdebeeck, Martyr & Clare, 2016).
+However, when specifically assessing how cognitive reserve impacts recollection and 
+familiarity, studies provide mixed evidence. For example, Pitarque and colleagues (2016) 
+discovered that older adults with lower cognitive reserve committed significantly more false 
+alarms and claimed to be “remembered” than those with higher cognitive reserve. This 
+Kraemer et al.
+Page 3
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+pattern did not appear for “know” judgments, indicating that cognitive reserve may be 
+important for protecting decline in recollection-based processes with age, but have little or 
+no impact on familiarity-based processes. On the other hand, even in studies investigating 
+familiarity-based strategies, older adults with lower cognitive reserve do sometimes make 
+more false alarms than those with higher cognitive reserve (Sales, Meléndez, Algarabel & 
+Pitarque, 2014). Thus, cognitive reserve may be important for protecting familiarity-based 
+processes as well.
+While a rich amount of research has been conducted on false memory within the field of 
+cognitive aging, relatively few studies have specifically investigated the differential false 
+memory rates for tasks assessing item and source memory within older adults by comparing 
+young-old and old-old adults, and to our knowledge, none have investigated how these forms 
+of memory errors might be impacted by cognitive reserve within these age groups. This 
+question is critical to understand how older adults can protect both recollection-based and 
+familiarity-based processes into advanced age.
+The Current Study
+For the current study, data were reanalyzed from both Experiment 1 and Experiment 2 of 
+McDonough and Gallo (2013) to determine differences between young-old and old-old 
+adults on memory errors within a reality monitoring task, and how cognitive reserve might 
+moderate these errors. While McDonough and Gallo (2013) previously assessed differences 
+in memory accuracy between college-aged younger adults (Mage=20.37) and older adults 
+generally (Mage= 76.24), no analyses comparing memory errors among older adults or 
+cognitive reserve status were previously reported from this data, nor did any previous 
+analyses compare error types between studied vs. non-studied lures. For the current study, 
+we hypothesized that old-old adults would make more memory errors to non-studied lures 
+than young-old adults, as well as more memory errors than young-old adults from 
+misidentifying lures that were originally studied in a different source; however, we also 
+hypothesized that these effects would be ameliorated in older adults with higher cognitive 
+reserve.
+Method
+Participants
+A total of 69 older adults (female N = 49) participated in the study. A median split was used 
+to separate the participants into young-old (N = 34; age, 60 – 75) and old-old (N = 35; age, 
+76 – 92), an age division similar to that used in previous studies (McGinnis, 2012; Wang et 
+al., 2009). Participants were recruited from the Chicago community and were compensated 
+with $20 for their time. To ensure suitable mental health, older adults passed a screening for 
+a history of mental illness, showed no signs of depression (Geriatric Depression Scale, 
+young-old M = 3.97, SD = 3.97; old-old M = 3.31, SD = 3.53) or deficits in cognitive 
+functioning (Mini-Mental State Examination, young-old M = 28.38, SD = 1.86; old-old M = 
+28.43, SD = 1.38). Cognitive reserve was measured using the vocabulary portion of the 
+Shipley Institute of Living Scale (SILS; Shipley & Burlingame, 1941), and a median split 
+was used to separate older adults into higher cognitive reserve (SILS > 35, N = 39) and 
+Kraemer et al.
+Page 4
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+lower cognitive reserve (SILS ≤ 35, N = 28). The median split for age and for cognitive 
+reserve were completed independently, resulting in classifications of 18 high reserve young-
+old individuals, 23 high reserve old-old individuals, 16 low reserve young-old individuals, 
+and 12 low reserve old-old individuals.
+Materials
+Stimuli used for the current study included 32 positive words from emotional word norms 
+(Bradley & Lang, 1999) and 32 neutral words from McDonough and Gallo (2010). Although 
+there were 64 words in total, 16 words were left out of the study phase for each participant 
+and were instead used as non-studied lures at test. The individual words used for each 
+portion of the study were counterbalanced across participants. All stimuli were presented to 
+participants on a computer through the Cogent2000 toolbox in Matlab.
+Procedure
+All participants completed the experiment in two phases—a study phase and a test phase that 
+occurred 24 hours later. Before each phase, the experimenter read the instructions aloud to 
+each participant and observed performance to verify a correct understanding of the tasks. 
+During the study phase, each participant was presented with a total of 48 different cue words 
+under two different sets of instructions. For the past event generation block, participants 
+were presented with 32 words and instructed to recall a past memory related to that cue 
+word. For the future event generation block, participants were presented with 32 cue words 
+and were instructed to imagine a future event related to the cue (note that 16 words 
+overlapped between the blocks and were dubbed “both” items, while 16 were unique to each 
+block). For each past or future event, after receiving the cue word, participants were given 
+one minute to recall (past) or imagine (future) as much as they could about the event and 
+verbally provide one-word descriptions of the event, including a title, who was in the event, 
+and the location of the event (these responses were recorded by the experimenter to be used 
+in the test phase).
+Although every participant completed both a past event generation block and a future event 
+generation block, the presence of an “elaborative” condition differed according to 
+participant. That is, the study phase was further split into either a past/elaborate event 
+generation or a past/non-elaborate event generation (and the same for future event 
+generation). In the elaborative conditions, participants received an extra 1.5 minutes of 
+elaboration to describe additional sensory details for past events or to describe details of the 
+future plan for the future event. The current analyses collapsed across the elaborative and 
+non-elaborative conditions because we were primarily interested in overall memory errors 
+among different ages and cognitive reserve levels, regardless of the degree of elaboration for 
+individual items (for a detailed discussion of the effects of elaboration, see McDonough and 
+Gallo, 2013).
+The test phase occurred 24 hours later. Each participant was presented with a total of 64 
+events—16 previously generated past events (single-source), 16 previously generated future 
+events (single-source), 16 events generated in both the past and future conditions (“both” 
+items), and 16 new events—before being asked to make a memory judgment. While all 
+Kraemer et al.
+Page 5
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+participants had to indicate the source of the events, this question was asked slightly 
+differently depending on participants retrieval orientation (past or future). Specifically, some 
+participants were asked to indicate whether the event had been previously imagined (“yes” 
+or “no”), while other participants were asked to indicate whether the event was a memory 
+that had been previously recalled (“yes” or “no”). However, our main questions for this 
+paper did not involve the role of retrieval orientation, so we collapsed across the different 
+tests to determine memory accuracy.
+On these tests, participants could make two types of memory errors, depending upon the lure 
+with which they were presented: studied or non-studied lures. We define source memory 
+errors as those occurring when participants incorrectly endorsed a studied lure as having 
+been previously generated in the wrong source (e.g., claiming an actual past event was an 
+event generated in the future condition). We define item memory errors as those occurring 
+when participants incorrectly endorsed a non-studied lure as having been previously 
+generated in any source.
+Results
+Participant Characteristics
+A 2 (Age Group: Young-Old, Old-Old) × 2 (Cognitive Reserve: Higher, Lower) analysis of 
+variance (ANOVA) was conducted on the participant characteristics including sex, 
+education, MMSE, and GDS. Not surprisingly, these ANOVAs resulted in a main effect of 
+Cognitive Reserve group for education, F (1,69) = 9.56, MSE = 6.63, p = .003, ηp2 = .13, 
+such that older adults in the Higher Cognitive Reserve group had higher education than older 
+adults in the Lower Cognitive Reserve group. No other main effects or interactions were 
+significant (all p’s > .09).
+Effects of Targets
+Although our main analysis concerned memory errors, we first present the results on hits for 
+completeness. We conducted a 2 (Age Group: Young-Old, Old-Old) × 2 (Cognitive Reserve: 
+Higher, Lower) × 2 (Target: Both, Single-source) mixed analysis of variance (ANOVA) on 
+proportion of hits across the memory tests. This analysis resulted in no significant effects 
+(all ps > .10).
+Effects of Lures
+We next focus on our primary analysis of interest: memory errors. We conducted a 2 (Age 
+Group: Young-Old, Old-Old) × 2 (Cognitive Reserve: High, Low) × 2 (Lure: Studied, Non-
+studied) mixed ANOVA on proportion of memory errors across the criterial recollection 
+tests. This analysis resulted in a main effect of Age Group, F (1,65) = 4.47, MSE = .091, p 
+= .038, ηp2= .064, such that the Young-Old committed fewer memory errors than the Old-
+Old. A main effect of Cognitive Reserve also was found, F (1,65) = 12.70, MSE =.091, p < .
+001, ηp2= .16, such that those with higher reserve committed fewer memory errors than 
+those with lower reserve. The analysis also yielded a main effect of Lure, F (1,65) = 107.63, 
+MSE = .039, p <.001, ηp2 = .62, such that non-studied lures were associated with fewer 
+memory errors than studied lures. The two-way interactions were not significant (all ps > .
+Kraemer et al.
+Page 6
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+20). Critically, a three-way interaction was found, F (1,65) = 3.99, MSE = .039, p = .050, 
+ηp2 = .058.
+To better understand the nature of the three-way interaction, we conducted additional 
+analyses between higher and lower cognitive reserve groups, separately for each Age Group 
+and Lure Type (see Figure 1). For studied lures, Young-Old adults with higher cognitive 
+reserve committed fewer memory errors than Young-Old adults with lower cognitive 
+reserve, t (32) = 3.11, MSE = 0.11, p = .004. In contrast, memory errors to studied lures did 
+not differ for Old-Old adults as a function of cognitive reserve, t (33) = 1.28, MSE = 0.11, p 
+= .61. For non-studied lures, no difference was found for memory errors for Young-Old 
+adults as a function of cognitive reserve, t (32) = 1.91, MSE = 0.05, p = .065. In contrast, 
+Old-Old adults with higher cognitive reserve committed fewer memory errors to non-studied 
+lures than Old-Old adults with lower cognitive reserve, t (33) = 2.35, MSE = 0.08, p = .025. 
+Thus, cognitive reserve was most protective against misidentifying studied lures from an 
+alternate source in earlier stages of old age, whereas it was most protective against 
+misidentifying non-studied lures in later stages of old age.
+Discussion
+The results support our hypothesis that old-old adults commit more memory errors generally 
+than young-old adults. Furthermore, the expectation that older adults with higher cognitive 
+reserve would commit fewer errors than older adults with lower cognitive reserve was also 
+met. Finally, our key finding was that the protective effects of cognitive reserve differed with 
+age such that false memories to studied lures from the incorrect source were reduced in the 
+young-old with higher reserve and false memories to new, non-studied lures were reduced in 
+the old-old with higher reserve.
+While previous studies have examined how false memories to studied lures and non-studied 
+lures change with age more generally (e.g. Cansino et al., 2013), our study is the first of 
+which we are aware to examine how cognitive reserve affects the increase in each of these 
+types of false memories according to age among older adults. Our results suggest that 
+cognitive reserve relates to false memory in different ways for people of different age 
+groups. For young-old adults, cognitive reserve maintains prevention of source memory 
+errors, allowing young-old adults to more accurately distinguish between items that were 
+experienced in different contexts (recollection-based processes). In contrast, for old-old 
+adults, cognitive reserve maintains prevention of item memory errors, allowing old-old 
+adults to more accurately identify items that have been not previously experienced 
+(familiarity-based processes).
+These findings have many implications for the aging memories of older adults. Although the 
+prefrontal cortex experiences some of the largest changes in structure and function due to 
+aging (Peters, Sethares, & Moss, 1998; Raz et al., 1997; Rossi et al., 2004), cognitive reserve 
+may preserve PFC function. Older adults with low cognitive reserve score lower on tasks 
+that are mediated by the DLPFC such as tasks involving reasoning, working memory, and 
+verbal fluency (Roldán-Tapia, García, Cánovas, & León, 2012). The results of the current 
+study imply that, for older adults with high cognitive reserve, important prefrontal areas such 
+Kraemer et al.
+Page 7
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+as the DLPFC may be relatively more intact, which aids in effectively discriminating 
+between targets and lures—hence their lower rate of false alarms. Notably, the benefits of 
+cognitive reserve primarily impacted false alarms, while hits were not affected, a pattern 
+consistent with an effect specific to retrieval monitoring.
+Importantly, working memory may play a key role in the process of retrieval monitoring, 
+helping to explain the pattern seen in the current results—namely, the differing effects of 
+cognitive reserve according to age and type of memory process. Considering that source 
+memory is typically a more difficult task than item memory, the shift with age in the type of 
+memory error most affected by cognitive reserve could be due to specific levels of working 
+memory being necessary for each particular memory process. That is, while cognitive 
+reserve seems to protect young-old adults from increasing errors in source memory, after 
+episodic memory declines with age, old-old adults may no longer possess the working 
+memory capacity for accurate source memory regardless of cognitive reserve status. This 
+idea is consistent with findings that source memory decreases more rapidly with age than 
+item memory (Erngrund, Mántylá & Nilsson, 1996). In contrast, young-old adults may 
+retain sufficient levels of working memory capacity necessary for item memory regardless of 
+cognitive reserve status, but after cognitive decline with advanced age, the working memory 
+capacity of old-old adults necessary for item memory may be impaired unless this process is 
+attenuated due to cognitive reserve.
+This line of reasoning is supported by our observation that old-old adults with high cognitive 
+reserve somewhat resemble young-old adults with low cognitive reserve for both item and 
+source memory errors (see Figure 1), indicating the potential that cognitive reserve leads to a 
+general attenuation of memory decline with age.
+The present results could also be considered as fitting within the activation-monitoring 
+framework for false memories (Roediger, Watson, McDermott, & Gallo, 2001; McDermott 
+& Watson, 2001). When considering the roles of recollection and familiarity within the 
+activation/monitoring framework, separate memory traces may be monitored differently, 
+resulting in different neural requirements. For example, more difficult, previously studied 
+lures have led to higher levels of PFC activation than relatively simpler, non-studied lures 
+(McDonough et al., 2013). Evidence from neuroimaging studies are consistent with the idea 
+that monitoring of recollection-based memory traces is more difficult than monitoring of 
+familiarity-based memory traces, and may depend more heavily upon working memory 
+capacity (Oberauer, 2005). Thus, the consequences of cognitive reserve’s relative 
+preservation of working memory capacity may differ according to the neural resources 
+needed for a particular type of retrieval monitoring.
+Finally, the complex interaction that we found between age, cognitive reserve, and type of 
+memory error may partially explain findings within the literature regarding cognitive reserve 
+that previously appeared contradictory. Pitarque and colleagues (2016) showed that older 
+adults of higher and lower cognitive reserve status possessed relatively equal false alarms for 
+“know” judgments, indicating that familiarity-based processes may not be protected by 
+cognitive reserve. However, Sales and colleagues (2014) showed that those with low 
+cognitive reserve made more false alarms than those with high cognitive reserve. In light of 
+Kraemer et al.
+Page 8
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+the interaction from the current study, the discrepancy between these two studies may be at 
+least partially explained by the fact that older adults in the study by Sales and colleagues 
+were, on average, older than the older adults within the study by Pitarque and colleagues. 
+Thus, level of cognitive reserve may have been more relevant to the older sample within the 
+study by Sales and colleagues, contributing toward the effect that was shown with respect to 
+familiarity-based processes.
+Conclusion
+The current study underscores the importance of cognitive reserve for minimizing false 
+memories later in life. Item and source memory are foundational cognitive abilities that 
+make possible the ability to appropriately care for oneself and to meaningfully relate to the 
+experiences of others, leading to a more fulfilling life. Thus, as much as people are able to 
+build cognitive reserve in preparation for advanced age, they should do so in order to 
+maintain optimal quality of life. Furthermore, the current study suggests that cognitive 
+reserve may preserve retrieval monitoring abilities in older adults. As the aging population 
+increases, the ability to predict the difficulties that specific older adults are likely to 
+encounter is increasingly important to provide appropriate care for those individuals. Thus, 
+knowledge of the specific cognitive abilities likely to be affected may be of use to 
+physicians, families, and care providers for the advanced aging population. For example, 
+adults over 75 with low cognitive reserve appear to be at the greatest risk for losing the 
+ability to distinguish between events that did or did not occur. The current examination of 
+the effects of cognitive reserve may therefore contribute not only to the understanding of 
+how memory changes with age, but also to the ability to live well into advanced age.
+References
+Bradley M, Lang P (1999) Affective norms for English words (ANEW): Instruction manual and 
+affective ratings (pp. 1–45). Technical report C-1, the center for research in psychophysiology, 
+University of Florida.
+Brainerd CJ, Reyna VF, Wright R, & Mojardin AH (2003). Recollection rejection: false-memory 
+editing in children and adults. Psychological review, 110(4), 762. [PubMed: 14599242] 
+Cabeza R (2002). Hemispheric asymmetry reduction in older adults: the HAROLD model. Psychology 
+and aging, 17(1), 85. [PubMed: 11931290] 
+Cahn-Weiner DA, Farias ST, Julian L, Harvey DJ, Kramer JH, Reed BR, ... & Chui H (2007). 
+Cognitive and neuroimaging predictors of instrumental activities of daily living. Journal of the 
+International Neuropsychological Society, 13(5), 747–757. [PubMed: 17521485] 
+Cansino S (2009). Episodic memory decay along the adult lifespan: A review of behavioral and 
+neurophysiological evidence. International Journal of Psychophysiology, 71(1), 64–69. [PubMed: 
+18725253] 
+Cansino S, Estrada-Manilla C, Hernández-Ramos E, Martínez-Galindo JG, Torres-Trejo F,... & 
+Rodríguez-Ortiz MD (2013). The rate of source memory decline across the adult life span. 
+Developmental Psychology, 49(5), 973–985. [PubMed: 22686174] 
+Cohen G, Faulkner D (1989). Age differences in source forgetting: Effects on reality monitoring and 
+on eyewitness testimony. Psychology and Aging, 4(1): 10–17. 10.1037/0882-7974.4.1.10 [PubMed: 
+2803602] 
+Daselaar SM, Fleck MS, Dobbins IG, Madden DJ, & Cabeza R (2006). Effects of healthy aging on 
+hippocampal and rhinal memory functions: an event-related fMRI study. Cerebral cortex, 16(12), 
+1771–1782. [PubMed: 16421332] 
+Kraemer et al.
+Page 9
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Erngrund K, Mántylá T, & Nilsson LG (1996). Adult age differences in source recall: A population-
+based study. The Journals of Gerontology Series B: Psychological Sciences and Social Sciences, 
+51(6), 335–345.
+Gallo DA (2004). Using recall to reduce false recognition: diagnostic and disqualifying monitoring. 
+Journal of Experimental Psychology: Learning, Memory, and Cognition, 30(1), 120.
+Gallo DA (2013). Retrieval expectations affect false recollection: Insights from a criterial recollection 
+task. Current directions in psychological science, 22(4), 316–323. [PubMed: 24659863] 
+Gallo DA, & Lampinen JM (2015). Three pillars of false memory prevention: Orientation, evaluation, 
+and corroboration. The Oxford handbook of metamemory, 387–404.
+Giebel CM, Challis D, & Montaldi D (2015). Understanding the cognitive underpinnings of functional 
+impairments in early dementia: A review. Aging & Mental Health, 19(10), 859–875. [PubMed: 
+25632849] 
+Henkel LA, Johnson MK, & De Leonardis DM (1998). Aging and source monitoring: cognitive 
+processes and neuropsychological correlates. Journal of Experimental Psychology: General, 
+127(3), 251. [PubMed: 9742716] 
+Jennings JM, & Jacoby LL (1993). Automatic versus intentional uses of memory: Aging, attention, 
+and control. Psychology and aging, 8(2), 283. [PubMed: 8323731] 
+Johnson MK, Hashtroudi S, & Lindsay DS (1993). Source monitoring. Psychological bulletin, 114(1), 
+3. [PubMed: 8346328] 
+Koen JD, & Yonelinas AP (2014). The effects of healthy aging, amnestic mild cognitive impairment, 
+and Alzheimer’s disease on recollection and familiarity: a meta-analytic review. Neuropsychology 
+review, 24(3), 332–354. [PubMed: 25119304] 
+Logan JM, Sanders AL, Snyder AZ, Morris JC, & Buckner RL (2002). Under-recruitment and 
+nonselective recruitment: dissociable neural mechanisms associated with aging. Neuron, 33(5), 
+827–840. [PubMed: 11879658] 
+Lyle KB, Bloise SM, & Johnson MK (2006). Age-related binding deficits and the content of false 
+memories. Psychology and Aging 21(1),86. [PubMed: 16594794] 
+McCabe DP, Roediger HL, McDaniel MA, & Balota DA (2009). Aging reduces veridical remembering 
+but increases false remembering: Neuropsychological test correlates of remember–know 
+judgments. Neuropsychologia, 47(11), 2164–2173. [PubMed: 19100756] 
+McDermott KB, & Watson JM (2001). The rise and fall of false recall: The impact of presentation 
+duration. Journal of Memory and Language, 45(1), 160–176.
+McDonough IM, & Gallo DA (2013). Impaired retrieval monitoring for past and future 
+autobiographical events in older adults. Psychology and Aging, 28(2), 457. [PubMed: 23795764] 
+McDonough IM, Gallo DA (2010). Separating past and future autobiographical events in memory: 
+Evidence for a reality monitoring asymmetry. Memory & Cognition, 38(1), 3–12. [PubMed: 
+19966233] 
+McDonough IM, Wong JT, & Gallo DA (2013). Age-related differences in prefrontal cortex activity 
+during retrieval monitoring: Testing the compensation and dysfunction accounts. Cerebral Cortex, 
+23(5), 1049–1060. [PubMed: 22510532] 
+McGinnis D (2012). Susceptibility to distraction during reading in young, young-old, and old-old 
+adults. Experimental Aging Research 38(4), 370–393. [PubMed: 22830665] 
+Morcom AM, Good CD, Frackowiak RS, & Rugg MD (2003). Age effects on the neural correlates of 
+successful memory encoding. Brain, 126(1), 213–229. [PubMed: 12477708] 
+Naveh-Benjamin M (2000). Adult age differences in memory performance: tests of an associative 
+deficit hypothesis. Journal of Experimental Psychology: Learning, Memory, and Cognition, 26(5), 
+1170.
+Norman KA, & Schacter DL (1997). False recognition in younger and older adults: Exploring the 
+characteristics of illusory memories. Memory & Cognition, 25(6), 838–848. [PubMed: 9421570] 
+Oberauer K (2005). Binding and inhibition in working memory: Individual and age differences in 
+short-term recognition. Journal of Experimental Psychology: General, 134, 368–387. [PubMed: 
+16131269] 
+Opdebeeck C, Martyr A, & Clare L (2016). Cognitive reserve and cognitive function in healthy older 
+people: a meta-analysis. Aging, Neuropsychology, and Cognition, 23(1), 40–60.
+Kraemer et al.
+Page 10
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Overdorp EJ, Kessels RC, Claassen JA, & Oosterman JM (2016). The combined effect of 
+neuropsychological and neuropathological deficits on instrumental activities of daily living in 
+older adults: A systematic review. Neuropsychology Review, 26(1), 92–106. doi:10.1007/
+s11065-015-9312 [PubMed: 26732392] 
+Peters A, Sethares C, & Moss M (1998). The effects of aging on layer 1 in area 46 of prefrontal cortex 
+in the rhesus monkey. Cerebral Cortex, 8(8), 671–684. [PubMed: 9863695] 
+Pitarque A, Meléndez J, Sales A, Mayordomo T, Escudero J, & Algarabel S (2016). Differences in 
+false recollection according to the cognitive reserve of healthy older people. Aging, 
+Neuropsychology, and Cognition, 23(5), 625–637.
+Raz N, Gunning F, Head D, Dupuis J, McQuain J, Briggs S, Loken W, Thonton A & Acker J (1997). 
+Selective aging of the human cerebral cortex observed in Vivo: Differential vulnerability of the 
+prefrontal gray matter. Cerebral Cortex, 7(3), 268–282. [PubMed: 9143446] 
+Roediger HL, & McDermott KB (1995). Creating false memories: Remembering words not presented 
+in lists. Journal of Experimental Psychology: Learning, Memory, & Cognition, 21,803–814.
+Roediger HL, Watson JM, McDermott KB, & Gallo DA (2001). Factors that determine false recall: A 
+multiple regression analysis. Psychonomic Bulletin & Review, 8(3), 385–407. [PubMed: 
+11700893] 
+Roldán-Tapia L, García J, Cánovas R, & León I (2012). Cognitive reserve, age, and their relation to 
+attentional and executive functions. Applied Neuropsychology: Adult, 19(1), 2–8. [PubMed: 
+22385373] 
+Rossi S, Miniussi C, Pasqualetti P, Babiloni C, Rossini PM, & Cappa SF (2004). Age-related 
+functional changes of prefrontal cortex in long-term memory: A repetitive transcranial magnetic 
+stimulation study. The Journal of Neuroscience, 24(36), 7939–7944. doi:10.1523/JNEUROSCI.
+0703-04.2004 [PubMed: 15356207] 
+Sales A, Meléndez JC, Algarabel S, & Pitarque A (2014). Differences in familiarity according to the 
+cognitive reserve of healthy elderly people. Estudios de Psicología, 35(2), 341–358.
+Schacter DL, Israel L, & Racine C (1999). Suppressing false recognition in younger and older adults: 
+The distinctiveness heuristic. Journal of Memory and language, 40(1), 1–24.
+Shipley W, Burlingame C (1941). A convenient self-administering scale for measuring intellectual 
+impairment in psychotics. American Journal of Psychiatry 97 (6): 1313–1325.
+Snowdon DA, Kemper SJ, Mortimer JA, Greiner LH, Wekstein DR, & Markesbery WR (1996). 
+Linguistic ability in early life and cognitive function and Alzheimer’s disease in late life: Findings 
+from the Nun Study. Jama, 275(7), 528–532. [PubMed: 8606473] 
+Stern Y (2009). Cognitive reserve. Neuropsychologia, 47, 2015–2028. [PubMed: 19467352] 
+Wang T, Kruggel F, Rugg M (2009). Effects of advanced aging on the neural correlates of successful 
+recognition memory. Neuropsychologia, 47(5), 1352–1361. [PubMed: 19428399] 
+Yonelinas AP (2002). The nature of recollection and familiarity: A review of 30 years of research. 
+Journal of memory and language, 46(3), 441–517.
+Kraemer et al.
+Page 11
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 1. 
+The proportion of “yes” responses across criterial recollection tests for familiar lures (left) 
+and new lures (right). Older adults with high cognitive reserve are shown in dark gray bars 
+and odler adults with low cognitive reserve are shown in light gray bars. Young-Old adults 
+with high cognitive reserve committed fewer memory errors to familiar lures than Young-
+Old adults with low cognitive reserve, whereas memory errors did not differ for Old-Old 
+adults as a function of cognitive reserve. For new lures, no difference were found for 
+memory errors to new lures for Young-Old adults as a function of cognitive reserve, whereas 
+Old-Old adults with high cognitive reserve committed fewer memory errors to new lures 
+than Old-Old adults with low cognitive reserve. Error bars represent standard error of the 
+mean.
+Kraemer et al.
+Page 12
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript

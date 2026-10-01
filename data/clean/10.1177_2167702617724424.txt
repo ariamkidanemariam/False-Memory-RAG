@@ -1,0 +1,2376 @@
+https://doi.org/10.1177/2167702617724424
+Clinical Psychological Science
+2017, Vol. 5(6) 1048­–1069
+© The Author(s) 2017
+Reprints and permissions: 
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/2167702617724424
+www.psychologicalscience.org/CPS
+Theoretical/Methodological/Review Article
+Memory aberrations are notable characteristics of post-
+traumatic stress disorder (PTSD) and depression. For 
+example, individuals with these disorders tend to recol-
+lect emotionally negative experiences better than emo-
+tionally positive events (Mathews & MacLeod, 2005) and 
+can exhibit overgeneral memories (Ono, Devilly, & 
+Shum, 2016). It is not surprising that many studies have 
+focused on the links among PTSD, depression, and 
+memory. The bulk of this research has been concerned 
+with the amount of information that can be correctly 
+remembered (Koriat, Goldsmith, & Pansky, 2000) thereby 
+neglecting false memories (Hertel & Brozovich, 2010). 
+This gap in the literature is peculiar given that the mech-
+anisms that affect correct remembering can, in principle, 
+also affect susceptibility to false memories. For example, 
+the fact that people with depression are most likely to 
+retrieve emotionally negative experiences may reflect 
+an elaborated underlying memory network. Such a 
+network may contain densely intertwined and well-
+integrated negative memories that are strongly connected 
+and easily activated and retrieved. Spreading activation 
+theorists would argue not only that this network will 
+produce true negative memories more easily than neu-
+tral or positive memories, but also that it will more 
+readily generate false negative memories (Howe, 
+Wimmer, Gagnon, & Plumpton, 2009).
+In clinical settings, individuals with PTSD or depres-
+sion may seek an explanation for their complaints and 
+therapists might ask them to retrieve childhood memo-
+ries (Patihis, Ho, Tingen, Lilienfeld, & Loftus, 2014). 
+Such dialogues may serve as fertile ground for false 
+memories of, for example, childhood sexual abuse 
+(Loftus, 2005), which in turn might lead to false accusa-
+tions. From a legal standpoint, the issue of false memo-
+ries is especially pertinent because victims (e.g., of 
+sexual abuse) who provide statements to the police 
+often suffer from psychopathological disorders such as 
+PTSD or depression (e.g., Bifulco, Brown, & Adler, 
+1991; Kiser, Heston, Millsap, & Pruitt, 1991). Criminal 
+724424 CPXXXX10.1177/2167702617724424Otgaar et al.Psychopathology and False Memory
+research-article2017
+Corresponding Author:
+Henry Otgaar, Maastricht University, Clinical Psychological Science, 
+Universiteitsingel Maastricht 6200 MD, Netherlands 
+E-mail: Henry.Otgaar@maastrichtuniversity.nl
+What Drives False Memories in 
+Psychopathology? A Case for 
+Associative Activation
+Henry Otgaar1,2, Peter Muris1,3, Mark L. Howe1,2, and 
+Harald Merckelbach1
+1Maastricht University, 2City, University of London, and 3Stellenbosch University
+Abstract
+In clinical and court settings, it is imperative to know whether posttraumatic stress disorder (PTSD) and depression 
+may make people susceptible to false memories. We conducted a review of the literature on false memory effects 
+in participants with PTSD, a history of trauma, or depression. When emotional associative material was presented to 
+these groups, their levels of false memory were raised relative to those in relevant comparison groups. This difference 
+did not consistently emerge when neutral or nonassociative material was presented. Our conclusion is supported by a 
+quantitative comparison of effect sizes between studies using emotional associative or neutral, nonassociative material. 
+Our review suggests that individuals with PTSD, a history of trauma, or depression are at risk for producing false 
+memories when they are exposed to information that is related to their knowledge base.
+Keywords
+false memory, psychopathology, PTSD, depression, trauma history, associative activation
+Received 4/8/17; Revision accepted 7/12/17
+
+1049
+proceedings often boil down to the reliability of such 
+statements because objective forensic (e.g., physical) 
+evidence is often lacking in these cases. Hence, triers 
+of fact are frequently being asked to base their legal 
+decisions on the memories of alleged victims. The 
+conundrum here is that testimony can be plagued by 
+memory aberrations, ones that could end up in false 
+accusations and wrongful convictions (Howe & Knott, 
+2015; Howe, Knott, & Conway, 2018; Otgaar, de Ruiter, 
+Howe, Hoetmer, & Van Reekum, 2017).
+Thus, what memory researchers, legal professionals, 
+and mental health professionals need to know is 
+whether depression or PTSD can make people more 
+susceptible to false memories. Although empirical work 
+in this area has been conducted, results are inconsis-
+tent. Indeed, as Bookbinder and Brainerd (2016, p. 1345 
+recently opined, “With respect to PTSD especially, avail-
+able data do not provide a consistent picture of false 
+memory effects.”
+In what follows, we show that when extant studies 
+are viewed from an associative network perspective, 
+their results are not as inconsistent as they might have 
+first appeared. In this review, we have amassed the 
+literature on psychopathology and false memory and 
+demonstrate that the concept of associative activation 
+can explain the discrepant findings in the extant litera-
+ture. Although limited, most of the work in this domain 
+has focused on false memories in PTSD, depression, 
+and schizophrenia. Because memory distortions in 
+schizophrenia are phenomenologically quite different 
+(e.g., Aleman, Hijman, De Haan, & Kahn, 1999), we 
+focus our review on PTSD and depression, which are 
+both forms of psychopathology that are characterized 
+by associative activation mechanisms. First, we provide 
+a synopsis of the literature on the links among PTSD, 
+depression, and (false) memory. We then show how 
+these links can be explained using associative- 
+activation theory and how the spreading of such activa-
+tion through memory networks fuels the formation of 
+false memories. Following this, we show how our find-
+ings relate to the impact of trauma on the production 
+of false memory. To anticipate our findings, we dem-
+onstrate that PTSD, a history of trauma, and depression 
+are strongly linked to false memory vulnerability. How-
+ever, this link is apparent only when individuals with 
+these problems are presented with emotional material 
+(e.g., trauma-related stimuli) that is directly at the heart 
+of their psychopathology.
+PTSD and Memory
+A prerequisite for being diagnosed with PTSD is that a 
+person has experienced or witnessed a traumatic event. 
+One of the key symptoms of this disorder is that the 
+traumatic event is reexperienced. Indeed, people with 
+PTSD are often haunted by recurrent, involuntary, and 
+intrusive distressing memories of the traumatic event. 
+This observation has led some authors to view PTSD 
+as a disorder of memory (Brewin, 2014; McNally, 2003). 
+Several theories have been postulated to explain the 
+etiology of PTSD and many of them stress the impor-
+tance of memory (aberrations) in the maintenance of 
+this type of psychopathology.
+For example, Ehlers and Clark (2000) proposed that 
+PTSD symptoms mainly occur because traumatic memo-
+ries are poorly elaborated and integrated, and hence 
+PTSD patients often experience problems with inten-
+tionally recalling traumatic details. These authors stress 
+that details in traumatic autobiographical memories are 
+strongly associated with each other so that one external 
+cue (e.g., a certain sound) may automatically evoke a 
+cascade of related traumatic memories (e.g., the mem-
+ory of being abused). Rubin, Berntsen, and Bohni 
+(2008) place an even greater emphasis on the role of 
+memory in the development of PTSD. They suggest that 
+although the diagnosis of PTSD requires the identifica-
+tion of a traumatic event, the memory of that traumatic 
+event is even more crucial than the event itself. Finally, 
+Brewin, Dalgleish, and Joseph (1996) argue that trau-
+matic experiences result in two types of memory rep-
+resentations. One type is concerned with the conscious 
+experience of the trauma and includes verbally acces-
+sible knowledge. These memories refer to sensory char-
+acteristics of the event and might lead to intrusions 
+about the experience. A second type of representation 
+refers to the unconscious processing of the trauma and 
+is called situationally accessible knowledge. This type 
+of memory is automatically retrieved when a person is 
+in a situation that is similar to the experienced trauma 
+and this automatic retrieval can then result in flashbacks 
+of the trauma (see also Meyer et al., 2013). Collectively, 
+these theories put the role of memory at the center of 
+PTSD.
+Depression and Memory
+According to the Diagnostic and Statistical Manual of 
+Mental Disorders (American Psychiatric Association, 
+2013), depression involves the presence of depressed 
+mood or anhedonia in combination with a number of 
+vital symptoms such as fatigue, sleeplessness, impaired 
+concentration, and suicidal ideation. Besides these 
+symptoms, depression is also regarded as a disorder 
+that is characterized by several distinct autobiographical 
+memory dysfunctions (Dalgleish & Werner-Seidler, 
+2014). The basic tenet in depression concerning mem-
+ory is that depressed people remember the past differ-
+ently than people without depression. Specifically,
+
+1050 
+Otgaar et al.
+autobiographical memory functioning is compromised 
+in four unique and interrelated ways that impact the 
+maintenance of depressive episodes and affect prone-
+ness to new depressive episodes. The first and most 
+notable memory characteristic of depression concerns 
+the biased recollection of negative experiences. 
+Depressed people are more likely to recall negative 
+personal memories than nondepressed people and also 
+have more unbidden intrusive and oftentimes traumatic 
+memories (Williams et al., 2007).
+Second, the biased remembrance of negative experi-
+ence goes hand in hand with impoverished retrieval of 
+emotionally positive autobiographical memories (Gotlib 
+& Joormann, 2010). It is important that even when such 
+positive autobiographical memories are retrieved, they 
+do not enhance positive mood (Joormann & Siemer, 
+2004). Worse still, some researchers suggest that the 
+retrieval of positive memories might worsen a sad mood 
+(Joormann, Siemer, & Gotlib, 2007). This difficulty in 
+recalling positive autobiographical memories appears 
+to point to impoverished phenomenological qualities 
+of these memories. Depressed people experience posi-
+tive memories as less vivid and less emotionally intense 
+than nondepressed people (e.g., Werner-Seidler & 
+Moulds, 2012).
+A third memory feature of depression is that efforts 
+to cope with painful and traumatic memories seem to 
+be prevalent (Beblo et al., 2012; Dalgleish & Yiend, 
+2006; Sumner, 2012). Paradoxically, coping strategies 
+such as suppression have been found to increase intru-
+sive memories in depressed individuals (Wenzlaff, 
+Wegner, & Roper, 1988). Suppression might be espe-
+cially pernicious in depressed individuals as it paves 
+the way to easy access of other upsetting memories 
+(Dalgleish & Yiend, 2006). A related issue here is that 
+when depressed individuals recall a visually rich posi-
+tive or negative autobiographical memory, such mem-
+ory is oftentimes seen from an observer perspective. 
+Research has shown that especially for positive memo-
+ries, such a perspective might not be helpful as it might 
+reduce the emotional impact related to the memory 
+(Nigro & Neisser, 1983).
+The final and fourth core characteristic of depression 
+is that autobiographical recollections are frequently 
+categorical and overgeneral in nature. Thus, autobio-
+graphical memories of depressed individuals frequently 
+contain repetitions and generalizations across personal 
+experiences. Overgeneral processing hinders the easy 
+retrieval of more detailed autobiographical memories, 
+which may interfere with problem solving strategies 
+(Williams et al., 2007). Taking these memory distur-
+bances into account, depression, like PTSD, can be 
+regarded as a disorder in which memory aberrations 
+are a common occurrence.
+False Memory
+What has become known as the memory wars revolved 
+around the issue of whether traumatic memories can be 
+repressed and then many years later be recovered in, 
+for example, a therapeutic environment (Lindsay & 
+Read, 1994; Loftus, 1994). Many mental health profes-
+sionals asserted that they saw patients in their clinical 
+practice who, after extensive treatment, remembered a 
+traumatic childhood incident (e.g., sexual abuse). In 
+response to these clinical observations, many memory 
+researchers argued that psychotherapeutic interventions 
+often involve inherently suggestive prompts, ones that 
+might have led patients to falsely remember entire epi-
+sodes of trauma. In support of this notion, some patients 
+who initially remembered having been abused, later 
+retracted their claims, arguing that their memories were 
+contaminated because of the suggestive treatment that 
+they had received (e.g., Maran, 2012; Ost, Costall, & 
+Bull, 2002). In many of these cases, people were in 
+therapy because they suffered from some form of psy-
+chopathology. The question then arises as to whether 
+their psychopathology might have affected their suscep-
+tibility to false memories. Scoboria and colleagues 
+(2017) recently argued that “people struggling with psy-
+chopathology who seek help for their symptoms may 
+be particularly vulnerable to suggestions” (p. 160). How-
+ever, a meta-analytic review looking into the evidence 
+for or against this position has so far been lacking.
+In the false memory literature, two general classes 
+of false memory can be distinguished and different 
+paradigms have been invented to experimentally evoke 
+these false memories (Brainerd, Reyna, & Ceci, 2008; 
+Otgaar, Howe, Brackmann, & Smeets, 2016). On the 
+one hand, false memories can be induced by using 
+suggestive pressure, which we will call suggestion-
+induced false memories. On the other hand, false mem-
+ories can occur spontaneously, without any external 
+pressure, arising predominantly because of the auto-
+matic and nonconscious operation of internal memory 
+mechanisms such as spreading activation (see the later 
+discussion). This latter type of false memory has been 
+referred to as spontaneous false memories. Both types 
+of false memories can arise in legal cases and in clinical 
+settings (Brackmann, Otgaar, Sauerland, & Jelicic, 2016; 
+Howe et al., 2018).
+Several paradigms have been constructed to evoke 
+suggestion-induced false memories. One of the most 
+popular and well-suited techniques is the misinformation 
+paradigm (Loftus, 2005; Otgaar, Candel, Smeets, & 
+Merckelbach, 2010). In general, the misinformation para-
+digm consists of three stages. During the first stage, 
+participants are presented with a video-taped or real-life 
+crime situation. Following this, participants are presented
+
+1051
+with misinformation. This may take the form of sugges-
+tive questions (e.g., “What weapon did the hijacker 
+carry?” while actually no weapon was present) or an 
+eyewitness account in which false details have been 
+included. The final stage is composed of a memory test, 
+and here a recurring finding is that participants remem-
+ber the suggested elements although in reality they were 
+not present. This is known as the misinformation effect.
+Another way to induce suggestion-induced false 
+memories is through the use of the implantation para-
+digm (Loftus & Pickrell, 1995; Otgaar, Scoboria, & 
+Smeets, 2013). In this paradigm, experimenters make 
+contact with the participants’ parents. Parents are asked 
+whether they can provide an autobiographical event 
+that their child had truly experienced. The parents are 
+then questioned regarding whether they can confirm 
+that their child did not experience a manufactured false 
+event (e.g., hot air balloon ride). After this, participants 
+are suggestively interviewed about the truly experienced 
+event as well as a false event (e.g., a hot air balloon ride 
+that has never taken place). Specifically, they are told 
+that their parents stated that they experienced both 
+events in their childhood and the instruction is to come 
+up with everything they can still remember about the 
+events. A recent mega-analysis on eight false memory 
+implantation studies showed that 30.4% of statements 
+provided in these studies were classified as false memo-
+ries (Scoboria et al., 2017). Both of these paradigms, but 
+the implantation paradigm in particular, can be seen as 
+an experimental analogue of how false memories for 
+parts of an event or even an entire event can be elicited 
+in a suggestive therapeutic setting.
+The most frequently used paradigm to assess the 
+formation of spontaneous false memories is the Deese/
+Roediger-McDermott (DRM) paradigm (Deese, 1959; 
+Roediger & McDermott, 1995). In this paradigm, several 
+lists of words that are associatively related to each other 
+are presented to participants (e.g., night, pillow, moon). 
+These associatively related words are all linked to a 
+nonpresented critical lure word (i.e., sleep). A reliable 
+finding is that participants falsely recall or recognize 
+the critical lure with rates that are often indistinguish-
+able from true memory rates (Roediger, Watson, 
+McDermott, & Gallo, 2001). There are two main reasons 
+for the popularity of the DRM paradigm. First, the DRM 
+false memory illusion is a robust memory effect that is 
+quite resistant against forewarnings or divided attention 
+tasks (e.g., Otgaar, Peters, & Howe, 2012; Peters et al., 
+2008). Second, emotionally laden DRM memories are 
+likely to evoke emotional reactions quite similar to the 
+ones evoked by emotional autobiographical memories 
+(Rubin & Talarico, 2009).
+As will become clear shortly, most work regarding 
+the link between false memory and psychopathology 
+has concentrated on spontaneous false memory. In the 
+current article, we will focus predominantly on the link 
+between (spontaneous) false memories as elicited by 
+the DRM paradigm and psychopathology. Where pos-
+sible, we will discuss work on psychopathology and 
+suggestibility, but, as will become obvious, this area is 
+heavily underresearched. The main focus on spontane-
+ous false memory is imperative as research has shown 
+that results from the spontaneous false memory field 
+cannot easily be generalized to the field of suggestion-
+induced false memory. Specifically, there are studies 
+showing that spontaneous false memories and suggestion- 
+induced false memories are unrelated to each other 
+(e.g., Calvillo & Parong, 2016; Ost et al., 2013; Otgaar 
+& Candel, 2010). This suggests that different mecha-
+nisms might lead to the production of these false mem-
+ories. A key mechanism underlying the production of 
+spontaneous false memory is associative activation.
+Associative Activation
+Associative activation plays a major role in theories 
+related to memory. One prominent theory concerning 
+the organization of memory is the spreading activation 
+(or associative activation; Howe et al., 2009) account 
+(Anderson, 1983; Balota & Duchek, 1989; Collins & 
+Loftus, 1975; Reder, Park, & Kieffaber, 2009). According 
+to this account, memory contains a multitude of repre-
+sentations or nodes that are interconnected by associative 
+links. Whenever someone experiences an event and 
+encodes information from that event, nodes containing 
+information from that particular event will activate related 
+nodes and concepts in memory networks. This activation 
+will automatically spread to neighboring nodes, thereby 
+triggering related memories concerning the event that 
+may or may not have been part of the original event.
+Traditionally, spreading activation accounts have 
+been used to explain semantic priming effects in mem-
+ory experiments. The semantic priming effect refers to 
+the finding that participants are faster at responding to 
+a certain word (e.g., cat) when it is preceded by an 
+associatively related word (e.g., dog) relative to when 
+it is preceded by an unrelated word (e.g., house; 
+Hutchinson, 2003). The most likely explanation for this 
+effect is that stimulus encoding will lead to spreading 
+activation across related concepts and this occurs 
+quickly and unintentionally outside of conscious aware-
+ness (Neely, 1977; Posner & Snyder, 1975).
+Associative activation and 
+false memory
+The concept of spreading activation has also attracted 
+the interest of false memory researchers. The activation-
+monitoring theory (AMT; Roediger, Balota, & Watson, 
+2001) posits that false memories are the product of
+
+1052 
+Otgaar et al.
+activation of concepts that were not part of the original 
+event but that become activated when information from 
+the actual event spreads through a network of interre-
+lated nodes. For example, when the words “bed,” “night,” 
+and “pillow” are learned, concepts (words) that are 
+strongly related to these words (i.e., “sleep”) will be 
+activated as well thereby giving rise to false memories. 
+AMT stipulates that besides spreading activation, moni-
+toring processes play an important role in editing out 
+the retrieval of false memories. That is, AMT posits that 
+during retrieval, memories are monitored and checked 
+as to whether they were internally generated (e.g., 
+through imagination) or originated from an external 
+source. AMT would predict that false memories are more 
+prevalent among children than adults because children 
+have more problems with source monitoring (Lindsay, 
+Johnson, & Kwon, 1991). However, DRM research has 
+oftentimes found that adults are more susceptible to 
+false memory production than children (Brainerd et al., 
+2008; Howe et al., 2009; Otgaar & Candel, 2010).
+An alternative theory using the notion of spreading 
+activation is associative-activation theory (AAT; Howe 
+et al., 2009; Otgaar, Howe, Peters, Smeets, & Moritz, 
+2014). AAT proposes that throughout the course of 
+development, people acquire new knowledge and learn 
+new information. The consequence of this is that their 
+knowledge base becomes more elaborated, interrelated, 
+and dense. According to AAT, a knowledge base con-
+sists of interrelated nodes that contain representations 
+of information (e.g., autobiographical memories). When 
+someone experiences an event, these nodes will be 
+triggered by associative activation. The links between 
+these nodes will become stronger and associative acti-
+vation will be faster and more automatic as develop-
+ment proceeds and new knowledge is acquired. AAT 
+posits that during the process of associative activation, 
+nodes will be activated that represent concepts of infor-
+mation that were not really experienced, thereby lead-
+ing to the formation of false memories. The concepts 
+can be quite diverse and may involve phonological, 
+semantic, or categorical bits of information. It is impor-
+tant that although it has been argued that associative 
+activation mainly has short-lived effects on memory 
+(Reyna, Corbin, Weldon, & Brainerd, 2016), there exists 
+considerable evidence that this mechanism actually has 
+some very long-lasting effects on memory and memory-
+related tasks (e.g., problem solving; e.g., Hayne & 
+Gross, 2017; Steyvers & Tenenbaum, 2005).
+For example, recent experimentation has focused on 
+the adaptive and long-term consequences of false memo-
+ries (e.g., Howe, Garner, Charlesworth, & Knott, 2011; 
+Otgaar et al., 2015). In this line of research, participants 
+are first presented with the DRM paradigm and then 
+receive a compound remote association task (CRAT) 
+problem. A CRAT consists of three words (e.g., 
+walk/beauty/over) and the task is to come up with the 
+word that connects these words (i.e., sleep). The standard 
+finding is that CRAT problems primed by false memories 
+for critical lures are solved more frequently than prob-
+lems without priming. It is important that such priming 
+effects seem to last after a delay of one week (Howe, 
+Wilkinson, & Monaghan, 2012; Wang et al., 2017). The 
+longevity of associative activation is present not only in 
+adults, but also in young children (Hayne & Gross, 2017).
+Another theory used to explain the occurrence of 
+false memories, one that is linked to AAT, is fuzzy trace 
+theory (FTT; Brainerd et al., 2008). According to this 
+theory, when someone experiences an event, two oppo-
+nent memory traces are stored: verbatim and gist. Ver-
+batim traces store the exact details of an experience 
+whereas gist traces are involved in the processing of the 
+underlying meaning of the event. FTT states that exact 
+details of the verbatim trace cannot be retrieved when 
+there is a long interval between encoding and retrieval. 
+In that case, memory will tend to rely on gist traces. 
+When gist is relied on, false memories might occur. 
+Although gist extraction and FTT seem to be similar to 
+associative activation and AAT, there are important dif-
+ferences between these approaches. First, AAT is a sin-
+gle process theory that only relies on the core notion 
+of association activation. FTT requires an additional step 
+in that both gist and verbatim traces are thought to be 
+important in (false) memory development. Whether a 
+dual-process theory (FTT) or a more parsimonious 
+single-process theory (AAT) is necessary to account for 
+the production of false memories is still a matter for 
+debate (Howe, 2008). Second, associative activation 
+refers to the association between many different types 
+of concepts (e.g., phonological, semantic, categorical), 
+whereas gist extraction is only focused on the retrieval 
+of semantics. Thus, whereas AAT can account for the 
+fact that both semantically and phonologically related 
+items can increase false memory rates, FTT cannot (see 
+Finley, Sungkhasettee, Roediger, & Balota, 2017). Third, 
+and something that is critical to what we are discussing 
+in the current article, recent evidence has demonstrated 
+that mood-congruent false memories are better explained 
+by AAT than FTT particularly for moods that lead to 
+increased automatic processing of information (Zhang, 
+Gross, & Hayne, in press).
+Associative activation and 
+psychopathology
+Our focus on the role of associative activation in the 
+production of false memory also aligns well with recent 
+insights into how psychiatric symptoms may develop 
+over time. Increased empirical attention has been
+
+1053
+targeted at the notion that mental disorders should be 
+viewed as causal systems integrated in networks of 
+interrelated symptoms (Borsboom & Cramer, 2014; 
+Fried & Cramer, in press). According to this network 
+model interpretation of psychopathology, symptoms are 
+causally linked to other symptoms (e.g., insomnia leads 
+to concentration problems). It is interesting that in net-
+work models of PTSD, memory-related symptoms such 
+as amnesia and intrusions are included as well (McNally 
+et al., 2015). This implies that memory-related symp-
+toms might be related to each other, which is also the 
+case in associative memory theories.
+For the current purpose, we have specifically focused 
+on the role of associative activation in false memories 
+that might accompany depression and PTSD. There are 
+good reasons for this approach. Based on the literature, 
+it becomes clear that PTSD and depression are uniquely 
+characterized by increased levels of spreading activa-
+tion. Several theories assert that in PTSD, traumatic auto-
+biographical memories are highly associated to each 
+other in that traumatic memories can automatically acti-
+vate other related memories (Ehlers & Clark, 2000). Like-
+wise, one common notion is that in PTSD, intrusive 
+memories are the result of spreading activation in which 
+nodes of traumatic information automatically activate 
+each other (Foa & Kozak, 1986; Hayes, Van Elzakker, & 
+Shin, 2012). For example, PTSD is thought to contain 
+fear networks in which nodes representing states of 
+arousal (e.g., threats) predispose individuals to interpret 
+events (even innocuous ones) as potential threats. Fur-
+thermore, spreading activation in this network leads to 
+the triggering of related threat nodes that might result 
+in the development of intrusive recollections.
+Similar spreading activation mechanisms seem to be 
+at work in depression. Specifically, the bias of retrieving 
+negative episodes in depression might be partly due to 
+spreading activation in a network containing strong 
+associations between concepts containing negative 
+memories. Furthermore, recent evidence indicates that 
+different moods, such as a negative mood and rumina-
+tion, might be the result of spreading activation mecha-
+nisms in an associative memory network (Bar, 2009; 
+Baror & Bar, 2016; Foster et al., 2011). For example, 
+depressed individuals often focus on specific thoughts 
+(e.g., “Why did I make that bad remark to my friend?”) 
+and make associations about possible consequences of 
+these thoughts (e.g., “Will my friend hate me now?”; Bar, 
+2009). We now turn to the evidence on how psychopa-
+thology and false memory are linked to each other.
+Structure of the Review
+To examine whether PTSD and depression are linked 
+with false memory propensity, we conducted a litera-
+ture search. We searched the Web of Science database 
+using the following keywords: “PTSD AND false mem-
+ory.” For depression, we entered the keywords “depres-
+sion AND false memory.”1
+For PTSD, we identified 57 hits. We looked at the 
+content of these articles to select those studies in which 
+PTSD patients were tested in a false memory paradigm. 
+It is interesting that we found that in many of these 
+articles, participants were tested who did not have 
+PTSD but only experienced a traumatic event (e.g., 
+sexual abuse) and in whom false memory propensity 
+was measured. Because a traumatic precursor is a 
+requirement for PTSD, we will discuss these articles 
+here as well.
+We found 12 experimental studies in which PTSD 
+patients underwent some sort of false memory proce-
+dure (see Table 1), and 7 articles were identified that 
+examined the effect of trauma on false memory forma-
+tion in traumatized participants who were not diag-
+nosed with PTSD. Different false memory tasks were 
+employed, but the DRM procedure was used most fre-
+quently. This means that the findings of our review are 
+mainly centered around the link between spontaneous 
+false memories and PTSD. Furthermore, in those 12 
+experimental studies, different populations were tested 
+(children, adolescents, and adults).
+When we concentrated our search on depression and 
+false memory, we found 166 hits. We were specifically 
+interested in studies that addressed false memories in 
+(sub)clinically depressed individuals. When studies did 
+not have this combination (elicitation of false memories 
+and depressed individuals), we excluded them. Based 
+on this criterion, six articles were identified as being 
+useful for our review (see Table 1). The majority of 
+these studies employed the DRM paradigm and all 
+included adult participants. Again, this indicates that 
+the results of our review refer mainly to the link 
+between spontaneous false memories and depression. 
+In what follows, we first provide a narrative review of 
+false memory studies for PTSD and depression sepa-
+rately. We will specifically focus on the stimuli that were 
+presented to participants and the impact of this on 
+susceptibility to false memory. Next, we will present an 
+meta-analysis in which effect sizes are juxtaposed 
+against different types of material.
+PTSD, Trauma, and False Memory
+A quick glance at the studies in which false memory 
+susceptibility was investigated in PTSD patients reveals 
+a rather inconsistent pattern of findings. That is, some 
+studies failed to find a link between PTSD and elevated 
+levels of false memories (e.g., Dasse, Juback, Morisette, 
+Dolan, & Weaver, 2015), whereas other studies did 
+obtain this link between PTSD and heightened levels 
+of false memories (e.g., Moradi et al., 2015). Our
+
+1054 
+Otgaar et al.
+working hypothesis was that when confronted with 
+neutral or nonassociative material, PTSD patients should 
+not exhibit greater susceptibility to false memories than 
+healthy comparison participants, but when emotionally 
+associative material is employed, they should be more 
+prone to report false memories.
+To understand why, we return to the principle of 
+spreading activation. This principle holds that false 
+memories are more likely to occur when incorrect asso-
+ciations are strong and are made quickly in a person’s 
+knowledge base; that is, they arise automatically and 
+outside of conscious awareness (Howe et al., 2009). 
+The knowledge base and associative networks of PTSD 
+patients will contain many strong links between con-
+cepts referring to negative experiences. Indeed, a hall-
+mark symptom of PTSD is the involuntary occurrence 
+of traumatic intrusions as a result of spreading activa-
+tion (Ehlers & Clark, 2000; Hayes et al., 2012). Thus, 
+when PTSD patients are exposed to stimuli that map 
+onto their own knowledge base, they are extremely 
+likely to make rapid associations, producing linkages 
+to nonpresented constructs, leading to relatively high 
+false memory levels for psychopathology-related infor-
+mation. To be more specific, for PTSD this would 
+indicate that such stimuli should contain negatively 
+valenced or trauma-related details that are closely 
+linked to each other. The DRM paradigm is an excellent 
+method to study this as previous research has made 
+effective use of different, emotionally valenced word 
+lists (Howe, Candel, Otgaar, Malone, & Wimmer, 2010; 
+Otgaar et al., 2012).
+Different types of emotional 
+associative material
+When examined more closely, the studies we analyzed 
+did show that PTSD patients show elevated false mem-
+ory levels for negative- or trauma-related associative 
+material (see Table 2). For example, Brennen, Dybdahl, 
+and Kapidzic (2007) tested participants with PTSD 
+induced by war-related trauma and traumatized partici-
+pants without PTSD. Participants were presented with 
+trauma-related DRM lists (e.g., critical lures: blood, con-
+centration camp, war, funeral) and non-trauma-related, 
+neutral DRM lists (e.g., critical lures: sleep, wedding, 
+child, music). After each list presentation, participants 
+were asked to freely recall all the words they could still 
+recollect. The PTSD group had significantly higher 
+Table 1. Overview of Studies
+Study
+Category
+Population
+Journal
+PTSD
+Adults
+Psychological Science
+Hauschildt et al. (2012)
+PTSD
+Adults
+Consciousness and Cognition
+Triantafyllou et al. (2015)
+PTSD
+Adults
+Annals of Clinical Psychiatry
+Jelinek et al. (2009)
+PTSD
+Adults
+Journal of Behavior Therapy and Experimental 
+Psychiatry
+Zoellner et al. (2000)
+PTSD
+Adults
+PTSD
+Children and adolescents
+Behavioral Sciences and the Law
+Chae et al. (2011)
+PTSD
+Children and adolescents
+Moradi et al. (2015)
+PTSD
+Adults
+Brennen et al. (2007)
+PTSD
+Adults
+Consciousness and Cognition
+Hayes et al. (2011)
+PTSD
+Adults
+Journal of Psychiatric Research
+Dasse et al. (2015)
+PTSD
+Adults
+Military Psychology
+Brewin et al. (2012)
+PTSD
+Adults
+Cognition
+Howe et al. (2004)
+Trauma
+Children
+Child Development
+Trauma
+Children
+Development and Psychopathology
+Eisen et al. (2002)
+Trauma
+Children
+Howe, Toth, et al. (2011)
+Trauma
+Children
+Child Development
+Baugerud et al. (2016)
+Trauma
+Children
+Trauma
+Adolescents and adults
+Development and Psychopathology
+Otgaar et al. (in press)
+Trauma
+Children
+British Journal of Developmental Psychology
+Depression
+Adults
+Depression and Anxiety
+Moritz et al. (2008) 
+Depression
+Adults
+Memory
+Yeh and Hua (2009)
+Depression
+Adults
+Depression and Anxiety
+Joormann et al. (2009)
+Depression
+Adults
+Toffalini et al. (2014)
+Depression
+Adults
+Personality and Individual Differences
+Howe and Malone (2011)
+Depression
+Adults
+Memory
+
+1055
+Table 2. Effect Sizes of Studies Using Neutral or Non-Associative Material and Studies Using Emotional 
+Associative Material
+Studies
+Category
+Material
+Cohen’s d
+Neutral or nonassociative material 
+PTSD
+Neutral DRM
+0.51 (recognition)
+PTSD
+Neutral DRM
+0.04 (recall)
+Hauschildt et al. (2012)
+PTSD
+Visual neutral DRM
+No dataa
+Triantafyllou et al. (2015)
+PTSD
+Neutral DRM
+0.22
+Jelinek et al. (2009)
+PTSD
+Visual neutral DRM
+No data
+Zoellner et al. (2000)
+PTSD
+Neutral DRM
+No data
+PTSD
+Video
+–0.45 (incorrect recall, Exp. 1)
+PTSD
+Video
+0.63 (commission, Exp. 1)
+PTSD
+Video
+0.5 (incorrect recall, Exp. 2)
+PTSD
+Video
+0.33 (commission, Exp. 2)
+Chae et al. (2011)
+PTSD
+Interactive event
+–0.06b
+Chae et al. (2011)
+PTSD
+Interactive event
+–0.12
+Chae et al. (2011)
+PTSD
+Interactive event
+0.16
+Chae et al. (2011)
+PTSD
+Interactive event
+0.21
+Howe et al. (2004)
+Trauma
+Neutral DRM
+No data
+Trauma
+Words
+0.14 (abused group)
+Trauma
+Words
+–0.56 (abused group)
+Trauma
+Words
+–1.13 (abused group)
+Trauma
+Words
+0.63 (abused group)
+Trauma
+Words
+–0.64 (neglected group
+Trauma
+Words
+0.39 (neglected group)
+Trauma
+Words
+–1.09 (neglected group)
+Trauma
+Words
+0.25 (neglected group)
+Eisen et al. (2002)
+Trauma
+Interactive event
+–0.19 (misleading incorrect)
+Eisen et al. (2002)
+Trauma
+Interactive event
+0.22 (misleading correct)
+Eisen et al. (2002)
+Trauma
+Interactive event
+–0.06 (abuse misleading incorrect)
+Eisen et al. (2002)
+Trauma
+Interactive event
+0.09 (abuse misleading correct)
+Eisen et al. (2007)
+Trauma
+Interactive event
+–0.27 (overall error misleading)
+Eisen et al. (2007)
+Trauma
+Interactive event
+–0.26 (commission abuse-related)
+Different types of emotional associative material
+Moradi et al. (2015)
+PTSD
+Trauma-related video
+1.92
+Brennen et al. (2007)
+PTSD
+Trauma-related DRM
+0.65
+Hayes et al. (2011)
+PTSD
+Trauma pictures
+No data
+Howe, Toth, et al. (2011)
+Trauma
+Negative DRM
+No data
+Baugerud et al. (2016)
+Trauma
+Negative DRM
+0.59
+Trauma
+Trauma-related DRM
+0.77
+Trauma
+Trauma-related DRM
+0.57
+Otgaar et al. (in press)
+Trauma
+Negative DRM
+0.61
+Depression
+0.56
+Depression
+0.88
+Moritz et al. (2008)
+Depression
+Negative DRM
+No data
+Yeh and Hua (2009)
+Depression
+Negative DRM
+No data
+Joormann et al. (2009)
+Depression
+Negative DRM
+0.63
+Toffalini et al. (2014)
+Depression
+Negative script
+1.65
+Howe and Malone (2011)
+Depression
+1.10
+Note: DRM = Deese/Roediger-McDermott paradigm; PTSD = posttraumatic stress disorder.
+aFor some studies, we could not calculate the Cohen’s d and the original authors could not provide them. In these 
+instances, we refer to “no data.”
+bSee Table 4 of the original article. The effect sizes refer to the overall error of misleading questions for the comparison 
+between different types of trauma (e.g., sexual abuse, neglect) and a control group.
+
+1056 
+Otgaar et al.
+trauma-related false memory levels than the comparison 
+group, whereas the two groups did not differ statisti-
+cally with respect to neutral false memories.
+In another study, the authors made use of a visual 
+version of the DRM paradigm in which participants 
+were presented with neutral (electrician at work), posi-
+tive (child’s birthday), negative (surveillance), and 
+trauma-related (real-life war) video scenes (Moradi 
+et al., 2015). The videos contained items that were 
+related to each other and were linked to a related but 
+not presented item (for the trauma video: injured sol-
+dier). After the presentation of the videos, military per-
+sonnel with and without PTSD and a non-trauma-exposed 
+comparison group received a memory recognition task. 
+PTSD participants had higher false recognition rates for 
+the trauma video scenes than the non-PTSD groups. 
+This effect was not seen for the other videos.
+Similar results were obtained in a study that included 
+different types of related pictures (Hayes et al., 2011). 
+In that study, combat veterans diagnosed with PTSD 
+and trauma-exposed comparison participants viewed 
+trauma-related, positive, and neutral pictures. After one 
+week, all participants were involved in a recognition 
+test in which they were also presented with related but 
+not presented pictures. False memory rates for trauma-
+related pictures were higher in the PTSD group than in 
+the comparison group. Again, for other types of pic-
+tures, groups did not differ in terms of their false mem-
+ory levels.
+An exception to this pattern is a study by Dasse and 
+colleagues (2015), who presented neutral and trauma 
+lists to veterans with and without PTSD. False memory 
+rates did not differ between the groups. However, as 
+the authors noted, the reason for this is probably that 
+false memory rates were at ceiling levels and that more 
+neutral (n = 12) than trauma (n = 4) lists were included 
+in their study, thereby decreasing the chance for trauma-
+related false memory formation.
+Brewin, Huntley, and Whalley (2012) instructed indi-
+viduals with PTSD to write an account of their traumatic 
+event. Participants were also asked to report whether 
+the narrative induced any flashbacks. One week later, 
+they were presented with details of their own and 
+another person’s narrative and had to indicate whether 
+the details were from their own or someone else’s 
+account. Furthermore, participants had to identify 
+whether the details led to flashbacks at the time of 
+writing. The majority of individuals with PTSD reported 
+having a flashback for a detail that was not from their 
+own narrative. This suggests that they erroneously 
+linked a detail from someone else with a flashback of 
+their own.
+We now turn to false memory studies that relied on 
+traumatized individuals, of whom it was unknown 
+whether PTSD was present. Like individuals with PTSD, 
+people with traumatic experiences may have formed 
+associative networks of trauma memories. If true, the 
+logical prediction would be that for traumatized peo-
+ple, too, false memory rates are heightened when 
+they encounter negatively laden or trauma-related 
+material.
+Most of the studies in this domain have tested chil-
+dren with a history of maltreatment. Furthermore, in 
+many of these studies, children had faced serious trau-
+matic adversity. Recent studies in this area confirm that, 
+when traumatized, children are presented with trauma-
+related or negative associative stimuli, false memory 
+rates are heightened (e.g., Goodman et al., 2011). For 
+example, Baugerud, Howe, Magnussen, and Melinder 
+(2016) provided maltreated and non-maltreated chil-
+dren with emotionally negative and neutral DRM word 
+lists. Emotionally negative false memories were easier 
+to induce in maltreated than in non-maltreated children. 
+In another recent study, we also tested maltreated and 
+non-maltreated children (Otgaar, Howe, & Muris, in 
+press). Here, too, participants were provided with emo-
+tionally negative and neutral DRM lists. Again, the mal-
+treated group had higher levels of emotionally negative 
+false memories relative to the non-maltreated group. In 
+the DRM study conducted by Goodman et al. (2011), 
+adolescents and adults with and without documented 
+histories of child sexual abuse were tested. These par-
+ticipants received negative and neutral DRM lists. Par-
+ticipants with a history of trauma showed higher rates 
+of false memory, especially for the negatively valenced 
+lists.
+Of importance, in these studies, there were strong 
+indications that the maltreated children had faced seri-
+ous adversity. For example, in Baugerud et al.’s (2016) 
+study, children were all removed from their caregivers 
+because of serious intrafamilial transgressions. In 
+Otgaar et al.’s (in press) study, the maltreated children 
+were recruited from forensic abuse centers or child 
+interrogation settings. Only children for which there 
+were serious signs of abuse would be referred to these 
+places. This is important because if the traumatic status 
+of what children have experienced is uncertain, it 
+remains difficult to know whether dense and well- 
+integrated associative networks could have been 
+formed. The study of Howe, Toth, and Cicchetti (2011) 
+is a case in point: although all children in the mal-
+treated group had experienced some form of trauma, 
+not all of them had experienced extreme levels of mal-
+treatment as was the case in more recent studies 
+(Baugerud et al., 2016; Goodman et al., 2011; Otgaar 
+et al., in press). For example, the sample used in Howe 
+et al. comprised 141 maltreated children, with the 
+majority (75.2%) experiencing neglect, 53.3% emotional
+
+1057
+maltreatment, 26.2% physical abuse, and 2.8% sexual 
+abuse. Although 58.1% of the maltreated children had 
+experienced more than one subtype of abuse, many in 
+the sample were not exposed to extreme levels of 
+abuse. Because it was not possible to analyze children’s 
+memory performance as a function of subtype, Howe 
+et al. were unable to ascertain differences in false mem-
+ory rates as a function of abuse severity. This may 
+explain why in the Howe et al. study false memory 
+levels did not differ statistically between the maltreated 
+and non-maltreated groups of children.
+Neutral material or nonassociative 
+material
+Up until now, we have outlined experimental evidence 
+showing that when people with PTSD or a trauma his-
+tory are faced with negatively laden or traumatic asso-
+ciative stimuli, negative false memories are likely to be 
+elicited. What happens when PTSD (or traumatized) 
+individuals do not receive trauma-related associative 
+stimuli? We will show that when such stimuli are not 
+presented, false memory patterns in PTSD (and trauma) 
+are inconsistent. This may have led some memory 
+researchers to conclude that in general there is no link 
+between PTSD and false memory formation.
+For example, Triantafyllou, North, Zartman, and 
+Roediger (2015) gave participants with and without 
+PTSD neutral DRM lists. They found that the two groups 
+did not differ statistically in false memory propensity. 
+Jelinek, Hottenrott, Randjibar, Peters, and Moritz (2009) 
+provided traumatized individuals with and without 
+PTSD and nontraumatized participants with a visual 
+variant of the DRM paradigm, but did not specifically 
+present them with negative or trauma-related visual 
+scenes (for similar results using videos, see Hauschildt, 
+Peters, Jelinek, & Moritz, 2012). The authors found that 
+false memory propensity was not related to PTSD sta-
+tus. Also, Howe, Cicchetti, Toth, and Cerrito (2004) 
+noted that maltreatment in children was not associated 
+with false memory susceptibility when using neutral 
+DRM lists.
+To elicit false memories, researchers have also 
+resorted to procedures other than the DRM paradigm. 
+For example, there is some limited work on the link 
+between trauma and suggestibility. Eisen and colleagues 
+(Eisen, Goodman, Qin, Davis, & Crayton, 2007; Eisen, 
+Qin, Goodman, & Davis, 2002) asked children sugges-
+tive questions about a forensic medical examination 
+and assessed whether children with an alleged history 
+of maltreatment were more or less likely to fall prey to 
+such suggestions. The researchers did not find any 
+strong signs that abuse status was linked to accepting 
+suggestive cues (but see Otgaar et al., in press). Chae, 
+Goodman, Eisen, and Qin (2011) also concluded that 
+trauma and suggestibility were unrelated using a similar 
+approach. Valentino, Cicchetti, Rogosch, and Toth 
+(2008) used a self-schema memory task and measured 
+true and false recall in maltreated and non-maltreated 
+children. Specifically, children were presented with sev-
+eral words and were asked whether these words 
+referred to them as a person. An unexpected incidental 
+recall test showed that the two groups of children did 
+not differ statistically in false recall.
+Some studies relying on neutral or nonassociative 
+material did find evidence that PTSD or trauma is linked 
+to false memories. However, these might be spurious 
+findings as most studies (k = 7) using neutral material 
+did not find any false memory effects. Furthermore, 
+studies finding heightened false memory rates in trau-
+matized or PTSD participants with neutral material are 
+difficult to interpret. For example, in some of these 
+studies (Bremner, Shobe, & Kihlstrom, 2000; Zoellner, 
+Foa, Brigidi, & Przeworski, 2000), PTSD individuals 
+showed higher neutral false memory rates than indi-
+viduals without PTSD, but there is no theoretically con-
+vincing explanation as to why neutral false memories 
+would be raised in these individuals. McWilliams, 
+Harris, and Goodman (2014) exposed children and ado-
+lescents with and without a history of trauma to several 
+videos and afterward asked several memory-related 
+questions (free recall, direct question, suggestive ques-
+tions). The trauma group was more likely to form spon-
+taneous memory errors when being confronted with 
+direct questions than the non-trauma-exposed group. 
+However, this result might purely reflect a general ten-
+dency to say yes instead of an increase in false memo-
+ries per se, something that is unlikely to occur with 
+methods that rely on spreading activation such as the 
+DRM paradigm.
+Depression and False Memory
+The link between depression and memory has origi-
+nally been examined in the context of mood congru-
+ence effects (Matt, Vazquez, & Campbell, 1992). Mood 
+congruence refers to the phenomenon that stimuli that 
+are similar in affective valence with one’s mood are 
+better encoded and retrieved than stimuli of different 
+valence (Blaney, 1986). A wealth of studies has con-
+firmed that depressed individuals remember stimuli 
+better when they match their mood (i.e., negative or 
+depression-related stimuli). Associative activation plays 
+a key role in mood congruence effects that have been 
+documented for depression. Thus, mood congruence 
+has been ascribed to associative activation in an inte-
+grated memory network in which nodes and concepts 
+of negative experiences are strongly connected to each
+
+1058 
+Otgaar et al.
+other (Foster et al., 2011). This implies that when 
+depressed individuals are presented with associative 
+stimuli that map onto their own associative networks, 
+false memories are likely to be created.
+Moritz, Glascher, and Brassen (2005) were among 
+the first researchers to examine false memory creation 
+in depression. Patients with depression and healthy 
+comparison participants were involved in a DRM pro-
+cedure in which they received depression-related (i.e., 
+loneliness), delusion-related (i.e., betrayal), positive 
+(holiday), or neutral (window) associative word lists. 
+Moritz and colleagues observed a mood-congruence 
+effect in that false memories for emotionally charged 
+words, especially depression-relevant items, were more 
+likely to occur in depressed patients than in healthy 
+comparison participants. Other studies have replicated 
+this effect.
+For example, Joormann, Teachman, and Gotlib 
+(2009) examined the impact of depression on neutral 
+and emotionally negative DRM false memories. Here, 
+too, depressed individuals had elevated levels of emo-
+tionally charged false memories compared with a com-
+parison group without depression. Yeh and Hua (2009) 
+tested patients suffering from a major depressive epi-
+sode and healthy comparison individuals and presented 
+them with neutral, negative, and positive DRM lists. 
+They found that negative false memories were more 
+easily evoked in patients with a depressive episode than 
+among comparison participants. Howe and Malone 
+(2011) also tested participants with a major depressive 
+disorder and concluded that depression-relevant critical 
+lures were more likely to be misremembered in those 
+participants than in healthy comparison participants.
+So far, the picture is quite clear. When associative 
+negative or depression-related DRM material is pre-
+sented to depressed patients, they are more likely to 
+misremember related but not presented items than 
+people with no depression. It is interesting that this 
+effect is not just confined to DRM material but extends 
+to other materials as long as it is associative in nature. 
+A notable example is the study by Toffalini, Mirandola, 
+Drabik, Melinder, and Cornoldi (2014). Their study did 
+not rely on a clinical sample but on participants scoring 
+high and low on depressive-anxious personality traits. 
+Participants received pictures depicting scripts of every-
+day experiences (e.g., family dinner, going shopping). 
+Each script contained a sequence of several pictures 
+referring to typical actions that are likely to take place 
+in that particular experience. For half of the partici-
+pants, some pictures depicted a negative outcome of 
+the experience (e.g., bike accident of a boy), whereas 
+the other half received pictures with a neutral outcome. 
+During a recognition task, participants were exposed 
+to presented and nonpresented pictures. It is important 
+that for some of the nonpresented pictures, a cause (e.g., 
+boy crossing the road) was depicted of the negative/ 
+neutral outcome that was shown in the picture. In the 
+high depressive-anxious group, causal false memories 
+for the negative outcome were more likely to be elicited 
+than for the neutral outcome and that this was not the 
+case in the low depressive-anxious group.
+To summarize, these studies have revealed a consis-
+tent pattern. In line with the notion of associative acti-
+vation, depressed individuals are particularly prone to 
+the formation of negatively valenced or depression-
+related false memories. The explanation for this is that 
+depressed individuals are biased toward the retrieval 
+of negative experiences because of increased associa-
+tive activation of that information in their knowledge 
+base. So, when they are confronted with negative or 
+depression-related information that is associative in 
+nature, they are more likely to spontaneously make 
+incorrect associations than healthy comparison 
+individuals.
+Meta-Analysis
+A stronger case could be made for the idea that associa-
+tive activation underlies raised levels of false memory 
+creation in PTSD, trauma, and depression by perform-
+ing a meta-analysis on the effect sizes reported in the 
+pertinent studies. There are several routes that can be 
+taken here. First, one could look at the categories 
+(PTSD, trauma, and depression) separately and examine 
+the effect sizes per stimulus type for each distinct type 
+of psychopathology. However, there are several limita-
+tions with this strategy. To begin with, there are only a 
+few studies per category (i.e., PTSD, trauma, and 
+depression). Combining them would provide a better 
+and more general estimate of the effects of certain 
+forms of psychopathology on false memory production. 
+Furthermore, when performing such an analysis, it 
+would be informative to contrast effect sizes from stud-
+ies using negative or trauma-related associative material 
+with those from studies using neutral or nonassociative 
+material. Unfortunately, this cannot be done with stud-
+ies on depression and false memory because these 
+studies have only used associative material.
+With these considerations in mind, we decided to 
+take a second route in performing a meta-analysis (see 
+Table 2; see also the Supplemental Material available 
+online and https://osf.io/fdfpj/ for all materials and 
+analyses). To this end, we have combined studies that 
+looked at false memory formation in PTSD, trauma, and 
+depression. Of course, one limitation here is that stud-
+ies differ on certain dimensions such as the paradigm 
+used or which memory test was employed (recall vs. 
+recognition). We have categorized these studies in
+
+1059
+terms of those using associative and emotional material 
+(e.g., negative, depression-relevant) and those using 
+neutral or nonassociative material. We then compared 
+effect sizes between these two categories. We have 
+chosen Cohen’s d as our effect size of interest as this 
+effect size represented how large the effect was regard-
+ing false memory rates when certain stimuli were pre-
+sented (e.g., neutral or emotional associative material) 
+between two groups (e.g., PTSD vs. control). For some 
+studies (k = 9), no Cohen’s d could be calculated 
+because the relevant information was not described in 
+the text. We emailed the authors of these studies, and 
+from one of those, we received the relevant informa-
+tion. Of the remaining studies, authors did not respond 
+(k = 6) or did not have the data anymore (k = 2). Fur-
+thermore, for some studies, we have added multiple 
+effect sizes, namely, in those cases where false memo-
+ries were measured in more than one way (e.g., incor-
+rect details in free recall, spontaneous memory errors 
+or errors of commission).
+We performed an independent samples Welch t test 
+on the effect sizes with type of stimuli as a between-
+subjects variable (Delacre, Lakens, & Leys, in press). As 
+expected, when participants were presented with emo-
+tional associative stimuli, effect sizes were statistically 
+higher (M = 0.90, SD = 0.47) than when neutral or 
+nonassociative material was presented (M = −0.07, 
+SD = 0.32), Welch t(19.2) = 5.74, p < .001, d = 2.07. 
+When we included the Dasse et al.’s (2015) study with 
+an effect size of zero (see earlier discussion), we still 
+found statistically higher effect sizes for emotional asso-
+ciative material (M = 0.83, SD = 0.52) than for neutral 
+or nonassociative material (M = −0.7, SD = 0.47), Welch 
+t(20) = 5.09, p < .001, d = 1.85. Furthermore, a Bayesian 
+analysis of the data (without the Dasse et al.’s study) 
+using a prior of 0.71 revealed a Bayes factor (BF10) of 
+13001, indicating that our data are more in favor of the 
+alternative hypothesis than the null (i.e., no difference) 
+hypothesis.
+Our meta-analysis supports our narrative review that 
+PTSD, trauma history, and depression go along with an 
+increased susceptibility to false memories but only 
+when the stimuli map onto a psychopathology-related 
+knowledge base. So, when individuals with depression 
+or PTSD were presented with neutral or nonassociative 
+stimuli, on average, they were not more susceptible to 
+false memories related to that material than comparison 
+participants. However, when emotional associative 
+material was presented, false memories linked to that 
+material increased particularly in individuals with PTSD 
+(or trauma) and depression relative to comparison 
+participants.
+We also examined whether our results might suffer 
+from publication bias. First, we contacted all first 
+authors of the articles included in this review and asked 
+for any unpublished work on the link between false 
+memory and depression, PTSD, or a history of trauma. 
+Two researchers responded but no unpublished data 
+was present. Second, we conducted a p-curve analysis 
+to examine the existence of publication bias and exam-
+ine whether our results show any evidential value 
+(Simonsohn, Nelson, & Simmons, 2014). P-curve refers 
+to the distribution of statistically significant p values for 
+a certain number of studies. A p-curve reflects eviden-
+tial value when the curve is right-skewed so that there 
+are more low (e.g., .01) than high (e.g., .045) p values. 
+As can be seen from Figure 1, our analyzed p-curve is 
+right-skewed implying evidential value and suggests 
+that there are no signs of publication bias.
+Discussion and Conclusion
+Associative activation is a key mechanism underlying 
+false memory propensity and omnipresent in psycho-
+pathological conditions such as PTSD and depression. 
+When this mechanism is taken into account in studies 
+examining PTSD, depression, and false memories, we 
+suggest that individuals with either PTSD or depression 
+rapidly and automatically activate associations when 
+they are confronted with pathology-related emotional 
+experiences. The consequence of this automatic activa-
+tion is that false memories for emotional material are 
+more likely to be generated (also see Zhang et al., in 
+press).
+In Figure 2, we have depicted a hypothetical exam-
+ple of what happens when emotional associative or 
+neutral material is presented to an individual with 
+PTSD. Although the associative network is simple and 
+for illustrative purposes only, it does show that it con-
+tains many nodes/concepts that are highly intercon-
+nected with each other. Furthermore, these nodes can 
+represent previously related negative experiences or 
+recollections (e.g., abuse), but they can also reflect 
+feelings (e.g., anger) that are related to a negative expe-
+rience. Thus, an associative network or knowledge base 
+can contain a multitude of linkages (e.g., semantic, 
+phonological) between different pieces of information 
+(e.g., recollections, emotions; Bower, 1981; Foa & 
+Kozak, 1986; Howe et al., 2010). This perspective is 
+closely aligned with other conceptualizations of how 
+memory and emotions are linked such as the associative 
+network theory of memory and emotion (Bower, 1981; 
+Pessoa, 2017). This network theory assumes that nodes 
+can represent myriad types of information such as rec-
+ollective information but also different types of 
+emotions.
+For example, when someone with PTSD is con-
+fronted with a negative related experience (in this
+
+1060 
+Otgaar et al.
+example, a negative DRM list), encoding the list items 
+will activate already existing nodes (e.g., cut) and will 
+automatically activate related nodes as well (e.g., rape). 
+Through this associative cascade, nodes can become 
+activated that were not experienced and this may gen-
+erate false memories (i.e., blood). As can also be seen 
+in the figure, the creation of a false memory is unlikely 
+to occur when neutral material is presented. Although 
+some items of that material (e.g., red) are similar to 
+negative-related items, other items are less likely to 
+activate nodes in someone’s knowledge base, thereby 
+reducing the chance that associative activation will 
+spread to neighboring nodes leading to false 
+memories.
+A similar example can be drawn for the relationship 
+between depression or trauma and false memories. The 
+key premise is that for individuals with PTSD (or those 
+who have experienced a traumatic event) or depression, 
+their basic activation levels are already geared toward 
+processing emotionally related experiences. The net 
+result of this memory bias is that the processing of other 
+emotionally related experiences during encoding is 
+facilitated. It is interesting that associative activation 
+that facilitates remembering true emotional experiences 
+in individuals with PTSD, a traumatic history, or depres-
+sion is at the same time an important player in the 
+remembrance of false emotional experiences. Indeed, 
+as Howe and Malone (2011, p. 199) argued, “This may 
+represent a double-edged sword—the ease with which 
+true memories of negative . . . experiences come to 
+mind may also increase with the ease with which false 
+recollections become confused with reality.”
+Our core finding concerning elevated false memories 
+in people with PTSD, depression, or a trauma history 
+fits well with organizational principles of how memory 
+is constructed. Associative networks in people with 
+trauma PTSD or depression could be organized roughly 
+in a similar manner as those in people who have 
+acquired a specific expertise. For example, baseball 
+experts can recollect enormous amounts of information 
+related to baseball (Voss, Vesonder, & Spilich, 1980), 
+and chess experts can retrieve the precise locations of 
+chess pieces that occurred during a chess game (Chase 
+& Simon, 1973). However, as is the case with people 
+who suffer from PTSD, trauma, or depression, research 
+on expertise has demonstrated that superior skills can 
+increase susceptibility to false memory errors. For 
+example, Castel, McCabe, Roediger, and Heitman (2007) 
+presented participants who had high or low knowledge 
+of American football a list of familiar animal names 
+(e.g., lions, broncos, bears) that were also the names 
+of famous football teams. The authors found that the 
+Fig. 1. P-curve analysis of the reported studies on the link among false memory and 
+depression, PTSD, or a history of trauma.
+
+1061
+high knowledge group falsely recalled more football-
+related names (e.g., eagles) than the low knowledge 
+group. Similar mechanisms might be at work in indi-
+viduals with PTSD, a trauma history, or depression.
+The notion that individuals with PTSD, a history of 
+trauma, or depression are more likely to produce emo-
+tionally related false memories when confronted with 
+affective rather than neutral stimuli parallels previous 
+work on the processing of emotional stimuli in these 
+individuals. Specifically, an abundance of studies has 
+shown that individuals with PTSD take longer on a 
+Stroop task to color-name trauma-related words than 
+neutral words (e.g., Foa, Feske, Murdock, Kozak, & 
+McCarthy, 1991; McNally, Kaspi, Riemann, & Zeitlin, 
+1990). This attentional bias reflects an activated associa-
+tive network that prioritizes threatening information. 
+Such attentional bias might be relevant in the context 
+of false memory effects because it may well be the case 
+that such effects represent false alarms associated with 
+a semantic network that is highly activated.
+Although we have emphasized the role of associa-
+tive activation in this review, other memory-related 
+mechanisms are likely to play a role in false memories 
+as well. That is, associative activation is most likely to 
+impact the encoding of certain experiences, but 
+retrieval mechanisms are also relevant for false memo-
+ries (Roediger, Balota, & Watson, 2001). One promising 
+candidate that affects retrieval of false memories is 
+cognitive control. Studies show that both PTSD and 
+depression are characterized by deficiencies in work-
+ing memory, which is thought to undermine cognitive 
+control (Engle & Kane, 2003; Joormann & Gotlib, 2007; 
+Rose & Ebmeier, 2006; Schweizer & Dalgleish, 2011). 
+This implies that when associative activation has led 
+to the activation of nonexperienced nodes, individuals 
+with PTSD, trauma-related histories, or depression may 
+have difficulties in inhibiting false memories because 
+of poor cognitive control (see, e.g., Kimball & Bjork, 
+2002). When this activation cannot be inhibited, false 
+memories are easily produced. This line of reasoning 
+fits well with research showing that poor working mem-
+ory is associated with increased levels of false recollec-
+tions (e.g., Peters, Jelicic, Verbeek, & Merckelbach, 
+2007).
+It is also relevant to examine whether the results of 
+our review can be explained in terms of alternative false 
+memory theories such as FTT. To reiterate, FTT posits 
+that false memories are the consequences of gist extrac-
+tion when verbatim traces can no longer be retrieved. 
+If this principle is integrated in the current review, then 
+individuals with PTSD, a history of trauma, or depres-
+sion are more likely to rely on the gist or semantics 
+when retrieving memories. It is true that such individu-
+als have deficiencies in item-specific processing and 
+the retrieval of verbatim traces (Hayes et al., 2011). So, 
+gist traces are then indeed more likely to be retrieved, 
+promoting false memory creation. However, in our 
+view, FTT cannot explain the finding that people with 
+[Negative associative material]
+[Associative network/knowledge base of PTSD]
+Red
+Warm
+Wound
+Thorn
+Knife
+Cut
+Flowing
+Running
+Sticky
+Fresh
+[Neutral material]
+Girlfriend
+Boyfriend
+Red
+Date
+Romance
+Passion
+Heart
+Hug
+Relationship
+Secret
+Wound
+Anger
+Knife
+BLOOD
+Thorn
+Red
+Cut
+Abuse
+War
+Rape
+Fig. 2. Hypothetical example of how false memories in PTSD are formed when emotional associative material is presented.
+
+1062 
+Otgaar et al.
+PTSD, depression, or a traumatic history have a memory 
+bias toward a plethora of different types of memories, 
+including autobiographical ones, and not just semantic 
+ones. Moreover, if verbatim processes are a primary 
+source of true memories and gist processes the primary 
+source of false memories, how can it be that both true 
+and false memories increase for psychopathology- 
+congruent materials? Furthermore, traumatized or 
+depressed individuals are often haunted with rumination 
+and intrusive recollections and a diverse set of negative 
+emotions. This cascade of different symptoms is difficult 
+to explain solely in terms of gist extraction. Hence, the 
+finding that such individuals have a diverse set of emo-
+tionally related memories is better accommodated by 
+associative activation theories (AAT and AMT).
+Other Forms of Psychopathology and 
+False Memory
+In the present review, we have focused on disorders 
+(PTSD, depression) or precursors of disorders (trauma) 
+in which memory aberrations have been well docu-
+mented. PTSD and depression are often regarded as 
+disorders in which autobiographical memory aberra-
+tions are a key feature (Dalgleish & Werner-Seidler, 
+2014; Rubin et al., 2008). Arguably, associative activa-
+tion as a principal factor in the development of false 
+memories only possesses relevance for disorders in 
+which memory aberrations are central to the symptom-
+atology. We will now show that if we look at evidence 
+for other memory-related disorders and false memory 
+propensity, then our theoretical principle still holds.
+One disorder in which memory deficits are of central 
+importance is schizophrenia. The memory deficits here 
+might be linked to reality distortion. There is an abun-
+dance of evidence showing that episodic memory is 
+severely compromised in patients with a diagnosis of 
+schizophrenia (Aleman et al., 1999; Heinrichs & 
+Zakzanis, 1998). Based on this, one might expect that 
+false memory rates are elevated in schizophrenic 
+patients. However, the picture is much more complex 
+concerning the impact of schizophrenia on the creation 
+of false memories.
+In line with our review, recent evidence shows that 
+false memories can become elevated in schizophrenic 
+patients when the method used to elicit false memories 
+aligns with specific symptoms of schizophrenia. For 
+example, one core symptom of schizophrenia is delu-
+sions. Delusions have been regarded as originating from 
+a dysfunction in cognitive systems related to memory 
+(McKenna, 1991). Bhatt, Laws, and McKenna (2010) 
+recently advanced the idea that delusions have strong 
+similarities with false memories in that both refer to 
+phenomena that are experienced as true but lack 
+reality. In their study, they tested schizophrenic patients 
+who were currently experiencing delusions, patients 
+not experiencing delusions, and healthy comparison 
+participants. The participants were provided with sev-
+eral DRM word lists and the authors found that false 
+memory rates were highest in the delusion group (for 
+similar results, see Laws & Bhatt, 2005). It is important 
+that studies in which procedures used to elicit false 
+memories did not relate to specific symptomatology 
+have failed to find increased false memory levels in 
+schizophrenic patients (e.g., Moritz, Woodward, Cuttler, 
+Whitman, & Watson, 2004).
+Another strong case for the role of associative activa-
+tion in the link between psychopathology and false 
+memory is to identify disorders with deficits in emo-
+tional processing and emotional memory retrieval. For 
+example, a deviant processing of emotions and emo-
+tional memories is a characteristic feature of conduct 
+disorder, antisocial personality disorder, and psychopa-
+thy (e.g., Dolan & Fullam, 2010; Glass & Newman, 
+2009). Individuals with these disorders display less 
+automatic associative activation in their knowledge 
+base regarding emotionally negative memories than 
+individuals without these disorders. Based on this 
+observation, one would expect that in these disorders, 
+emotionally related false memories are less likely to 
+occur than in disorders such as PTSD. In fact, there is 
+evidence that points in this direction. Specifically, 
+Thijssen, Otgaar, Howe, and de Ruiter (2013) tested 
+children scoring high and low on callous-unemotional 
+(CU) traits, which closely resemble the emotional 
+detachment part of psychopathy in adult forensic popu-
+lations (Frick, 2006). These children were presented 
+with neutral and emotionally negative DRM word lists. 
+In line with our prediction, children with high CU traits 
+were least susceptible to the production of false memo-
+ries for emotionally negative word lists.
+Psychopathology in Practice
+A relevant issue is whether our meta-analytic findings 
+might be informative for practical settings such as the 
+clinical or forensic field. It is important to emphasize 
+here that the current article was mainly focused on the 
+link between spontaneous false memory as evoked by 
+the DRM procedure and certain forms of psychopathol-
+ogy. Hence, we urge caution in generalizing our find-
+ings to domains outside the realm of spontaneous false 
+memory such as issues concerning false memories elic-
+ited by external suggestive pressure.
+Nonetheless, memory scholars have regularly articu-
+lated that the events (e.g., birthday party) that we expe-
+rience daily consist of interrelated and meaning-based 
+details (e.g., presents, singing, cake). Spontaneous false
+
+1063
+memories are readily produced when people rely on 
+the underlying meaning of such events. For more foren-
+sically related experiences, one might expect the same. 
+Indeed, Holliday, Reyna, and Brainerd (2008) argued 
+that “false memories induced by meaning related infor-
+mation embody several features of forensically relevant 
+memories. For child witnesses of domestic violence, for 
+example, such violence is not usually a single episode 
+but rather a series of repeated events that are substan-
+tially similar but not exactly the same” (p. 76).
+Many individuals with psychopathology are treated 
+for their disorders and during these therapeutic inter-
+ventions, such individuals often have to retrieve memo-
+ries that are related to their specific problems. For 
+example, a patient with PTSD might be asked to recall 
+(parts of) the traumatic event after which a treatment 
+plan is set up. Or a patient with depression might talk 
+about his or her ruminations after which a therapist 
+focuses on these repetitive topics.
+The heated debate about recovered memories in the 
+nineties revolved around the existence of repression 
+and whether certain therapies might have caused clients 
+to misremember entire episodes of sexual abuse 
+(Lindsay & Read, 1994; Loftus, 1994). Typically, clients 
+with recovered memories suffered from some form of 
+psychopathological symptomatology and were moti-
+vated to know the origins of their symptoms (Ost et al., 
+2002). In some of these cases, clinicians suggested that 
+a buried traumatic event might underlie symptoms, and 
+clients were swayed into falsely believing and remem-
+bering that they were traumatized in their past (Loftus 
+& Ketcham, 1994).
+Inspired by the recovered memory debate, a plethora 
+of research has been conducted on the elicitation of 
+false memories (e.g., Frenda, Nichols, & Loftus, 2011). 
+Although these studies have been informative (Otgaar, 
+Merckelbach, Jelicic, & Smeets, 2017), some memory 
+researchers have remained critical about the generaliz-
+ability of their findings (e.g., Pezdek & Lam, 2007; but 
+see Wade et al., 2007). In many of these studies, healthy 
+participants were tested using a variety of different false 
+memory procedures. Although this work has demon-
+strated the relative ease with which false memories can 
+be generated using different manipulations (e.g., sug-
+gestive techniques), it is not always clear how these 
+findings can be translated to clinical settings in which 
+patients with psychopathology are at risk of being con-
+fronted with suggestive pressure, potentially leading to 
+the formation of false memories.
+More important, based on the recovered memory 
+debate, research intensified in the area of suggestion-
+induced false memories. The focus in these studies was 
+to examine the impact of suggestive prompts on mem-
+ory. Although this work has undoubtedly revealed that 
+suggestion can contaminate memory and that this can 
+be perilous in therapeutic settings, our review raises 
+the important question of whether the potential danger 
+of spontaneous false memory formation has been 
+neglected in the clinical field.
+Current popular treatment techniques have a specific 
+focus on asking patients psychopathology-related ques-
+tions. More specifically, many therapeutic interventions 
+intend to change maladaptive autobiographical memo-
+ries. For example, eye movement desensitization and 
+reprocessing (EMDR; Shapiro, 1995; Van den Hout & 
+Engelhard, 2012) is a popular intervention for dealing 
+with trauma. During EMDR, patients have to retrieve 
+their traumatic memories after which they receive bilat-
+eral stimulation in the form of, for example, saccadic 
+eye movements. This procedure taxes working memory, 
+and because of this, the emotional component of the 
+traumatic memory loses some of its value. It is important 
+that during EMDR, patients are exposed to a cascade of 
+questions related to their traumatic memories. Based on 
+our review, one prediction would be that individuals 
+with PTSD, depression, or a trauma history may then 
+be especially prone to the creation of false memories 
+(Howe & Malone, 2011; Otgaar et al., in press).
+Furthermore, memory scholars have recently begun 
+to acknowledge that therapies might change memories. 
+For example, Lane, Ryan, Nadel, and Greenberg (2015) 
+stated that “transformation of memories happens all the 
+time, like it or not, and the point of psychotherapy 
+should be to harness this naturally occurring phenom-
+enon for good purpose” (p. 45). Furthermore, Brewin 
+(2015, p. 21) postulated that “psychotherapy creates new 
+memories.” Meanwhile, many therapists have inadequate 
+knowledge about concepts such as repression and false 
+memories (Ost, Easton, Hope, French, & Wright, 2017; 
+Patihis et al., 2014). This knowledge, however, is vital 
+to therapists whose aim is to restructure their patients’ 
+autobiographical memories by using EMDR (Holmes & 
+Mathews, 2010). Therapists, cues that tap into the domi-
+nant knowledge network, and patients with certain 
+forms of psychopathology (e.g., PTSD) can create a 
+dangerous triad in which false memory formation is 
+lurking at any corner in this triangle. With this in mind, 
+it is surprising that the literature on “negative” side 
+effects—including spontaneous false memories—of 
+therapeutic interventions is so limited (see Jonsson, 
+Alaie, Parling, & Arnberg, 2014; Lilienfeld, 2007).
+A Look Into the Future
+Our review suggests that spontaneous false memory 
+creation is easily evoked in PTSD, depression, and trau-
+matized people if the stimuli being presented are asso-
+ciative and emotional in nature. The studies that have
+
+1064 
+Otgaar et al.
+been conducted regarding psychopathology and false 
+memory frequently included the DRM paradigm. 
+Although we have just described how the findings from 
+these DRM studies can be relevant in practical settings, 
+it is undeniably true that the DRM paradigm suffers 
+from one significant limitation. That is, the DRM para-
+digm does not concentrate on false autobiographical 
+memories, which are the memories that were debated 
+during the memory wars and that are most relevant in 
+therapeutic and forensic settings.
+There is discussion about whether false memory 
+proneness as tapped by the DRM technique is positively 
+related to susceptibility to false autobiographical mem-
+ories. Although studies show that DRM false memories 
+can be relevant in forensic settings when spontaneous 
+statements are at the foreground of a police investi­
+gation (Brackmann et al., 2016; Brainerd, Reyna, & 
+Zember, 2011; Otgaar et al., 2016), there are also studies 
+showing that DRM false memories are not that relevant 
+in practical situations because they are not, or only 
+weakly, related to other types of false memories (Ost 
+et al., 2013; Otgaar & Candel, 2010; Zhu, Chen, Loftus, 
+Lin, & Dong, 2013). This latter finding would imply that 
+different mechanisms are at play in different variants 
+of false memories (but see also Rubin & Talarico, 2009).
+Psychopathology and suggestibility
+The field of psychopathology and false memory is in 
+urgent need of false memory studies that use procedures 
+that are most likely to occur in practical settings such 
+as in a treatment context (Scoboria et al., 2017). One 
+obvious example would be paradigms using some form 
+of external suggestion like the misinformation or implan-
+tation paradigm. These suggestions are likely to be 
+encountered in clinical situations or other practically 
+relevant situations (e.g., police investigations). Consider-
+ing the importance of such studies, it is surprising that 
+virtually no research base exists in which suggestion-
+induced false memories are examined in people with 
+psychopathology. In our review, we only encountered 
+limited work in which the link between trauma and 
+suggestibility was examined (Chae et al., 2011; Eisen 
+et al., 2002; Eisen et al., 2007). Peters, Moritz, Tekin, 
+Jelicic, and Merckelbach (2012) examined the effects of 
+misleading information on false memory in schizo-
+phrenic patients and found that people with schizophre-
+nia showed a tendency to go along with misleading 
+information. Otgaar and colleagues (in press) recently 
+tested maltreated and non-maltreated children’s ability 
+to accept or resist external misinformation. They found 
+that maltreated children were less prone to the misin-
+formation effect than non-maltreated ones.
+Although these studies have provided some impor-
+tant insights, they are limited in the sense that they have 
+not taken into account a theoretical principle that has 
+been the focus of the current investigation. That is, in 
+these studies, the offered suggestions were perhaps not 
+specifically related to the associative networks of the 
+participants. Our prediction is that future studies that 
+do present external suggestions that map into some-
+one’s knowledge base will show enhanced false mem-
+ory rates. Based on the current review, we expect that 
+when, for example, PTSD patients view negatively 
+related associative stimuli such as an aversive video and 
+are then misinformed that certain negatively related 
+details were present, they would be more susceptible 
+to endorsing those suggestions than healthy compari-
+son participants. When these conditions are not met, 
+then it is likely that PTSD patients and comparison 
+participants will not differ in their susceptibility to sug-
+gestive pressure.
+Concluding Remarks
+The current synopsis commenced with an often-heard 
+claim among researchers that there is an inconsistent 
+pattern concerning the link between psychopathology 
+and false memory. We demonstrate, for the first time, 
+that this pattern is quite consistent as long as we glance 
+through the lens of associative activation. For individu-
+als with PTSD, depression, and a history of trauma, false 
+memory susceptibility increases when they are exposed 
+to associative material that is linked to their knowledge 
+base. Indeed, what this review shows is that researchers 
+may have underestimated the occurrence of false memo-
+ries in treatment settings. Whereas suggestion-induced 
+false memories can certainly occur in these settings, 
+spontaneous false memories are easily created for indi-
+viduals with these types of psychopathologies. This 
+surely indicates that these individuals are cursed in that 
+the mechanisms leading to their symptomatology also 
+lead to the occurrence of false memories, which might 
+be harmful in legal and clinical settings.
+Author Contributions
+H. Otgaar developed the review concept. All authors contributed 
+to the study design. Data collection (finding articles, finding effect 
+sizes) was performed by H. Otgaar. H. Otgaar conducted the data 
+analysis. All authors interpreted the data. H. Otgaar drafted the 
+article and all authors provided critical revisions. All authors 
+approved the final version of the article for submission.
+Declaration of Conflicting Interests
+The authors declared that they had no conflicts of interest with 
+respect to their authorship or the publication of this article.
+
+1065
+Supplemental Material
+Additional supporting information may be found at http://
+journals.sagepub.com/doi/suppl/10.1177/2167702617724424
+Note
+1. Instead of using the term “false memory,” we also used the 
+search terms “false recollection,” “pseudo memory,” “memory 
+distortion,” and “memory error” together with the search term 
+“PTSD” or “depression.” However, no new studies were identi-
+fied using these new terms.
+References
+Aleman, A., Hijman, R., De Haan, E. H. F., & Kahn, R. S. 
+(1999). Memory impairment in schizophrenia: A meta-
+analysis. American Journal of Psychiatry, 156, 1358–1366.
+American Psychiatric Association. (2013). Diagnostic and sta-
+tistical manual of mental disorders (5th ed.). Washington, 
+DC: Author.
+Anderson, J. R. (1983). A spreading activation theory of mem-
+ory. Journal of Verbal Learning and Verbal Behavior, 22, 
+261–295.
+Arntz, A. (2012). Imagery rescripting as a therapeutic technique: 
+Review of clinical trials, basic studies, and research agenda. 
+Journal of Experimental Psychopathology, 3, 189–208.
+Balota, D. A., & Duchek, J. M. (1989). Spreading activation 
+in episodic memory: Further evidence for age indepen-
+dence. Quarterly Journal of Experimental Psychology, 41, 
+849–876.
+Bar, M. (2009). A cognitive neuroscience hypothesis of mood 
+and depression. Trends in Cognitive Sciences, 13, 456–463.
+Baror, S., & Bar, M. (2016). Associative activation and its 
+relation to exploration and exploitation in the brain. 
+Psychological Science, 27, 776–789.
+Baugerud, G. A., Howe, M. L., Magnussen, S., & Melinder, A. 
+(2016). Maltreated and non-maltreated children’s true and 
+false memories of neutral and emotional word lists in the 
+Deese/Roediger-McDermott task. Journal of Experimental 
+Child Psychology, 143, 102–110.
+Beblo, T., Fernando, S., Klocke, S., Griepenstroh, J., 
+Aschenbrenner, S., & Driessen, M. (2012). Increased 
+suppression of negative and positive emotions in major 
+depression. Journal of Affective Disorders, 141, 474–479.
+Bhatt, R., Laws, K. R., & McKenna, P. J. (2010). False memory 
+in schizophrenia patients with and without delusions. 
+Psychiatry Research, 178, 260–265.
+Bifulco, A., Brown, G. W., & Adler, Z. (1991). Early sexual abuse 
+and depression in adult life. British Journal of Psychiatry, 
+159, 115–122.
+Blaney, P. H. (1986). Affect and memory: A review. Psy­
+chological Bulletin, 99, 229–246.
+Bookbinder, S. H., & Brainerd, C. J. (2016). Emotion and false 
+memory: The context-content paradox. Psychological 
+Bulletin, 142, 1315–1351.
+Borsboom, D., & Cramer, A. O. J. (2014). Network analysis: 
+An integrative approach to the structure of psychopathol-
+ogy. Annual Review of Clinical Psychology, 9, 91–121.
+Bower, G. H. (1981). Mood and memory. American 
+Psychologist, 36, 129–148.
+Brackmann, N., Otgaar, H., Sauerland, M., & Jelicic, M. (2016). 
+When children are the least vulnerable to false memo-
+ries: A true report or a case of autosuggestion. Journal 
+of Forensic Sciences, 61, S271–S275.
+Brainerd, C. J., Reyna, V. F., & Ceci, S. J. (2008). Developmental 
+reversals in false memory: A review of data and theory. 
+Psychological Bulletin, 134, 343–382.
+Brainerd, C. J., Reyna, V. F., & Zember, E. (2011). Theoretical 
+and forensic implications of developmental studies of the 
+DRM illusion. Memory & Cognition, 39, 365–380.
+Bremner, J. D., Shobe, K. K., & Kihlstrom, J. F. (2000). False mem-
+ories in women with self-reported childhood sexual abuse: 
+An empirical study. Psychological Science, 11, 333–337.
+Brennen, T., Dybdahl, R., & Kapidzic, A. (2007). Trauma-
+related and neutral false memories in war-induced post-
+traumatic stress disorder. Consciousness and Cognition, 
+16, 877–885.
+Brewin, C. R. (2014). Episodic memory, perceptual memory, 
+and their interaction: Foundations for a theory of posttrau-
+matic stress disorder. Psychological Bulletin, 140, 69–97.
+Brewin, C. R. (2015). Reconsolidation versus retrieval com-
+petition: Rival hypotheses to explain memory change in 
+psychotherapy. Behavioral and Brain Sciences, 38, 21–22.
+Brewin, C. R., Dalgleish, T., & Joseph, S. (1996). A dual rep-
+resentation of posttraumatic stress disorder. Psychological 
+Review, 103, 670–686.
+Brewin, C. R., Huntley, Z., & Whalley, M. G. (2012). Source mem-
+ory errors associated with reports of posttraumatic flash-
+backs: A proof of concept study. Cognition, 124, 234–238.
+Calvillo, D. P., & Parong, J. A. (2016). The misinformation 
+effect is unrelated to the DRM effect with and without a 
+DRM warning. Memory, 24, 324–333.
+Castel, A. D., McCabe, D. P., Roediger, H. L., & Heitman, J. L. 
+(2007). The dark side of expertise: Domain-specific mem-
+ory errors. Psychological Science, 18, 3–5.
+Chae, Y., Goodman, G. S., Eisen, M. L., & Qin, J. (2011). 
+Event memory and suggestibility in abused and neglected 
+children: Trauma-related psychopathology and cognitive 
+functioning. Journal of Experimental Child Psychology, 
+110, 520–538.
+Chase, W. G., & Simon, H. A. (1973). Perception in chess. 
+Cognitive Psychology, 4, 55–81.
+Collins, A. M., & Loftus, E. F. (1975). A spreading-activation 
+theory of semantic processing. Psychological Review, 82, 
+407–428.
+Dalgleish, T., & Werner-Seidler, A. (2014). Disruptions in 
+autobiographical memory processing in depression 
+and the emergence of memory therapeutics. Trends in 
+Cognitive Sciences, 18, 596–604.
+Dalgleish, T., & Yiend, J. (2006). The effects of suppress-
+ing a negative autobiographical memory on concurrent 
+intrusions and subsequent autobiographical recall in dys-
+phoria. Journal of Abnormal Psychology, 115, 467–473.
+Dasse, M. N., Juback, S. K., Morisette, S. B., Dolan, S. L., & 
+Weaver, C. A. (2015). False memory susceptibility in OEF/
+OIF veterans with and without PTSD. Military Psychology, 
+27, 354–365.
+Deese, J. (1959). On the prediction of occurrence of par-
+ticular verbal intrusions in immediate recall. Journal of 
+Experimental Psychology, 58, 17–22.
+
+1066 
+Otgaar et al.
+Delacre, M., Lakens, D., & Leys, C. (in press). Why psy-
+chologists should by default use Welch’s t-test instead of 
+Student’s t-test. International Review of Social Psychology.
+Dolan, M. C., & Fullam, R. (2005). Memory for emotional events 
+in violent offenders with antisocial personality disorder. 
+Personality and Individual Differences, 38, 1657–1667.
+Ehlers, A., & Clark, D. M. (2000). A cognitive model of 
+posttraumatic stress disorder. Behaviour Research and 
+Therapy, 38, 319–345.
+Eisen, M. L., Goodman, G. S., Qin, J., Davis, S., & Crayton, J. 
+(2007). Maltreated children’s memory: Accuracy, suggest-
+ibility, and psychopathology. Developmental Psychology, 
+43, 1275–1294.
+Eisen, M. L., Qin, J., Goodman, G. S., & Davis, S. L. (2002). 
+Memory and suggestibility in maltreated children: Age, 
+stress arousal, dissociation, and psychopathology. Journal 
+of Experimental Child Psychology, 83, 167–212.
+Engle, R. W., & Kane, M. J. (2003). Executive control, work-
+ing memory capacity, and a two-factor theory of cogni-
+tive control. Psychology of Learning and Motivation, 44, 
+145–199.
+Finley, J. R., Sungkhasettee, Roediger, H. L., & Balota, D. A. 
+(2017). Relative contributions of semantic and phonologi-
+cal associates to over-additive false recall in hybrid DRM 
+lists. Journal of Memory and Language, 93, 154–168.
+Foa, E. B., Feske, U., Murdock, T. B., Kozak, M., & McCarthy, 
+M. J. (1991). Processing of threat-related information in rape 
+victims. Journal of Abnormal Psychology, 100, 156–162.
+Foa, E. B., & Kozak, M. J. (1986). Emotional processing of 
+fear: Exposure to corrective information. Psychological 
+Bulletin, 99, 20–35.
+Foster, P. S., Yung, R. C., Branch, K. K., Stringer, K., Ferguson, 
+B. J., Sullivan, W., & Drago, V. (2011). Increased spread-
+ing activation in depression. Brain and Cognition, 77, 
+265–270.
+Frenda, S. J., Nichols, R. M., & Loftus, E. F. (2011). Current 
+issues and advances in misinformation research. Current 
+Directions in Psychological Science, 20, 20–23.
+Frick, P. J. (2006). Developmental pathways to conduct dis-
+order. Child and Adolescent Psychiatric Clinics of North 
+America, 15, 311–331.
+Fried, E. I., & Cramer, A. O. J. (in press). Moving forward: 
+Challenges and directions for psychopathological network 
+theory and methodology. Perspectives on Psychological 
+Science.
+Glass, S. J., & Newman, J. P. (2009). Emotion processing in 
+the criminal psychopath: The role of attention in emotion-
+facilitated memory. Journal of Abnormal Psychology, 118, 
+229–234.
+Goodman, G. S., Ogle, C. M., Block, S. D., Harris, L. S., 
+Larson, R. P., Augusti, E., . . . Urquiza, A. (2011). False 
+memory for trauma-related Deese-Roediger-McDermott 
+lists in adolescents and adults with histories of child 
+sexual abuse. Development and Psychopathology, 23, 
+423–438.
+Gotlib, I. H., & Joormann, J. (2010). Cognition and depres-
+sion: Current status and future directions. Annual Review 
+of Clinical Psychology, 6, 285–312.
+Hauschildt, M., Peters, M. J. V., Jelinek, L., & Moritz, S. 
+(2012). Veridical and false memory for scenic material in 
+posttraumatic stress disorder. Consciousness and Cognition, 
+21, 80–89.
+Hayes, J. P., LaBar, K. S., McCarthy, G., Selgrade, E., Nasser, 
+J., Dolcos, F., & Morey, R. A. (2011). Reduced hippocam-
+pal and amygdala activity predicts memory distortions 
+for trauma reminders in combat-related PTSD. Journal of 
+Psychiatric Research, 45, 660–669.
+Hayes, J. P., Van Elzakker, M. B., & Shin, L. M. (2012). 
+Emotion and cognition interactions in PTSD: A review of 
+neurocognitive and neuroimaging studies. Frontiers in 
+Integrative Neuroscience, 6, 1–14.
+Hayne, H., & Gross, J. (2017). Memory by association: 
+Integrating memories prolongs retention by two-year-
+olds. Infant Behavior and Development, 46, 7–13.
+Heinrichs, W. R., & Zakzanis, K. K. (1998). Neurocognitive 
+deficit in schizophrenia: A quantitative review of the evi-
+dence. Neuropsychology, 12, 426–445.
+Hertel, P. T., & Brozovich, F. (2010). Cognitive habits and 
+memory distortions in anxiety and depression. Current 
+Directions in Psychological Science, 19, 155–160.
+Holliday, R. E., Reyna, V. F., & Brainerd, C. J. (2008). Recall 
+of details never experienced: Effects of age, repetition, 
+and semantic cues. Cognitive Development, 23, 67–78.
+Holmes, E. A., & Mathews, A. (2010). Mental imagery in emo-
+tion and emotional disorders. Clinical Psychology Review, 
+30, 349–362.
+Howe, M. L. (2008). What is false memory development the 
+development of? Comment on Brainerd, Reyna, and Ceci 
+(2008). Psychological Bulletin, 134, 768–772. 
+Howe, M. L., Candel, I., Otgaar, H., Malone, C. M., & Wimmer, 
+M. C. (2010). Valence and the development of immediate 
+and long-term false memory illusions. Memory, 18, 58–75.
+Howe, M. L., Cicchetti, D., Toth, S. L., & Cerrito, B. M. (2004). 
+True and false memories in maltreated children. Child 
+Development, 75, 1402–1417.
+Howe, M. L., Garner, S. R., Charlesworth, M., & Knott, L. M. 
+(2011). A brighter side to memory illusions: False memo-
+ries prime children’s and adults’ insight-based problem 
+solving. Journal of Experimental Child Psychology, 108, 
+383–393.
+Howe, M. L., & Knott, L. M. (2015). The fallibility of memory 
+in judicial processes: Lessons from the past and their 
+modern consequences. Memory, 23, 633–656.
+Howe, M. L., Knott, L. M., & Conway, M. A. (2018). Memory and 
+miscarriages of justice. Abingdon, England: Routledge.
+Howe, M. L., & Malone, C. (2011). Mood-congruent true 
+and false memory: Effects of depression. Memory, 19, 
+192–201.
+Howe, M. L., Toth, S. L., & Cicchetti, D. (2011). Can maltreated 
+children inhibit true and false memories for emotional 
+information? Child Development, 82, 967–981.
+Howe, M. L., Wilkinson, S., & Monaghan, P. (2012, 
+November). False memories trump true ones as problem-
+solving primes after a delay. Paper presented as part of 
+the Governing Board Invited Symposium, Psychonomic 
+Society, Minneapolis, MN.
+Howe, M. L., Wimmer, M. C., Gagnon, N., & Plumpton, S. 
+(2009). An associative-activation theory of children’s 
+and adults’ memory illusions. Journal of Memory and 
+Language, 60, 229–251.
+
+1067
+Hutchinson, K. A. (2003). Is semantic priming due to associa-
+tion strength or feature overlap? A microanalytic review. 
+Psychonomic Bulletin & Review, 10, 785–813.
+Jelinek, L., Hottenrott, B., Randjibar, S., Peters, M. J., & 
+Moritz, S. (2009). Visual false memories in post-traumatic 
+stress disorder (PTSD). Journal of Behavior Therapy and 
+Experimental Psychiatry, 40, 374–383.
+Jonsson, U., Alaie, I., Parling, T., & Arnberg, F. K. (2014). 
+Reporting of harms in randomized controlled trials of 
+psychological interventions for mental and behavioral 
+disorders: A review of current practice. Contemporary 
+Clinical Trials, 38, 1–8.
+Joormann, J., & Gotlib, I. H. (2007). Selective attention to 
+emotional faces recovering from depression. Journal of 
+Abnormal Psychology, 116, 80–85.
+Joormann, J., & Siemer, M. (2004). Memory accessibility, 
+mood regulation, and dysphoria: Difficulties in repairing 
+sad mood with happy memories? Journal of Abnormal 
+Psychology, 113, 179–188.
+Joormann, J., Siemer, M., & Gotlib, I. H. (2007). Mood regu-
+lation in depression: Differential effects of distraction 
+and recall of happy memories on sad mood. Journal of 
+Abnormal Psychology, 116, 484–490.
+Joormann, J., Teachman, B. A., & Gotlib, I. H. (2009). Sadder 
+and less accurate? False memory for negative material in 
+depression. Journal of Abnormal Psychology, 118, 412–417.
+Kimball, D. R., & Bjork, R. A. (2002). Influences of intentional 
+and unintentional forgetting on false memories. Journal 
+of Experimental Psychology: General, 131, 116–130.
+Kiser, L. J., Heston, J., Millsap, P. A., & Pruitt, D. B. (1991). 
+Physical and sexual abuse in childhood: Relationship with 
+post-traumatic stress disorder. Journal of the American 
+Academy of Child and Adolescent Psychiatry, 30, 776–783.
+Koriat, A., Goldsmith, M., & Pansky, A. (2000). Toward a 
+psychology of memory accuracy. Annual Review of 
+Psychology, 51, 481–537.
+Lane, R. D., Ryan, L., Nadel, L., & Greenberg, L. (2015). 
+Memory reconsolidation, emotional arousal, and the pro-
+cess of change in psychotherapy: New insights from brain 
+science. Behavioral and Brain Sciences, 38, 1–64.
+Laws, K. R., & Bhatt, R. (2005). False memories and delu-
+sional ideation in normal healthy subjects. Personality 
+and Individual Differences, 39, 775–781.
+Lilienfeld, S. O. (2007). Psychological treatments that cause 
+harm. Perspectives on Psychological Science, 2, 53–70.
+Lindsay, D. S., Johnson, M. K., & Kwon, P. (1991). 
+Developmental changes in memory source monitoring. 
+Journal of Experimental Child Psychology, 52, 297–318.
+Lindsay, D. S., & Read, J. D. (1994). Psychotherapy and mem-
+ories of childhood sexual abuse: A cognitive perspective. 
+Applied Cognitive Psychology, 8, 281–338.
+Loftus, E. F. (1994). The repressed memory controversy. 
+American Psychologist, 49, 443–445.
+Loftus, E. F. (2005). Planting misinformation in the human 
+mind: A 30-year investigation of the malleability of mem-
+ory. Learning & Memory, 12, 361–366.
+Loftus, E. F., & Ketcham, K. (1994). The myth of repressed 
+memory. New York, NY: St. Martin’s.
+Loftus, E. F., & Pickrell, J. E. (1995). The formation of false 
+memories. Psychiatric Annals, 25, 720–725.
+Maran, M. (2012). My lie. A true story of false memory. San 
+Francisco, CA: Jossey-Bass.
+Mathews, A., & MacLeod, C. (2005). Cognitive vulnerabil-
+ity to emotional disorders. Annual Review of Clinical 
+Psychology, 1, 167–195.
+Matt, G. E., Vazquez, C., & Campbell, W. K. (1992). Mood-
+congruent recall of affectively toned stimuli: A meta-
+analytic review. Clinical Psychology Review, 12, 227–255.
+McKenna, P. J. (1991). Memory, knowledge, and delusions. 
+British Journal of Psychiatry, 159, 36–41.
+McNally, R. J. (2003). Remembering trauma. Cambridge, MA: 
+Belknap.
+McNally, R. J., Kaspi, S. P., Riemann, B. C, & Zeitlin, S. B. (1990). 
+Selective processing of threat cues in posttraumatic stress 
+disorder. Journal of Abnormal Psychology, 99, 398–402.
+McNally, R. J., Robinaugh, D. J., Wu, G. W. Y., Wang, L., 
+Deserno, M. K., & Borsboom, D. (2015). Mental disorders 
+as causal systems: A network approach to posttraumatic 
+stress disorder. Clinical Psychological Science, 3, 836–849.
+McWilliams, K., Harris, L. S., & Goodman, G. S. (2014). Child 
+maltreatment, trauma-related psychopathology, and eye-
+witness memory in children and adolescents. Behavioral 
+Sciences and the Law, 32, 702–717.
+Meyer, T., Smeets, T., Giesbrecht, T., Quaedflieg, C. W., 
+Girardelli, M. M., Mackay, G. R., & Merckelbach, H. (2013). 
+Individual differences in spatial configuration learning 
+predict the occurrence of intrusive memories. Cognitive, 
+Affective, & Behavioral Neuroscience, 13, 186–196.
+Moradi, A. R., Heydari, A. H., Abdollahi, M. H., Rahimi-
+Movaghar, V., Dalgleish, T., & Jobson, L. (2015). Visual 
+false memories in posttraumatic stress disorder. Journal 
+of Abnormal Psychology, 124, 905–917.
+Moritz, S., Voigt, K., Arzola, G. M., & Otte, C. (2008). When 
+the half-full glass is appraised as half empty and mem-
+orised as completely empty: Mood-congruent true and 
+false recognition in depression is modulated by salience. 
+Memory, 16, 810–820. 
+Moritz, S., Glascher, J., & Brassen, S. (2005). Investigation of 
+mood-congruent false and true memory recognition in 
+depression. Depression and Anxiety, 21, 9–17.
+Moritz, S., Woodward, T. S., Cuttler, C., Whitman, J. C., & 
+Watson, J. M. (2004). False memories in schizophrenia. 
+Neuropsychology, 18, 276–283.
+Neely, J. H. (1977). Semantic priming and retrieval from lexi-
+cal memory: Roles of inhibitionless spreading activation 
+and limited-capacity attention. Journal of Experimental 
+Psychology: General, 106, 226–254.
+Nigro, G., & Neisser, U. (1983). Point of view in personal 
+memories. Cognitive Psychology, 15, 467–482.
+Ono, M., Devilly, G. J., & Shum, D. H. K. (2016). A meta-
+analytic review of overgeneral memory: The role of 
+trauma history, mood, and the presence of posttraumatic 
+stress disorder. Psychological Trauma: Theory, Research, 
+Practice, and Policy, 8, 157–164. 
+Ost, J., Blank, H., Davies, J., Jones, G., Lambert, K., & Salmon, 
+K. (2013). False memory ≠ false memory: DRM errors 
+are unrelated to the misinformation effect. PLoS ONE, 8, 
+e57939.
+Ost, J., Costall, A., & Bull, R. (2002). A perfect symmetry? 
+A study of retractors’ experiences of making and then
+
+1068 
+Otgaar et al.
+repudiating claims of early sexual abuse. Psychology, 
+Crime & Law, 8, 155–181.
+Ost, J., Easton, S., Hope, L., French, C. C., & Wright, D. B. 
+(2017). Latent variables underlying the memory beliefs 
+of chartered clinical psychologists, hypnotherapists, and 
+undergraduate students. Memory, 25, 57–68.
+Otgaar, H., & Candel, I. (2010). Children’s false memories: 
+Different false memory paradigms reveal different results. 
+Psychology, Crime & Law, 17, 513–528.
+Otgaar, H., Candel, I., Smeets, T., & Merckelbach, H. (2010). “I 
+didn’t take Lucy’s skirt off”: The effect of misleading informa-
+tion on omissions and commissions in children’s memory 
+reports. Legal and Criminological Psychology, 15, 229–241.
+Otgaar, H., de Ruiter, C., Howe, M. L., Hoetmer, L., & Van 
+Reekum, P. (2017). A case concerning children’s false mem-
+ories of abuse: Recommendations regarding expert witness 
+work. Psychiatry, Psychology and Law, 24, 365–378.
+Otgaar, H., Howe, M. L., Brackmann, N., & Smeets, T. (2016). 
+The malleability of developmental trends in neutral and 
+negative memory illusions. Journal of Experimental 
+Psychology: General, 145, 31–55.
+Otgaar, H., Howe, M. L., & Muris, P. (in press). Maltreatment 
+increases spontaneous false memories but decreases 
+suggestion-induced false memories in children. British 
+Journal of Developmental Psychology.
+Otgaar, H., Howe, M. L., Peters, M., Smeets, T., & Moritz, 
+S. (2014). The production of spontaneous false memo-
+ries across childhood. Journal of Experimental Child 
+Psychology, 121, 28–41.
+Otgaar, H., Howe, M. L., van Beers, J., van Hoof, R., Bronzwaer, 
+N., & Smeets, T. (2015). The positive ramifications of 
+false memories using a perceptual closure task. Journal 
+of Applied Research in Memory and Cognition, 4, 43–50.
+Otgaar, H., Merckelbach, H., Jelicic, M., & Smeets, T. 
+(2017). The potential for false memories is bigger than 
+what Brewin and Andrews suggest. Applied Cognitive 
+Psychology, 31, 24–25.
+Otgaar, H., Peters, M., & Howe, M. L. (2012). Dividing atten-
+tion lowers children’s but increases adults’ false mem-
+ories. Journal of Experimental Psychology: Learning, 
+Memory, and Cognition, 38, 204–210.
+Otgaar, H., Scoboria, A., & Smeets, T. (2013). Experimentally 
+evoking nonbelieved memories for childhood events. 
+Journal of Experimental Psychology: Learning, Memory, 
+and Cognition, 39, 717–730.
+Patihis, L., Ho, L. Y., Tingen, I. W., Lilienfeld, S. O., & Loftus, 
+E. F. (2014). Are the “memory wars” over? A scientist-
+practitioner gap in beliefs about repressed memory. 
+Psychological Science, 25, 519–530.
+Pessoa, L. (2017). A network model of the emotional brain. 
+Trends in Cognitive Sciences, 21, 357–371.
+Peters, M. J. V., Jelicic, M., Gorski, B., Sijstermans, K., 
+Giesbrecht, T., & Merckelbach, H. (2008). The correc-
+tive effects of warning on false memories in the DRM 
+paradigm are limited to full attention conditions. Acta 
+Psychologica, 129, 308–314.
+Peters, M. J. V., Jelicic, M., Verbeek, H., & Merckelbach, H. 
+(2007). Poor working memory predicts false memories. 
+European Journal of Cognitive Psychology, 19, 213–232.
+Peters, M. J. V., Moritz, S., Tekin, S., Jelicic, M., & Merckelbach, 
+H. (2012). Susceptibility to misleading information 
+under social pressure in schizophrenia. Comprehensive 
+Psychiatry, 53, 1187–1193.
+Pezdek, K., & Lam, S. (2007). What research paradigms have 
+cognitive psychologists used to study “false memory,” and 
+what are the implications of these choices? Consciousness 
+and Cognition, 16, 2–17.
+Posner, M. L, & Snyder, C. R. R. (1975). Facilitation and inhi-
+bition in the processing of signals. In P. M. A. Rabbitt 
+& S. Dornic (Eds.), Attention and performance V (pp. 
+669–682). New York, NY: Academic Press.
+Reder, L. M., Park, H., & Kieffaber, P. D. (2009). Memory 
+systems do not divide on consciousness: Reinterpreting 
+memory in terms of activation and binding. Psychological 
+Bulletin, 135, 23–49.
+Reyna, V. F., Corbin, J. C., Weldon, R. B., & Brainerd, C. J. 
+(2016). How fuzzy-trace theory predicts true and false 
+memories for words, sentences, and narratives. Journal 
+of Applied Research in Memory and Cognition, 5, 1–9.
+Roediger, H. L., III, Balota, D. A., & Watson, J. M. (2001). 
+Spreading activation and the arousal of false memories. 
+In H. L. Roediger III, J. S. Nairne, I. Neath, & A. M. 
+Surprenant (Eds.), The nature of remembering: Essays in 
+honor of Robert G. Crowder (pp. 95–115). Washington, 
+DC: American Psychological Association.
+Roediger, H. L., & McDermott, K. B. (1995). Creating false 
+memories: Remembering words not presented in lists. 
+Journal of Experimental Psychology: Learning, Memory, 
+and Cognition, 21, 803–814.
+Roediger, H. L., Watson, J. M., McDermott, K. B., & Gallo, D. A. 
+(2001). Factors that determine false recall: A multiple regres-
+sion analysis. Psychonomic Bulletin & Review, 8, 385–407.
+Rose, E. J., & Ebmeier, K. P. (2006). Pattern of impaired work-
+ing memory during major depression. Journal of Affective 
+Disorders, 90, 149–161.
+Rubin, D. C., Berntsen, D., & Bohni, M. K. (2008). A memory-
+based model of posttraumatic stress disorder: Evaluating 
+basic assumptions underlying the PTSD diagnosis. 
+Psychological Review, 115, 985–1011.
+Rubin, D. C., & Talarico, J. M. (2009). A comparison of dimen-
+sional models of emotion: Evidence from emotions, pro-
+totypical events, autobiographical memories, and words. 
+Memory, 17, 802–808.
+Schweizer, S., & Dalgleish, T. (2011). Emotional working 
+memory capacity in posttraumatic stress disorder (PTSD). 
+Behaviour Research and Therapy, 49, 498–504.
+Scoboria, A., Wade, K. A., Lindsay, D. S., Azad, T., Strange, 
+D., Ost, J., & Hyman, I. E. (2017). A mega-analysis of 
+memory reports from eight peer-reviewed false memory 
+implantation studies. Memory, 25, 146–163.
+Shapiro, F. (1995). Eye movement desensitization and repro-
+cessing: Basic principles, protocols, and procedures. New 
+York, NY: Guilford.
+Simonsohn, U., Nelson, L. D., & Simmons, J. P. (2014). 
+P-curve: A key to the file-drawer. Journal of Experimental 
+Psychology: General, 143, 534–547.
+Steyvers, M., & Tenenbaum, J. B. (2005). The large-scale 
+structure of semantic networks: Statistical analyses and
+
+1069
+a model of semantic growth. Cognitive Science, 29, 
+41–78.
+Sumner, J. A. (2012). The mechanisms underlying overgen-
+eral autobiographical memory: An evaluative review of 
+evidence for the CaR-FA-X model. Clinical Psychology 
+Review, 32, 34–48.
+Thijssen, J., Otgaar, H., Howe, M. L., & de Ruiter, C. (2013). 
+Emotional true and false memories in children with callous-
+unemotional traits. Cognition and Emotion, 27, 761–768.
+Toffalini, E., Mirandola, C., Drabik, M., Melinder, A., & 
+Cornoldi, C. (2014). Emotional negative events do not 
+protect against false memories in young adults with 
+depressive-anxious personality traits. Personality and 
+Individual Differences, 66, 14–18.
+Triantafyllou, D., North, C. S., Zartman, A., & Roediger, H. L. 
+(2015). A Deese-Roediger-McDermott study of trauma 
+memory among employees of New York City companies 
+affected by the September 11, 2001, attacks. Annals of 
+Clinical Psychiatry, 27, 165–174.
+Valentino, K., Cicchetti, D., Rogosch, F., & Toth, S. L. (2008). 
+True and false recall and dissociation among maltreated 
+children: The role of self-schema. Development and 
+Psychopathology, 20, 213–232.
+Van den Hout, M. A., & Engelhard, I. M. (2012). How does 
+EMDR work? Journal of Experimental Psychopathology, 3, 
+724–738.
+Voss, J. F., Vesonder, G. T., & Spilich, G. J. (1980). Text 
+generation and recall by high-knowledge and low- 
+knowledge individuals. Journal of Verbal Learning and 
+Verbal Behavior, 19, 651–667.
+Wade, K. A., Sharman, S. J., Garry, M., Memon, A., Mazzoni, 
+G., Merckelbach, H., & Loftus, E. F. (2007). False 
+claims about false memory research. Consciousness and 
+Cognition, 16, 18–28.
+Wang, J., Otgaar, H., Howe, M. L., Smeets, T., Merckelbach, H., 
+& Nahouli, Z. (2017). Undermining belief in false memories 
+leads to less efficient problem-solving. Memory, 25, 910–921.
+Wenzlaff, R. M., Wegner, D. M., & Roper, D. (1988). Depression 
+and mental control: The resurgence of unwanted negative 
+thoughts. Journal of Personality and Social Psychology, 
+55, 882–892.
+Werner-Seidler, A., & Moulds, M. L. (2012). Characteristics 
+of self-defining memory in depression vulnerability. 
+Memory, 20, 935–948.
+Williams, J. M. G., Barnhofer, T., Crane, C., Hermans, D., Raes, 
+F., Watkins, E., & Dalgleish, T. (2007). Autobiographical 
+memory specificity and emotional disorder. Psychological 
+Bulletin, 133, 122–138.
+Yeh, Z., & Hua, M. (2009). Effects of depressive disorder on 
+false memory for emotional information. Depression and 
+Anxiety, 26, 456–463.
+Zhang, W., Gross, J., & Hayne, H. (in press). If you’re happy 
+and you know it: Positive moods reduce age-related dif-
+ferences in false memory. Child Development.
+Zhu, B., Chen, C., Loftus, E. F., Lin, C., & Dong, Q. (2013). 
+The relationship between DRM and misinformation false 
+memories. Memory & Cognition, 41, 832–838.
+Zoellner, L. A., Foa, E. B., Brigidi, B., & Przeworski, A. (2000). 
+Are trauma victims susceptible to “false memories”? 
+Journal of Abnormal Psychology, 109, 517–524.

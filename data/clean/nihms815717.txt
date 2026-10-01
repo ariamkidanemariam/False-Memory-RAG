@@ -1,0 +1,1623 @@
+False memories with age: neural and cognitive underpinnings
+Aleea L. Devitt1 and Daniel L. Schacter1
+1Department of Psychology, Harvard University, MA, USA
+Abstract
+As we age we become increasingly susceptible to memory distortions and inaccuracies. Over the 
+past decade numerous neuroimaging studies have attempted to illuminate the neural underpinnings 
+of aging and false memory. Here we review these studies, and link their findings with those 
+concerning the cognitive properties of age-related changes in memory accuracy. Collectively this 
+evidence points towards a prominent role for age-related declines in medial temporal and 
+prefrontal brain areas, and corresponding impairments in associative binding and strategic 
+monitoring. A resulting cascade of cognitive changes contributes to the heightened vulnerability to 
+false memories with age, including reduced recollective ability, a reliance on gist information and 
+familiarity-based monitoring mechanisms, as well as a reduced ability to inhibit irrelevant 
+information and erroneous binding of features between memory traces. We consider both 
+theoretical and applied implications of research on aging and false memories, as well as questions 
+remaining to be addressed in future research.
+Keywords
+False memory; Memory distortion; Aging; Memory; Memory accuracy
+1. Introduction
+It is well-established that cognitive aging is associated with declines in the amount of 
+material remembered across a range of encoding conditions, items, and retrieval tasks 
+(Balota et al., 2000; Hoyer and Verhaeghen, 2006; Park et al., 2002). However, it is now also 
+well known that what is remembered tends to be less accurate with age. Older adults exhibit 
+an enhanced susceptibility to a wide range of memory errors and source misattributions, 
+including familiarity-based errors (e.g., Jacoby, 1999), gist-based errors (e.g., Koutstaal & 
+Schacter, 1997), conjunction errors (e.g., Castel & Craik, 2003), false memories for self-
+relevant information (Rosa and Gutchess, 2013), imagination inflation (e.g., McDaniel et al., 
+2008), and misinformation (Wylie et al., 2014). In recent years there has been great interest 
+Corresponding author: Aleea L. Devitt, Harvard University, Department of Psychology, 33 Kirkland Street, Cambridge, MA 02138, 
+USA, aldevitt@gmail.com. 
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our 
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of 
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be 
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+HHS Public Access
+Author manuscript
+Published in final edited form as:
+Neuropsychologia. 2016 October ; 91: 346–359. doi:10.1016/j.neuropsychologia.2016.08.030.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+in elucidating the neural and cognitive underpinnings of this age-related increase in 
+vulnerability to false memories.
+There have been a number of previous reviews on the general topic of aging and false 
+memory (cf., Jacoby & Rhodes, 2006; Koutstaal & Schacter, 2001; Pierce et al., 2004; 
+Schacter et al., 1997), but none within the past decade, despite extensive research activity. 
+Moreover, the earlier reviews of aging and false memory focused almost exclusively on 
+evidence from cognitive/behavioral studies, in part because the preponderance of evidence 
+available at the time these reviews were written came from such studies. However, during 
+the past decade there has been a notable increase in neuroimaging studies of aging and false 
+memory, allowing at least preliminary links to be made between the cognitive and neural 
+processes associated with various kinds of age-related memory errors. The main purposes of 
+the present paper are to review and link experimental evidence concerning the cognitive 
+properties of changes in memory accuracy with age, and neuroimaging evidence concerning 
+their neural underpinnings, focusing primarily on research from the past decade.
+More specifically, we suggest that age-related increases in false memories are to a large 
+extent attributable to changes in the medial temporal lobes (MTL) and prefrontal cortex 
+(PFC), and corresponding impairments in recollection and executive functioning. Recent 
+research has endeavored to link specific aspects of memory, executive functions, and related 
+processes with specific subregions within the MTL and PFC (for reviews, see Passingham & 
+Wise, 2012; Poppenk et al., 2013; Preston & Eichenbaum, 2013; Zeidman & Maguire, 
+2016). Thus, when we refer broadly to MTL and PFC in relation to age-related changes in 
+memory, we are aware that we are referring to large brain regions containing multiple 
+subregions that may serve distinct functions. In the course of the review, we consider 
+evidence linking specific MTL and PFC regions with specific processes and functions 
+associated with age-related increases in false memories, although as we note at the 
+conclusion of the review, relatively little solid evidence currently exists regarding this 
+important issue.
+We begin by reviewing evidence linking changes in the MTL and PFC to age-related 
+memory changes. Next, we consider how these neural changes produce an increased 
+susceptibility to false memories, focusing on several candidate cognitive underpinnings: 
+binding failures, gist-based processing, deficits in strategic retrieval, overreliance on 
+familiarity, disinhibition and hyper-binding. Finally, we conclude by considering theoretical 
+and applied implications of research on aging and false memory, as well as open questions 
+and possible future research directions.
+2. Medial temporal lobe and prefrontal cortex changes with aging
+Converging evidence from lesion and neuroimaging studies has identified the MTL 
+(particularly the hippocampus) and PFC as brain structures critical to episodic memory 
+encoding and retrieval (e.g., Simons & Spiers, 2003). These two regions are also 
+disproportionally affected by age-related structural and functional decline (Buckner, 2004; 
+Buckner et al., 2006; Hedden and Gabrieli, 2004; Moscovitch and Winocur, 1995; Nugent et 
+al., 2014; Prull et al., 2000; Raz et al., 2005; West, 1996). The PFC is also thought to 
+Devitt and Schacter
+Page 2
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+compensate for declines in cognitive resources elsewhere in the brain (such as the MTL), 
+further taxing functioning of this region with age (Cabeza, 2002; Cabeza et al., 2002; Grady 
+et al., 2003; Persson et al., 2006).
+Both MTL and PFC dysfunction have been directly linked with memory impairments. 
+Decreased hippocampal volume is associated with reduced memory performance both cross-
+sectionally (Driscoll et al., 2003) and longitudinally (Persson et al., 2012, 2006; Tisserand et 
+al., 2004). Moreover, reduced functional activation of the hippocampus during memory 
+encoding and retrieval is commonly observed with age (e.g., Dennis et al., 2007, 2008; 
+Giovanello et al., 2010; Grady et al., 1995; Persson et al., 2012). Functional and structural 
+decline in anterior, dorsolateral and ventrolateral PFC is also associated with reduced 
+memory ability (Fandakova et al., 2014; Tisserand et al., 2004). Indeed, older adults often 
+perform similarly to patients with lesions to lateral PFC, as well as other PFC subregions, on 
+memory tests (cf., Janowsky et al., 1989; Schacter et al., 1991; Stuss et al., 1996; Swick et 
+al., 2006).
+Declines in MTL and PFC structure and function are also linked with an enhanced 
+susceptibility to false memories. Younger and older adults with poor performance on 
+behavioral tests reliant on MTL functioning are more likely to falsely identify lure items on 
+the basis of semantic relatedness or familiarity with studied items (Fandakova et al., 2013b; 
+Plancher et al., 2009; Rubin et al., 1999; see also Zhu et al., 2010), though the evidence for 
+this relationship is mixed (McCabe et al., 2009). Likewise, performance on executive 
+functioning tests sensitive to frontal functioning (particularly dorsolateral and superior 
+medial PFC; see Stuss et al., 1998, 2000, 2001; Troyer et al., 1998) is associated with 
+deficits in monitoring the source of incoming information for both younger and older adults 
+(Chan & McDermott, 2007; Craik et al., 1990; Fandakova et al., 2013a; Glisky et al., 2001; 
+Henkel et al., 1998; Pansky et al., 2009; Plancher et al., 2009; Roediger & Geraci, 2007; 
+Rubin et al., 1999; Sauzéon et al., 2016). Highlighting the considerable heterogeneity in 
+cognitive aging, older adults with preserved executive functioning are no more susceptible to 
+false alarms than college students (Butler et al., 2004; Meade et al., 2012; though see 
+Lindner & Davidson, 2014).
+Neuroimaging studies substantiate the relationship between MTL and PFC integrity and 
+false memory susceptibility. Older adults with a smaller hippocampal volume make more 
+false alarms in an associative recognition task compared to older adults with a larger volume 
+(Shing et al., 2011). During correct rejection of lure stimuli, older adults activate the 
+hippocampus less than younger adults (Tsukiura et al., 2014). While dorsolateral PFC 
+recruitment scales with retrieval monitoring demands for younger adults, older adults show 
+greater recruitment of this region regardless of the amount of retrieval monitoring required, 
+potentially reflecting a breakdown in the functional specialization of PFC activation 
+(McDonough et al., 2013; see also Gutchess et al., 2007). Increased PFC activation may also 
+be compensatory during memory monitoring; older adults performing highly on a memory 
+test recruit additional right middle and medial superior frontal areas when making 
+recognition judgments, compared to low-performing older adults (Gutchess et al., 2007). 
+Moreover, those older adults displaying a younger adult-like pattern of activation during 
+correct rejection of conjunction lures – specifically recruitment of a frontoparietal network – 
+Devitt and Schacter
+Page 3
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+are less prone to false alarm to novel combinations of familiar elements (Fandakova et al., 
+2015).
+In addition to regional declines, a reduction in the functional connectivity between PFC and 
+MTL regions is observed with healthy aging (Andrews-Hanna et al., 2007; St. Jacques et al., 
+2012). An interactive and collaborative relationship between these regions exists to 
+successfully store and recall an episode from memory (McClelland et al., 1995; Preston and 
+Eichenbaum, 2013; Schlichting and Preston, 2015; Simons and Spiers, 2003). The MTL 
+system is thought to be reflexive, in that it encodes and retrieves without much control over 
+the input or organization of information. As such, the frontal cortex provides encoding and 
+retrieval support for the MTL, controlling the delivery and organization of information, 
+guiding search attempts, and monitoring recalled information (cf. Working with Memory 
+model; Moscovitch & Winocur, 2002). Thus the connective integrity of these two regions is 
+vital for accurate memory encoding and retrieval. Indeed, Fandakova and colleagues (2015) 
+demonstrated that older adults exhibiting strong functional connectivity of left anterior PFC 
+and temporal areas (including the parahippocampus and middle temporal gyrus) perform 
+better on tests of executive functioning, use strategic encoding mechanisms, and are less 
+prone to memory distortions. Moreover, when correctly rejecting lure stimuli, older adults 
+exhibit decreased interaction of PFC regions involved in source monitoring (specifically 
+ventral PFC) and regions that cooperate with the hippocampus to aid recollection 
+(supramarginal gyrus), implicating a disconnect in monitoring and recall processes with age 
+(Tsukiura et al., 2014).
+3. Mechanisms of false memory formation with age
+While it is clear that MTL and PFC declines play a role in the age-related increase in 
+memory errors, it is critical to understand how this dysfunction may result in enhanced 
+susceptibility to false memories. Monitoring the source of memory output requires 
+informative cues to be encoded and retrieved – processes reliant on hippocampal binding, as 
+well as attention and memory organization mechanisms mediated by various PFC 
+subregions. In this section we argue that declines in MTL and PFC contribute to binding and 
+strategic monitoring deficits, creating a cascade of cognitive changes that increase 
+opportunities for false memories to occur. More specifically, we suggest that:
+1.
+Binding failures result in an impoverished memory trace devoid of 
+distinctive source information, which may be misattributed to an incorrect 
+source. Recollective declines also increase phenomenological and neural 
+overlap between memories of differing origins.
+2.
+Unsuccessful separation of memory traces encourages source decisions 
+based on gist, or the overall similarities of memory traces, rather than 
+item-specific information.
+3.
+Even when source information is encoded sufficiently, declines in strategic 
+retrieval processes mean this information may not be effectively utilized to 
+determine memory origin.
+Devitt and Schacter
+Page 4
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+4.
+Reductions in recollective information and declines in strategic monitoring 
+necessitate a reliance on misleading familiarity-based processes.
+5.
+Declines in inhibitory processes may enhance distraction and formation of 
+spurious associations between incoming information.
+A more comprehensive discussion of each of these mechanisms follows.
+3.1. Binding failures
+The associative deficit hypothesis posits that age-related hippocampal decline results in a 
+specific deficit in encoding and retrieving relations between items, more so than item 
+information itself (Bender et al., 2010; Chalfonte and Johnson, 1996; Cohn et al., 2008; 
+Kessels et al., 2007; Naveh-Benjamin, 2000; Naveh-Benjamin et al., 2003; Old and Naveh-
+Benjamin, 2008; Spencer and Raz, 1995). The hippocampus plays a vital role in associative 
+memory, particularly in binding memory features during encoding (e.g., Davachi et al., 
+2003; Giovanello et al., 2004; Jackson & Schacter, 2004; Kirwan & Stark, 2004; Ranganath, 
+2010). This feature binding is critical for pattern completion, where activation of a subset of 
+features comprising an event spreads to activate the remaining features at retrieval 
+(McClelland et al., 1995; Nakazawa et al., 2002; Teyler & Rudy, 2007; see Schacter et al., 
+1998). Indeed, hippocampal damage results in deficits in both the formation and retrieval of 
+memory relations (e.g., Hannula et al., 2006; Pertzov et al., 2013). In line with an 
+associative-specific deficit, age reductions in hippocampal recruitment are most prominent 
+when feature binding is required (Dennis et al., 2008a; Mitchell et al., 2000).
+The PFC also contributes to the strategic encoding of relational information (e.g., Cabeza, 
+2006). Associative declines have been linked to reduced dorsolateral and ventrolateral PFC 
+volume (Becker et al., 2015; see also Blumenfeld et al., 2011), ventrolateral PFC 
+dysfunction has been associated with impaired relational encoding in older adults (Addis et 
+al., 2014), and age-related reductions in dorsolateral PFC recruitment are observed during 
+successful encoding of associative, but not item information (Dennis et al., 2008a). 
+Crucially, poor binding ability is linked with an enhanced susceptibility to false memories in 
+both younger and older adults, including conjunction errors (Fandakova et al., 2013a) and 
+gist-based errors (Henkel et al., 1998). As we discuss in detail below, inefficient binding of 
+content and source, and a subsequent loss of distinctive information, may also contribute to 
+source misattributions based on misinformation and imagination inflation.
+3.1.1. Inefficient binding of content and source—The source monitoring framework 
+suggests that specific characteristics of a mental experience are used to make an online 
+judgment about the source of that experience at retrieval, based on the tendency for 
+memories of different origins to have different characteristics (Johnson et al., 1993, 1988). 
+For example, veridical events are typically rated higher in perceptual, emotional, temporal 
+and spatial detail, while imagined events contain information about the cognitive operations 
+involved in their generation (Johnson et al., 1988; Justice et al., 2013; McGinnis and 
+Roberts, 1996). To be useful in determining the origin of an experience, information 
+diagnostic of source must be bound at encoding and retrieved with the corresponding 
+Devitt and Schacter
+Page 5
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+memory trace – processes which become less efficient with age. A result is that information 
+is more likely to be misattributed to an incorrect source.
+Lyle and colleagues (2006) demonstrated age-related deficits in binding source and content 
+information. In their study younger and older adults perceived and imagined objects, and 
+later made source and location judgments for objects that were studied (e.g., magnifying 
+glass) and non-studied, but perceptually similar (e.g., lollipop). Older adults were more 
+likely to make errors based on the perceptual similarity of objects (i.e., mistaking a lollipop 
+as previously seen), replicating previous results (Henkel et al., 1998). However, older 
+participants were less likely to claim that the falsely identified object was presented in the 
+same location as the similar perceived object, suggesting that perceptual and contextual 
+features of the studied stimuli are less tightly bound with age.
+In line with this idea, older adults engage the hippocampus and lateral PFC areas less than 
+younger adults during successful source encoding, reflective of decreased relational 
+processing (Dennis et al., 2008a, 2007; Dulas and Duarte, 2014; Mitchell et al., 2006). 
+During source retrieval, older adults also show reduced event-related potential (ERP) 
+correlates of recollection (manifesting as a weaker parietal old-new effect, Dulas & Duarte, 
+2013). Moreover, providing older adults with relational memory support by encouraging 
+careful consideration of the relationship between context and item at encoding eliminates 
+age-related source memory deficits (Glisky et al., 2001; Naveh-Benjamin et al., 2007).
+Loose binding of source information with a memory trace may explain why susceptibility to 
+misinformation increases with age (Wylie et al., 2014). Misinformation-based errors arise 
+when inaccurate post-event information becomes accepted as part of the original memory. 
+For instance, when participants watch a video of a robbery, and are later misinformed that 
+the item stolen was a ring rather than a necklace, older adults are more likely than younger 
+adults to remember seeing a ring stolen in the original video (Cohen and Faulkner, 1989; 
+Dodson and Krueger, 2006; Dodson et al., 2015). If contextual cues informing the source of 
+either the original or misleading information are not fully bound with the appropriate 
+memory representation, there is a greater chance that the misinformation will be attributed to 
+the incorrect source. Indeed, it has been shown in younger adults that acceptance of 
+misinformation is associated with neural activation reflecting item encoding during the 
+misinformation phase, coupled with source encoding during the original event (Baym and 
+Gonsalves, 2012; Okado and Stark, 2005), though it remains to be seen whether this pattern 
+of results holds in an older population.
+Age-related declines in attention direction and conservation may also contribute to 
+inefficient binding and reduced recollection, in that certain stimuli may never enter the 
+encoding process in the first place (e.g., Gazzaley et al., 2005; Healey et al., 2008). The 
+dorsolateral PFC is involved in directing and maintaining attention during episodic encoding 
+(Cabeza et al., 2003; Iidaka et al., 2000; MacDonald et al., 2000; Uncapher and Rugg, 
+2005). Consistent with the idea that declines in attention mediated by this area contribute to 
+false memory formation, when encoding items under conditions of divided attention younger 
+adults perform at similar levels on subsequent memory tests as older adults under conditions 
+of full attention (Attali and Dalla Barba, 2013; Castel and Craik, 2003; Jennings and Jacoby, 
+Devitt and Schacter
+Page 6
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+1993; Skinner and Fernandes, 2009). Disruption of parietal areas may also contribute to age-
+related attention deficits (Tisserand et al., 2004) and thus false memory susceptibility 
+(Dennis et al., 2014; Duarte et al., 2010; Fandakova et al., 2015; Tsukiura et al., 2014).
+3.1.2. Dedifferentiation and distinctiveness—Another consequence of reduced 
+associative binding is that experiences from different sources are more similar in quality 
+(dedifferentiated). If the enhanced phenomenological quality typically used to tag a memory 
+as veridical (Johnson & Raye, 1981) is no longer available or reliable, people are less 
+sensitive when discriminating between these and other experiences. Consistent with this 
+proposal, older adults tend to rate authentic memories, imagined events and false memories 
+as subjectively more similar than do younger adults (Gallo et al., 2011; Henkel et al., 1998; 
+Karpel et al., 2001; though see McGinnis & Roberts, 1996, for evidence against this claim).
+The neural signatures associated with veridical and false memories are also less 
+distinguishable with age. Using EEG, Gutchess and colleagues (2007) found that during 
+encoding, a fronto-central ERP distinguished subsequent hits and misses for younger but not 
+older adults. Likewise, during retrieval, hits and false alarms made by older adults were 
+indistinguishable by their waveforms (see also Dywan et al., 2002; Swick et al., 2006). 
+Corroborating findings have been reported using fMRI; unlike younger adults, older adults 
+do not display differential activation for novel items conceptually similar to or different from 
+studied information (Bowman and Dennis, 2015). Older adults also exhibit less specific 
+activation patterns during recollection of true and false information (Duarte et al., 2010; 
+Royet et al., 2011). The overlap in neural signatures with age suggests that older adults 
+process information similarly regardless of novelty or authenticity, and are indicative of age-
+related difficulties in using distinctive item-specific information to make source decisions.
+Experiential dedifferentiation of perceived and imagined events may contribute to the more 
+prominent imagination inflation observed with age (Cohen and Faulkner, 1989; Henkel et 
+al., 1998; Lyle et al., 2006; McDaniel et al., 2008; McDonough and Gallo, 2013; Thomas 
+and Bulevich, 2006). Imagination inflation describes the phenomenon whereby imagining an 
+event increases later belief that the event actually happened in the past (for a review, see 
+Garry & Polaschek, 2000). For instance, people are more likely to claim they had actually 
+performed an action if it was previously imagined, and this effect is larger for older adults 
+(Cohen and Faulkner, 1989). Similarly, when asked to simulate counterfactual scenarios for 
+events that have already taken place, older adults are more prone to mistaking the 
+counterfactuals as the original occurrence (Gerlach et al., 2014). Inefficient binding means 
+that distinctive perceptual and contextual information associated with memories, and 
+information on the cognitive operations involved in simulation, are less available with age 
+(McDaniel et al., 2008). Therefore, internally-derived imaginations are less distinguishable 
+from externally-generated memories, and are more likely to be confused as such. In line with 
+this idea, older adults remember and imagine personal life events with less episodic detail 
+(Addis et al., 2010, 2008, for review of these and related studies, see Schacter et al., 2013), 
+and lower recruitment of neural areas involved episodic detail retrieval (Addis et al., 2011).
+A shift in focus towards the emotional aspects of an experience may compound these 
+recollective deficits. Affective information takes a more prominent role during encoding and 
+Devitt and Schacter
+Page 7
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+retrieval with age due to changes in memory and communicative goals (Adams et al., 1997; 
+Addis et al., 2008; Carstensen et al., 1999; Gaesser et al., 2011; Hashtroudi et al., 1990; 
+James et al., 1998; Johnson, 2006). FMRI evidence reveals that when encoding the 
+truthfulness of a statement, older adults engage areas involved in emotion processing 
+(ventromedial PFC and insula) more than younger adults (Cassidy et al., 2014). Focusing on 
+affective characteristics is thought to divert attention away from more source-informative 
+perceptual qualities of an event (Hashtroudi et al., 1994, 1990), further contributing to the 
+lowered discrimination between authentic and imagined memories (Rahhal et al., 2002; 
+Suengas and Johnson, 1988). Furthermore, there is evidence that older adults are more 
+susceptible to falsely recognizing and recalling positive relative to negative memories 
+(Fernandes et al., 2008; Piguet et al., 2008; Werheid et al., 2010; see also Gallo et al., 2009), 
+in line with an age-related positivity bias in memory (e.g., Mather & Carstensen, 2005).
+If older adults are less effective at distinguishing between true and false memories, then it 
+follows that age differences in false memory susceptibility can be mitigated by directing 
+focus to distinctive information at encoding. Indeed, source monitoring is improved in both 
+younger and older adults when information is presented in a distinctive manner (e.g., as 
+pictures as opposed to words; Dodson & Schacter, 2002; Ferguson et al., 1992; Gallo et al., 
+2007; Johnson et al., 1995; Pierce et al., 2008; Schacter et al., 1999; Smith et al., 2015). Age 
+differences are also reduced by drawing attention to differentiating information at encoding 
+or retrieval (e.g., Koutstaal et al., 1999; for a review see Koutstaal & Schacter, 2001). When 
+attention is directed to source cues at study, both younger and older adults exhibit increased 
+contextual binding related parahippocampal activity during encoding, and attenuated frontal 
+post-retrieval monitoring effects (Dulas and Duarte, 2014, 2013). However, older adults 
+require a greater disparity in the distinctiveness of presented stimuli to benefit memory, 
+compared to that needed by younger adults, supportive of an inability to distinguish between 
+related information with age (Smith et al., 2015). Moreover, directing focus to differentiating 
+information during encoding or retrieval reduces, but does not eliminate age-differences in 
+false recognition (Koutstaal et al., 1999), indicative of further cognitive mechanisms 
+contributing to age increases in false memories.
+3.2. Gist-based processing
+Because encoding of distinctive information decreases with age, and memory traces become 
+less differentiated, older adults tend to retrieve overall perceptual and conceptual similarities 
+of stimuli, rather than item-specific information. While successful encoding involves 
+integrating newly acquired information with existing relational memory networks, incoming 
+information must also be encoded in a distinctive manner, so that the memory traces can be 
+discriminated at retrieval (McClelland et al., 1995; O’Reilly and McClelland, 1994; Schacter 
+et al., 1998). It has been proposed that the hippocampus becomes ‘representationally rigid’ 
+with age. Subtle changes in hippocampal circuitry leads to a shift away from distinctive 
+encoding of new information (pattern separation) and towards a reinstatement of already 
+stored information (pattern completion; Wilson et al., 2006; Yassa, Mattfield, et al., 2011; 
+Yassa, Lacy, et al., 2011). Age-related deterioration of ventrolateral PFC areas supervising 
+pattern separation may also make this process less effective (Parkin et al., 1999; Schacter et 
+al., 1998). This shift toward pattern completion could be considered advantageous, in that 
+Devitt and Schacter
+Page 8
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+we become more efficient at identifying familiar elements in new experiences, to better 
+address novel future challenges (Wilson et al., 2006). However, extraction of information 
+shared between events, rather than episode-specific information, increases 
+overgeneralization and gist-based errors (Pidgeon and Morcom, 2014).
+The Deese-Roediger-McDermott (DRM) paradigm (Deese, 1959; Roediger and McDermott, 
+1995) is commonly used to explore gist-based errors. In this paradigm, people who study 
+lists of perceptually or conceptually related words (e.g., ‘sugar, candy, taste’), are likely to 
+falsely remember studying an unseen yet semantically associated lure (e.g., ‘sweet’; see 
+Gallo, 2006, for a review). Older adults are more susceptible to lure words than younger 
+adults, suggestive of a reliance on memory for the general features of the studied stimuli, 
+rather than specific item features (Balota et al., 1999; Gallo, 2006; Norman and Schacter, 
+1997; Schacter et al., 1997; Tun et al., 1998). Moreover, younger adults make fewer false 
+alarms for repeatedly studied word lists, indicating an enhancement of item specific 
+information; in contrast, older adults show no suppression of false alarms for repeatedly 
+studied lists (Kensinger and Schacter, 1999). These findings are suggestive of a reduced 
+ability to use recollection of the study list to oppose the build-up of gist (Kensinger and 
+Schacter, 1999; Pierce et al., 2005). Similarly, increasing the category size of a studied list, 
+and thus the strength of the gist trace, negatively influences memory accuracy more for older 
+compared to younger adults (Koutstaal and Schacter, 1997; Pidgeon and Morcom, 2014). 
+Furthermore, consistent with findings that focusing on emotional information diverts 
+attention from more source-informative cues, emotional processing can increase conceptual 
+similarity across studied items for older adults (Gallo et al., 2009).
+Neuroimaging findings support these behavioral studies. During false recognition of 
+perceptually related lures, Paige and colleagues (in press) observed greater hippocampal 
+activation for older relative to younger adults when gist was low, yet no age differences 
+when gist was high. This result is thought to reflect older adults’ shift away from pattern 
+separation towards pattern completion as gist increases. Older adults also recruit areas 
+involved in semantic processing and gist (namely lateral temporal regions) more than 
+younger adults when encoding (Dennis et al., 2007) and retrieving falsely recognized 
+semantically-related lures (Dennis et al., 2008b). When recollecting perceptually related 
+lures, Dennis et al. (2014) found that older adults engage inferior frontal gyrus, anterior 
+cingulate cortex, parahippocampus and occipitoparietal cortex to a lesser degree than 
+younger adults, indicating a reduced reliance on reconstructive processes. Furthermore, an 
+individual differences analysis in older adults demonstrated that higher false recollection 
+predicted increased activity in temporal areas supporting semantic gist. These results 
+indicate that false recollection in younger adults is attributable to erroneous reconstruction of 
+studied event content, yet in older adults may be the result of gist trace retrieval.
+3.3. Deficits in strategic retrieval
+In addition to encoding deficits, impaired strategic retrieval also plays a role in age-related 
+associative deficits (Cohn et al., 2008). Therefore, even when source information is 
+successfully encoded, older adults may not use this information efficiently during retrieval to 
+make monitoring decisions. Lateral PFC regions are pivotal to accurate retrieval monitoring, 
+Devitt and Schacter
+Page 9
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+both in determining whether individual memory features pertain to the episode of interest, as 
+well as whether the event as a whole is internally-derived or externally-experienced 
+(Blumenfeld et al., 2011; Dobbins et al., 2002; Henson et al., 1999; Schacter et al., 1998; 
+Slotnick et al., 2003). While lateral regions are most consistently associated with source 
+monitoring (see Mitchell & Johnson, 2009 for a review), damage to other PFC regions (e.g., 
+ventromedial, orbitofrontal) also results in source memory impairments and elevated false 
+recognition (Melo et al., 1999; Parkin et al., 1996; Rapcsak et al., 1999; Schacter et al., 
+1996; Simons et al., 2002). It is likely that age-related decline in lateral and other PFC 
+regions contributes to retrieval source monitoring deficits.
+To test whether retrieval monitoring difficulties contribute to age-related increases in false 
+memories beyond encoding deficits, McDonough and Gallo (2013) had younger and older 
+adults recall autobiographical memories and simulate personal future events. For half the 
+events, elaboration instructions were used to increase the associated memory features. 
+Participants were later asked to discriminate between the memories and future events. 
+Despite successfully encoding and retrieving more features in the elaboration condition, 
+older adults were not able to use these features to reduce source confusions to the level of 
+younger adults. These results implicate age-related impairments in accurate retrieval 
+monitoring processes above and beyond deficits in encoding or recollection. Further 
+evidence shows that older adults use warnings given at retrieval about misleading 
+information to reduce memory errors (Dodson et al., 2015; see also Coane et al., 2015; 
+though see McCabe & Smith, 2002). Moreover, when older adults are provided with 
+supportive instructions to focus on perceptual and contextual cues at retrieval, age-
+differences in imagination inflation are diminished (Henkel, 2008; Thomas and Bulevich, 
+2006). To be able to use these source informative cues they must be encoded in the first 
+place, suggesting that older adults have difficulty spontaneously accessing or effectively 
+using these cues during recall (Koutstaal, 2003).
+Reduced efficiency of retrieval monitoring processes may necessitate a reliance on less 
+effortful monitoring strategies. In a series of three DRM-based experiments, Thomas and 
+McDaniel (2013) link an age-reduction in the effective use of source information at retrieval 
+to declines in executive function. In their study, relational processing was manipulated 
+during encoding of distinctive and non-distinctive items. Both younger and older adults were 
+able to use distinctive information alone to reduce false alarms. However, older adults with 
+lower executive functioning were unable to use distinctive information to overcome false 
+memories based on relational memory. It appears that when there are competing source cues, 
+individuals with impoverished frontal functioning cannot effectively use strategic 
+information to make recognition decisions, and so rely on less effortful relational 
+information. Consistent with this theory, age-deficits in the use of source cues are 
+particularly pronounced when multiple source cues are available (Ferguson et al., 1992; 
+Gallo et al., 2006; Johnson et al., 1995).
+3.4. Overreliance on familiarity
+A repercussion of age-related reductions in memory encoding and retrieval is an increased 
+reliance on automatic processes. The dual processing account theorizes two separable 
+Devitt and Schacter
+Page 10
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+processes underlying recognition memory: familiarity and recollection (Hintzman & Curran, 
+1994; Jacoby, 1991; Yonelinas, 2002). Whereas recollection is an effortful retrieval of 
+specific memory details, familiarity is a rapid process lacking conscious retrieval of context. 
+In contrast to neural declines in hippocampally-mediated recollection, the neural substrates 
+underlying familiarity (predominantly the parahippocampal and perirhinal cortices) are 
+relatively spared with age (Daselaar et al., 2006; Dennis et al., 2008b; Insausti et al., 1998; 
+Yonelinas et al., 2007). Thus, in the face of reductions in recollective memory, it is thought 
+that older adults rely more on familiarity when making recognition judgments (Anderson et 
+al., 2008; Craik & McDowd, 1987; Davidson & Glisky, 2002; Giovanello et al., 2010; 
+Jennings & Jacoby, 1997; Parkin & Walter, 1992; Prull et al., 2006). Use of familiarity is a 
+generally adaptive compensatory memory strategy; however, familiarity-based information 
+without accompanying contextual details can be misleading, and therefore contributes to the 
+enhanced rate of memory errors with age.
+Consistent with an age-related reduction in recollection and increase in the use of familiarity, 
+recall-to-reject mechanisms of source monitoring – where recollection of the original 
+memory allows rejection of lure information – become less efficient with age (e.g., Gallo et 
+al., 2006). Enhancing lure familiarity increases rates of false alarms in older but not younger 
+adults (Edmonds et al., 2012; Fandakova et al., 2013a, 2013b; Jacoby, 1999; Jones & Jacoby, 
+2005; note, however, that age-differences are not always found for familiarity or fluency-
+based memory illusions; see Thapar & Westerman, 2009). When younger adults are placed 
+under time pressure to reduce their ability to use recollective strategies, they respond 
+similarly to older adults (Jones and Jacoby, 2005; Light et al., 2006). Older adults with poor 
+associative memory or executive functioning are particularly reliant on familiarity when 
+making recognition decisions (Fandakova et al., 2013a; Parkin and Walter, 1992), consistent 
+with a reduced availability of recollective information due to MTL and PFC decline.
+Familiarity in the absence of recollection is thought to underlie older adults’ increased 
+vulnerability to making memory conjunction errors. Conjunction errors occur when a lure 
+comprised of features from studied stimuli is falsely recognized as being previously 
+encountered (e.g., studied words = snowball, sandman; conjunction lure = snowman). Older 
+adults are more susceptible to these errors across a range of stimuli types (word pairs, Castel 
+& Craik, 2003; faces and names, Naveh-Benjamin et al., 2009; people and actions, Old & 
+Naveh-Benjamin, 2008). An age-increase in conjunction errors is observed even when item 
+memory is equivalent between age groups, implicating a specific relational deficit (Kersten 
+and Earles, 2010). According to the associative deficit hypothesis, older adults are less able 
+to remember relations between memory features, but memory for the individual features is 
+preserved (see Naveh-Benjamin et al., 2003; Naveh-Benjamin, 2000). Therefore recognition 
+decisions are based on familiarity with the component parts of the stimuli, which can be 
+erroneously elicited by novel combinations of old features. Supporting this theory, older 
+adults do not use strengthened associations between word pairs to the same degree as 
+younger adults to avoid conjunction errors (Buchler et al., 2011; Jones and Jacoby, 2005). 
+Older adults are also more likely to make conjunction errors between actors and actions 
+regardless of the original association between features (i.e., whether they are from the same 
+or different events, Kersten et al., 2013).
+Devitt and Schacter
+Page 11
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Age-related increases in conjunction errors are associated with the functional and structural 
+integrity of MTL regions. Specifically, structural decline in the dentate gyrus and CA3–4 
+subfield of the hippocampus is correlated with greater false alarms to conjunction lures 
+(Shing et al., 2011). Giovanello and colleagues (2010) demonstrated that older adults recruit 
+the right hippocampus less than younger adults during accurate retrieval of conjunction 
+stimuli, reflective of recollective declines. Additionally, only older adults activate right 
+parahippocampal activity more during false retrieval of conjunction lures compared with 
+true, indicative of an overreliance on familiarity. In line with these findings, Fandakova et al. 
+(2014) found that on an individual level, stronger hippocampal activation in response to 
+associative novelty was related to fewer memory errors for both younger and older adults. 
+However, overall the older group exhibited less hippocampal activation in response to 
+conjunction lures, perhaps due to a lowered ability to detect novel associations of familiar 
+stimuli.
+Interestingly, study context influences the type of false memories produced in a similar 
+manner for younger and older adults. Matzen and Benjamin (2013) combined the DRM and 
+conjunction error paradigms, and asked participants to learn compound words (e.g. 
+‘blackmail’ and ‘jailbird’) in either a list or sentence context. Both younger and older adults 
+were later more susceptible to semantic lures (e.g., ‘criminal’) rather than conjunction lures 
+(e.g., ‘blackbird’) after studying the words in a sentence, whereas the opposite pattern was 
+seen when the words were studied in a list. Presumably, in a sentence context participants 
+encode the general gist of the word list, increasing vulnerability to conceptually related 
+lures, but in a list context they rely on surface-level information, meaning conjunction errors 
+can arise if associative information between word fragments is lost.
+3.5. Disinhibition and hyper-binding
+Relying on familiarity in the absence of recollection cannot entirely account for the increase 
+in conjunction errors with age. Both younger adults and older adults claim to remember 
+conjunction errors with a sense of recollection (Burt et al., 2004; Odegard and Lampinen, 
+2004; Pitarque et al., 2015; Reinitz et al., 1994, 1992), and these errors also occur in free 
+recall (Reinitz and Hannigan, 2001). Moreover, recollection does not always allow rejection 
+of conjunction lures (Jones and Bartlett, 2009). Additionally, across a number of studies it 
+has been shown that effect sizes for age-related differences in false alarms are greater for 
+‘remember’ (characteristic of recollection, Tulving, 1985) than ‘know’ judgments (reflecting 
+familiarity; McCabe et al., 2009). To account for this pattern of false alarms with age, 
+Dodson, and colleagues (Dodson et al., 2007a, 2007b) proposed the misrecollection account, 
+which argues that familiarity errors are the result of underbinding of memory elements, 
+whereas recollection-based errors the result of excessive binding.
+When tested on stimuli relevant to the memory task, older adults typically display 
+associative deficits (Naveh-Benjamin, 2000). However, when tested on irrelevant 
+information, older adults exhibit the opposite effect: forming too many associations, rather 
+than too little (Campbell et al., 2012, 2010). This hyper-binding phenomenon is linked with 
+age-related impairments in the inhibition of distracting information (e.g., Gazzaley et al., 
+2005; Hasher et al., 1999), a process dependent on various PFC subregions, including lateral 
+Devitt and Schacter
+Page 12
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+and anterior cingulate cortices (Chao and Knight, 1995; Dillon and Pizzagalli, 2007; 
+Elderkin-Thompson et al., 2008). Hyper-binding is more likely to occur when stimuli are 
+presented close together in time, suggesting that older adults have difficulty suppressing 
+recently learned but currently irrelevant information (Campbell et al., 2014, 2012, 2010). 
+Conflicting information from these irrelevant associations disrupts the ability to form new 
+associations between relevant stimuli, resulting in the associative deficits often observed 
+with age. Hyper-binding is thought to have some benefits, in that older adults are able to link 
+more distant ideas together, and so are better able to see the ‘big picture’ (Campbell et al., 
+2014, 2012). However, hyper-binding may also contribute to deficits in pattern separation, 
+allowing memory features to be erroneously incorporated across overlapping memory traces, 
+thereby forming conjunction errors.
+Campbell et al. (2014) explored the influence of hyper-binding on conjunction error 
+formation by having younger and older adults learn word pairs. Memory for these pairs was 
+tested using intact and conjunction stimuli; importantly, the conjunction stimuli were derived 
+either from pairs occurring temporally close together or far apart on the study list. Older 
+adults were particularly susceptible to making conjunction errors for pairs presented close 
+together, whereas younger adults made about the same number of false alarms for near- and 
+far-conjunctions. These results are consistent with the idea that older adults form erroneous 
+associations between stimuli, especially if such stimuli occur within a close timeframe (see 
+also Dodson et al., 2007a; Kroll et al., 1996; Shing et al., 2009). This age-increase in 
+conjunction errors occurred for stimuli presented up to seven items apart; though because 
+continuous spacing was not used, it remains to be determined how wide the ‘hyper-binding 
+lens’ extends for older adults.
+Age-related impairments in inhibitory ability can also contribute to familiarity-based 
+distortions. Spreading activation between related memory constructs is preserved with age 
+(Gallo & Roediger, 2003; Lee et al., 2012), yet older adults are less able to inhibit the sense 
+of familiarity garnered by activated but irrelevant memory traces (Dehon and Brédart, 2004; 
+Sommers and Huff, 2003). In line with this idea, poor executive functioning is associated 
+with an increased susceptibility to familiarity for words as whole, as well as with the 
+individual components (Fandakova et al., 2013a, 2013b). Neuroimaging studies also support 
+this view; using EEG, Dywan et al. (2002) found greater amplitude ERP waveforms in 
+frontal areas for older compared to younger adults when false alarming to familiar words. 
+This increased neural response is thought to reflect reduced suppression of the cortical 
+response to the familiar non-target items. Yet in contrast to these findings, fMRI data show 
+that older adults recruit the anterior PFC less than younger adults as lure word familiarity 
+increases, despite false alarming to these lures more, suggestive of reduced efficiency of 
+frontal monitoring processes (Fandakova et al., 2014). Differences in the timing and regional 
+specificity of neural responses measured by EEG and fMRI likely reveal various aspects of 
+the response to familiar lures.
+Individual differences in inhibition ability also influences the effective use of retrieval 
+monitoring strategies. Colombel et al. (2016) presented older adults with either typical DRM 
+instructions to retrieve only studied items, or with inclusion instructions to recall all words 
+thought of during study or recall regardless of accuracy. The inclusion condition removes the 
+Devitt and Schacter
+Page 13
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+requirement of monitoring at retrieval, thus if faulty monitoring is to blame for errors in the 
+typical DRM, participants should make a similar number of errors regardless of the 
+instructions received. They found that inhibition ability was predictive of false alarms. 
+Moreover, older adults with higher inhibition scores made more errors if they received the 
+inclusion instructions, whereas those with lower inhibition scores had similar error rates 
+following both typical and inclusion instructions, implicating ineffective use of monitoring 
+processes with declining inhibition. However, as the authors note, this link is relatively 
+fragile and further research is needed to disentangle the contribution of inhibition processes 
+to memory distortions in both older and younger adults.
+3.6. Summary
+To summarize thus far, age-related increases in false memories result from interacting 
+impairments in memory encoding, retrieval and monitoring mechanisms reliant on a number 
+of regions within the MTL and PFC. Reduced associative binding means that memory traces 
+are less distinctive, allowing for source misattributions and gist-based errors to occur. 
+Additional declines in strategic monitoring processes are evident with age; in effect, older 
+adults are reliant on less cognitively demanding, but also less accurate, monitoring 
+mechanisms, such as making source decisions on the basis of familiarity. Older adults are 
+also more likely to form spurious associations between incoming stimuli, and be distracted 
+by cues that are not informative of source. Some of these cognitive processes – such as a 
+reliance on familiarity in the absence of recollection, a shift towards pattern completion, and 
+a tendency towards hyper-binding – could be considered adaptive changes with age, or at 
+least strategies to compensate for limited memory resources. It has been argued that false 
+memories in younger adults are the by-product of otherwise advantageous memory 
+mechanisms (Schacter et al., 2011). In the same way, the cost of adopting more cognitively 
+efficient memory processes with age may be increased opportunities for false memories to 
+form.
+4. Implications
+In many circumstances memory authenticity is important; for instance, remembering 
+whether one took their medication, turned the stove off, or locked the door before leaving, or 
+only thought about doing so. A functional episodic memory system is vital for preserving a 
+high quality of life with age, particularly with regards to maintaining independent living 
+(Farias et al., 2009). Yet little is known about the impact of false memories on daily life in 
+healthy older adults. It is evident that understanding the cognitive underpinnings of age-
+related increases in false memory susceptibility can inform strategies to improve memory 
+accuracy in older adults. For instance, providing warnings of potential misinformation in 
+memory accounts can reduce false alarms in older adults (Carmichael and Gutchess, 2015; 
+Coane et al., 2015; Dodson et al., 2015; Watson et al., 2004). Moreover, directing attention 
+towards differentiating information at encoding or retrieval (Dodson and Schacter, 2002; 
+Koutstaal et al., 1999; Schacter et al., 1999), or encouraging careful consideration of source 
+during recall (Henkel, 2008), also reduces age differences in false memories. Training 
+specific monitoring strategies can also benefit memory accuracy; Da Silva and Sunderland 
+(2010) found that training older adults to detect repeated stimuli presentations reduces 
+Devitt and Schacter
+Page 14
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+familiarity-based false memories, however this effect had limited generalizability to other 
+memory tests. Development of a monitoring strategy that is effective across contexts would 
+be a beneficial application of aging false memory research.
+The increased susceptibility to false memories with age also has relevance for eyewitness 
+testimony, which often serves as the primary form of evidence in legal cases (Buckhout, 
+1975; Howe and Knott, 2015; Loftus, 2003; Schacter and Loftus, 2013). Older adults are 
+more likely than younger adults to report incorrect information after seeing a crime take 
+place (Aizpurua et al., 2011, 2009; Cohen and Faulkner, 1989; Dodson and Krueger, 2006; 
+Kersten et al., 2013) or identify the incorrect perpetrator in a suspect lineup (Memon et al., 
+2003). Moreover, older adults are poorly calibrated in determining the accuracy of their 
+memories, in that they are more confident that these memory distortions represent reality 
+(Cohen and Faulkner, 1989; Dehon and Brédart, 2004; Dodson and Krueger, 2006; Jacoby 
+and Rhodes, 2006; Jacoby et al., 2010; Shing et al., 2009). Indeed, age differences in 
+memory errors are greatest for decisions made with high confidence (Dodson et al., 2015; 
+Fandakova et al., 2013b; Gallo et al., 2009; Tsukiura et al., 2014). Thus, it is important to 
+understand the mechanisms underlying increased false memory with age, as even eyewitness 
+testimony from older adults given with high confidence may not be a reliable indicator of 
+genuine accuracy.
+5. Further questions and considerations
+A number of factors moderate the effect of age on false memory susceptibility, and should 
+be taken into consideration both when exploring potential underlying cognitive and neural 
+mechanisms, and when attempting to preserve memory accuracy.
+First, “false memory” is a broad term that covers a range of errors. As discussed earlier, 
+different types of false memories typically arise via separable mechanisms; for example, 
+source misattribution can occur due to inefficient binding, whereas gist errors result from 
+insufficient pattern separation. In some cases the same type of error may arise via multiple 
+routes: for instance, conjunction errors can result from underbinding and a subsequent 
+reliance on familiarity (Jones and Bartlett, 2009; Jones and Jacoby, 2001; Rubin et al., 
+1999), as well as excessive binding of memory features (Campbell et al., 2014; Dodson et 
+al., 2007b; Kroll et al., 1996; Reinitz and Hannigan, 2001). Following from these 
+observations, we must consider that individual heterogeneity in cognitive aging (e.g., 
+Hultsch, Strauss, Hunter, & MacDonald, 2008) could be linked with variation in 
+susceptibility to specific types of false memories. For younger adults, vulnerability to one 
+type of memory error does not necessarily predict likelihood of falling prey to other types of 
+errors (Calvillo & Parong, 2016; Ost et al., 2013; Zhu et al., 2013; though see Gallo, 2010). 
+The question remains open whether age-related increases in false memory susceptibility are 
+selective or generalizable across several types of memory errors at an individual level, and 
+whether any differences can be linked to selective deficits in certain cognitive processes.
+Related to this idea, while we have made progress in identifying neural correlates of false 
+memories, we cannot yet draw firm conclusions regarding the role of specific MTL and PFC 
+subregions in specific aspects of the age-related increase in false memories. In younger 
+Devitt and Schacter
+Page 15
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+adults, a recent Activation Likelihood Estimation (ALE) meta-analysis of false memory 
+neuroimaging studies sheds some light on PFC subregions consistently involved in memory 
+distortions, identifying the medial superior PFC, ventromedial PFC and ventral anterior 
+cingulate cortex as a critical components of the false memory network (Kurkela and Dennis, 
+2016). However, whether these regions are also implicated in the age-related false memory 
+increase remains to be determined. Shing and colleagues (2011) provide another promising 
+lead on this front with regard to the MTL, identifying a link between structural decline in the 
+dentate/CA3–4 subfield of the hippocampus and errors in an associative memory test in 
+older adults. These findings dovetail nicely with those implicating changes in the 
+dentate/CA3 subregion in the age-associated shift towards pattern completion (Wilson et al., 
+2006; Yassa et al., 2011a, 2011b). Future research should continue to address the 
+subregional specificity of the processes contributing to false memories with age.
+The recruitment of specific neural regions may be influenced by false memory strength or 
+mode of memory retrieval. For instance, during false recognition of lure stimuli, older adults 
+engage the parahippocampal gyrus more so than younger adults, potentially reflecting a 
+reliance on familiarity in the absence of recollection (Giovanello et al., 2010). Yet when 
+participants claim to recollect previously encountering a lure, by giving such stimuli a 
+“remember” as opposed to a “know” response during recognition (Tulving, 1985), older 
+adults show reduced parahippocampal recruitment compared to younger adults, perhaps due 
+to a reduction in reconstructive processes with age (Dennis et al., 2014). These studies 
+examined different types of false memories (conjunction errors and perceptually related 
+distortions, respectively) which could account for the disparity in these findings. However, 
+Paige et al. (in press) examined false recognition for perceptually related lures, and still 
+report different activation patterns than Dennis et al. (see Section 3.2 above). It is therefore 
+possible that the mode of false retrieval modulates MTL activity.
+The nature of the testing environment can also moderate the age-related influence on false 
+memory susceptibility. When older adults are tested at an optimal time of day (typically in 
+the morning) age differences in memory accuracy are diminished (Hasher et al., 1999; 
+Intons-Peterson et al., 1999). It has also recently been shown that invoking aging and 
+memory stereotype threats before testing alters false memory rates. Invoking a stereotype 
+threat explicitly, by providing participants with summaries of research supporting an age-
+related memory decline, reduces false recall and recognition, potentially because older 
+adults adopt a more conservative response criterion (Barber and Mather, 2013; Wong and 
+Gallo, 2015). Interestingly, if the threat is invoked implicitly, by subliminally presenting 
+negative age-related words (e.g., ‘feeble’), older adults are more likely to make false alarms, 
+possibly because controlled monitoring processes are disrupted by anxiety over the testing 
+situation (Krendl et al., 2015). The circumstances under which an elderly eyewitness is 
+questioned is thus an important consideration to preserve accuracy of a memory.
+Encoding and retrieval processes likely make different relative contributions to the increased 
+false memories observed with aging. However, due to the inextricable links between 
+encoding and retrieval, it is methodologically difficult to disentangle the independent 
+influence of these two processes to false memory formation. For example, feature binding 
+and pattern separation mechanisms at encoding influence the subsequent success of pattern 
+Devitt and Schacter
+Page 16
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+completion procedures during retrieval. Often a false memory may arise at multiple points 
+along the encoding and retrieval pipeline. For instance, misinformation errors may occur if 
+the original information is not properly encoded, if source for the misleading information is 
+not encoded, or if the misleading information is later retrieved along with the original 
+memory trace. As such, delineating the independent contributions of encoding and retrieval 
+to the generation of memory errors, particularly with regards to the aging process, is an 
+ongoing endeavor (e.g., Abe et al., 2013; Huff et al., 2015; Kurkela & Dennis, 2016).
+Finally, as noted briefly earlier, although the malleability of memory renders us susceptible 
+to a range of memory distortions that become increasingly common with age, this property 
+of episodic memory may also be adaptive (cf., Howe, 2011; Newman & Lindsay, 2009; 
+Schacter et al., 2011; Schacter, 2001), in that it reflects the operation of a flexible system in 
+which individual memory features can be rearranged to simulate future happenings 
+(Schacter and Addis, 2007), imagine alternative past outcomes (De Brigard et al., 2013; 
+Gerlach et al., 2014), and creatively solve problems (Madore and Schacter, 2014; Madore et 
+al., 2015; Sheldon et al., 2011). Recent studies of older adults have begun to examine 
+adaptive uses of episodic memory in imagination (e.g., Addis et al., 2008), problem solving 
+(Madore and Schacter, 2014; Sheldon et al., 2011), and creativity (Madore et al., 2016), but 
+direct links between these adaptive processes and false memory in aging need to be 
+explored.
+In line with this general theme, the ability to update memory with newly acquired 
+information is arguably an adaptive characteristic of the reconstructive memory system (Lee, 
+2009; Schacter et al., 2011). A consequence of the age-related reliance on reinstatement of 
+previously encoded information is reduced memory updating (Attali and Dalla Barba, 2013). 
+Somewhat paradoxically, a reduced capacity to update memory with new information may 
+prevent the formation of false memories. While susceptibility to misinformation generally 
+increases with age (Wylie et al., 2014), there are exceptions to this pattern. Umanath and 
+Marsh (2012) demonstrated that, after reading stories containing factual inaccuracies, older 
+adults reproduced fewer of these errors during retrieval, despite identifying them at an 
+identical rate as younger adults during encoding (see also Umanath et al., 2014). Indeed, 
+older adults exhibit a reduction in both the benefits and costs of memory reactivation (St. 
+Jacques et al., 2015). These studies highlight the possibility that reliance on prior knowledge 
+in the face of reduced memory updating can actually lower assimilation of misinformation. 
+Of course, the flip side of reduced memory updating is that if an original memory is 
+incorrect in some way, reliance on prior knowledge means that the inaccurate memory 
+persists (Vannucci et al., 2012). It is also interesting that when information about the original 
+event is sparse, older adults are less vulnerable to misinformation than younger adults, 
+presumably due to lower memory for the misleading information (Marche et al., 2002). An 
+intriguing prospect raised by these findings is that older adults with superior memory 
+performance may in fact be more vulnerable to errors via misinformation than those with 
+poorer memory.
+Devitt and Schacter
+Page 17
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+6. Conclusion
+In general, susceptibility to false memories increases with advancing age. In this review we 
+highlight the complexity and heterogeneity of cognitive aging, demonstrating that the age 
+increase in false memories can be attributed to a number of changes occurring at both 
+encoding and retrieval. Broadly, the enhanced likelihood of memory errors can be linked to 
+declines in a number of regions within MTL and PFC, leading to deficits in associative 
+binding and strategic monitoring. Those impairments themselves result in a cascade of 
+cognitive changes, including reduced recollective ability, a subsequent reliance on 
+misleading monitoring mechanisms such as familiarity, incomplete pattern separation 
+resulting in an overreliance on gist information, as well as a reduced ability to inhibit 
+erroneous binding and irrelevant information. Elucidating the cognitive and neural 
+underpinnings of enhanced false memories in older adults informs not only our 
+understanding of typical memory changes with age, but also the functioning of the 
+constructive memory system across the lifespan, and the way in which errors can take hold 
+within this system.
+Acknowledgments
+This work was supported by a National Institute on Aging grant R01 AG08441 awarded to DLS.
+References
+Abe N, Fujii T, Suzuki M, Ueno A, Shigemune Y, Mugikura S, Takahashi S, Mori E. Encoding- and 
+retrieval-related brain activity underlying false recognition. Neurosci. Res. 2013; 76:240–250. 
+doi:http://dx.doi.org/10.1016/j.neures.2013.05.006. [PubMed: 23726799] 
+Adams C, Smith MC, Nyquist L, Perlmutter M. Adult age-group differences in recall for the literal and 
+interpretive meanings of narrative text. Journals Gerontol. Ser. B Psychol. Sci. Soc. Sci. 1997; 52B:
+187–195.
+Addis DR, Giovanello KS, Vu M, Schacter DL. Age-related changes in prefrontal and hippocampal 
+contributions to relational encoding. Neuroimage. 2014; 84:19–26. [PubMed: 23994453] 
+Addis DR, Musicaro R, Pan L, Schacter DL. Episodic simulation of past and future events in older 
+adults: Evidence from an experimental recombination task. Psychol. Aging. 2010; 25:369–376. 
+[PubMed: 20545421] 
+Addis DR, Roberts RP, Schacter DL. Age-related neural changes in autobiographical remembering and 
+imagining. Neuropsychologia. 2011; 49:3656–3669. doi:http://dx.doi.org/10.1016/
+j.neuropsychologia.2011.09.021. [PubMed: 21945808] 
+Addis DR, Wong AT, Schacter DL. Age-related changes in the episodic simulation of future events. 
+Psychol. Sci. 2008; 19:33–41. [PubMed: 18181789] 
+Aizpurua A, Garcia-Bajos E, Migueles M. False recognition and source attribution for actions of an 
+emotional event in older and younger adults. Exp. Aging Res. 2011; 37:310–329. [PubMed: 
+21534031] 
+Aizpurua A, Garcia-Bojos E, Migueles M. Memory for actions of an event: Older and younger adults 
+compared. J. Gen. Psychol. 2009; 136:428–441. [PubMed: 19943614] 
+Anderson ND, Ebert PL, Jennings JM, Grady CL, Cabeza R, Graham SJ. Recollection- and 
+familiarity-based memory in healthy aging and amnestic mild cognitive impairment. 
+Neuropsychology. 2008; 22:177–187. [PubMed: 18331160] 
+Andrews-Hanna JR, Snyder AZ, Vincent JL, Lustig C, Head D, Raichle ME, Buckner RL. Disruption 
+of large-scale brain systems in advanced aging. Neuron. 2007; 56:924–935. doi:http://dx.doi.org/
+10.1016/j.neuron.2007.10.038. [PubMed: 18054866] 
+Devitt and Schacter
+Page 18
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Attali E, Dalla Barba G. Confabulation in healthy aging is related to poor encoding and retrieval of 
+over-learned information. Aging, Neuropsychol. Cogn. 2013; 20:339–355.
+Balota DA, Cortese MJ, Duchek JM, Adams D, Roediger HL, McDermott KB, Yerys BE. Veridical 
+and false memories in healthy older adults and in dementia of the Alzheimer’s type. Cogn. 
+Neuropsychol. 1999; 16:361–384.
+Balota, DA.; Dolan, PO.; Duchek, JM. Memory changes in healthy older adults. In: Tulving, E., editor. 
+The Oxford Handbook of Memory. New York, NY, US: Oxford University Press; 2000. p. 
+395-409.
+Barber SJ, Mather M. Stereotype threat can reduce older adults’ memory errors. Q. J. Exp. Psychol. 
+2013; 66:1888–1895.
+Baym CL, Gonsalves BD. Comparison of neural activity that leads to true memories, false memories, 
+and forgetting: An fMRI study of the misinformation effect. Cogn. Affect. Behav. Neurosci. 2012; 
+10:339–348.
+Becker N, Laukka EJ, Kalpouzos G, Naveh-Benjamin M, Bäckman L, Brehmer Y. Structural brain 
+correlates of associative memory in older adults. Neuroimage. 2015; 118:146–153. doi:http://
+dx.doi.org/10.1016/j.neuroimage.2015.06.002. [PubMed: 26054875] 
+Bender AR, Naveh-Benjamin M, Raz N. Associative deficit in recognition memory in a lifespan 
+sample of healthy adults. Psychol. Aging. 2010; 25:940–948. [PubMed: 20822256] 
+Blumenfeld RS, Parks CM, Yonelinas AP, Ranganath C. Putting the pieces together: The role of 
+dorsolateral prefrontal cortex in relational memory encoding. J. Cogn. Neurosci. 2011; 23:257–
+265. [PubMed: 20146616] 
+Bowman CR, Dennis NA. Age differences in the neural correlates of novelty processing: The effects of 
+item-relatedness. Brain Res. 2015; 1612:2–15. [PubMed: 25149192] 
+Buchler NG, Faunce P, Light LL, Gottfredson N, Reder LM. Effects of repetition on associative 
+recognition in young and older adults: Item and associative strengthening. Psychol. Aging. 2011; 
+26:111–126. [PubMed: 20973609] 
+Buckhout R. Eyewitness testimony. Jurimetrics J. 1975; 15:171–187.
+Buckner RL. Memory and executive function in aging and AD: Multiple factors that cause decline and 
+reserve factors that compensate. Neuron. 2004; 44:195–208. doi:http://dx.doi.org/10.1016/
+j.neuron.2004.09.006. [PubMed: 15450170] 
+Buckner, RL.; Head, D.; Lustig, C. Brain changes in aging: A lifespan perspective. In: Bialystok, E.; 
+Craik, FIM., editors. Lifespan Cognition: Mechanisms of Change. New York, NY: Oxford 
+University Press; 2006. p. 27-42.
+Burt CDB, Kemp S, Conway MA. Memory for true and false autobiographical event descriptions. 
+Memory. 2004; 12:545–552. [PubMed: 15615313] 
+Butler KM, McDaniel MA, Dornburg CC, Price AL, Roediger HL. Age differences in veridical and 
+false recall are not inevitable: The role of frontal lobe function. Psychon. Bull. Rev. 2004; 11:921–
+925. [PubMed: 15732704] 
+Cabeza, R. Prefrontal and medial temporal lobe contributions to relational memory in young and older 
+adults. In: Zimmer, H.; Mecklinger, A.; Lindenberger, U., editors. Binding in Human Memory: A 
+Neurocognitive Approach. New York, NY: Oxford University Press; 2006. p. 595-626.
+Cabeza R. Hemispheric asymmetry reduction in older adults: The HAROLD model. Psychol. Aging. 
+2002; 17:85–100. [PubMed: 11931290] 
+Cabeza R, Anderson ND, Locantore JK, McIntosh AR. Aging gracefully: Compensatory brain activity 
+in high-performing older adults. Neuroimage. 2002; 17:1394–1402. doi:http://dx.doi.org/10.1006/
+nimg.2002.1280. [PubMed: 12414279] 
+Cabeza R, Dolcos F, Prince S, Rice HJ, Weissman DH, Nyberg L. Attention-related activity during 
+episodic memory retrieval: a cross-function fMRI study. Neuropsychologia. 2003; 41:390–399. 
+[PubMed: 12457763] 
+Calvillo DP, Parong JA. The misinformation effect is unrelated to the DRM effect with and without a 
+DRM warning. Memory. 2016; 24:324–333. [PubMed: 25664935] 
+Campbell KL, Hasher L, Thomas RC. Hyper-binding a unique age effect. Psychol. Sci. 2010; 21:399–
+405. [PubMed: 20424077] 
+Devitt and Schacter
+Page 19
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Campbell KL, Trelle A, Hasher L. Hyper-binding across time: Age differences in the effect of 
+temporal proximity on paired-associate learning. J. Exp. Psychol. Learn. Mem. Cogn. 2014; 
+40:300–305. [PubMed: 23751006] 
+Campbell KL, Zimerman S, Healey MK, Lee MMS, Hasher L. Age differences in visual statistical 
+learning. Psychol. Aging. 2012; 27:650–656. [PubMed: 22251380] 
+Carmichael AM, Gutchess AH. Using warnings to reduce categorical false memories in younger and 
+older adults. Memory. 2015
+Carstensen LL, Isaacowitz DM, Charles ST. Taking time seriously: A theory of socioemotional 
+selectivity. Am. Psychol. 1999; 54:165–181. [PubMed: 10199217] 
+Cassidy BS, Hedden T, Yoon C, Gutchess AH. Age differences in medial prefrontal activity for 
+subsequent memory of truth value. Front. Psychol. 2014; 5
+Castel AD, Craik FIM. The effects of aging and divided attention on memory for item and associative 
+information. Psychol. Aging. 2003; 18:873–885. [PubMed: 14692872] 
+Chalfonte B, Johnson MK. Feature memory and binding in young and older adults. Mem. Cognit. 
+1996; 24:403–416.
+Chan JCK, McDermott KB. The effects of frontal lobe functioning and age on veridical and false 
+recall. Psychon. Bull. Rev. 2007; 14:606–611. [PubMed: 17972721] 
+Chao LL, Knight RT. Human prefrontal lesions increase distractibility to irrelevant sensory inputs. 
+Neuroreport. 1995; 6:1605–1610. [PubMed: 8527724] 
+Coane JH, Huff MJ, Hutchison KA. The ironic effect of guessing: increased false memory for 
+mediated lists in younger and older adults. Aging, Neuropsychol. Cogn. 2015; 23:282–303.
+Cohen G, Faulkner D. Age differences in source forgetting: effects on reality monitoring and on 
+eyewitness testimony. Psychol. Aging. 1989; 4:10. [PubMed: 2803602] 
+Cohn M, Emrich SM, Moscovitch M. Age-related deficits in associative memory: The influence of 
+impaired strategic retrieval. Psychol. Aging. 2008; 23:93–103. [PubMed: 18361659] 
+Colombel F, Tessoulin M, Gilet A-L, Corson YAI. False memories and normal aging: Links between 
+inhibitory capacities and monitoring processes. Psychol. Aging. 2016; 31:239–248. [PubMed: 
+27111523] 
+Craik FIM, McDowd JM. Age differences in recall and recognition. J. Exp. Psychol. Learn. Mem. 
+Cogn. 1987; 13:474–479.
+Craik FIM, Morris LW, Morris RG, Loewen ER. Relations between source amnesia and frontal lobe 
+functioning in older adults. Psychol. Aging. 1990; 5:148–151. [PubMed: 2317296] 
+Da Silva L, Sunderland A. Effects of immediate feedback and errorless learning on recognition 
+memory processing in young and older adults. Neuropsychol. Rehabil. 2010; 20:42–58. [PubMed: 
+19626558] 
+Daselaar SM, Fleck MS, Dobbins IG, Madden DJ, Cabeza R. Effects of healthy aging on hippocampal 
+and rhinal memory functions: an event-related fMRI study. Cereb. Cortex. 2006; 16:1771–1782. 
+[PubMed: 16421332] 
+Davachi L, Mitchell JP, Wagner AD. Multiple routes to memory: Distinct medial temporal lobe 
+processes build item and source memories. Proc. Natl. Acad. Sci. 2003; 100:2157–2162. [PubMed: 
+12578977] 
+Davidson PSR, Glisky EL. Neuropsychological correlates of recollection and familiarity in normal 
+aging. Cogn. Affect. Behav. Neurosci. 2002; 2:174–186. [PubMed: 12455684] 
+De Brigard F, Addis DR, Ford JH, Schacter DL, Giovanello KS. Remembering what could have 
+happened: Neural correlates of episodic counterfactual thinking. Neuropsychologia. 2013; 
+51:2401–2414. [PubMed: 23376052] 
+Deese J. On the prediction of occurrence of particular verbal intrusions in immediate recall. J. Exp. 
+Psychol. 1959; 58:17. [PubMed: 13664879] 
+Dehon H, Brédart S. False memories: Young and older adults think of semantic associates at the same 
+rate, but young adults are more successful at source monitoring. Psychol. Aging. 2004; 19:191–
+197. [PubMed: 15065942] 
+Dennis NA, Bowman CR, Peterson KM. Age-related differences in the neural correlates mediating 
+false recollection. Neurobiol. Aging. 2014; 35:395–407. [PubMed: 24094578] 
+Devitt and Schacter
+Page 20
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Dennis NA, Hayes SM, Prince S, Madden DJ, Huettel SA, Cabeza R. Effects of aging on the neural 
+correlates of successful item and source memory encoding. J. Exp. Psychol. Learn. Mem. Cogn. 
+2008a; 34:791–808. [PubMed: 18605869] 
+Dennis NA, Kim H, Cabeza R. Age-related differences in brain activity during true and false memory 
+retrieval. J. Cogn. Neurosci. 2008b; 20:1390–1402. [PubMed: 18303982] 
+Dennis NA, Kim H, Cabeza R. Effects of aging on true and false memory formation: An fMRI study. 
+Neuropsychologia. 2007; 45:3157–3166. doi:http://dx.doi.org/10.1016/j.neuropsychologia.
+2007.07.003. [PubMed: 17716696] 
+Dillon DG, Pizzagalli DA. Inhibition of Action, Thought, and Emotion: A Selective Neurobiological 
+Review. Appl. Prev. Psychol. 2007; 12:99–114. [PubMed: 19050749] 
+Dobbins IG, Foley HJ, Schacter DL, Wagner AD. Executive control during episodic retrieval: Multiple 
+prefrontal processes subserve source memory. Neuron. 2002; 35:989–996. doi:http://dx.doi.org/
+10.1016/S0896-6273(02)00858-9. [PubMed: 12372291] 
+Dodson CS, Bawa S, Krueger LE. Aging, metamemory, and high-confidence errors: A misrecollection 
+account. Psychol. Aging. 2007a; 22:122–133. [PubMed: 17385989] 
+Dodson CS, Bawa S, Slotnick SD. Aging, source memory, and misrecollections. J. Exp. Psychol. 
+Learn. Mem. Cogn. 2007b
+Dodson CS, Krueger LE. I misremember it well: Why older adults are unreliable eyewitnesses. 
+Psychon. Bull. Rev., Bulletin of the Psychonomic Society. 2006; 13:770–775.
+Dodson CS, Powers E, Lytell M. Aging, confidence, and misinformation: Recalling information with 
+the cognitive interview. Psychol. Aging. 2015; 30:46–61. [PubMed: 25528064] 
+Dodson CS, Schacter DL. Aging and strategic retrieval processes: Reducing false memories with a 
+distinctiveness heuristic. Psychol. Aging. 2002; 17:405–415. [PubMed: 12243382] 
+Driscoll I, Hamilton DA, Petropoulos H, Yeo RA, Brooks WM, Baumgartner RN, Sutherland RJ. The 
+aging hippocampus: Cognitive, biochemical and structural findings. Cereb. Cortex. 2003; 
+13:1344–1351. [PubMed: 14615299] 
+Duarte A, Graham KS, Henson RN. Age-related changes in neural activity associated with familiarity, 
+recollection and false recognition. Neurobiol. Aging. 2010; 31:1814–1830. [PubMed: 19004526] 
+Dulas MR, Duarte A. Aging Affects the Interaction between Attentional Control and Source Memory: 
+An fMRI Study. J. Cogn. Neurosci. 2014; 26:2653–2669. [PubMed: 24800631] 
+Dulas MR, Duarte A. The influence of directed attention at encoding on source memory retrieval in the 
+young and old: An ERP study. Brain Res. 2013; 1500:55–71. [PubMed: 23348376] 
+Dywan J, Segalowitz S, Arsenault A. Electrophysiological response during source memory decisions 
+in older and younger adults. Brain Cogn. 2002; 49:322–340. [PubMed: 12139957] 
+Edmonds EC, Glisky EL, Bartlett JC, Rapcsak SZ. Cognitive mechanisms of false facial recognition in 
+older adults. Psychol. Aging. 2012; 27:54–60. [PubMed: 21787088] 
+Elderkin-Thompson V, Ballmaier M, Hellemann G, Pham D, Kumar A. Executive function and MRI 
+prefrontal volumes among healthy older adults. Neuropsychology. 2008; 22:626–637. [PubMed: 
+18763882] 
+Fandakova Y, Lindenberger U, Shing YL. Maintenance of youth-like processing protects against false 
+memory in later adulthood. Neurobiol. Aging. 2015; 36:933–941. [PubMed: 25453561] 
+Fandakova Y, Lindenberger U, Shing YL. Deficits in process-specific prefrontal and hippocampal 
+activations contribute to adult age differences in episodic memory interference. Cereb. Cortex. 
+2014; 24:1832–1844. [PubMed: 23425890] 
+Fandakova Y, Shing YL, Lindenberger U. High-confidence memory errors in old age: The roles of 
+monitoring and binding processes. Memory. 2013a; 21:732–750. [PubMed: 23305088] 
+Fandakova Y, Shing YL, Lindenberger U. Differences in binding and monitoring mechanisms 
+contribute to lifespan age differences in false memory. Dev. Psychol. 2013b; 49:1822–1832. 
+[PubMed: 23276129] 
+Farias ST, Cahn-Weiner DA, Harvey DJ, Reed BR, Mungas D, Kramer JH, Chui HC. Longitudinal 
+changes in memory and executive functioning are associated with longitudinal change in 
+instrumental activities of daily living in older adults. Clin. Neuropsychol. 2009; 23:446–461. 
+[PubMed: 18821181] 
+Devitt and Schacter
+Page 21
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Ferguson SA, Hashtroudi S, Johnson MK. Age differences in using source-relevant cues. Psychol. 
+Aging. 1992; 7:443–452. [PubMed: 1388866] 
+Fernandes M, Ross M, Wiegand M, Schryer E. Are the memories of older adults positively biased? 
+Psychol. Aging. 2008; 23:297–306. [PubMed: 18573004] 
+Gaesser B, Sacchetti DC, Addis DR, Schacter DL. Characterizing age-related changes in remembering 
+the past and imagining the future. Psychol. Aging. 2011; 26:80–84. [PubMed: 21058863] 
+Gallo DA. False memories and fantastic beliefs: 15 years of the DRM illusion. Mem. Cognit. 2010; 
+38:833–848.
+Gallo, DA. Associative illusions of memory: False memory research in DRM and related tasks. New 
+York, NY, US: Psychology Press; 2006. 
+Gallo DA, Bell D, Beier J, Schacter DL. Two types of recollection-based monitoring in younger and 
+older adults: Recall-to-reject and the distinctiveness heuristic. Memory. 2006; 14:730–741. 
+[PubMed: 16829489] 
+Gallo DA, Cotel SC, Moore CD, Schacter DL. Aging can spare recollection-based retrieval 
+monitoring: The importance of event distinctiveness. Psychol. Aging. 2007; 22:209–213. 
+[PubMed: 17385996] 
+Gallo DA, Foster KT, Johnson EL. Elevated False Recollection of Emotional Pictures in Young and 
+Older Adults. Psychol. Aging. 2009; 24:981–988. [PubMed: 20025411] 
+Gallo DA, Korthauer LE, McDonough IM, Teshale S, Johnson EL. Age-related positivity effects and 
+autobiographical memory detail: Evidence from a past/future source memory task. Memory. 2011; 
+19:641–652. [PubMed: 21919591] 
+Gallo DA, Roediger HL. The effects of associations and aging on illusory recollection. Mem. Cognit. 
+2003; 31:1036–1044.
+Garry M, Polaschek DL. Imagination and memory. Curr. Dir. Psychol. Sci. 2000; 9:6–10.
+Gazzaley A, Cooney JW, Rissman J, D’Esposito M. Top-down suppression deficit underlies working 
+memory impairment in normal aging. Nat. Neurosci. 2005; 8:1298–1300. [PubMed: 16158065] 
+Gerlach KD, Dornblaser DW, Schacter DL. Adaptive constructive processes and memory accuracy: 
+Consequences of counterfactual simulations in young and older adults. Memory. 2014; 22:145–
+162. [PubMed: 23560477] 
+Giovanello KS, Kensinger EA, Wong AT, Schacter DL. Age-related neural changes during memory 
+conjunction errors. J. Cogn. Neurosci. 2010; 22:1348–1361. [PubMed: 19445606] 
+Giovanello KS, Schnyer DM, Verfaellie M. A critical role for the anterior hippocampus in relational 
+memory: Evidence from an fMRI study comparing associative and item recognition. 
+Hippocampus. 2004; 14:5–8. [PubMed: 15058477] 
+Glisky EL, Rubin SR, Davidson PSR. Source memory in older adults: An encoding or retrieval 
+problem? J. Exp. Psychol. Learn. Mem. Cogn. 2001; 27:1131–1146. [PubMed: 11550742] 
+Grady CL, McIntosh AR, Craik FIM. Age-related differences in the functional connectivity of the 
+hippocampus during memory encoding. Hippocampus. 2003; 13:572–586. [PubMed: 12921348] 
+Grady CL, McIntosh AR, Horwitz B, Maisog JM, Ungerleider LG, Mentis MJ, Pietrini P, Schapiro 
+MB, Haxby JV. Age-related reductions in human recognition memory due to impaired encoding. 
+Science (80-.). 1995; 269:218–221.
+Gutchess AH, Ieuji Y, Federmeier KD. Event-related potentials reveal age differences in the encoding 
+and recognition of scenes. J. Cogn. Neurosci. 2007; 19:1089–1103. [PubMed: 17583986] 
+Hannula DE, Tranel D, Cohen NJ. The long and the short of it: Relational memory impairments in 
+amnesia, even at short lags. J. Neurosci. 2006; 26:8352–8359. [PubMed: 16899730] 
+Hasher, L.; Zacks, RT.; May, CP. Inhibitory control, circadian arousal, and age. In: Gopher, D.; Koriat, 
+A., editors. Attention and Performance XVII: Cognitive Regulation of Performance: Interaction of 
+Theory and Application, Attention and Performance. Cambridge, MA, US: The MIT Press; 1999. 
+p. 653-675.
+Hashtroudi S, Johnson MK, Chrosniak LD. Aging and qualitative characteristics of memories for 
+perceived and imagined complex events. Psychol. Aging. 1990; 5:119–126. [PubMed: 2317290] 
+Hashtroudi S, Johnson MK, Vnek N, Ferguson SA. Aging and the effects of affective and factual focus 
+on source monitoring and recall. Psychol. Aging. 1994; 9:160–170. [PubMed: 8185863] 
+Devitt and Schacter
+Page 22
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Healey, MK.; Campbell, KL.; Hasher, L. Cognitive aging and increased distractibility: Costs and 
+potential benefits. In: Sossin, WS.; Lacaille, JC.; Castellucci, VF.; Belleville, S., editors. Essence 
+of Memory. Elsevier; 2008. p. 353-363.doi:http://dx.doi.org/10.1016/S0079-6123(07)00022-2
+Hedden T, Gabrieli JDE. Insights into the ageing mind: a view from cognitive neuroscience. Nat Rev 
+Neurosci. 2004; 5:87–96. [PubMed: 14735112] 
+Henkel LA. Maximizing the benefits and minimizing the costs of repeated memory tests for older 
+adults. Psychol. Aging. 2008; 23:250–262. [PubMed: 18573001] 
+Henkel LA, Johnson MK, De Leonardis DM. Aging and source monitoring: Cognitive processes and 
+neuropsychological correlates. J. Exp. Psychol. Gen. 1998; 127:251–268. [PubMed: 9742716] 
+Henson RN, Shallice T, Dolan RJ. Right prefrontal cortex and episodic memory retrieval: a functional 
+MRI test of the monitoring hypothesis. Brain. 1999; 122:1367–1381. [PubMed: 10388802] 
+Hintzman DL, Curran T. Retrieval dynamics of recognition and frequency judgments: Evidence for 
+separate processes of familiarity and recall. J. Mem. Lang. 1994; 33:1–18.
+Howe ML. The Adaptive Nature of Memory and Its Illusions. Curr. Dir. Psychol. Sci. 2011; 20:312–
+315.
+Howe ML, Knott L. The fallibility of memory in judicial processes: Lessons from the past and their 
+modern consequences. Memory. 2015; 23:633–656. [PubMed: 25706242] 
+Hoyer, WJ.; Verhaeghen, P. Memory aging. In: Birren, J.; Schaie, W., editors. Handbook of the 
+Psychology of Aging. Burlington, MA: Elsevier Academic Press; 2006. p. 209-232.
+Huff MJ, Bodner GE, Fawcett JM. Effects of distinctive encoding on correct and false memory: A 
+meta-analytic review of costs and benefits and their origins in the DRM paradigm. Psychon. Bull. 
+Rev. 2015; 22:349–365. [PubMed: 24853535] 
+Hultsch, DF.; Strauss, E.; Hunter, MA.; MacDonald, SWS. Intraindividual variability, cognition, and 
+aging. In: Craik, FIM.; Salthouse, TA., editors. The Handbook of Aging and Cognition. New 
+York, NY, US: Psychology Press; 2008. p. 491-556.
+Iidaka T, Anderson ND, Kapur S, Cabeza R, Craik FIM. The effect of divided attention on encoding 
+and retrieval in episodic memory revealed by positron emission tomography. J. Cogn. Neurosci. 
+2000; 12:267–280. [PubMed: 10771411] 
+Insausti R, Juottonen K, Soininen H, Insausti AM, Partanen K, Vainio P, Laakso MP, Pitkänen A. MR 
+volumetric analysis of the human entorhinal, perirhinal, and temporopolar cortices. Am. J. 
+Neuroradiol. 1998; 19:659–671. [PubMed: 9576651] 
+Intons-Peterson MJ, Rocchi P, West T, McLellan K, Hackney A. Age, testing at preferred or 
+nonpreferred times (testing optimality), and false memory. J. Exp. Psychol. Learn. Mem. Cogn. 
+1999; 25:23–40. [PubMed: 9949706] 
+Jackson O III, Schacter DL. Encoding activity in anterior medial temporal lobe supports subsequent 
+associative recognition. Neuroimage. 2004; 21:456–462. doi:http://dx.doi.org/10.1016/
+j.neuroimage.2003.09.050. [PubMed: 14741683] 
+Jacoby LL. Ironic effects of repetition: measuring age-related differences in memory. J. Exp. Psychol. 
+Learn. Mem. Cogn. 1999; 25:3. [PubMed: 9949705] 
+Jacoby LL. A process dissociation framework: Separating automatic from intentional uses of memory. 
+J. Mem. Lang. 1991; 30:513–541. doi:http://dx.doi.org/10.1016/0749-596X(91)90025-F. 
+Jacoby LL, Rhodes MG. False remembering in the aged. Curr. Dir. Psychol. Sci. 2006; 15:49–53.
+Jacoby LL, Wahlheim CN, Rhodes MG, Daniels KA, Rogers CS. Learning to diminish the effects of 
+proactive interference: Reducing false memory for young and older adults. Mem. Cognit. 2010; 
+38:820–829.
+James LE, Burke DM, Austin A, Hulme E. Production and perception of “verbosity” in younger and 
+older adults. Psychol. Aging. 1998; 13:355–367. [PubMed: 9793112] 
+Janowsky JS, Shimamura AP, Squire LR. Source memory impairment in patients with frontal lobe 
+lesions. Neuropsychologia. 1989; 27:1043–1056. doi:http://dx.doi.org/
+10.1016/0028-3932(89)90184-X. [PubMed: 2797412] 
+Jennings JM, Jacoby LL. An opposition procedure for detecting age-related deficits in recollection: 
+Telling effects of repetition. Psychol. Aging. 1997; 12:352–361. [PubMed: 9189995] 
+Devitt and Schacter
+Page 23
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Jennings JM, Jacoby LL. Automatic versus intentional uses of memory: Aging, attention, and control. 
+Psychol. Aging. 1993; 8:283–293. [PubMed: 8323731] 
+Johnson MK. Memory and reality. Am. Psychol. 2006; 61:760–771. [PubMed: 17115808] 
+Johnson MK, De Leonardis DM, Hashtroudi S, Ferguson SA. Aging and single versus multiple cues in 
+source monitoring. Psychol. Aging. 1995; 10:507–517. [PubMed: 8749578] 
+Johnson MK, Foley MA, Suengas AG, Raye CL. Phenomenal characteristics of memories for 
+perceived and imagined autobiographical events. J. Exp. Psychol. Gen. 1988; 117:371–376. 
+[PubMed: 2974863] 
+Johnson MK, Hashtroudi S, Lindsay DS. Source monitoring. Psychol. Bull. 1993; 114:3–28. [PubMed: 
+8346328] 
+Johnson MK, Raye CL. Reality monitoring. Psychol. Rev. 1981; 94:37–64.
+Jones TC, Bartlett JC. When false recognition is out of control: The case of facial conjunctions. Mem. 
+Cogn. 2009; 37:143–157.
+Jones TC, Jacoby LL. Conjunction errors in recognition memory: Modality-free errors for older adults 
+but not for young adults. Acta Psychol. (Amst). 2005; 120:55–73. [PubMed: 15876419] 
+Jones TC, Jacoby LL. Feature and conjunction errors in recognition memory: Evidence for dual-
+process theory. J. Mem. Lang. 2001; 45:82–102.
+Justice LV, Morrison CM, Conway MA. True and intentionally fabricated memories. Q. J. Exp. 
+Psychol. 2013; 66:1196–1203.
+Karpel ME, Hower WJ, Toglia MP. Accuracy and qualities of real and suggested memories: 
+Nonspecific age differences. J. Gerontol. Psychol. Sci. 2001; 56:103–110.
+Kensinger EA, Schacter DL. When true memories suppress false memories: Effects of ageing. Cogn. 
+Neuropsychol. 1999; 16:399–415.
+Kersten AW, Earles JL. Effects of aging, distraction, and response pressure on the binding of actors 
+and actions. Psychol. Aging. 2010; 25:620–630. [PubMed: 20853968] 
+Kersten AW, Earles JL, Upshaw C. False recollection of the role played by an actor in an event. Mem. 
+Cogn. 2013; 41:1144–1158.
+Kessels RPC, Hobbel D, Postma A. Aging, context memory and binding: A comparison of “what, 
+where and when” in young and older adults. Int. J. Neurosci. 2007; 117:795–810. [PubMed: 
+17454244] 
+Kirwan CB, Stark CEL. Medial temporal lobe activation during encoding and retrieval of novel face-
+name pairs. Hippocampus. 2004; 14:919–930. [PubMed: 15382260] 
+Koutstaal W. Older adults encode—but do not always use—perceptual details: Intentional versus 
+unintentional effects of detail on memory judgments. Psychol. Sci. 2003; 14:189–193. [PubMed: 
+12661684] 
+Koutstaal W, Schacter DL. Memory distortion and aging. Perspectives on Human Memory and 
+Cognitive Aging: Essays in Honour of Fergus Craik. 2001:363–383.
+Koutstaal W, Schacter DL. Gist-based false recognition of pictures in older and younger adults. J. 
+Mem. Lang. 1997; 37:555–583. doi:http://dx.doi.org/10.1006/jmla.1997.2529. 
+Koutstaal W, Schacter DL, Galluccio L, Stofer KA. Reducing gist-based false recognition in older 
+adults: Encoding and retrieval manipulations. Psychol. Aging. 1999; 14:220–237. [PubMed: 
+10403710] 
+Krendl AC, Ambady N, Kensinger EA. The dissociable effects of stereotype threat on older adults’ 
+memory encoding and retrieval. J. Appl. Res. Mem. Cogn. 2015; 4:103–109. [PubMed: 
+26029498] 
+Kroll AEA, Knight RT, Metcalfe J, Wolf ES, Tulving E. Cohesion failure as a source of memory 
+illusions. J. Mem. Lang. 1996; 35:176–196.
+Kurkela KA, Dennis NA. Event-related fMRI studies of false memory: An Activation Likelihood 
+Estimation meta-analysis. Neuropsychologia. 2016; 81:149–167. doi:http://dx.doi.org/10.1016/
+j.neuropsychologia.2015.12.006. [PubMed: 26683385] 
+Lee JLC. Reconsolidation: Maintaining memory relevance. Trends Neurosci. 2009; 32:413–420. 
+[PubMed: 19640595] 
+Devitt and Schacter
+Page 24
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Lee Y-S, Lee C-L, Yang H-T. Effects of aging and education on false memory. Int. J. Aging Hum. Dev. 
+2012; 74:287–298. [PubMed: 22950349] 
+Lepage M, Brodeur M, Bourgouin P. Prefrontal cortex contribution to associative recognition memory 
+in humans: an event-related functional magnetic resonance imaging study. Neurosci. Lett. 2003; 
+346:73–76. doi:http://dx.doi.org/10.1016/S0304-3940(03)00578-0. [PubMed: 12850551] 
+Light LL, Chung C, Pendergrass R, Van Ocker JC. Effects of repetition and response deadline on item 
+recognition in young and older adults. Mem. Cogn. 2006; 34:335–343.
+Lindner I, Davidson PSR. False action memories in older adults: Relationship with executive 
+functions? Aging, Neuropsychol. Cogn. 2014; 21:560–576.
+Loftus EF. Our changeable memories: Legal and practical implications. Nat. Rev. Neurosci. 2003; 
+4:231–234. [PubMed: 12612635] 
+Lyle KB, Bloise SM, Johnson MK. Age-related binding deficits and the content of false memories. 
+Psychol. Aging. 2006; 21:86–95. [PubMed: 16594794] 
+MacDonald AW, Cohen JD, Stenger VA, Carter CS. Dissociating the role of the dorsolateral prefrontal 
+and anterior cingulate cortex in cognitive control. Science (80-.). 2000; 288:1835–1838.
+Madore KP, Addis DR, Schacter DL. Creativity and memory: Effects of an episodic-specificity 
+induction on divergent thinking. Psychol. Sci. 2015; 26:1461–1468. [PubMed: 26205963] 
+Madore KP, Jing HG, Schacter DL. Divergent creative thinking in young and older adults: Extending 
+the effects of an episodic specificity induction. Mem. Cognit. 2016:1–15.
+Madore KP, Schacter DL. An episodic specificity induction enhances means-end problem solving in 
+young and older adults. Psychol. Aging. 2014; 29:913–924. [PubMed: 25365688] 
+Marche TA, Jordan JJ, Owre KP. Younger adults can be more suggestible than older adults: The 
+influence of learning differences on misinformation reporting. Can. J. Aging. 2002; 21:85–93.
+Mather M, Carstensen LL. Aging and motivated cognition: the positivity effect in attention and 
+memory. Trends Cogn. Sci. 2005; 9:496–502. doi:http://dx.doi.org/10.1016/j.tics.2005.08.005. 
+[PubMed: 16154382] 
+Matzen LE, Benjamin AS. Older and wiser: Older adults’ episodic word memory benefits from 
+sentence study contexts. Psychol. Aging. 2013; 28:754–767. [PubMed: 23834493] 
+McCabe DP, Roediger HL, McDaniel MA, Balota DA. Aging reduced veridical remembering but 
+increases false remembering: Neuropsychological test correlates of remember-know judgements. 
+Neuropsychologia. 2009; 47:2164–2173. [PubMed: 19100756] 
+McCabe DP, Smith AD. The effect of warnings on false memories in young and older adults. Mem. 
+Cogn. 2002; 30:1065–1077.
+McClelland JL, McNaughton BL, O’Reilly RC. Why there are complementary learning systems in the 
+hippocampus and neocortex: Insights from the successes and failures of connectionist models of 
+learning and memory. Psychol. Rev. 1995; 102:419–457. [PubMed: 7624455] 
+McDaniel MA, Lyle KB, Butler KM, Dornburg CC. Age-related deficits in reality monitoring of action 
+memories. Psychol. Aging. 2008; 23:646–656. [PubMed: 18808253] 
+McDonough IM, Gallo DA. Impaired retrieval monitoring for past and future autobiographical events 
+in older adults. Psychol. Aging. 2013; 28:457–466. [PubMed: 23795764] 
+McDonough IM, Wong JT, Gallo DA. Age-related differences in prefrontal cortex activity during 
+retrieval monitoring: Testing the compensation and dysfunction accounts. Cereb. Cortex. 2013; 
+23:1049–1060. [PubMed: 22510532] 
+McGinnis D, Roberts P. Qualitative characteristics of vivid memories attributed to real and imagined 
+experiences. Am. J. Psychol. 1996; 109:59–77.
+Meade ML, Geraci LD, Roediger HL III. Neuropsychological status in older adults influences 
+susceptibility to false memories. Am. J. Psychol. 2012; 125:449–467. [PubMed: 23350303] 
+Melo B, Winocur G, Moscovitch M. False recall and false recognition: An examination of the effects 
+of selective and combined lesions to the medial temporal lobe/diencephalon and frontal lobe 
+structures. Cogn. Neuropsychol. 1999; 16:343–359.
+Memon A, Bartlett J, Rose R, Gray C. The aging eyewitness: Effects of age on face, delay, and source-
+memory ability. Journals Gerontol. - Ser. B Psychol. Sci. Soc. Sci. 2003; 58:338–345.
+Devitt and Schacter
+Page 25
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Mitchell KJ, Johnson MK. Source monitoring 15 years later: What have we learned from fMRI about 
+the neural mechanisms of source memory? Psychol. Bull. 2009; 135:638–677. [PubMed: 
+19586165] 
+Mitchell KJ, Johnson MK, Raye CL, D’Esposito M. fMRI evidence of age-related hippocampal 
+dysfunction in feature binding in working memory. Cogn. Brain Res. 2000; 10:197–206.
+Mitchell KJ, Raye CL, Johnson MK, Greene EJ. An fMRI investigation of short-term source memory 
+in young and older adults. Neuroimage. 2006; 30:627–633. doi:http://dx.doi.org/10.1016/
+j.neuroimage.2005.09.039. [PubMed: 16256377] 
+Moscovitch, M.; Winocur, G. The frontal cortex and working with memory. In: Stuss, DT.; Knight, 
+RT., editors. Principles of Frontal Lobe Function. New York: Oxford University Press; 2002. p. 
+188-209.
+Moscovitch M, Winocur G. Frontal lobes, memory, and aging. Ann. N. Y. Acad. Sci. 1995; 769:119–
+150. [PubMed: 8595020] 
+Nakazawa K, Quirk MC, Chitwood RA, Watanabe M, Yeckel MF, Sun LD, Kato A, Carr CA, Johnston 
+D, Wilson MA, Tonegawa S. Requirement for hippocampal CA3 NMDA receptors in associative 
+memory recall. Science (80-.). 2002; 297:211–218.
+Naveh-Benjamin M. Adult age differences in memory performance: Tests of an associative deficit 
+hypothesis. J. Exp. Psychol. Learn. Mem. Cogn. 2000; 26:1170–1187. [PubMed: 11009251] 
+Naveh-Benjamin M, Brav TK, Levy O. The associative memory deficit of older adults: The role of 
+strategy utilization. Psychol. Aging. 2007; 22:202–208. [PubMed: 17385995] 
+Naveh-Benjamin M, Hussain Z, Guez J, Bar-On M. Adult age differences in episodic memory: Further 
+support for an associative-deficit hypothesis. J. Exp. Psychol. Learn. Mem. Cogn. 2003; 29:826–
+837. [PubMed: 14516216] 
+Naveh-Benjamin M, Shing YL, Kilb A, Werkle-Bergner M, Lindenberger U, Li S-C. Adult age 
+differences in memory for name-face associations: The effects of intentional and incidental 
+learning. Memory. 2009; 17:220–232. [PubMed: 18654927] 
+Newman EJ, Lindsay DS. False memories: What the hell are they for? Appl. Cogn. Psychol. 2009; 
+23:1105–1121.
+Norman KA, Schacter DL. False recognition in younger and older adults: Exploring the characteristics 
+of illusory memories. Mem. Cognit. 1997; 25:838–848.
+Nugent S, Castellano C-A, Goffaux P, Whittingstall K, Lepage M, Paquet N, Bocti C, Fulop T, 
+Cunnane SC. Glucose hypometabolism is highly localized, but lower cortical thickness and brain 
+atrophy are widespread in cognitively normal older adults. Am. J. Physiol. - Endocrinol. Metab. 
+2014; 306:1315–1321.
+O’Reilly RC, McClelland JL. Hippocampal conjunctive encoding, storage, and recall: Avoiding a 
+trade-off. Hippocampus. 1994; 4:661–682. [PubMed: 7704110] 
+Odegard TN, Lampinen JM. Memory conjunction errors for autobiographical events: More than just 
+familiarity. Memory. 2004; 12:288–300. [PubMed: 15279433] 
+Okado Y, Stark CEL. Neural activity during encoding predicts false memories created by 
+misinformation. Learn. Mem. 2005; 12:3–11. [PubMed: 15687227] 
+Old SR, Naveh-Benjamin M. Differential effects of age on item and associative measures of memory: 
+A meta-analysis. Psychol. Aging. 2008; 23:104–118. [PubMed: 18361660] 
+Ost J, Blank H, Davies J, Jones G, Lambert K, Salmon K. False memory ≠ false memory: DRM errors 
+are unrelated to the misinformation effect. PLoS One. 2013; 8:e57939. [PubMed: 23573186] 
+Paige LE, Cassidy BS, Schacter DL, Gutchess AH. Age differences in hippocampal activation during 
+gist-based false recognition. Neurobiol. Aging. n.d. doi:http://dx.doi.org/10.1016/
+j.neurobiolaging.2016.06.014. 
+Pansky A, Goldsmith M, Koriat A, Pearlman-Avnion S. Memory accuracy in old age: Cognitive, 
+metacognitive, and neurocognitive determinants. Eur. J. Cogn. Psychol. 2009; 21:303–329.
+Park DC, Lautenschlager G, Hedden T, Davidson NS, Smith AD, Smith PK. Models of visuospatial 
+and verbal memory across the adult life span. Psychol. Aging. 2002; 17:299–320. [PubMed: 
+12061414] 
+Devitt and Schacter
+Page 26
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Parkin AJ, Bindschaedler C, Harsent L, Metzler C. Pathological false alarm rates following damage to 
+the left frontal cortex. Brain Cogn. 1996; 32:14–27. doi:http://dx.doi.org/10.1006/brcg.
+1996.0055. [PubMed: 8899212] 
+Parkin AJ, Walter BM. Recollective experience, normal aging, and frontal dysfunction. Psychol. 
+Aging. 1992; 7:290–298. [PubMed: 1610518] 
+Parkin AJ, Ward J, Bindschaedler C, Squires EJ, Powell G. Recognition following frontal lobe 
+damage: the role of encoding factors. Cogn. Neuropsychol. 1999; 16:243–265.
+Passingham, R.; Wise, S. The Neurobiology of the Prefrontal Cortex: Anatomy, Evolution, and the 
+Origin of Insight. Oxford: Oxford University Press; 2012. 
+Persson J, Nyberg L, Lind J, Larsson A, Nilsson L, Ingvar M, Buckner RL. Structure-function 
+correlates of cognitive decline in aging. Cereb. Cortex. 2006; 16:907–915. [PubMed: 16162855] 
+Persson J, Pudas S, Lind J, Kauppi K, Nilsson L-G, Nyberg L. Longitudinal Structure–Function 
+Correlates in Elderly Reveal MTL Dysfunction with Cognitive Decline. Cereb. Cortex. 2012; 
+22:2297–2304. [PubMed: 22065863] 
+Pertzov Y, Miller TD, Gorgoraptis N, Caine D, Schott JM, Butler C, Husain M. Binding deficits in 
+memory following medial temporal lobe damage in patients with voltage-gated potassium 
+channel complex antibody-associated limbic encephalitis. Brain. 2013; 136:2474–2485. 
+[PubMed: 23757763] 
+Pidgeon LM, Morcom AM. Age-related increases in false recognition: The role of perceptual and 
+conceptual similarity. Front. Aging Neurosci. 2014; 6:1–17. [PubMed: 24478697] 
+Pierce BH, Schacter DL, Sullivan AL, Budson AE. Comparing source-based and gist-based false 
+recognition in aging and Alzheimer’s disease. Neuropsychology. 2005; 19:411–419. [PubMed: 
+16060815] 
+Pierce BH, Simons JS, Schacter DL. Aging and the seven sins of memory. Adv. Cell Aging Gerontol. 
+2004; 15:1–40.
+Pierce BH, Waring JD, Schacter DL, Budson AE. Effects of distinctive encoding on source-based false 
+recognition: Further examination of recall-to-reject processes in aging and alzheimer disease. 
+Cogn. Behav. Neurol. 2008; 21:179–186. [PubMed: 18797261] 
+Piguet O, Connally E, Krendl AC, Huot JR, Corkin S. False memory in aging: Effects of emotional 
+valence on word recognition accuracy. Psychol. Aging. 2008; 23:307–314. [PubMed: 18573005] 
+Pitarque A, Sales A, Meléndez JC, Algarabel S. Repetition increases false recollection in older people. 
+Scand. J. Psychol. 2015; 56:38–44. [PubMed: 25330138] 
+Plancher G, Guyard A, Nicolas S, Piolino P. Mechanisms underlying the production of false memories 
+for famous people’s names in aging and Alzheimer’s disease. Neuropsychologia. 2009; 47:2527–
+2536. [PubMed: 19410586] 
+Poppenk J, Evensmoen HR, Moscovitch M, Nadel L. Long-axis specialization of the human 
+hippocampus. Trends Cogn. Sci. 2013; 17:230–240. doi:http://dx.doi.org/10.1016/j.tics.
+2013.03.005. [PubMed: 23597720] 
+Preston AR, Eichenbaum H. Interplay of hippocampus and prefrontal cortex in memory. Curr. Biol. 
+2013; 23:764–773. doi:http://dx.doi.org/10.1016/j.cub.2013.05.041. [PubMed: 23623556] 
+Prull MW, Dawes LLC, Martin AM III, Rosenberg HF, Light LL. Recollection and familiarity in 
+recognition memory: Adult age differences and neuropsychological test correlates. Psychol. 
+Aging. 2006; 21:107–118. [PubMed: 16594796] 
+Prull, MW.; Gabrieli, JDE.; Bunge, SA. Age-related changes in memory: A cognitive neuroscience 
+perspective. In: Salthouse, FIM.; A, CT., editors. The Handbook of Aging and Cognition. 2nd. 
+Mahwah, NJ, US: Lawrence Erlbaum Associates Publishers; 2000. p. 91-153.
+Rahhal TA, May CP, Hasher L. Truth and character: Sources that older adults can remember. Psychol. 
+Sci. 2002; 13:101–105. [PubMed: 11933991] 
+Ranganath C. Binding items and contexts: The cognitive neuroscience of episodic memory. Curr. Dir. 
+Psychol. Sci. 2010; 19:131–137.
+Rapcsak SZ, Reminger SL, Glisky EL, Kaszniak AW, Comer JF. Neuropsychological mechanisms of 
+false facial recognition following frontal lobe damage. Cogn. Neuropsychol. 1999; 16:267–292.
+Devitt and Schacter
+Page 27
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Raz N, Lindenberger U, Rodrigue KM, Kennedy KM, Head D, Williamson A, Dahle C, Gerstorf D, 
+Acker JD. Regional brain changes in aging healthy adults: General trends, individual differences 
+and modifiers. Cereb. Cortex. 2005; 15:1676–1689. [PubMed: 15703252] 
+Reinitz MT, Hannigan SL. Effects of simultaneous stimulus presentation and attention switching on 
+memory conjunction errors. J. Mem. Lang. 2001; 44:206–219.
+Reinitz MT, Lammers WJ, Cochran BP. Memory-conjunction errors: Miscombination of stored 
+stimulus features can produce illusions of memory. Mem. Cogn. 1992; 20:1–11.
+Reinitz MT, Morrissey J, Demb J. Role of attention in face encoding. J. Exp. Psychol. Learn. Mem. 
+Cogn. 1994; 20:161–168.
+Roediger HL, Geraci L. Aging and the misinformation effect: A neuropsychological analysis. J. Exp. 
+Psychol. Learn. Mem. Cogn. 2007; 33:321–334. [PubMed: 17352614] 
+Roediger HL, McDermott KB. Creating false memories: Remembering words not presented in lists. J. 
+Exp. Psychol. Learn. Mem. Cogn. 1995; 21:803–814.
+Rosa NM, Gutchess AH. False memory in aging resulting from self-referential processing. Journals 
+Gerontol. - Ser. B Psychol. Sci. Soc. Sci. 2013; 68:882–892.
+Royet J-P, Morin-Audebrand L, Cerf-Ducastel B, Haase L, Issanchou S, Murphy C, Fonlupt P, 
+Sulmont-Rossé C, Plailly J. True and false recognition memories of odors induce distinct neural 
+signatures. Front. Hum. Neurosci. 2011; 5:65–65. [PubMed: 21811450] 
+Rubin SR, Petten CV, Glisky EL, Newberg WM. Memory conjunction errors in younger and older 
+adults: Event-related potential and neuropsychological data. Cogn. Neuropsychol. 1999; 16:459–
+488.
+Sauzéon H, N’Kaoua B, Arvind Pala P, Taillade M, Guitton P. Age and active navigation effects on 
+episodic memory: A virtual reality study. Br. J. Psychol. 2016; 107:72–94. [PubMed: 26756717] 
+Schacter, DL. The seven sins of memory: How the mind forgets and remembers. Boston and New 
+York: Houghton Mifflin; 2001. 
+Schacter DL, Addis DR. The cognitive neuroscience of constructive memory: Remembering the past 
+and imagining the future. Philos. Trans. R. Soc. 2007; 362:773–786.
+Schacter DL, Curran T, Galluccio L, Milberg WP, Bates JF. False recognition and the right frontal 
+lobe: A case study. Neuropsychologia. 1996; 34:793–808. doi:http://dx.doi.org/
+10.1016/0028-3932(95)00165-4. [PubMed: 8817509] 
+Schacter DL, Gaesser B, Addis DR. Remembering the past and imagining the future in the elderly. 
+Gerontology. 2013; 59:143–151. [PubMed: 22987157] 
+Schacter DL, Guerin SA, St Jacques PL. Memory distortion: An adaptive perspective. Trends Cogn. 
+Sci. 2011; 15:467–474. [PubMed: 21908231] 
+Schacter DL, Israel L, Racine C. Suppressing false recognition in younger and older adults: The 
+distinctiveness heuristic. J. Mem. Lang. 1999; 40:1–24. doi:http://dx.doi.org/10.1006/jmla.
+1998.2611. 
+Schacter DL, Kaszniak AW, Kihlstrom JF, Valdiserri M. The relation between source memory and 
+aging. Psychol. Aging. 1991
+Schacter DL, Koutstaal W, Norman KA. False memories and aging. Trends Cogn. Sci. 1997; 1:229–
+236. doi:http://dx.doi.org/10.1016/S1364-6613(97)01068-1. [PubMed: 21223912] 
+Schacter DL, Loftus EF. Memory and law: what can cognitive neuroscience contribute? Nat. Neurosci. 
+2013; 16:119–123. [PubMed: 23354384] 
+Schacter DL, Norman KA, Koutstaal W. The cognitive neuroscience of constructive memory. Annu. 
+Rev. Psychol. 1998; 49:289–318. [PubMed: 9496626] 
+Schlichting ML, Preston AR. Memory integration: neural mechanisms and implications for behavior. 
+Curr. Opin. Behav. Sci. 2015; 1:1–8. doi:http://dx.doi.org/10.1016/j.cobeha.2014.07.005. 
+[PubMed: 25750931] 
+Sheldon S, McAndrews MP, Moscovitch M. Episodic memory processes mediated by the medial 
+temporal lobes contribute to open-ended problem solving. Neuropsychologia. 2011; 49:2439–
+2447. doi:http://dx.doi.org/10.1016/j.neuropsychologia.2011.04.021. [PubMed: 21550352] 
+Devitt and Schacter
+Page 28
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Shing YL, Rodrigue KM, Kennedy KM, Fandakova Y, Bodammer N, Werkle-Bergner M, 
+Lindenberger U, Raz N. Hippocampal subfield volumes: Age, vascular risk, and correlation with 
+associative memory. Front. Aging Neurosci. 2011; 3:1–8. [PubMed: 21442044] 
+Shing YL, Werkle-Bergner M, Li S-C, Lindenberger U. Committing memory errors with high 
+confidence: Older adults do but children don’t. Memory. 2009; 17:169–179. [PubMed: 
+18608975] 
+Simons JS, Spiers HJ. Prefrontal and medial temporal lobe interactions in long-term memory. Nat Rev 
+Neurosci. 2003; 4:637–648. [PubMed: 12894239] 
+Simons JS, Verfaellie M, Galton CJ, Miller BL, Hodges JR, Graham KS. Recollection based memory 
+in frontotemporal dementia: implications for theories of long-term memory. Brain. 2002; 
+125:2523–2536. [PubMed: 12390977] 
+Skinner EI, Fernandes MA. Illusory recollection in older adults and younger adults under divided 
+attention. Psychol. Aging. 2009; 24:211–216. [PubMed: 19290753] 
+Slotnick SD, Moo LR, Segal JB, Hart J Jr. Distinct prefrontal cortex activity associated with item 
+memory and source memory for visual shapes. Cogn. Brain Res. 2003; 17:75–82. doi:http://
+dx.doi.org/10.1016/S0926-6410(03)00082-X. 
+Smith RE, Reed Hunt R, Dunlap KR. Why do pictures, but not visual words, reduce older adults’ false 
+memories? Psychol. Aging. 2015; 30:647–655. [PubMed: 26213799] 
+Sommers MS, Huff LM. The Effects of Age and Dementia of the Alzheimer’s Type on Phonological 
+False Memories. Psychol. Aging. 2003; 18:791–806. [PubMed: 14692865] 
+Spencer WD, Raz N. Differential effects of aging on memory for content and context: A meta-analysis. 
+Psychol. Aging. 1995; 10:527–539. [PubMed: 8749580] 
+St. Jacques PL, Montgomery D, Schacter DL. Modifying memory for a museum tour in older adults: 
+Reactivation-related updating that enhances and distorts memory is reduced in ageing. Memory. 
+2015; 23:876–887. [PubMed: 24993055] 
+St. Jacques PL, Rubin DC, Cabeza R. Age-related effects on the neural correlates of autobiographical 
+memory retrieval. Neurobiol. Aging. 2012; 33:1298–1310. doi:http://dx.doi.org/10.1016/
+j.neurobiolaging.2010.11.007. [PubMed: 21190759] 
+Stuss DT, Alexander M, HAMER L, Palumbo C, Dempster R, Binns M, Levine B, Izukawa D. The 
+effects of focal anterior and posterior brain lesions on verbal fluency. J. Int. Neuropsychol. Soc. 
+1998; 4:265–278. [PubMed: 9623001] 
+Stuss DT, Craik FIM, Sayer L, Franchi D, Alexander MP. Comparison of older people and patients 
+with frontal lesions: Evidence from word list learning. Psychol. Aging. 1996; 11:387–395. 
+[PubMed: 8893308] 
+Stuss DT, Floden D, Alexander MP, Levine B, Katz D. Stroop performance in focal lesion patients: 
+dissociation of processes and frontal lobe lesion location. Neuropsychologia. 2001; 39:771–786. 
+doi:http://dx.doi.org/10.1016/S0028-3932(01)00013-6. [PubMed: 11369401] 
+Stuss DT, Levine B, Alexander MP, Hong J, Palumbo C, Hamer L, Murphy KJ, Izukawa D. Wisconsin 
+Card Sorting Test performance in patients with focal frontal and posterior brain damage: effects 
+of lesion location and test structure on separable cognitive processes. Neuropsychologia. 2000; 
+38:388–402. doi:http://dx.doi.org/10.1016/S0028-3932(99)00093-7. [PubMed: 10683390] 
+Suengas AG, Johnson MK. Qualitative effects of rehearsal on memories for perceived and imagined 
+complex events. J. Exp. Psychol. Gen. 1988; 117:377–389.
+Swick D, Senkfor AJ, Van Petten C. Source memory retrieval is affected by aging and prefrontal 
+lesions: Behavioral and ERP evidence. Brain Res. 2006; 1107:161–176. [PubMed: 16828722] 
+Teyler TJ, Rudy JW. The hippocampal indexing theory and episodic memory: Updating the index. 
+Hippocampus. 2007; 17:1158–1169. [PubMed: 17696170] 
+Thapar A, Westerman DL. Aging and fluency-based illusions in recognition memory. Psychol. Aging. 
+2009; 24:595–603. [PubMed: 19739915] 
+Thomas AK, Bulevich JB. Effective cue utilization reduces memory errors in older adults. Psychol. 
+Aging. 2006; 21:379–389. [PubMed: 16768582] 
+Thomas AK, McDaniel MA. The interaction between frontal functioning and encoding processes in 
+reducing false memories. Aging, Neuropsychol. Cogn. 2013; 20:443–470.
+Devitt and Schacter
+Page 29
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Tisserand DJ, van Boxtel MPJ, Pruessner JC, Hofman P, Evens AC, Jolles J. A voxel-based 
+morphometric study to determine individual differences in gray matter density associated with 
+age and cognitive change over time. Cereb. Cortex. 2004; 14:973–996.
+Troyer AK, Moscovitch M, Winocur G, Alexander MP, Stuss DT. Clustering and switching on verbal 
+fluency: The effects of focal frontal- and temporal-lobe lesions. Neuropsychologia. 1998; 
+36:499–504. doi:http://dx.doi.org/10.1016/S0028-3932(97)00152-8. [PubMed: 9705059] 
+Tsukiura T, Shigemune Y, Nouchi R, Kambara T, Kawashima R. Age-related differences in prefrontal, 
+parietal, and hippocampal activations during correct rejections of faces. Jpn. Psychol. Res. 2014; 
+56:2–14.
+Tulving E. Memory and consciousness. Can. Psychol. 1985; 26:1–12.
+Tun PA, Wingfield A, Rosen MJ, Blanchard L. Response latencies for false memories: Gist-based 
+processes in normal aging. Psychol. Aging. 1998; 13:230–241. [PubMed: 9640584] 
+Umanath S, Dolan PO, Marsh EJ. Ageing and the Moses Illusion: Older adults fall for Moses but if 
+asked directly, stick with Noah. Memory. 2014; 22:481–492. [PubMed: 23705952] 
+Umanath S, Marsh EJ. Aging and the memorial consequences of catching contradictions with prior 
+knowledge. Psychol. Aging. 2012; 27:1033–1038. [PubMed: 22308998] 
+Uncapher MR, Rugg MD. Effects of divided attention on fMRI correlates of memory encoding. J. 
+Cogn. Neurosci. 2005; 17:1923–1935. [PubMed: 16356329] 
+Vannucci M, Mazzoni G, Marchetti I, Lavezzini F. “It’s a hair-dryer...No, it's a drill” 
+Misidentification-related false recognitions in younger and older adults. Arch. Gerontol. Geriatr. 
+2012; 54:310–316. [PubMed: 21871676] 
+Watson JM, McDermott KB, Balota DA. Attempting to avoid false memories in the Deese/Roediger—
+McDermott paradigm: Assessing the combined influence of practice and warnings in young and 
+old adults. Mem. Cognit. 2004; 32:135–141.
+Werheid K, Gruno M, Kathmann N, Fischer H, Almkvist O, Winblad B. Biased recognition of positive 
+faces in aging and amnestic mild cognitive impairment. Psychol. Aging. 2010; 25:1–15. 
+[PubMed: 20230123] 
+West RL. An application of prefrontal cortex function theory to cognitive aging. Psychol. Bull. 1996; 
+120:272–292. [PubMed: 8831298] 
+Wilson IA, Gallagher M, Eichenbaum H, Tanila H. Neurocognitive aging: prior memories hinder new 
+hippocampal encoding. Trends Neurosci. 2006; 29:662–670. doi:http://dx.doi.org/10.1016/j.tins.
+2006.10.002. [PubMed: 17046075] 
+Wong JT, Gallo DA. Stereotype threat reduces false recognition when older adults are forewarned. 
+Memory. 2015; 24:650–658. [PubMed: 26218527] 
+Wylie, LE.; Patihis, L.; McCuller, LL.; Davis, D.; Brank, E.; Loftus, EF.; Bornstein, B. Misinformation 
+effect in older versus younger adults: A meta-analysis and review. In: Tolglia, MP.; Ross, DF.; 
+Pozzulo, J.; Pica, E., editors. The Elderly Eyewitness in Court. UK: Psychology Press; 2014. p. 
+38-66.
+Yassa MA, Lacy JW, Stark SM, Albert MS, Gallagher M, Stark CEL. Pattern separation deficits 
+associated with increased hippocampal CA3 and dentate gyrus activity in nondemented older 
+adults. Hippocampus. 2011a; 21:968–979. [PubMed: 20865732] 
+Yassa MA, Mattfeld AT, Stark SM, Stark CEL. Age-related memory deficits linked to circuit-specific 
+disruptions in the hippocampus. Proc. Natl. Acad. Sci. 2011b; 108:8873–8878. [PubMed: 
+21555581] 
+Yonelinas AP. The nature of recollection and familiarity: A review of 30 Years of research. J. Mem. 
+Lang. 2002; 46:441–517.
+Yonelinas AP, Widaman K, Mungas D, Reed BR, Weiner MW, Chui HC. Memory in the aging brain: 
+Doubly dissociating the contribution of the hippocampus and entorhinal cortex. Hippocampus. 
+2007; 17:1134–1140. [PubMed: 17636547] 
+Zeidman P, Maguire EA. Anterior hippocampus: the anatomy of perception, imagination and episodic 
+memory. Nat. Rev. Neurosci. 2016; 17:173–182. [PubMed: 26865022] 
+Zhu B, Chen C, Loftus EF, Lin C, Dong Q. The relationship between DRM and misinformation false 
+memories. Mem. Cognit. 2013; 41:832–838.
+Devitt and Schacter
+Page 30
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Zhu B, Chen C, Loftus EF, Lin C, He Q, Chen C, Li H, Xue G, Lu Z, Dong Q. Individual differences 
+in false memory from misinformation: Cognitive factors. Memory. 2010; 18:543–555. [PubMed: 
+20623420] 
+Devitt and Schacter
+Page 31
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Highlights
+•
+Review of behavioral and neuroimaging research on false memories 
+and healthy aging
+•
+Multifaceted cognitive changes contribute to false memory increase 
+with age
+•
+Age-related medial temporal and prefrontal decline play a prominent 
+role
+•
+Neural changes result in impaired associative memory and strategic 
+monitoring
+Devitt and Schacter
+Page 32
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript

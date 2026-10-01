@@ -1,0 +1,1187 @@
+© The Author(s) 2018. Published by Oxford University Press on behalf of The Gerontological Society of America. All rights 
+reserved. For permissions, please e-mail: journals.permissions@oup.com.
+1111
+Cognitive Neuroscience of Aging
+Differentiating True and False Schematic Memories in 
+Older Adults
+Christina E. Webb, MS and Nancy A. Dennis, PhD
+Department of Psychology, The Pennsylvania State University, University Park.
+Address correspondence to: Nancy A. Dennis, PhD, Department of Psychology, The Pennsylvania State University, 450 Moore Bldg. University 
+Park, PA 16802. E-mail: nad12@psu.edu
+Received: July 20, 2017; Editorial Decision Date: January 23, 2018
+Decision Editor: Nicole Anderson, PhD, CPsych
+Abstract
+Objective: While schemas aid memory for schematically related information, the gist induced by the schema can also lead 
+to high rates of false memories, especially in older adults. The neural mechanisms that support and differentiate true and 
+false memories in aging are not well understood. The current study sought to clarify this, using a novel scene paradigm to 
+investigate the role of schemas on true and false memories in older adults.
+Methods: Healthy older adults encoded schematic scenes (e.g., bathroom). At retrieval, participants were tested on their 
+memory for both schematic and nonschematic targets and lures while functional magnetic resonance imaging data was 
+collected.
+Results: Results indicate that true memories were supported by the typical retrieval network, and activity in this network 
+was greater for true than false memories. Schema specific retrieval was supported by medial prefrontal cortex, extending 
+this common finding to aging. While no region differentiated false memories compared to correct rejections, results showed 
+that individual differences in false memory rates were associated with variability in neural activity.
+Discussion: The findings underscore the importance of elucidating the neural basis of cognition within older adults, as well 
+as the specific contribution of individual differences to the neural basis of memory errors in aging.
+Keywords: False memory, functional magnetic resonance imaging, Schema memory
+Schemas provide useful frameworks for organizing large 
+amounts of information, which in turn facilitates memory 
+encoding and retrieval (Alba & Hasher, 1983). The extrac-
+tion of schematic gist helps guide attention during scene 
+processing and facilitates memory for schema-consistent 
+(i.e., schematic) information (Brewer & Treyens, 1981; 
+Hess & Slaughter, 1990; Miller & Gazzaniga, 1998; Oliva 
+& Torralba, 2006; Webb, Turney, & Dennis, 2016). Despite 
+this, reliance on schemas can induce false memories for 
+new, but schematically related, information (Lampinen, 
+Copeland, & Neuschatz, 2001; Miller & Gazzaniga, 1998; 
+Neuschatz, Lampinen, Preston, Hawkins, & Toglia, 2002; 
+Pezdek, Whetstone, Reynolds, Askari, & Dougherty, 1989). 
+This can be particularly problematic for older adults who 
+show an overreliance on gist (Koutstaal & Schacter, 1997; 
+Tun, Wingfield, Rosen, & Blanchard, 1998) and schema 
+based processing in memory tasks (e.g., Castel, 2005; Hess 
+& Slaughter, 1990; Waddell & Rogoff, 1981). Given this, 
+the current study sought to examine the role of schematic 
+gist in both true and false memories in older adults, as well 
+as identify the neural correlates that support and differen-
+tiate each type of memory in aging.
+While schemas can facilitate true memory for schematic in-
+formation (Brewer & Treyens, 1981; Hess & Slaughter, 1990; 
+Miller & Gazzaniga, 1998), the neural mechanisms of this 
+processing advantage have only recently begun to be inves-
+tigated (e.g., Aminoff, Schacter, & Bar, 2008; van Kesteren, 
+Rijpkema, Ruiter, & Fernandez, 2010). For example, work by 
+Journals of Gerontology: Psychological Sciences
+cite as: J Gerontol B Psychol Sci Soc Sci, 2019, Vol. 74, No. 7, 1111–1120
+doi:10.1093/geronb/gby011
+Advance Access publication February 6, 2018
+
+van Kesteren and colleagues (2010) in younger adults has sug-
+gested a role of ventral medial prefrontal cortex (mPFC) in 
+contributing to successful encoding and retrieval of schematic 
+information, due to the fact that it is consistent with prior 
+knowledge. In addition, recent evidence from our lab showed 
+higher rates of accurate retrieval of schematic compared to 
+nonschematic information, and this memory advantage was 
+supported by activity in occipital cortices and hippocampus in 
+younger adults (Webb et al., 2016). Further, both true and false 
+retrieval of schematic information was associated with neural 
+processing in the lateral temporal cortices, a region associ-
+ated with processing and retrieval of semantic gist (Simons 
+et al., 2005; Wise & Price, 2006); however, this activation was 
+greater for false memories. This suggests that false recognition 
+of schematically related information arose primarily as a re-
+sult of the gist shared between the schema and related lures. 
+Because older adults show an increased reliance on schematic 
+processing in memory tasks compared with younger adults 
+(Hess & Slaughter, 1990; Koutstaal & Schacter, 1997; Tun 
+et al., 1998), older adults’ false memories to schematic lures 
+may also be reliant on gist-processing regions, such as the lat-
+eral temporal cortices.
+While a handful of studies have examined false memo-
+ries in aging, the majority of these studies have reported 
+results in reference to activation differences between older 
+and younger adults, or have examined neural activity that 
+is common across true and false memories (e.g., Dennis, 
+Bowman, & Peterson, 2014; Dennis, Kim, & Cabeza, 
+2008; Duarte, Graham, & Henson, 2010). As a result, they 
+only provide a partial understanding of how true and false 
+memories are represented within older adults themselves. 
+These studies generally find that while true recognition in 
+older adults is supported by activity in middle and medial 
+prefrontal, medial temporal, and parieto-occipital regions 
+(Dennis et al., 2008; Duarte et al., 2010), false recognition 
+of new items is supported by activity in dorsal prefrontal, 
+lateral temporal, and inferior parietal regions (Dennis 
+et al., 2008; Duarte et al., 2010). Recent evidence from our 
+lab also suggests that activity in middle and superior tem-
+poral gyri (MTG; STG) predicts false memory rates in older 
+adults (Dennis, Bowman, & Vandekar, 2012; Dennis, Kim, 
+& Cabeza, 2007; Dennis & Turney, 2018), with higher 
+rates of false memories associated with increased activity 
+in this region. This is thought to reflect the influence of 
+gist-based processing leading to false recognition of related 
+lures that share semantic or conceptual features with stud-
+ied information (Dennis et al., 2007; Dennis et al., 2008; 
+Dennis et al., 2014; Duarte et al., 2010; Webb et al., 2016). 
+This result aligns with behavioral studies suggesting that 
+an overreliance on gist processing contributes to increased 
+rates of false memories in older adults.
+Given that much of everyday memory is embedded 
+within schemas (e.g., memory for a birthday party or a 
+trip to the beach), it is important to understand if what 
+has been observed in past research investigating semantic 
+and perceptual false memories extends to more complex 
+stimuli. In line with previous research, we expect that older 
+adults will utilize the encoded schemas to support true 
+memories, but also that the strong gist will lead to high 
+rates of false memories for schematically related lures. We 
+expect neuroimaging results to show that true memories 
+are supported by neural activation in the medial temporal 
+lobes (MTL) and frontal and parietal cortices, typically 
+found to underlie accurate memories. These regions should 
+exhibit greater activity for true compared to false memo-
+ries, reflecting recapitulation and retrieval of item-specific 
+details from encoding. Further, we expect that successful 
+retrieval of the schema (compared to nonschematic items), 
+as well as false recognition of schematically related lures 
+should elicit activation in lateral temporal cortices as re-
+trieval of the strong schematic gist should influence both 
+memory processes. Critically, in line with previous false 
+memory research in aging, we also expect that variability in 
+the rate of false memory will play a critical role in modulat-
+ing neural activity, specifically in the lateral temporal corti-
+ces. Results from the current study will help clarify the role 
+of schemas in true and false memory in aging, as well as 
+how neural activity is influenced by these processes within 
+older adults.
+Methods
+Participants
+Thirty right-handed native English speaking older adults 
+from the State College community completed this experi-
+ment. Participants were screened for history of neuro-
+logical disorders and psychiatric illness, alcoholism, drug 
+abuse, and/or learning disabilities. Three older adults were 
+excluded from the analysis due to head motion in excess of 
+4 mm and two were excluded for excessive atrophy. Five 
+additional older adults were also excluded for poor behav-
+ioral performance (two for greater than 50% miss rate for 
+schematic targets; three for a no response rate greater than 
+30%), leaving data from 20 participants (16 females; mean 
+age = 74.55 years [SD = 7.21]). See Table 1 for complete 
+participant demographics. As part of a secondary analysis 
+regarding effects of age, the current results in older adults 
+were examined in comparison with a previously published 
+sample of younger adults who completed the same task. 
+This sample included 22 younger adults (13 females; mean 
+age = 22.91 years [SD = 3.01]). For complete results in 
+younger adults, refer to Webb et al. (2016). All participants 
+provided written informed consent and received finan-
+cial compensation for their participation. All experimen-
+tal procedures were approved by The Pennsylvania State 
+University’s Institutional Review Board for the ethical 
+treatment of human participants.
+Stimuli
+Stimuli consisted of 26 schematic scenes (e.g., Bathroom, 
+Farm), comprised of objects commonly related to each 
+1112
+
+schema (schematic targets: e.g., Farm: pig, barn; Bathroom: 
+toilet, tub) as well as items unrelated to the schema (e.g., 
+Farm: bush; flower pot; Bathroom: vase; spray bottle) (see 
+Figure 1). Lures also consisted of both items commonly 
+related to each schema (schematic lures: e.g., Farm: rooster, 
+tractor; Bathroom: sink, plunger), as well as unrelated lures 
+(e.g., purse, hammer). All backgrounds and images were 
+obtained from an Internet image search. All items included 
+in testing were normed for their association with each scene 
+in a multi-step process (for details regarding norming and a 
+list of all included items, see Webb et al., 2016). At encod-
+ing, 26 schematic scenes were presented focally in the same 
+order for all participants. Three hundred individual items 
+were presented one at a time at retrieval, including (a) 104 
+related targets (4 from each scene); (b) 62 unrelated targets 
+(2–3 from each scene); (c) 104 related lures (4 associated 
+with each scene); and (d) 30 unrelated lures.
+Task and Procedure
+An intentional encoding task took place outside of the scan-
+ner during which participants were asked to look at each 
+scene and try to remember as much as they could for a later 
+memory task. The 26 scenes were presented for 10 s each 
+across two runs (13 scenes per run). Retrieval occurred in 
+the scanner during which individual items from the scenes 
+were presented in the center of the screen. The order of 
+stimulus presentation at both encoding and retrieval was 
+the same for all participants. Behavioral responses were 
+recorded on a four-button response box. Images were dis-
+played by COGENT in MATLAB (Mathworks Inc., Natick, 
+MA) and were displayed at a screen resolution of 1,024 (H) 
+× 768 (V) at 75 Hz.
+During retrieval participants completed six runs, each 
+approximately 7 min in length. Each image was displayed 
+for 3 s during which participants made memory responses 
+using the “Remember/Know/New” paradigm. A jittered 
+interstimulus interval (2–8 s) separated the presentation 
+of each image. The images were pseudorandomly sorted, 
+ensuring that no more than three images from any one trial 
+type appeared in a row and no two images associated with 
+a given scene appeared in a row. In accord with typical 
+Remember/Know/New task instructions, participants were 
+told to respond “Remember” if they could recollect specific 
+details about the object such as its shape, color, placement 
+in the scene or their thoughts or feelings during its initial 
+presentation. Participants were told to respond “Know” if 
+the picture looked familiar, but they could not recollect any 
+specific details of its prior presentation. They were told to 
+respond “New” if they believed the picture was not pre-
+sented during the encoding session.
+Image Acquisition
+Structural and functional images were acquired using a 
+Siemens 3T scanner equipped with a 12-channel head 
+coil, parallel to the AC–PC plane. Structural images were 
+Table 1. Participant Demographics and Behavioral Rates
+Older adults 
+(N = 20)
+Younger 
+adults (N = 22)
+Participant Demographics
+Age
+74.55 (7.21)
+22.91 (3.01)
+Education (years)
+17.50 (1.82)
+-
+Cognitive assessment 
+tasks
+ MMSE
+29.60 (0.60)
+-
+ WAIS-III
+ Symbol Search
+13.70 (2.49)
+-
+ Digit Symbol Coding
+12.85 (2.58)
+-
+ Symbol Copy
+102.55 (23.22)
+-
+ Digit Span
+11.95 (2.26)
+-
+ Arithmetic
+11.25 (1.68)
+-
+ Letter Number 
+Sequencing
+11.53 (3.37)
+-
+ Vocabulary
+14.10 (2.94)
+-
+ GDS
+0.70 (1.08)
+-
+Memory Task—Retrieval Rates
+All “Old” Responses
+ Related Hits
+0.70 (0.13)
+0.69 (0.11)
+ Unrelated Hits
+0.56 (0.15)
+0.54 (0.14)
+ Related False Alarms
+0.56 (0.17)
+0.54 (0.13)
+ Unrelated False 
+Alarms
+0.26 (0.19)
+0.24 (0.17)
+Note: All numbers indicate means, with standard deviations in parenthe-
+ses; all scores represent scaled scores with the exception of Symbol Copy; 
+MMSE = Mini-Mental State Exam; GDS = Geriatric Depression Scale; Neither 
+detailed demographic characteristics nor cognitive assessment measures were 
+collected for the younger adult data reported in Webb et al. 2016.
+Figure 1. Schematic scene memory paradigm. During encoding, par-
+ticipants viewed schematic scenes (e.g., Bathroom, Beach). During 
+retrieval, in the MRI scanner, participants made “Remember,” “Know,” 
+or “New” responses to both schematically related targets (e.g., toilet, 
+sand pail/shovel) and lures (e.g., sink, sandcastle), as well as unrelated 
+targets (e.g., flower vase, music player) and lures (e.g., mirror, camera).
+1113
+
+acquired with a 1,650 ms TR, 2.03 ms TE, 256 mm field 
+of view (FOV), 2562 matrix, 160 axial slices, and 1.0 mm 
+slice thickness for each participant. Echo-planar functional 
+images were acquired using a descending acquisition, 
+2,500 ms TR, 25 ms TE, 240 mm FOV, a 802 matrix, 90° 
+flip angle, 42 axial slices with 3.0 mm slice thickness result-
+ing in 3.0 mm isotropic voxels.
+Image Processing
+Preprocessing of all imaging data was carried out in SPM8 
+(Wellcome Institute of Cognitive Neurology, London, UK. 
+www.fil.ion.ucl.ac.uk), using MATLAB (Mathworks Inc). 
+The functional time series were first corrected for differ-
+ences in slice timing acquisition. Functional images were 
+then realigned to the first image using a six-parameter 
+rigid body affine transformation and then spatially nor-
+malized to the standard Montreal Neurological Institute 
+(MNI) template implemented in SPM8. To do this, the raw 
+structural image was coregistered to the mean realigned 
+functional image, and then this coregistered image was 
+segmented and registered to the MNI template. Lastly, the 
+parameters from this registration process were applied to 
+the slice time corrected and realigned functional images 
+(3 mm isotropic voxels) to normalize them to the MNI tem-
+plate, with coordinates later converted into Talairach space 
+(Talairach & Tournoux, 1988) for reporting. As a final 
+preprocessing step, all of the normalized functional images 
+were smoothed using a 6 mm full-width-half-maximum 
+Gaussian smoothing kernel.
+Functional Magnetic Resonance Imaging 
+Analyses
+Trial-related activity was modeled at the first-level using 
+the general linear model with a stick function correspond-
+ing to trial onset, convolved with a canonical hemodynamic 
+response function. A second-level random effects model was 
+created and one sample t-tests were conducted to investi-
+gate contrasts of interest. The current analyses focused on 
+five trial types of interest: (a) Schematic Hits, which were 
+defined as both “Remember” and “Know” responses to 
+related targets; (b) Schematic Misses, which were defined 
+as “New” responses to related targets; (c) Schematic False 
+Alarms (FA), which were defined as both “Remember” and 
+“Know” responses to related lures; (d) Schematic Correct 
+Rejections (CR), which were defined as “New” responses to 
+related lures; and (e) Nonschematic Hits, which were defined 
+as both “Remember” and “Know” responses to unrelated 
+targets. All other trial types, along with no response trials, 
+were coded with their own regressors (as were movement 
+parameters) and treated as regressors of no interest.
+To examine effects of true and false memory in aging, 
+we first examined neural regions that supported veridical 
+and false schematic retrieval by contrasting schematic hits 
+with schematic misses and schematic FA with schematic 
+CR, respectively. Then, in order to identify neural resources 
+that were differentially recruited for each type of retrieval 
+response, we directly compared activity supporting sche-
+matic hits and FA, within regions that were significantly 
+activated for each type of memory. In order to further char-
+acterize this activity, we compared the foregoing activation 
+differences in older adults with that of younger adults using 
+a 2 (age: old, young) × 2 (veracity: schematic hit, schematic 
+FA) analysis of variance (ANOVA) on peak activity in the 
+regions that were shown to differentiate veracity in older 
+adults. Additionally, schematic memory effects in older 
+adults were examined by contrasting schematic and non-
+schematic hit activity to identify regions that specifically 
+contributed to accurate memory for the schema above and 
+beyond that of general memory processes. Similar to above, 
+age differences were assessed with a 2 (age: old, young) × 
+2 (schema type: schematic hit, nonschematic hit) repeated 
+measures ANOVA on peak activity in the regions that were 
+shown in older adults to support schematic compared to 
+nonschematic memory.
+Finally, individual difference analyses were conducted to 
+identify neural activity associated with variability in older 
+adults’ behavioral performance supporting both true and 
+false schematic retrieval. Specifically, we regressed the con-
+trast of schematic hits > misses on hit rates to schematic 
+targets to identify regions in which behavioral perform-
+ance predicted the magnitude of activation for true recog-
+nition. A similar analysis was conducted for false memories 
+in which the schematic FA > CR contrast was regressed 
+with false alarm rates to schematic lures in order to iden-
+tify regions in which behavioral performance predicted the 
+magnitude of activation for false recognition.
+To identify significant results in our contrasts of interest, 
+we employed Monte Carlo simulations as implemented by 
+3dClustSim in AFNI version 16.0 (Cox & Hyde, 1997), 
+to determine activation that was corrected for multiple 
+comparisons at p < .05. The input to this simulation was 
+the search space [grey matter mask using the Wake Forest 
+University aal pickatlas (Lancaster et al., 2000)], across-
+subject average intrinsic smoothness obtained from the 
+residual time-series (12.0 mm), and the uncorrected p 
+threshold (p < .005). An additional simulation was run 
+to determine a correction specific to our a priori regions 
+of interest (ROIs), including the MTG/STG and the MTL 
+(hippocampus and parahippocampal gyrus), which were 
+defined by using anatomical masks of each region (bilat-
+erally) within the aal pickatlas toolbox in SPM8.
+Results
+Behavioral Results
+A 2 (memory: hit, FA) × 2 (schema type: schematic, non-
+schematic) ANOVA calculated on “old” response rates 
+(collapsed across “Remember” and “Know”) revealed 
+1114
+
+significant main effects of both memory (F[1,19] = 104.72, 
+p < .001) and schema type (F[1,19] = 78.89, p < .001), as 
+well as a significant memory by schema type interaction 
+(F[1,19] = 17.18, p < .001). Follow-up t-tests indicated 
+that older adults made more hits (t[19] = 6.22, p < .001) 
+as well as more FAs to schematic than nonschematic items 
+(t[19] = 7.86, p < .001). It should be noted that while un-
+related lures included both plausible and nonplausible 
+items, nonschematic target were always plausible items 
+that fit within the scene with which they were associ-
+ated. In addition, older adults made more hits than FA to 
+both schematic (t[19] = 6.90, p < .001) and nonschematic 
+items (t[19] = 8.64, p < .001), indicating discriminability 
+between both targets and lures for both schema types. 
+Separate analyses with age showed no significant differ-
+ences between age groups across any trial type (all ps > 
+.05; see Table 1 for all means).
+Neuroimaging Results
+True schematic memories (schematic hits > misses) exhib-
+ited neural activity in the typical retrieval network includ-
+ing mPFC, bilateral hippocampus/parahippocampal gyrus, 
+bilateral inferior parietal lobe, precuneus, fusiform gyrus, 
+and right MTG. Furthermore, activity in frontal-partial 
+regions, left hippocampus, right MTG, and left fusiform 
+distinguished schematic hits from schematic FA (Figure 2; 
+Table 2). Within all regions that distinguished true from 
+false memory in older adults, significant interactions were 
+observed between age and veracity (all Fs > 5, all ps < .05). 
+Specifically, while older adults varied activity based on ver-
+acity, younger adults did not across all regions.
+Neural activity supporting accurate retrieval of sche-
+matic compared to nonschematic items in older adults 
+was identified in mPFC, precuneus, right MTG, and oc-
+cipitotemporal cortex (Figure 2; Table 3). Age by schema 
+type ANOVAs within each region revealed a main effect 
+of schema, such that older and younger adults similarly 
+showed greater activity in these regions for schematic com-
+pared to nonschematic hits (all Fs > 8, all ps < .05). Only 
+activity in mPFC exhibited a main effect of age, such that 
+older adults showed greater activation across both sche-
+matic and nonschematic hits compared to younger adults 
+(F[1, 19] = 6.76, p <. 05). No interactions between age and 
+schema type were identified.
+Using correct rejections as a baseline, false mem-
+ory retrieval exhibited no distinguishing neural activity. 
+However, when regressing false alarm rates with the fore-
+going analysis, results showed that neural activity in bilat-
+eral middle frontal gyrus, bilateral MTG, and bilateral 
+hippocampus/parahippocampal gyrus increased as a func-
+tion of false memory rate (Figure 3). For complete results, 
+see Table 4. No significant results were identified for the 
+true memory regression.
+Discussion
+Consistent with past research investigating schematic mem-
+ory, the schema supported veridical memory for schemat-
+ically related information, leading to a higher hit rate for 
+schematic items compared to nonschematic items. At the 
+same time, the schematic gist induced by the scenes led to 
+an increased rate of false memories for schematically related 
+lures compared to unrelated lures. The imaging analyses 
+showed that true memories were mediated by the typical 
+retrieval network, including frontal-parietal and medial 
+temporal regions, as well as the MTG, a region implicated 
+in gist processing. Moreover, a comparison of schematic 
+and nonschematic retrieval indicated that older adults 
+also elicit ventral mPFC when retrieving schema specific 
+information, extending a key finding in schema memory 
+research in younger adults to aging. While false memories 
+did not exhibit any unique recruitment compared to correct 
+rejections, individual differences in rates of false memories 
+were found to be a critical indicator of neural recruit-
+ment supporting these memory errors in aging, specifically 
+within bilateral MTL and MTG. Each finding is discussed 
+in turn below.
+True Schematic Retrieval
+True memory for schematic targets (schematic hits vs 
+misses) exhibited activation throughout the typical retrieval 
+network, including mPFC, bilateral hippocampus/PHG, bi-
+lateral inferior parietal lobe, right MTG and left fusiform 
+gyrus (see Spaniol et al., 2009 for meta-analyis of retrieval 
+activity in younger adults). The presence of this network in 
+a group of older adults highlights its stability in supporting 
+Figure 2. Effect of schemas on true and false recognition. Activation 
+map in red depicts regions showing greater activation for true (Hit) 
+compared to false memory (FA) in regions masked by true retrieval (red) 
+and activation map in blue depicts regions showing greater activation 
+for schematic hits (S-Hit) compared to nonschematic hits (NS-Hit) in 
+older adults. Bar graphs are included to indicate age differences within 
+regions activated by older adults for each contrast (OA = older adults; 
+YA = younger adults).
+1115
+
+successful retrieval throughout aging. Activity in frontal-
+partial regions, left hippocampus, right MTG, and left fu-
+siform distinguished hits from false alarms, indicating a 
+stronger role of these retrieval-related regions in true com-
+pared to false memories in older adults (Figure 2). Frontal-
+parietal, and specifically dorsal PFC, activity has been shown 
+to support memory monitoring and decision making, lead-
+ing to successful recognition (e.g., Yonelinas, Otten, Shaw, 
+& Rugg, 2005). The fact that these regions contributed to 
+a greater degree to true versus false memories reflects the 
+idea that demands may be greater for accurate compared 
+to illusory memories in older adults. Interestingly, false 
+memory studies in younger adults have often found the 
+opposite pattern (i.e., greater frontal activation for false 
+compared to true memories; Dennis et al., 2012; Kim & 
+Cabeza, 2007; Okado & Stark, 2003), with prior studies 
+attributing this pattern of activity to increased monitoring 
+demands required when presented with highly related lures 
+(Dennis et al., 2012; Kahn, Davachi, & Wagner, 2004). If 
+one views the difference between true and false retrieval as 
+reflecting differences in retrieval monitoring demands, then 
+the fact that we observed greater frontal activity for true 
+memories is consistent with the scaffolding theory of cog-
+nitive aging, wherein older adults engage frontal resources 
+at an earlier level of difficulty compared to younger adults 
+(Park & Reuter-Lorenz, 2009). A comparison with younger 
+Table 2. True Retrieval
+All hit vs miss
+All hit vs all FA (masked with 
+all hit vs miss)
+Region
+H
+BA
+Coordinates
+t
+mm3
+Coordinates
+t
+mm3
+x
+y
+z
+x
+y
+z
+Medial Prefrontal Cortex
+M
+32/10
+−6
+57
+1
+7.37
+2889
+−6
+55
+4
+7.14
+2,889
+Hippocampus
+R
+--
+33
+−22
+−8
+4.32
+459
+Hippocampus/Parahippocampal Gyrus
+L
+--
+−24
+−33
+−5
+5.29
+7776
+−30
+−30
+−5
+3.98
+810
+Parahippocampal Gyrus
+R
+30
+27
+−39
+−5
+4.95
+2430
+Inferior Parietal Lobe
+R
+40
+42
+−40
+39
+6.30
+2997
+R
+21
+62
+−48
+1
+4.53
+2916
+53
+−64
+12
+4.86
+1,296
+Precuneus/Cuneus
+R
+7/31
+12
+−61
+32
+5.50
+5454
+18
+−49
+28
+5.03
+4,239
+Inferior Temporal Gyrus/Fusiform
+L
+37
+−39
+−62
+−4
+5.03
+3267
+−36
+−48
+−14
+6.79
+2,511
+Inferior Parietal Lobe
+L
+7
+−33
+−69
+46
+4.42
+5643
+−39
+−57
+40
+4.35
+891
+Note: Italics represent a priori ROIs. FA = False Alarm; H = hemisphere (L = left; R = right; M = medial); BA = Brodmann’s area; x,y,z represent peak Talairach 
+coordinates; t: statistical t value; mm3 represents voxel extent.
+Table 3. Schema Specific Retrieval
+Schematic hit > Nonschematic hit
+Region
+H
+BA
+Coordinates
+t
+mm3
+x
+y
+z
+Medial Prefrontal Cortex
+M
+10/11
+3
+54
+−12
+4.04
+2,727
+Precuneus
+R
+31
+12
+−61
+29
+4.23
+4,536
+R
+39
+53
+−65
+10
+4.86
+2,673
+Occipitotemporal Cortex
+L
+19
+−48
+−73
+10
+6.74
+2,052
+Note: Italics represent a priori ROIs. FA = False Alarm; H = hemisphere (L = left; R = right; M = medial); BA = Brodmann’s area; x,y,z represent peak Talairach 
+coordinates; t: statistical t value; mm3 represents voxel extent; No region showed greater activity for nonschematic compared to schematic hits.
+Figure 3. Individual differences in false memory. Activation maps rep-
+resent regions, including bilateral middle frontal gyrus (MFG), bilateral 
+middle temporal gyrus (MTG), and bilateral hippocampus/parahip-
+pocampal gyrus (HC/PHG), where neural activity was correlated with 
+false memory rate. X-axis represents beta values from neural signal. 
+Y-axis represents percentage of related false alarms.
+1116
+
+adults who completed the current task further supports this 
+notion in that younger adults did not exhibit any effect of 
+veracity on mPFC or parietal activation.
+The comparison between schematic and nonschematic 
+hits also indicated a role of the mPFC in supporting memory 
+for schema specific information. While the loci of activa-
+tion in the two analyses overlapped in extent, the activation 
+elicited for schema specific memory extended out ventrally 
+from the memory success cluster (see Figure 2). This is con-
+sistent with previous research in younger adults, which 
+commonly finds that ventral mPFC is critical to integrating 
+and retrieving schematic information (e.g., Aminoff et al., 
+2008; van Kesteren et al., 2010); whereas more dorsal 
+mPFC, as mentioned above, is supportive of memory mon-
+itoring and decision making (Buckner & Wheeler, 2001; 
+Yonelinas et al., 2005). Importantly, to our knowledge, this 
+is the first study to indicate that ventral mPFC plays a spe-
+cific role in supporting memory for schematic information 
+in older adults. Moreover, our results showed that older 
+adults recruited this region for schematic retrieval to an 
+even greater degree than younger adults in order to sup-
+port an equivalent level of memory for schematic targets. 
+This may be indicative of the fact that older adults rely 
+on schematic information to a greater degree in order to 
+support accurate memory. Future research should aim to 
+further delineate specific differences between general moni-
+toring and schema specific prefrontal-based processes in 
+both older and younger adults with the goal of clarifying 
+the role of mPFC in schema memory across age.
+In addition to regions supporting memory monitor-
+ing, older adults also elicited greater activity in memory-
+related medial temporal regions, specifically left posterior 
+hippocampus/PHG, for true compared to false retrieval. 
+While greater MTL for true compared to false memories 
+is often observed in younger adults (for review see Dennis, 
+Bowman, & Turney, 2015), it is not often reported in stud-
+ies of older adults, likely due in part to the fact that past 
+research has reported only age differences. The ability of 
+the MTL to differentiate veracity of memories has been 
+posited to reflect the retrieval of episodic details support-
+ing veridical memories (Cabeza, Rao, Wagner, Mayer, & 
+Schacter, 2001; Kahn et al., 2004; Okado & Stark, 2003). 
+The current results are consistent with this interpretation, 
+and suggest that the MTL maintains the ability to differ-
+entiate veridical from illusory retrieval throughout the life 
+span. Furthermore, this appears to be the case regardless 
+of the level of schema relatedness, as no differences in hip-
+pocampal activation were identified between schematic and 
+nonschematic hits. Interestingly, the exact locus of this pro-
+cess in the MTL does not appear to be consistent across 
+age. While younger adults exhibited differentiation of ver-
+acity in anterior hippocampus (Webb & Dennis, 2016), 
+older adults exhibited this difference in a more posterior 
+region, with younger showing no differentiation at this 
+locus. This highlights the critical importance of examin-
+ing subdivisions of the MTL when characterizing true and 
+false memory retrieval in older and younger adults. Future 
+research using more fine-grained high resolution and neu-
+roimaging pattern analyses will be able to further charac-
+terize these delineations.
+Reinstatement of encoding-related sensory details 
+has also been shown to play a key role in differentiating 
+between retrieval of veridical and false information (Dennis 
+et al., 2012; Slotnick & Schacter, 2004). Aside from activ-
+ity in left fusiform gyrus, older adults did not exhibit dif-
+ferential activation in occipital cortex supporting true 
+memories. This differs from prior false memory studies in 
+younger adults (Dennis et al., 2012; Slotnick & Schacter, 
+2004), including younger adults in this same paradigm 
+(Webb et al., 2016), where early occipital cortex supported 
+the distinction between true and false memories. The cur-
+rent results are, however, consistent with cognitive aging 
+research showing reduced differentiation in occipital cor-
+tices (Goh, 2011) and support the conclusion that older 
+adults do not experience recapitulation of sensory details 
+during retrieval to support veridical memory in the same 
+manner as is seen in younger adults. Given the fact that 
+older and younger adults showed equivalent memory for 
+Table 4. Individual Differences in False Retrieval
+Coordinates
+Region
+H
+BA
+x
+y
+z
+t
+mm3
+Middle Frontal Gyrus
+L
+10/46/45
+−21
+37
+7
+5.40
+4,104
+R
+10/46/45
+24
+31
+2
+6.33
+6,561
+L
+21
+−59
+−10
+−14
+5.75
+3,726
+R
+21
+59
+−10
+−6
+3.85
+810
+Hippocampus/Parahippocampal Gyrus
+L
+--
+−39
+−25
+−11
+5.06
+1,485
+R
+--
+33
+−33
+0
+3.52
+837
+Insula
+R
+31
+30
+−29
+16
+4.97
+2,133
+Occipitotemporal/Fusiform
+R
+37/19
+24
+−54
+−4
+3.99
+2,835
+Middle Occipital Gyrus
+L
+18
+−21
+−85
+19
+4.09
+4,050
+Note: Italics represent a priori ROIs. H = hemisphere (L = left; R = right); BA = Brodmann’s area; x,y,z represent Talairach coordinates; t: statistical t value; mm3 
+represents voxel extent.
+1117
+
+schematic targets, this may indicate that older adults show 
+a greater reliance on other processing resources, such as 
+mPFC to support veridical memory.
+Finally, right MTG was found to support veridical retrieval 
+in older adults. This region, and specifically right-lateralized 
+activity, has been noted in meta-analyses of subjective recol-
+lection (Spaniol et al., 2009), yet its role in relation to true 
+retrieval has not been previously explored. As noted, past 
+work in language and semantic memory has shown a role 
+of lateral temporal gyri in semantic gist processing (Simons 
+et al., 2005; Wise & Price, 2006). For example, STG and 
+MTG have been shown to support integration of semantic 
+information, and patients with damage to right MTG fail 
+to comprehend the gist of stories or conversations (Jung-
+Beeman, 2005). Given that, in the current study, schematic 
+gist is inherently part of the associations between items 
+within the scenes, results indicate that activity in lateral tem-
+poral gyri may facilitate retrieval of the schema, and in turn, 
+memory for the related target item (Webb et al., 2016). In 
+fact, a largely overlapping region of the MTG (see Figure 2) 
+was identified as supporting retrieval of schema specific 
+(compared to unrelated) information, further highlighting 
+the contribution of schematic gist to supporting successful 
+retrieval in older adults. Moreover, younger adults did not 
+differentially recruit this region based on veracity, suggest-
+ing that retrieval of schematic gist information may be more 
+critical to supporting equivalent levels of accurate memory 
+for the schema in aging.
+False Schematic Retrieval
+In addition to providing an opportunity to assess true 
+memories, the current scene paradigm also allowed for the 
+investigation of neural processes underlying schematic false 
+memories. When using correct rejections as a baseline, no 
+region exhibited greater activity for false memories (and 
+thus no region differentiated false from true memories). 
+The absence of such activity for older adults is not with-
+out precedent (Dennis et al., 2014; Dennis & Turney, 2018; 
+Duarte et al., 2010; Gutchess, Ieuji, & Federmeier, 2007). 
+We have previously suggested that the failure to observe 
+neural activity that is greater for false memories is reflective 
+of the idea that false retrieval does not engage the retrieval 
+network to the same extent as true recognition (e.g., Dennis 
+et al., 2012). Given the current results, we propose that this 
+may be especially pronounced in older adults who trad-
+itionally show both high rates of false memories (Devitt 
+& Schacter, 2016) and dedifferentiation in cognitive and 
+neural processing (Goh, 2011). Previous work in our lab 
+has shown that, unlike younger adults, older adults fail to 
+differentially recruit retrieval-related regions to capitalize 
+on the salient differences between target and lure stimuli 
+(Bowman & Dennis, 2015), indicating that older adults 
+process lures in a highly similar manner to targets. This is 
+likely the case here where targets and lures share a strong 
+conceptual gist, resulting in reduced differentiation based 
+on subjective memory for the item. Given this, it is inter-
+esting to consider the fact that both older and younger 
+adults made equal amounts of true and false memories; yet 
+younger adults showed differential activity for false com-
+pared to true memories (see Webb, et al., 2016) and older 
+adults did not. This again highlights the fact that memory 
+networks contributing to equivalent levels of behavior may 
+fundamentally differ between older and younger adults. 
+This also provides further motivation for aging studies to 
+focus on both within and between group comparisons to 
+obtain a full picture of cognitive processing in older adults.
+Unfortunately, we were not able to compare the neural 
+correlates of schematic and nonschematic false alarms due 
+to too few nonschematic false alarm trials. While this com-
+parison would provide important insight into schema spe-
+cific false alarm activity, false memories for unrelated items 
+do not naturally occur in rates high enough to conduct neu-
+roimaging analyses. Future work that can modulate degree 
+of relatedness of lures to encoded information, such as in 
+relation to a schema, would help address this limitation.
+Nevertheless, our investigation of false memories in 
+older adults did reveal significant modulation of neural 
+activity when accounting for individual differences in the 
+rate of false memories. This result is in accord with recent 
+work from our lab (Dennis et al., 2007; Dennis et al., 
+2014; Dennis & Turney, 2018), indicating a significant 
+relationship between individual differences in false mem-
+ory performance and neural activation in older adults. In 
+the current study, neural activity in bilateral middle frontal 
+gyrus, bilateral MTG, and bilateral hippocampus/para-
+hippocampal gyrus increased with respect to increases in 
+false memory rate across individuals (Figure 3). As noted, 
+the MTG and MTL have been posited to reflect divergent 
+processes with respect to memory (i.e., retrieval of gist and 
+episodic details, respectively). The fact that activation in 
+both regions was associated with increased rates of false 
+memories in older adults indicates that both processes play 
+an important role in contributing to false memories in older 
+adults.
+Several previous studies have indicated that the MTL 
+can play a role in supporting false memories, as individuals 
+recollect the studied episode and/or studied details that, in 
+turn, support the (incorrect) endorsement of related lures 
+(Cabeza et al., 2001; Dennis et al., 2012). Such misattri-
+bution of studied details to lures has also been posited to 
+underscore false memories in older adults (Koutstaal & 
+Schacter, 1997). The current neural findings lend support to 
+this position and further suggest that such processing may 
+be a strong contributor to memory errors in older adults. 
+Additionally, increased recruitment of the MTG in associ-
+ation with higher false memory rates has been observed in 
+several previous studies (Dennis et al., 2007; Dennis et al., 
+2014; Dennis & Turney, 2018). Given that these previ-
+ous studies have included both semantic and perceptually 
+related stimuli, we have posited that such activity reflects the 
+role of the lateral temporal cortex in gist processing beyond 
+1118
+
+that of pure semantic gist (Dennis et al., 2014; Turney & 
+Dennis, 2017). Given that the current paradigm utilized 
+lures that were conceptually related to presented schemas 
+(i.e., toilet plunger; bathroom), MTG activity supporting 
+false memories likely reflects the shared schematic gist that 
+encompasses both targets and lures. Increased engagement 
+of this region appears to be detrimental to memory per-
+formance, contributing to consistently high rates of false 
+memories in older adults. In line with this, suppression of 
+gist influences, reflected by disengagement of MTG, may 
+help older adults to avoid making high rates of false memo-
+ries. A more comprehensive investigation of individual dif-
+ferences in false memories and associated neural correlates 
+is needed to further elucidate these mechanisms.
+Conclusions
+The current results indicate that the schematic gist evoked by 
+the scenes both supported and hindered older adults’ mem-
+ory performance. In addition, the neuroimaging findings help 
+to elucidate the mechanisms underlying both accurate and 
+false memory for schematic information in aging. While true 
+memories were supported by a general retrieval network, 
+results indicated that, within the context of schematic false 
+memories, neural mechanisms separating false retrieval from 
+a correct rejection are minimal. Importantly, results continue 
+to highlight the significance of interindividual differences in 
+performance in accounting for false memory activation, spe-
+cifically with respect to recruitment of lateral temporal gyri. 
+As such, the results emphasize the strong role of gist process-
+ing in false memories across the life span.
+Funding
+This work was supported by a National Science Foundation grant 
+(BCS1025709) awarded to NAD. C. E. Webb was partially sup-
+ported by National Institute on Aging Grant T32 (AG049676) 
+awarded to The Pennsylvania State University.
+Acknowledgments
+The authors wish to thank Courtney Allen for help with stimulus 
+development and Kristina Peterson for assistance in data collec-
+tion. The authors also wish to thank the Penn State Social, Life, & 
+Engineering Sciences Imaging Center (SLEIC), 3T MRI Facility.
+Conflict of Interest
+None reported.
+References
+Alba, J. W., & Hasher, L. (1983). Is memory schematic? Psychological 
+Bulletin, 93, 203–231. doi:10.1037/0033-2909.93.2.203
+Aminoff, E., Schacter, D. L., & Bar, M. (2008). The cortical underpin-
+nings of context-based memory distortion. Journal of Cognitive 
+Neuroscience, 20, 2226–2237. doi:10.1162/jocn.2008.20156
+Bowman, C. R., & Dennis, N. A. (2015). Age differences in the neural 
+correlates of novelty processing: The effects of item-relatedness. 
+Brain Research, 1612, 2–15. doi:10.1016/j.brainres.2014.08.006
+Brewer, W. F., & Treyens, J. C. (1981). Role of schemata in memory 
+for places. Cognitive Psychology, 13, 207–230.
+Buckner, R. L., & Wheeler, M. E. (2001). The cognitive neurosci-
+ence of remembering. Nature reviews Neuroscience, 2, 624–634. 
+doi:10.1038/35090048
+Cabeza, R., Rao, S. M., Wagner, A. D., Mayer, A. R., & Schacter, 
+D. L. (2001). Can medial temporal lobe regions distinguish true 
+from false? An event-related functional MRI study of veridical 
+and illusory recognition memory. Proceedings of the National 
+Academy of Sciences of the United States of America, 98, 
+4805–4810. doi:10.1073/pnas.081082698
+Castel, A. D. (2005). Memory for grocery prices in younger and older 
+adults: The role of schematic support. Psychology and Aging, 20, 
+718–721. doi:10.1037/0882-7974.20.4.718
+Cox, R. W., & Hyde, J. S. (1997). Software tools for analysis and 
+visualization of fMRI data. NMR in Biomedicine, 10, 171–178. 
+doi:10.1002/(Sici)1099–1492(199706/08)10:4/5<171::Aid-
+Nbm453>3.0.Co;2-L
+Dennis, N. A., Bowman, C. R., & Peterson, K. M. (2014). Age-
+related differences in the neural correlates mediating false rec-
+ollection. Neurobiology of Aging, 35, 395–407. doi:10.1016/j.
+neurobiolaging.2013.08.019
+Dennis, N. A., Bowman, C. R., & Turney, I. C. (2015). Functional 
+neuroimaging of false memories. In D. R. Addis, M. Barense, & 
+A. Duarte (Eds.), The wiley handbook on the cognitive neurosci-
+ence of memory. Chichester, UK: John Wiley & Sons, Ltd.
+Dennis, N. A., Bowman, C. R., & Vandekar, S. N. (2012). True and 
+phantom recollection: An fMRI investigation of similar and dis-
+tinct neural correlates and connectivity. Neuroimage, 59, 2982–
+2993. doi:10.1016/j.neuroimage.2011.09.079
+Dennis, N. A., Kim, H., & Cabeza, R. (2008). Age-related differences 
+in brain activity during true and false memory retrieval. Journal 
+of Cognitive Neuroscience, 20, 1390–1402. doi:10.1162/
+jocn.2008.20096
+Dennis, N. A., Kim, H. K., & Cabeza, R. (2007). Effects of aging 
+on the neural correlates of true and false memory forma-
+tion. 
+Neuropsychologia, 
+45, 
+3157–3166. 
+doi:10.1016/j.
+neuropsychologia.2007.07.003
+Dennis, N. A., & Turney, I. C. (2018). The influence of percep-
+tual similarity and individual differences on false memories 
+in aging. Neurobiology of Aging, 62, 221–230. doi:10.1016/j.
+neurobiolaging.2017.10.020
+Devitt, A. L., & Schacter, D. L. (2016). False memories with age: 
+Neural and cognitive underpinnings. Neuropsychologia, 91, 
+346–359. doi:10.1016/j.neuropsychologia.2016.08.030
+Duarte, A., Graham, K. S., & Henson, R. N. (2010). Age-related 
+changes in neural activity associated with familiarity, recollec-
+tion and false recognition. Neurobiology of Aging, 31, 1814–
+1830. doi:10.1016/j.neurobiolaging.2008.09.014
+Goh, J. O. (2011). Functional dedifferentiation and altered connect-
+ivity in older adults: Neural accounts of cognitive aging. Aging 
+and Disease, 2, 30–48.
+Gutchess, A. H., Ieuji, Y., & Federmeier, K. D. (2007). Event-related 
+potentials reveal age differences in the encoding and recognition 
+of scenes. Journal of Cognitive Neuroscience, 19, 1089–1103. 
+doi:10.1162/jocn.2007.19.7.1089
+1119
+
+Hess, T. M., & Slaughter, S. J. (1990). Semantic know-
+ledge influences on memory for scene information in 
+young and older adults. Developmental Psychology, 26, 
+855–865. doi:10.1037/0012-1649.26.5.855
+Jung-Beeman, M. (2005). Bilateral brain processes for comprehend-
+ing natural language. Trends in Cognitive Sciences, 9, 512–518. 
+doi:10.1016/j.tics.2005.09.009
+Kahn, I., Davachi, L., & Wagner, A. D. (2004). Functional-
+neuroanatomic correlates of recollection: Implications for mod-
+els of recognition memory. The Journal of Neuroscience: The 
+Official Journal of the Society for Neuroscience, 24, 4172–4180. 
+doi:10.1523/JNEUROSCI.0624-04.2004
+Kim, H., & Cabeza, R. (2007). Trusting our memories: Dissociating 
+the neural correlates of confidence in veridical versus illusory 
+memories. The Journal of Neuroscience: The Official Journal of 
+the Society for Neuroscience, 27, 12190–12197. doi:10.1523/
+JNEUROSCI.3408-07.2007
+Koutstaal, W., & Schacter, D. L. (1997). Gist-based false recognition 
+of pictures in older and younger adults. Journal of Memory & 
+Language, 37, 555–583. doi:10.1006/jmla.1997.2529
+Lampinen, J. M., Copeland, S. M., & Neuschatz, J. S. (2001). 
+Recollections of things schematic: Room schemas revisited. 
+Journal of Experimental Psychology. Learning, Memory, and 
+Cognition, 27, 1211–1222. doi:10.1037//0278-7393.27.5.1211
+Lancaster, J. L., Woldorff, M. G., Parsons, L. M., Liotti, M., Freitas, 
+C. S., Rainey, L.,...Fox, P. T. (2000). Automated talairach atlas 
+labels for functional brain mapping. Human Brain Mapping, 
+10, 120–131. doi:10.1002/1097-0193(200007)10:3<120::AID-
+HBM30>3.0.CO;2-8
+Miller, M. B., & Gazzaniga, M. S. (1998). Creating false memories 
+for visual scenes. Neuropsychologia, 36, 513–520. doi:10.1016/
+S0028-3932(97)00148-6
+Neuschatz, J. S., Lampinen, J. M., Preston, E. L., Hawkins, E. R., & 
+Toglia, M. P. (2002). The effect of memory schemata on memory 
+and the phenomenological experience of naturalistic situations. 
+Applied Cognitive Psychology, 16, 687–708. doi:10.1002/Acp.824
+Okado, Y., & Stark, C. (2003). Neural processing associated with true 
+and false memory retrieval. Cognitive, Affective & Behavioral 
+Neuroscience, 3, 323–334. doi:10.3758/CABN.3.4.323
+Oliva, A., & Torralba, A. (2006). Building the gist of a scene: The 
+role of global image features in recognition. Visual Perception, 
+Pt 2: Fundamentals of Awareness: Multi-Sensory Integration 
+and 
+High-Order 
+Perception, 
+155, 
+23–36. 
+doi:10.1016/
+S0079-6123(06)55002-2
+Park, D. C., & Reuter-Lorenz, P. (2009). The adaptive brain: Aging 
+and neurocognitive scaffolding. Annual Review of Psychology, 
+60, 173–196. doi:10.1146/annurev.psych.59.103006.093656
+Pezdek, K., Whetstone, T., Reynolds, K., Askari, N., & Dougherty, 
+T. (1989). Memory for real-world scenes: The role of 
+consistency with schema expectation. Journal of Experimental 
+Psychology: Learning, Memory, and Cognition, 15, 587–595. 
+doi:10.1037//0278-7393.15.4.587
+Simons, J. S., Verfaellie, M., Hodges, J. R., Lee, A. C., Graham, 
+K. S., Koutstaal, W.,...Budson, A. E. (2005). Failing to 
+get the gist: Reduced false recognition of semantic associ-
+ates in semantic dementia. Neuropsychology, 19, 353–361. 
+doi:10.1037/0894-4105.19.3.353
+Slotnick, S. D., & Schacter, D. L. (2004). A sensory signature that 
+distinguishes true from false memories. Nature Neuroscience, 7, 
+664–672. doi:10.1038/nn1252
+Spaniol, J., Davidson, P. S., Kim, A. S., Han, H., Moscovitch, M., 
+& Grady, C. L. (2009). Event-related fMRI studies of episodic 
+encoding and retrieval: Meta-analyses using activation likelihood 
+estimation. Neuropsychologia, 47, 1765–1779. doi:10.1016/j.
+neuropsychologia.2009.02.028
+Talairach, J., & Tournoux, P. (1988). Co-planar stereotaxic atlas of 
+the human brain. Stuttgart, Germany: Thieme.
+Tun, P. A., Wingfield, A., Rosen, M. J., & Blanchard, L. (1998). 
+Response latencies for false memories: Gist-based pro-
+cesses 
+in 
+normal 
+aging. 
+Psychology 
+and 
+Aging, 
+13, 
+230–241. doi:10.1037//0882-7974.13.2.230
+Turney, I. C., & Dennis, N. A. (2017). Elucidating the neural corre-
+lates of related false memories using a systematic measure of per-
+ceptual relatedness. Neuroimage, 146, 940–950. doi:10.1016/j.
+neuroimage.2016.09.005
+van Kesteren, M. T., Rijpkema, M., Ruiter, D. J., & Fernández, G. 
+(2010). Retrieval of associative information congruent with prior 
+knowledge is related to increased medial prefrontal activity and 
+connectivity. The Journal of Neuroscience: The Official Journal 
+of the Society for Neuroscience, 30, 15888–15894. doi:10.1523/
+JNEUROSCI.2674-10.2010
+Waddell, K. J., & Rogoff, B. (1981). Effect of contextual 
+organization on spatial memory of middle-aged and older 
+women. Developmental Psychology, 17, 878–885. doi:10.1037/ 
+0012-1649.17.6.878
+Webb, C. E., Turney, I. C., & Dennis, N. A. (2016). What’s the 
+gist? The influence of schemas on the neural correlates under-
+lying true and false memories. Neuropsychologia, 93, 61–75. 
+doi:10.1016/j.neuropsychologia.2016.09.023
+Wise, R. J. S., & Price, C. J. (2006). Functional imaging of language. 
+In R. Cabeza & A. Kingstone (Eds.), Handbook of functional 
+neuroimaging of cognition (2nd ed., pp. 191–228). Cambridge, 
+MA: MIT Press.
+Yonelinas, A. P., Otten, L. J., Shaw, K. N., & Rugg, M. D. (2005). 
+Separating the brain regions involved in recollection and famil-
+iarity in recognition memory. The Journal of Neuroscience: The 
+Official Journal of the Society for Neuroscience, 25, 3002–3008. 
+doi:10.1523/JNEUROSCI.5295-04.2005
+1120

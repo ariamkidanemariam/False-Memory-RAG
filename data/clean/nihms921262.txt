@@ -1,0 +1,1445 @@
+False Memories, False Preferences: Flexible Retrieval 
+Mechanisms Supporting Successful Inference Bias Novel 
+Decisions
+Alexis C. Carpenter and Daniel L. Schacter
+Department of Psychology and Center for Brain Science, Harvard University
+Abstract
+Prior research suggests that episodic memory can guide value-based decisions when single 
+episodes are encoded in relation to the specific reward-context in which they were experienced. 
+The current experiments examine the role that a flexible recombination-related retrieval 
+mechanism that allows one to link together distinct events plays in the misattribution of specific 
+reward-contexts across distinct episodes. To determine whether the same recombination-related 
+retrieval mechanism supports both successful inference and transfer of reward-context across 
+episodes, we developed a modified version of an associative inference paradigm in which 
+participants encoded overlapping associations (AB, BC) that could later be linked to support 
+inferential retrieval (AC), where one element (‘A’) was tied to reward. Our key experimental 
+manipulation concerned whether value memory (Experiments 1 and 2) or decision bias tests 
+(Experiment 3) were probed before or after the associative inference test, thereby allowing us to 
+assess whether false value transfer and decision bias scores increased after as compared to before 
+successful versus unsuccessful inference. Results revealed that participants more frequently 
+misattributed the specific reward-context (‘A’) to unrewarded items (‘C;’ Experiments 1 and 2) 
+and showed higher decision bias scores when asked to choose between two previously unrewarded 
+items (‘C;’ Experiment 3) for successful compared with unsuccessful inference, but only when the 
+value memory and decision bias tests were given after the associative inference test. These results 
+suggest that a recombination-related retrieval mechanism that supports successful inference also 
+contributes to the misattribution of reward-context in memory and further biases participants’ 
+novel value-based decisions.
+Keywords
+inference; false memory; value; decision-making; episodic memory
+Decisions are often guided by memory for past experiences. If a past choice led to a positive 
+outcome, people are more likely to make that same choice again. Recent research in the field 
+of value-based decision-making has examined this link between choice and memory (Doll, 
+Shohamy & Daw, 2015; Duncan & Shohamy, 2016; Palombo, Keane & Verfaellie, 2015; 
+Wimmer & Shohamy, 2012). In these studies, participants learned stimulus-reward 
+Address Correspondence to: Alexis C. Carpenter, Harvard University, Department of Psychology, 33 Kirkland Street, Cambridge, MA 
+02138, 763-772-6095, alexiscarpenter@g.harvard.edu. 
+HHS Public Access
+Author manuscript
+Published in final edited form as:
+J Exp Psychol Gen. 2018 July ; 147(7): 988–1004. doi:10.1037/xge0000391.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+relationships gradually within the context of hundreds of repeated experiences. Because 
+participants were exposed to many repeated trials over which they were able to 
+incrementally learn the stimulus-reward association, it is difficult to determine exactly how 
+specific valued events affect the interaction of episodic memory and future value-based 
+choices. In everyday life, individuals often are not presented with multiple repetitions of past 
+experiences prior to making decisions. Rather, individuals commonly make decisions based 
+on limited prior information, where they may have only experienced the decision-relevant 
+episode once. In contexts where the decision-relevant episode has only been experienced 
+once, value-based choice has been proposed to depend on a mechanism that flexibly samples 
+specific reward-related representations stored in memory (Bornstein, Khaw, Shohamy & 
+Daw, 2017; Bornstein & Norman, 2017; Gluth, Sommer, Reiskamp & Büchel, 2015; Murty, 
+FeldmanHall, Hunter, Phelps & Davachi, 2016; Wimmer & Büchel, 2016).
+Such proposals linking episodic memory and value-based decision-making require that 
+single episodes be encoded in relation to the specific reward-context in which they occurred 
+(Gluth, Sommer, Reiskamp & Büchel, 2015; Murty et al., 2016; Wimmer & Büchel, 2016). 
+Recent behavioral experiments have found that (1) participants are indeed able to remember 
+specific associations between an item and its reward-context and (2) memory for these 
+detailed item-reward-context associations guide value-based decisions, particularly in 
+situations where the participant decides between two options that they have never previously 
+considered in relation to one another (e.g., novel choice between a previously experienced 
+option and a new, never before experienced option; Murty et al., 2016; Wimmer & Büchel, 
+2016). For example, when participants were asked to select between a lottery that was 
+previously associated with either a high or low reward outcome (i.e., ‘old’ lottery) and a new 
+lottery during a novel decision-making task, adaptive decisions were identified as decisions 
+where participants selected ‘old’ lotteries that were associated with high-reward outcomes or 
+avoided ‘old’ lotteries that were associated with low-reward outcomes, such that these 
+decisions increased the likelihood that participants would receive a high-value reward 
+(Murty et al., 2016). Importantly, the likelihood that participants made these adaptive 
+decisions (i.e., chose high-value lotteries and avoided low-value lotteries) depended on their 
+memory for the association between an ‘old’ lottery and its specific reward-context (i.e., 
+whether the lottery was associated with a high- or low-value outcome), rather than item 
+memory, where participants remember individual features of a lottery without retrieving any 
+details of the context in which the lottery was previously experienced (Murty et al., 2016). In 
+sum, these results suggest that at the time of the decision, participants retrieve rich 
+associative memories consisting of relationships between specific features of a previous 
+experience, such that they are able to remember the specific lottery (item) and its associated 
+reward-context (source), thus providing participants with a detailed representation of a 
+single past experience that they can flexibly apply to guide subsequent value-based choice 
+(Murty et al., 2016).
+Previous research suggests that such novel decisions (i.e., decisions between two options 
+that have never been considered in relation to one another), based on single past experiences, 
+may be supported by two key episodic memory mechanisms. The first is reward-related 
+learning, where the relationship between the anticipated reward (i.e., reward-context) and the 
+currently presented cue (i.e., the lottery) is encoded, thus linking a specific item to its 
+Page 2
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+potential future value (Murty et al., 2016; Wimmer & Büchel, 2016; Wimmer & Shohamy, 
+2012; Wolosin, Zeithamova & Preston, 2012, 2013). The second is a flexible recombination 
+mechanism that has been previously linked with episodic simulation of hypothetical 
+experiences (Schacter & Addis 2007a, 2007b), where participants either simulate possible 
+future scenarios that might occur as the result of a choice, or simulate alternative scenarios 
+of what might have occurred as a result of having chosen differently in the past (for review, 
+see Schacter, Benoit, De Brigard & Szpunar, 2015). Let us consider each mechanism in turn.
+With respect to reward-related learning, specific reward-contexts presented during encoding 
+affect explicit measures of memory for the source of the information, such that participants 
+are able to remember the specific value associated with an item or episode (i.e., whether 
+items were no-, low-, or high-value; Murty et al., 2016; Wimmer & Büchel, 2016). 
+Consistent with this behavioral finding, research suggests that distributed patterns of 
+activation within the hippocampus may reflect the specific value of the reward-context 
+associated with each individual event, such that representations within the hippocampus 
+differentiate between low- and high-value reward-contexts (Wolosin, Zeithamova & Preston, 
+2013). Reward-context can also affect implicit measures of value-based decision bias, where 
+participants’ financial risk-taking or choice of a familiar lottery increased (as compared to a 
+new lottery) when they were primed with the previously learned high-value associations 
+(Wimmer & Büchel, 2016), as well as when they could explicitly remember such 
+associations (Murty et al., 2016). Thus, representations of previously learned associations 
+include specific information identifying the reward-context in which the information was 
+encoded (Wolosin, et al., 2013) and further guide future value-based decision-making 
+(Murty et al., 2016; Wimmer & Büchel, 2016).
+Flexible recombination processes support our ability to link together related information 
+acquired in distinct episodes in order to construct simulations of novel future events 
+(Schacter & Addis, 2007a, 2007b). We frequently encounter and simulate possible future 
+scenarios in which we are required to make a choice between two options that we have never 
+previously considered. In such instances of novel decision-making, flexible recombination 
+during retrieval may play a particularly adaptive role, allowing one to recombine elements of 
+past experiences in order to simulate the prospective scenario (Schacter, 2012; Schacter & 
+Addis, 2007a, 2007b). This simulated mental representation can then guide future-oriented 
+or novel decisions by allowing one to predict the expected value associated with the decision 
+(Benoit, Gilbert &Burgess, 2011) and further allows one to link the prospective scenario to 
+past and expected future rewards, allowing for an immediate experience of the future 
+decision’s affective value (Boyer, 2008). This simulated mental representation can then 
+guide future-oriented or novel decisions (Benoit, Gilbert &Burgess, 2011; Schacter et al., 
+2015; Schacter, Benoit, & Szpunar, 2017).
+This kind of flexible recombination that allows one to simulate future events is quite similar 
+to the flexible recombination processes examined in studies of associative inference that 
+allow one to link together related information acquired in distinct episodes in order to make 
+novel connections that have not been directly experienced. In previous studies utilizing the 
+associative inference paradigm, which requires participants to reactivate and flexibly 
+recombine elements of overlapping episodes, participants learned direct associations 
+Page 3
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+between two items (e.g., individual ‘A’ and child ‘B’) and then learned overlapping 
+associations between a member of the previously studied pair and a new item (e.g., child ‘B’ 
+and individual ‘C;’ for evidence and review see Carpenter & Schacter, 2017; Schlichting & 
+Preston, 2015; Zeithamova & Preston, 2010; Zeithamova, Schlichting, & Preston, 2012). 
+Participants were also instructed to learn the indirect relationships between the ‘A’ and ‘C’ 
+items that are mediated by the item ‘B’ (i.e., associative inference). Later, participants 
+completed a memory test for both the directly learned associations (AB and BC) and the 
+associative inferences (AC). Flexibly recombining and linking related information acquired 
+in distinct episodes allows for novel connections that have not been directly experienced. For 
+example, if one sees two different individuals (‘A’ and ‘C’) walking with the same child 
+(‘B’) on two different days, retrieving and recombining details of the two episodes allows 
+one to infer that the two individuals are related in some way by their relationship with the 
+child. Further, if you have had a positive past experience with the first individual who was 
+with the child but no prior experience with the second individual, retrieving and recombining 
+details of these two episodes not only allows you to infer the relationship between the two 
+individuals, but may transfer affective value associated with the first individual to your 
+mental representation of the second individual, thereby updating the associated reward-
+context and perhaps leading to a choice to interact with the second individual. Reward-
+related learning in concert with such flexible recombination processes during retrieval could 
+provide a mechanism by which previously rewarded associations can systematically update 
+the value of unrewarded items from distinct yet related episodes. That is, unrewarded items 
+may gain a positive value simply by way of flexibly recombining elements of previously 
+separate experiences, which may further bias novel value-based decisions (for an example of 
+simulation-based recombination see Benoit, Szpunar & Schacter, 2014).
+Recent work from Martinez, Mack, Gelman and Preston (2016) provides evidence for the 
+role of memory-guided decision bias in such social interactions. Specifically, results 
+revealed that the reactivation of prior memories (e.g., remembering that individual ‘A’ 
+cooperates) during new learning (e.g., learning that individual ‘A’ is friends with individual 
+‘B’) allowed for the transfer of social reputation from individual ‘A’ to the associated 
+individual ‘B,’ such that if individual ‘A’ cooperates then individual ‘B’ was treated as if 
+they also cooperate (Martinez et al., 2016). That is, memories of past interactions and 
+learned social connections biased participants’ decisions to interact with a member of a 
+shared social group, even when they had not interacted with that particular group member in 
+the past.
+Indeed, a related line of research suggests that false ‘spreading’ or transfer of value can 
+occur when a rewarded item (‘A’) was previously paired with an unrewarded item (‘B’), 
+resulting in a preference for item ‘B’ even though it was never directly linked to receipt of 
+the reward (Wimmer & Shohamy, 2012). Importantly, items ‘A’ and ‘B’ were originally 
+learned in the same context (i.e., similar to how participants learned the direct relationship 
+between ‘A’ and ‘B’ during the associative inference paradigm) and thus did not require 
+participants to flexibly recombine elements of distinct episodes in order to learn the 
+relationship between the two items, or to simulate the outcomes of possible future choices. 
+Therefore, results suggest that value can be transferred within associative pairings, as 
+participants showed a greater decision bias for unrewarded items that were directly paired 
+Page 4
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+with a subsequently rewarded item as a result of reactivating the previously learned A-B 
+association during the reward-learning phase (Wimmer & Shohamy, 2012). That is, the 
+reward-context associated with a specific item can be spread or transferred to a related item 
+that was presented within a single reactivated episode.
+However, it is currently unknown whether the same flexible recombination processes that 
+allow for novel associative inference, where the relationship between two items (‘A’ and 
+‘C’) is mediated by a third item (‘B’), also support the biased updating of specific value 
+representations across distinct contexts when episodes are only experienced once. Consistent 
+with this possibility, in recent experiments using a modified associative inference paradigm, 
+we directly linked such flexible recombination during retrieval to source memory errors: 
+details of an overlapping scene were mistakenly attributed to memory for the original scene 
+as a consequence of flexible recombination processes that support successful associative 
+inference (Carpenter & Schacter, 2017). That is, participants were more prone to false 
+memories that resulted from mistakenly combining scene details from related episodes when 
+they made successful (versus unsuccessful) inferences about the relations between these 
+episodes, but only when details were probed after (versus before) the associative inference 
+test.
+Similar to the way in which contextual scene details are mistakenly transferred across 
+distinct past experiences following flexible retrieval supporting associative inference, we 
+suggest that the specific reward-context of an original event may be misattributed to memory 
+of an unrewarded overlapping event. If so, we would also predict that following successful 
+inference, when participants are confronted with a novel decision between two previously 
+unrewarded items, they will be biased to choose the unrewarded item that was linked 
+indirectly to a rewarded item learned in a distinct context.
+While our previous research implicates the role of recombination-related retrieval processes 
+on subsequent source memory errors, there are two ways that participants can perform 
+successfully on an associative inference test (Carpenter & Schacter, 2017). First, participants 
+may integrate the AB and BC representations during encoding such that an integrated 
+representation (ABC) is later retrieved during the test (i.e., integrative encoding; e.g., 
+Shohamy & Wagner, 2008). Alternatively, participants may flexibly retrieve and recombine 
+the previously studied AB and BC pairs during the associative inference test (i.e., 
+recombination processes during retrieval; Carpenter & Schacter, 2017; Zeithamova & 
+Preston, 2010). Prior neuroimaging studies suggest that both integrative encoding and 
+recombination processes during retrieval play a role in successful associative inference 
+(Zeithamova, Dominick & Preston, 2012; Zeithamova & Preston, 2010).
+To directly test the role of flexible recombination processes in reward-related learning and 
+subsequent novel decision-making, we used a modified version of an associative inference 
+task that targets flexible recombination (Carpenter & Schacter, 2017; Preston, Shrager, 
+Dudukovic, & Gabrieli, 2004; Zeithamova et al., 2012; Zeithamova & Preston, 2010) and, 
+critically, incorporates aspects of the monetary incentive encoding task that targets reward-
+related learning mechanisms (Adcock, Thangavel, Whitfield-Gabrieli, Knutson & Gabrieli, 
+2006; Wimmer & Shohamy, 2012).
+Page 5
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+In our version of the associative inference paradigm, during an initial session participants 
+study person-object associations (AB) where the ‘A’ item is either linked to a value or no-
+value reward-context (Experiment 1) or to a high-value or low-value reward-context 
+(Experiment 2). Participants then study overlapping person-object associations (BC) where 
+the ‘C’ item is either linked to a no-value or value reward-context, respectively. Participants 
+are instructed to learn both the direct associations between each person and object (AB and 
+BC) and the indirect association between the two people based on the shared object (AC). 
+Additionally, participants are instructed to learn the reward-context associated with each 
+item (i.e., value or no-value). After a delay, participants return for a second session in which 
+they are tested for direct associations (AB, BC) and perform an associative inference test for 
+novel combinations that are linked via the ‘B’ item (AC; see Figure 1).
+In order to test whether retrieval-related recombination processes underlying successful 
+inference contribute to the transfer of positive value across event boundaries to previously 
+unrewarded items, in Experiments 1 and 2 participants’ memory for the specific value of 
+each item (i.e., ‘A,’ ‘B’ and ‘C’) is explicitly probed. For one half of the AB and BC pairs, 
+explicit value memory tests, where participants are asked to remember the specific reward-
+context associated with a previously learned item (i.e., Experiment 1: value or no-value; 
+Experiment 2: high-value, low-value, no-value), are given before the test of direct (AB, BC) 
+and indirect (AC) associations, and for the other half, the value memory tests are given after 
+the tests of direct and indirect associations.
+The critical comparisons concern the proportions of what we call false value transfer (e.g., 
+when participants attributed the specific reward-context of previously rewarded item ‘A’ to 
+their memory of unrewarded item ‘C,’ thus remembering item ‘C’ as having been rewarded) 
+on the value memory test given before versus after the associative inference test, for correct 
+as compared to incorrect associative inference trials (i.e., AC). We distinguish among three 
+competing hypotheses:
+1.
+If recombination during retrieval both enhances associative inference 
+performance and increases false value transfer, then false value transfer scores 
+should be higher for correct than incorrect inference trials, but only when the 
+value memory test is given after the associative inference test (during which 
+recombination occurs); there should be no difference in the proportion of false 
+value transfer scores for correct vs. incorrect inference trials when the value 
+memory test is given before the associative inference test.
+2.
+If false value transfer scores are higher for correct as compared to incorrect 
+inference trials when the value memory tests are given both before and after the 
+associative inference test, then these effects are consistent with integrative 
+encoding processes.
+3.
+If there is no link at all between recombination during retrieval and false value 
+transfer then there should be no difference between the proportion of false value 
+transfer scores for correct and incorrect inference trials regardless of when the 
+value memory tests are given.
+Page 6
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+To test these hypotheses, we conducted three experiments that used the same basic paradigm 
+and differed only in whether false value transfer was assessed with respect to explicit value 
+memory using a value memory test (Experiments 1 and 2) or implicit decision bias using a 
+decision bias test (Experiment 3; see figure 2 for a visualization of the predicted patterns of 
+results for each hypothesis).
+All three experiments provided evidence in favor of the first hypothesis outlined above: both 
+the proportion of false value transfer and decision bias scores were higher for correct than 
+incorrect inference trials, but only when the tests were given after the associative inference 
+test, during which recombination occurs. These findings implicate recombination 
+mechanisms during retrieval in both successful associative inference and false transfer of 
+value across distinct episodes to previously unrewarded items, which further bias novel 
+value-based decisions.
+Experiment 1
+Methods
+Participants—A power analysis (Faul, Erdfelder, Lang & Buchner, 2007) based on effect 
+sizes from our previous related work (Carpenter & Schacter, 2017) for the key predicted 
+effect of interest revealed that a sample size of 20 would provide the ability to detect an 
+effect after as compared to before successful inference conditions with power of >.80. Thus, 
+we aimed for a sample of 24 usable participants. 25 young adults (mean age = 21.20, SD = 
+2.09; 19 female) were recruited via advertisements at Boston University and Harvard 
+University. All had normal vision and no history of neurological impairment. They gave 
+informed consent, were treated in accordance with guidelines approved by the ethics 
+committee at Harvard University, and received either course credit or pay for completing the 
+study.
+Reward-Related AB and BC Encoding—Both experimental sessions were executed on 
+an Apple desktop computer using PsychoPy2 (v1.80.03). Stimuli consisted of 160 pairs of 
+color images depicting people and common objects (e.g., toy truck). 80 total unique ABC 
+triads (80 AB pairs, 80 BC pairs) were constructed. Overlapping AB and BC pairs were 
+constructed such that two individuals (‘A’ and ‘C’) shared an association with an 
+overlapping object (‘B;’ i.e., one ABC triad). Presentation locations were counterbalanced 
+across participants such that each item was presented on the right/left equally often for both 
+AB and BC pairs. Participants received one of two versions of the AB encoding task, which 
+consisted of 80 pairs (i.e., AB) followed by the corresponding BC encoding task, which 
+consisted of 80 pairs (i.e., BC; see Figure 1). Each pair was randomly presented for 5 
+seconds within each encoding block (i.e., AB encoding and BC encoding; see Figure 1). 40 
+pairs of the AB encoding task identified the ‘A’ item as a valued item (i.e., $$$ - $2.00 
+reward), whereas the alternate 40 pairs identified the ‘A’ item as a no-value item (i.e., $0.00 
+reward). For the 40 no-value AB pairs, the corresponding ‘C’ items during the BC encoding 
+task were identified as valued items. If a triad’s ‘A’ item was associated with a value (i.e., 
+valued-item), the corresponding ‘C’ item was not associated with any value (i.e., no-value 
+Page 7
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+item). All value associations were counterbalanced across participants, such that each ‘A’ or 
+‘C’ item was associated with a value or no-value equally often.
+Participants were instructed to learn both the direct associations (i.e., AB, BC) and the 
+indirect associations (i.e., AC) along with whether an item was valued or not. Participants 
+were told that if they were able to remember all of the information that was tied to a valued 
+item (i.e., value information, direct association and indirect association) they would receive 
+this reward at the end of the second session. Importantly, participants were instructed to use 
+the same encoding strategy for valued and no-value pairs (Wolosin et al., 2013) in order to 
+control for the possibility of a strategic tradeoff between learning valued as compared to no-
+value pairs (Hennessee, Castel & Knowlton, 2017). Following each pair, participants were 
+asked to provide a judgment of learning on a scale from 1 to 4 (1 = definitely forget, 4 = 
+definitely remember). These judgments were collected in order to ensure participants’ 
+attention during the encoding phase.
+Value Memory Test—Following a 48-hour delay, participants came to the lab to complete 
+the second session. Three value memory questions were constructed for each of the 80 ABC 
+triads (one question related to each distinct item – ‘A’, ‘B’ or ‘C’). A cutout of the 
+individual (‘A’ or ‘C’) or object (‘B’) was presented to the right of the value memory 
+question in order to indicate to which item the question referred. Participants were asked to 
+explicitly remember whether an item was valued or not valued and were given three possible 
+answer choices: 1) Valued-item ($$$), 2) No-value item, or 3) Unsure. Immediately 
+following participants’ value memory response they were asked to rate their confidence in 
+their response on a scale from 1 to 4 (1 = very unsure, 4 = very sure). The presentation order 
+of the value memory questions was randomized for each participant and the questions were 
+self-paced.
+Participants answered the value memory questions for one half of the 80 ABC triads before 
+being tested on the directly learned and associative inference trials. After participants were 
+tested on the directly learned and associative inference trials, they completed the value 
+memory questions for the alternate half of the 80 ABC triads.
+Directly Learned and Associative Inference Trials—Following the first half of the 
+value memory questions, participants were tested on directly learned (AB and BC) and 
+associative inference trials (AC). During each directly learned trial, a single cue individual 
+(e.g., an ‘A’ or ‘C’ individual) was presented at the top of the screen and two choice objects 
+were presented at the bottom of the screen (e.g., the correct ‘B’ object pairing and a lure ‘B’ 
+object from a different ABC triad; see Figure 1). On the associative inference trials, a cue 
+individual (‘A’) was presented along with two individuals at the bottom of the screen (i.e., 
+the correct ‘C’ individual from the ABC triad and a lure ‘C’ individual from another triad). 
+Participants were instructed on associative inference trials that the association between the 
+cue (‘A’) and the correct choice (‘C’) was indirect, mediated through an object (‘B’) that 
+shared an association with both the cue and the correct choice during encoding. Participants 
+were instructed to select one of the two choice objects/individuals presented or to respond 
+“neither” when they believed that the items had not been previously paired. The lure choice 
+options were pseudo-randomly sampled from different triads with the constraint being that 
+Page 8
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+each lure option was of the same trial type as the correct option (e.g., if the correct option 
+was a ‘B’ item then the lure option was another familiar ‘B’ item from a different triad). All 
+directly learned and associative inference trials were self-paced. Importantly, for both 
+directly learned and associative inference trials, the incorrect choice was a familiar item that 
+had been studied in the context of another individual independent from the cue. Thus, 
+correct responses required retrieval of learned associations and could not be made based on 
+the familiarity of the choice. The presentation order of the trials was randomized with the 
+only constraint being that AC associative inference trials were shown before their 
+corresponding AB and BC directly learned trials in order to ensure that participants were not 
+able to form an association between ‘A’ and ‘C’ individuals during test. Following each of 
+the directly learned and associative inference trials, participants rated their confidence in 
+their response on a scale from 1 to 4 (1 = very unsure, 4 = very sure).
+Coding of True Memory and False Value Transfer—True value memory was defined 
+as value memory questions for which the participant chose the correct value that was 
+associated with the currently cued item. False value transfer was defined as value memory 
+questions for which the participant chose the correct value associated with the overlapping 
+‘A’ (or ‘C’) item and attributed the value to the currently cued unrewarded ‘C’ (or ‘A’) item. 
+False value transfer was analyzed for ABC triads for which participants correctly inferred 
+the relationship between ‘A’ and ‘C’ compared to triads for which the inference was not 
+correctly made. Additionally, false value transfer was evaluated both before explicit retrieval 
+of the inference (i.e., before AC associative inference trials) and after inferential retrieval in 
+order to selectively compare the distinct effects of integration during encoding and flexible 
+recombination at retrieval on subsequent false value transfer.
+Results and Discussion
+Directly Learned and Associative Inference Trials—First we evaluated overall 
+accurate on 73% of directly learned trials (Mdirect = 0.73, SE = 0.02; range: 0.55 to 0.87) and 
+responded ‘neither’ on 2% of directly learned trials (Mneither = 0.02, SE = 0.007; range: 0 to 
+0.13). On average, participants were accurate on 63% of associative inference trials 
+(Massociative inference = 0.63, SE = 0.02; range: 0.33 to 0.75) and responded ‘neither’ on 7% 
+of associative inference trials (Mneither = 0.07, SE = 0.02; range: 0 to 0.38). Importantly, 
+memory performance for directly learned valued pairs was positively correlated with 
+performance for directly learned non-valued pairs (r = 0.58, p = .002), suggesting that there 
+was not a tradeoff between learning valued and non-valued pairs. Consistent with previous 
+research (Carpenter & Schacter, 2017; Zeithamova & Preston, 2010), we found that reaction 
+times on associative inference trials (Massociative inference = 4700 msec, SE = 408) were 
+significantly longer than directly learned trials (Mdirect = 3364 msec, SE = 251), suggesting 
+that an additional recombination-related retrieval mechanism was used for inferential versus 
+direct retrieval (t(24) = 6.52, p < .001, mean difference = 1336, 95% CI = [913, 1759], d = 
+1.30). Further, participants assigned significantly higher confidence ratings to their 
+responses on directly learned (Mdirect = 2.84, SE = 0.09) as compared to associative 
+inference trials (Massociative inference = 2.34, SE = 0.10), indicating that participants were 
+Page 9
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+those resulting from recombination (t(24) = 10.93, p < .001, mean difference = 0.50, 95% CI 
+= [0.41, 0.60], d = 2.18).
+flexible recombination during associative inference on subsequent false value transfer across 
+event boundaries, we examined the proportion of value memory questions for which the 
+attributed the value to the currently cued unrewarded ‘C’ (or ‘A’) item with a 2 (time: before 
+vs. after inference retrieval) X 2 (inference: correct vs. incorrect inference) repeated 
+measures analysis of variance (ANOVA). Importantly, only trials for which participants 
+correctly remembered the directly learned association were included in subsequent analyses. 
+Results revealed no main effect of time, F(1,24) < 1, p > .25, ηp2 = 0.03, no main effect of 
+inference, F(1,24) = 2.91, p = .10, ηp2 = 0.11, and a significant time by inference interaction, 
+F(1,24) = 5.69, p = .025, ηp2 = 0.19 (see Fig. 2). Participants more frequently falsely 
+attributed value to the overlapping event after successful inference retrieval (Mafter = 0.49, 
+SE = 0.04) than before successful inference retrieval (Mbefore = 0.40, SE = 0.04; t(24) = 
+2.21, p = .037, mean difference = 0.09, 95% CI = [0.006, 0.17], d = 0.44). Further, 
+participants did not falsely attribute value more frequently to the overlapping event after 
+unsuccessful inference retrieval (Mafter = 0.37, SE = 0.05) than before unsuccessful 
+inference retrieval (Mbefore = 0.39, SE = 0.05; t(24) < 1, p > .25, mean difference = 0.03, 
+95% CI = [−0.07, 0.12], d = 0.11). Similarly, participants did not falsely attribute value more 
+frequently to the overlapping event before successful inference retrieval (Mcorrect = 0.40, SE 
+= 0.04) than before unsuccessful inference retrieval (Mincorrect = 0.39, SE = 0.05; t(24) < 1, p 
+> .25, mean difference = −0.01, 95% CI = [−0.09, 0.07], d = 0.05). Critically, participants 
+falsely attributed value more often to the overlapping event after successful inference 
+retrieval (Mcorrect = 0.49, SE = 0.04) than after unsuccessful inference retrieval (Mincorrect = 
+0.37, SE = 0.05; t(24) = 2.44, p = .022, mean difference = 0.12, 95% CI = [0.02, 0.22], d = 
+0.49), suggesting that recombination processes underlying successful inference at retrieval 
+can also lead to false transfer of value to unrewarded items (see Figure 3 and Supplemental 
+Table 1 for means and raw trial numbers).
+recombination during associative inference on subsequent false value transfer within 
+associative pairs, we examined the proportion of value memory questions for which the 
+attributed the value to the currently cued unrewarded ‘B’ item with a 2 (time: before vs. after 
+ANOVA. Results revealed no main effect of time, F(1,24) < 1, p > .25, ηp2 = 0.02, no main 
+effect of inference, F(1,24) = 1.82, p = .19, ηp2 = 0.07, and no time by inference interaction, 
+F(1,24) = 1.67, p = .21, ηp2 = 0.07. Thus, false value transfer scores for unrewarded ‘B’ 
+items were similar both before (Mbefore = 0.47, SE = 0.06) and after successful inference 
+retrieval (Mafter = 0.46, SE = 0.06). Additionally, false value transfer scores for unrewarded 
+‘B’ items were similar both before (Mbefore = 0.44, SE = 0.06) and after unsuccessful 
+inference retrieval (Mafter = 0.41, SE = 0.05).
+Page 10
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+True Value Memory—To examine the effects of flexible recombination during retrieval on 
+subsequent true value memory, we examined correct responses on the value memory 
+questions with a 2 (time: before vs. after inference retrieval) X 2 (inference: correct vs. 
+incorrect inference) repeated measures ANOVA. Results revealed no main effect of time, 
+F(1,24) < 1, p > .25, ηp2 = 0.001, no time by inference interaction, F(1,24) = 1.01, p > .25, 
+ηp2 = 0.04, but a main effect of inference, F(1,24) = 4.49, p = .045, ηp2 = 0.16, where true 
+memory scores were moderately higher for unsuccessful (M = 0.52, SE = 0.03) than 
+successful inference (M = 0.49, SE = 0.02). True memory scores were similar both before 
+(Mbefore = 0.50, SE = 0.02) and after successful inference retrieval (Mafter = 0.58, SE = 
+0.03). Additionally, true memory scores were similar both before (Mbefore = 0.51, SE = 0.04) 
+and after unsuccessful inference retrieval (Mafter = 0.53, SE = 0.02; see Figure 4).
+In summary, the results of Experiment 1 showed that false value transfer scores were higher 
+for correct than incorrect inference trials, but only when the value memory test was given 
+after the associative inference test, during which recombination occurs. These findings help 
+to distinguish among the three competing hypotheses enumerated in the Introduction. Our 
+results support hypothesis 1 that recombination occurring during retrieval both enhances 
+associative inference performance and increases false transfer of value to memories for 
+unrewarded items. By contrast, the results failed to support hypothesis 2 that integrative 
+encoding is responsible for false value transfer, because this hypothesis predicts that false 
+value transfer scores should be higher for correct as compared to incorrect inference trials 
+regardless of whether the value memory tests are given before or after the associative 
+inference test. The results also allow us to reject hypothesis 3, which claims no relation 
+between recombination during retrieval and false value transfer, because we found clear 
+evidence for such a relation. Thus, Experiment 1 extends to the novel domain of false value 
+transfer a parallel pattern of results previously reported for contextual details by Carpenter 
+and Schacter (2017), who found that participants were more prone to false memories that 
+resulted from mistakenly combining contextual scene details from related episodes 
+following successful inferences about the relations between these episodes, but only when 
+these details were probed after the associative inference test.
+Experiment 2
+In Experiment 2, we attempt to replicate and extend the critical results of Experiment 1 by 
+investigating the specificity of the effects produced by retrieval-related recombination 
+processes underlying successful inference on false transfer of value to previously 
+unrewarded items. To address this issue, participants learned overlapping AB and BC pairs 
+where one item in the ABC triad was either a high- or low-value item (compared to valued 
+or no-value in Experiment 1). During both value-transfer tests, given before and after the 
+directly learned and associative inference trials, participants were asked to remember the 
+specific value (i.e., high- or low-value) associated with each individual item. That is, 
+Experiment 2 investigated whether the falsely transferred reward-context tied to a previously 
+unrewarded item includes information as to the context’s specific degree of value (i.e., high- 
+or low-value), thus going beyond the valued/no-value distinction used in Experiment 1.
+Page 11
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Method
+Participants—25 young adults (mean age = 20.70, SD = 2.39; 14 female) were recruited 
+via advertisements at Boston University and Harvard University. The procedures regarding 
+recruitment, eligibility criteria, informed consent and ethical guidelines were identical to 
+Experiment 1. One participant was excluded from all subsequent analyses because they were 
+accurate on less than 4 percent of the associative inference trials; thus, our final sample 
+consisted of 24 participants.
+Summary of the Procedure—Participants came to the lab for two sessions, separated by 
+a 48-hour delay. The design parameters and stimuli presented during the first session were 
+the same as in Experiment 1 with one modification: 20 pairs of the AB encoding task 
+identified the ‘A’ item as a high-value item (i.e., $$$ - $2.00 reward), whereas 20 pairs 
+identified the ‘A’ item as a low-value item (i.e., $ - $0.10 reward). The remaining 40 pairs 
+did not associate any value with the ‘A’ item (i.e., no-value item). For the 40 no-value pairs, 
+20 of the corresponding ‘C’ items during the BC encoding task were identified as high-value 
+items, whereas the other 20 ‘C’ items were identified as low-value items. If a triad’s ‘A’ 
+item was associated with any value (i.e., either high- or low-value items), the corresponding 
+‘C’ item was not associated with any value (i.e., no-value item). Participants received one of 
+four versions of the AB encoding task such that all value associations were counterbalanced 
+across participants, where each ‘A’ or ‘C’ item was associated with high-, low-, or no-value 
+equally often.
+Similar to Experiment 1, participants were instructed to learn both the direct associations 
+(i.e., AB, BC) and the indirect associations (i.e., AC) along with the specific value 
+associated with each item. Participants were told that if they were able to remember all of 
+the information that was tied to valued item (i.e., specific value information, direct 
+association and indirect association) they would receive this reward at the end of the second 
+session. Identical to Experiment 1, participants were instructed to use the same encoding 
+strategy for high-value and low-value pairs (Hennessee, Castel & Knowlton, 2017; Wolosin 
+et al., 2013) and were asked to provide a judgment of learning following each pair.
+The design parameters and stimuli presented during the second session were the same in 
+Experiment 2 as in Experiment 1 with one modification: Participants were asked to 
+explicitly remember the specific value of the currently cued item and were given four 
+possible answer choices: 1) High-value item ($$$), 2) Low-value item ($), 3) No-value item, 
+or 4) Unsure. The test of directly learned (AB and BC) and associative inference trials (AC) 
+was the same in Experiment 2 as in Experiment 1.
+Coding of True Memory and False Value Transfer—True value memory was defined 
+as value memory questions for which the participant chose the correct specific value (i.e., 
+high- vs. low-value) that was associated with the currently cued item. False value transfer 
+was defined as value memory questions for which the participant chose the correct specific 
+value (i.e., high- vs. low-value) associated with the overlapping ‘A’ (or ‘C’) item and 
+attributed the value to the currently cued unrewarded ‘C’ (or ‘A’) item. False value transfer 
+was analyzed for ABC triads for which participants correctly inferred the relationship 
+Page 12
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+between ‘A’ and ‘C’ compared to triads for which the inference was not correctly made. 
+Additionally, false value transfer was evaluated both before explicit retrieval of the inference 
+(i.e., before AC associative inference trials) and after inferential retrieval in order to 
+selectively compare the distinct effects of integration during encoding and flexible 
+recombination at retrieval on subsequent false value transfer.
+Results and Discussion
+Directly Learned and Associative Inference Trials—First we evaluated overall 
+accurate on 67% of directly learned trials (Mdirect = 0.67, SE = 0.03; range: 0.43 to 0.84) and 
+responded ‘neither’ on 9% of directly learned trials (Mneither = 0.09, SE = 0.03; range: 0 to 
+0.53). On average, participants were accurate on 54% of associative inference trials 
+(Massociative inference = 0.54, SE = 0.03; range: 0.14 to 0.77) and responded ‘neither’ on 20% 
+of associative inference trials (Mneither = 0.20, SE = 0.05; range: 0 to 0.78). Importantly, 
+memory performance for directly learned high-value pairs was positively correlated with 
+performance for directly learned low-value pairs (r = 0.80, p < .001), suggesting that there 
+was not a tradeoff between learning high-value and low-value pairs. Consistent with 
+previous research (Carpenter & Schacter, 2017; Zeithamova & Preston, 2010), we found 
+significantly longer reaction times on associative inference trials (Massociative inference = 4491 
+msec, SE = 251) as compared to directly learned trials (Mdirect = 3037 msec, SE = 118), 
+suggesting that an additional recombination-related retrieval mechanism was used for 
+inferential versus direct retrieval (t(23) = 8.17, p < .001, mean difference = 1.45, 95% CI = 
+[1.09, 1.82], d = 1.67). Further, participants assigned significantly higher confidence ratings 
+to their responses on directly learned (Mdirect = 2.83, SE = 0.10) as compared to associative 
+inference trials (Massociative inference = 2.39, SE = 0.09), indicating that participants were 
+those resulting from recombination (t(23) = 7.20, p < .001, mean difference = 0.44, 95% CI 
+= [0.31, 0.56], d = 1.47).
+flexible recombination during associative inference on subsequent false value transfer across 
+event boundaries, we examined the proportion of value memory questions for which the 
+attributed the value to the currently cued unrewarded ‘C’ (or ‘A’) item with a 2 (time: before 
+vs. after inference retrieval) X 2 (inference: correct vs. incorrect inference) repeated 
+measures analysis of variance (ANOVA). Importantly, only trials for which participants 
+correctly remembered the directly learned association were included in subsequent analyses. 
+Results revealed no main effect of time, F(1,23) = 1.23, p > 0.25, ηp2 = 0.05, no main effect 
+of inference, F(1,23) < 1, p >.25, ηp2 = 0.005, but a significant time by inference interaction, 
+F(1,23) = 11.53, p = .002, ηp2 = 0.33 (see Fig. 2). Participants more frequently falsely 
+attributed value to the overlapping event after successful inference retrieval (Mafter = 0.28, 
+SE = 0.03) than before successful inference retrieval (Mbefore = 0.20, SE = 0.02; t(23) = 
+2.48, p = .018, mean difference = 0.08, 95% CI = [0.01, 0.14], d = 0.51). Further, 
+participants did not falsely attribute value more frequently to the overlapping event after 
+unsuccessful inference retrieval (Mafter = 0.23, SE = 0.03) than before unsuccessful 
+Page 13
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+inference retrieval (Mbefore = 0.24, SE = 0.03; t(23) < 1, p > .25, mean difference = −0.02, 
+95% CI = [−0.08, 0.05], d = 0.09). Similarly, participants did not falsely attribute value more 
+frequently to the overlapping event before successful inference retrieval (Mcorrect = 0.20, SE 
+= 0.02) than before unsuccessful inference retrieval (Mincorrect = 0.24, SE = 0.03; t(23) = 
+1.73, p = .10, mean difference = −0.04, 95% CI = [−0.09, 0.008], d = 0.34). Critically, 
+participants falsely attributed value more often to the overlapping event after successful 
+inference retrieval (Mcorrect = 0.28, SE = 0.03) than after unsuccessful inference retrieval 
+(Mincorrect = 0.23, SE = 0.03; t(23) = 2.34, p = .028, mean difference = 0.05, 95% CI = 
+[0.006, 0.10], d = 0.47), suggesting that recombination processes underlying successful 
+inference at retrieval can also lead to false transfer of value to unrewarded items (see Figure 
+5 and Supplemental Table 1 for means and raw trial numbers).
+recombination mechanisms during associative inference on subsequent false value transfer 
+within associative pairs, we examined the proportion of value memory questions for which 
+the participant chose the correct value associated with the overlapping ‘A’ (or ‘C’) item and 
+attributed the value to the currently cued unrewarded ‘B’ item with a 2 (time: before vs. after 
+ANOVA. Results revealed no main effect of time, F(1,23) < 1, p > .25, ηp2 = 0.001, no main 
+effect of inference, F(1,23) = 1.32, p = 0.26, ηp2 = 0.05, and no time by inference 
+interaction, F(1,23) < 1, p > .25, ηp2 = 0.002. Thus, false value transfer scores for 
+unrewarded ‘B’ items were similar both before (Mbefore = 0.30, SE = 0.03) and after 
+successful inference retrieval (Mafter = 0.30, SE = 0.04). Additionally, false value transfer 
+scores for unrewarded ‘B’ items were similar both before (Mbefore = 0.26, SE = 0.03) and 
+after unsuccessful inference retrieval (Mafter = 0.27, SE = 0.03).
+True Value Memory—To examine the effects of flexible recombination mechanisms 
+during retrieval on subsequent true value memory, we examined correct responses on the 
+value memory questions with a 2 (time: before vs. after inference retrieval) X 2 (inference: 
+correct vs. incorrect inference) repeated measures ANOVA. Results revealed no main effect 
+of time, F(1,23) = 1.31, p > .25, ηp2 = 0.05, no main effect of inference, F(1,23) < 1, p > .25, 
+ηp2 = 0.01, and no time by inference interaction, F(1,23) = 1.56, p = .22, ηp2 = 0.06. Thus, 
+true memory scores were similar both before (Mbefore = 0.51, SE = 0.03) and after 
+successful inference retrieval (Mafter = 0.44, SE = 0.05; t(23) = 1.74, p = .096, mean 
+difference = 0.07, 95% CI = [−0.01, 0.16], d = 0.36). Additionally, true memory scores were 
+similar both before (Mbefore = 0.49, SE = 0.04) and after unsuccessful inference retrieval 
+(Mafter = 0.48, SE = 0.05; t(23) < 1, p > .25, mean difference = 0.01, 95% CI = [−0.09, 
+0.11], d = 0.06; see Figure 4).
+In summary, the results of Experiment 2 provide further evidence that flexible recombination 
+processes required for successful associative inference also produce increases in the 
+frequency with which participants falsely transfer value to an overlapping event under 
+conditions in which the falsely transferred reward-context includes information about the 
+context’s specific degree of value (i.e., high- or low-value): false value transfer scores 
+increased significantly after but not before successful compared to unsuccessful inferential 
+Page 14
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+retrieval. These findings build on those from Experiment 1 showing false value transfer for a 
+valued/no-value contrast, and again extend our earlier false memory effects for contextual 
+scene details (Carpenter & Schacter, 2017), and provide additional evidence for a link 
+between processes that support successful inferential retrieval and those that allow for the 
+updating of the reward-contexts associated with previously unrewarded events. If associative 
+inference related processes did not affect participants’ memory for the value associated with 
+previously learned events, then false value transfer scores would not have differed for correct 
+and incorrect inferences, but they did. As in Experiment 1, our finding that the observed 
+increase in false value transfer scores occurred only after the associative inference test was 
+given implicates recombination during retrieval as the source of the effect, rather than 
+integration during encoding.
+Further, true memory scores and false value transfer to unrewarded ‘B’ items showed no 
+relationship to correct versus incorrect inferential retrieval either before or after the 
+associative inference test was presented. The lack of a difference in true memory scores 
+indicates that the observed updating of reward-context as a result of successful inference is 
+selective to the updating of events that were previously unrewarded. The lack of a difference 
+in false value transfer to unrewarded ‘B’ items indicates that a retrieval-related 
+recombination mechanism that supports successful inference is selectively involved in the 
+transfer or false binding of reward-context across event boundaries. Thus, our results 
+specifically speak to the transfer of a positive reward-context across distinct events to an 
+unrewarded item that was indirectly linked to the rewarded item following the reactivation 
+and recombination of both AB and BC events that allows for successful inference.
+Experiment 3
+Experiments 1 and 2 have provided evidence for false value transfer using tests that probe 
+explicit recall of value context. In Experiment 3, we asked whether retrieval-related 
+recombination processes underlying successful inference also contribute to implicit biasing 
+of future decisions between two previously unrewarded items. To address this issue, 
+participants were asked to choose between two unrewarded items, selecting the “luckier” 
+item for potential winnings awarded at the end of the experiment (i.e., decision bias test; 
+Wimmer & Shohamy, 2012). Previous research using a similar decision bias test indeed 
+found evidence for false value transfer to an unrewarded item that was directly paired with a 
+rewarded item following multiple repetitions during encoding (Wimmer & Shohamy, 2012). 
+In contrast, our manipulation of interest concerns single-trial learning and targets 
+recombination mechanisms during retrieval rather than integration during encoding. In order 
+to directly test the role of recombination during retrieval as compared to integration during 
+encoding on subsequent decision bias, implicit decision bias tests were given before the test 
+of direct (AB, BC) and indirect (AC) associations for one half of the AB and BC pairs, and 
+for the other half, the preference tests were given after the tests of direct and indirect 
+associations. Because the results of Experiment 2 showed that false value transfer following 
+successful inference was specific to the level of value associated with the reward context 
+(i.e., high- vs. low-value reward context), in Experiment 3 we utilized this manipulation of 
+degree of value and compared decision bias scores for unrewarded items from high- and 
+Page 15
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+low-value triads (rather than unrewarded items from valued vs. no-value triads from 
+Experiment 1).
+Our logic for Experiment 3 closely follows that of Experiment 1 and Experiment 2:
+1.
+If recombination during retrieval both enhances associative inference 
+performance and biases implicit decisions, then decision bias scores should be 
+higher for correct than incorrect inference trials, but only when the decision bias 
+test is given after the associative inference test (during which recombination 
+occurs).
+2.
+If decision bias scores are higher for correct as compared to incorrect inference 
+trials independent on whether the decision bias tests are given before or after the 
+associative inference test, then these effects are consistent with integrative 
+encoding processes.
+3.
+If there is no link at all between recombination during retrieval and implicit 
+decision bias then there should be no difference between the decision bias scores 
+for correct and incorrect inference trials regardless of when the decision bias 
+tests are given.
+Method
+Participants—24 young adults (mean age = 20.20, SD = 1.79; 16 female) were recruited 
+via advertisements at Boston University and Harvard University. The procedures regarding 
+recruitment, eligibility criteria, informed consent and ethical guidelines were identical to 
+Experiments 1 and 2.
+Summary of the Procedure—Participants came to the lab for two sessions, separated by 
+a 48-hour delay. The design parameters and stimuli presented during the first session were 
+the same in Experiment 3 as in Experiment 2. During the second session, Experiment 3 
+utilized a decision bias test before and after the test of directly learned (AB and BC) and 
+associative inference trials (AC). The test of directly learned and associative inference trials 
+was the same in Experiment 3 as in Experiment 2. Following both sets of decision bias trials 
+and all of the directly learned/associative inference trials, participants completed all of the 
+value memory test trials for the 80 ABC triads in the same manner as described for 
+Experiment 2.
+Decision Bias Test—In accordance with previous research utilizing a similar decision 
+bias test, participants were presented with 160 pairs of items that they had previously seen 
+during the first session and were asked to select the “luckier” item for potential winnings at 
+the end of the second session. Participants were given a short response time (2.5s) to make 
+their choice, in order to ensure that they were not recalling the direct and indirect 
+associations for both options before making their choice (Wimmer & Shohamy, 2012). 
+Following each decision, participants were asked to rate the level of their preference for the 
+item that they previously chose on a scale from 1 to 4 (1 = no preference, 4 = high 
+preference). Participants’ responses on the preference rating were self-paced. For items that 
+were rewarded, high-value items were always paired with a low-value item of the same item 
+Page 16
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+type. For example, a high-value ‘A’ item was always paired with a low-value ‘A’ item, 
+whereas a high-value ‘C’ item was always paired with a low-value ‘C’ item. For items that 
+were previously unrewarded, items that were indirectly associated with a high-value item 
+were always paired with items that were indirectly associated with a low-value item of the 
+same item type. For example, if the ‘A’ item in the triad was a high-value item, the 
+corresponding ‘C’ item in that triad was paired with another unrewarded ‘C’ item that was 
+indirectly linked to a low-value ‘A’ item. For these critical trials of interest, participants 
+were asked to choose between two unrewarded ‘C’ items and thus should have no significant 
+level of decision bias.
+In accordance with previous research using a similar decision bias task, all trials were 
+presented at random and participants completed four repetitions of each trial randomly 
+interspersed (Wimmer & Shohamy, 2012). Participants answered the decision bias questions 
+for one half of the 80 ABC triads before being tested on the directly learned and associative 
+inference trials. After participants were tested on the directly learned and associative 
+inference trials, they completed the decision bias questions for the alternate half of the 80 
+ABC triads.
+Results
+Directly Learned and Associative Inference Trials—Again we evaluated overall 
+accurate on 67% of directly learned trials (Mdirect = 0.67, SE = 0.03; range: 0.44 to 0.86) and 
+responded ‘neither’ on 3% of directly learned trials (Mneither = 0.03, SE = 0.02; range: 0 to 
+0.33). On average, participants were accurate on 61% of associative inference trials 
+(Massociative inference = 0.61, SE = 0.03; range: 0.30 to 0.79) and responded ‘neither’ on 5% 
+of associative inference trials (Mneither = 0.05, SE = 0.03; range: 0 to 0.59). Importantly, 
+memory performance for directly learned high-value pairs was positively correlated with 
+performance for directly learned low-value pairs (r = 0.83, p < .001), again suggesting that 
+there was not a tradeoff between learning high-value and low-value pairs. We found 
+significantly longer reaction times on associative inference trials (Massociative inference = 3638 
+msec, SE = 324) as compared to directly learned trials (Mdirect = 2737 msec, SE = 190), 
+suggesting an additional recombination-related retrieval mechanism is elicited for inferential 
+versus direct retrieval (t(23) = 5.17, p < .001, mean difference = 0.90, 95% CI = [0.54, 1.26], 
+d = 1.06). Further, participants assigned significantly higher confidence ratings to their 
+responses on directly learned (Mdirect = 2.78, SE = 0.06) as compared to associative 
+inference trials (Massociative inference = 2.32, SE = 0.07), indicating that participants were 
+those resulting from recombination (t(23) = 8.63, p < .001, mean difference = 0.47, 95% CI 
+= [0.35, 0.58], d = 1.76).
+Decision Bias Scores—To examine the effects of flexible recombination during 
+associative inference on subsequent implicit decision bias, we examined the proportion of 
+decision bias trials for which the participant chose the unrewarded item that was indirectly 
+linked to a high-value item as compared to a low-value item with a 2 (time: before vs. after 
+Page 17
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+ANOVA. Importantly, only trials for which participants correctly remembered the directly 
+learned association were included in subsequent analyses. Results revealed no main effect of 
+time, F(1,23) < 1, p > .25, ηp2 = 0.004, a main effect of inference, F(1,23) = 5.13, p = .03, 
+ηp2 = 0.18, and a significant time by inference interaction, F(1,23) = 4.39, p = .05, ηp2 = 
+0.16 (see Fig. 3). Participants more frequently chose the unrewarded item that was indirectly 
+linked to the high-value item after successful inference retrieval (Mafter = 0.61, SE = 0.04) 
+than before successful inference retrieval (Mbefore = 0.52, SE = 0.03; t(23) = 2.07, p = .05, 
+mean difference = 0.09, 95% CI = [0.00, 0.18], d = 0.42). Further, participants did not 
+choose the unrewarded high-value item more frequently after unsuccessful inference 
+retrieval (Mafter = 0.43, SE = 0.05) than before unsuccessful inference retrieval (Mbefore = 
+0.50, SE = 0.04; t(23) = 1.09, p > .25, mean difference = −0.07, 95% CI = [−0.20, 0.06], d = 
+0.22). Similarly, participants did not choose the unrewarded high-value item more often 
+before successful inference retrieval (Mcorrect = 0.52, SE = 0.03) than before unsuccessful 
+inference retrieval (Mincorrect = 0.50, SE = 0.04; t(23) < 1, p > .25, mean difference = 0.02, 
+95% CI = [−0.09, 0.13], d = 0.07). Critically, participants chose the unrewarded high-value 
+item more frequently after successful inference retrieval (Mcorrect = 0.61, SE = 0.04) than 
+after unsuccessful inference retrieval (Mincorrect = 0.43, SE = 0.05; t(23) = 2.87, p = .009, 
+mean difference = 0.18, 95% CI = [0.05, 0.31], d = 0.59), suggesting that recombination 
+processes underlying successful inference at retrieval can also bias participants choice 
+toward unrewarded items that were indirectly tied to a high-value item (see Figure 6 and 
+Supplemental Table 1 for means and raw trial numbers).
+Importantly, in order to determine whether our decision bias scores were significantly 
+different from chance we conducted a one-sample t-test comparing all conditions to chance 
+(i.e., 0.50). Critically, the only condition in which decision bias scores significantly differed 
+from chance was after successful inference (Mcorrect = 0.61, SE = 0.04; t(23) = 2.88, p = .
+008, mean difference = 0.11, 95% CI = [0.03, 0.19], d = 0.59). No significant differences 
+from chance were found after unsuccessful inference (Mincorrect = 0.43, SE = 0.05; t(23) = 
+1.43, p = .17, mean difference = −0.07, 95% CI = [−0.17, 0.03], d = 0.29), before successful 
+inference (Mcorrect = 0.52, SE = 0.03; t(23) < 1, p > .25, mean difference = 0.02, 95% CI = 
+[−0.04, 0.07], d = 0.12) or before unsuccessful inference (Mincorrect = 0.50, SE = 0.04; t(23) 
+< 1, p > .25, mean difference = −0.001, 95% CI = [−0.09, 0.09], d = 0.007).
+flexible recombination mechanisms during associative inference on subsequent false value 
+transfer across event boundaries, we examined the proportion of value memory questions for 
+which the participant chose the correct value associated with the overlapping ‘A’ (or ‘C’) 
+item and attributed the value to the currently cued unrewarded ‘C’ (or ‘A’) item with a 
+paired samples t-test comparing trials for which participants got the inference correct to 
+incorrect inference trials. Critically, the value memory test for Experiment 3 differs from 
+Experiment 2 in that all of the value memory questions were tested after all of the directly 
+learned and associative inference trials. Consistent with results from Experiment 2, 
+participants falsely attributed value more often to the overlapping event after successful 
+inference retrieval (Mcorrect = 0.28, SE = 0.02) than after unsuccessful inference retrieval 
+(Mincorrect = 0.21, SE = 0.03; t(23) = 2.52, p = .019, mean difference = 0.07, 95% CI = [0.01, 
+Page 18
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+0.13], d = 0.51), suggesting that recombination processes underlying successful inference at 
+retrieval can also lead to false transfer of value to unrewarded items.
+recombination mechanisms during associative inference on subsequent false value transfer 
+within associative pairs, we examined the proportion of value memory questions for which 
+the participant chose the correct value associated with the overlapping ‘A’ (or ‘C’) item and 
+attributed the value to the currently cued unrewarded ‘B’ item with a paired samples t-test 
+comparing trials for which participants got the inference correct to incorrect inference trials. 
+Results revealed no significant difference between false value transfer scores for unrewarded 
+‘B’ items following successful inference retrieval (Mcorrect = 0.30, SE = 0.03) compared to 
+after unsuccessful inference retrieval (Mincorrect = 0.25, SE = 0.03; t(23) = 1.50, p = .16, 
+mean difference = 0.04, 95% CI = [0.02, 0.10], d = 0.30).
+True Value Memory—To examine the effects of flexible recombination mechanisms 
+during retrieval on subsequent true value memory, we examined correct responses on the 
+value memory questions with a paired-samples t-test. Consistent with results from 
+Experiment 2, results revealed no significant difference in the proportion of correct 
+responses on the value memory test for correct (Mcorrect = 0.40, SE = 0.02) as compared to 
+incorrect inference trials (Mincorrect = 0.41, SE = 0.02; t(23) < 1, p > .25, mean difference = 
+0.007, 95% CI = [−0.03, 0.05], d = 0.08).
+Discussion
+The results of Experiment 3 replicate and extend the false value transfer results of 
+Experiments 1 and 2. Critically, results of the decision bias test from Experiment 3 support 
+the role of recombination during retrieval in both successful associative inference and 
+biasing implicit decisions. That is, participants’ implicit decision bias scores were 
+significantly higher following correct than incorrect inference trials, but only when the 
+decision bias test was given after the associative inference test during which the overlapping 
+AB and BC associations are reactivated and flexibly recombined in order to infer the 
+relationship between ‘A’ and ‘C.’ Results revealed no significant difference in decision bias 
+scores for correct as compared to incorrect inference when the decision bias test was given 
+before inferential retrieval. In sum, the current results support the role of a recombination-
+related retrieval mechanism in both the explicit transfer of reward-context to a previously 
+unrewarded item that was indirectly linked to a rewarded item (Experiments 1 and 2) and 
+biasing subsequent value-based decision-making when participants are required to choose 
+between two previously unrewarded items (Experiment 3).
+General Discussion
+The three experiments reported here provide evidence that the same flexible retrieval 
+mechanism that supports successful inferential retrieval also allows for the systematic 
+updating of reward-contexts that bias novel value-based decisions. Experiments 1 and 2 
+provided evidence that flexible retrieval processes required for successful associative 
+inference also produce increases in false value transfer scores when the value memory test is 
+given after the test of directly learned and associative inference trials. Experiment 2 
+Page 19
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+replicated and extended the results of Experiment 1 by providing evidence that the specific 
+value (i.e., high- and low-value) associated with an item is more frequently transferred to an 
+overlapping non-valued item only following successful inference. The results of Experiment 
+3 extend those of Experiments 1 and 2 by providing evidence that recombination-related 
+retrieval processes underlying successful inference also contribute to the implicit biasing of 
+participants’ future decisions when they are asked to choose between two previously 
+unrewarded items that were indirectly tied to rewarded items of differing value (i.e., 
+indirectly associated with a high- or low-value item). Thus, whereas Experiment 1 showed 
+that general reward-context (i.e., valued vs. no-value) can be falsely transferred and biases 
+novel decisions following successful inference as compared to unsuccessful inference, 
+Experiments 2 and 3 provide evidence that these effects can also occur for a specific reward-
+context (i.e., high- vs. low-value reward). That is, only following successful inference, 
+participants more frequently transferred the specific reward-context from the rewarded item 
+to the unrewarded item (e.g., high-value ‘A’ item results in an unrewarded ‘C’ item as being 
+remembered as a high-value ‘C’ item; Experiment 2). Further, when choosing between two 
+unrewarded items where one is indirectly linked to a high-value item and the other is 
+indirectly linked to a low-value item (Experiment 3), participants more frequently chose the 
+unrewarded item that was indirectly linked to a high-value item following successful 
+inference than unsuccessful inference.
+These data provide direct experimental support for the idea that a mechanism that flexibly 
+retrieves and recombines elements from distinct events in order to make novel connections 
+that have not been directly experienced also supports the biased updating of specific value 
+representations across distinct contexts, particularly when the original events have only been 
+experienced once. More generally, our results add to the growing evidence supporting the 
+role of episodic memory processes in novel value-based decision-making (Murty et al., 
+2016; Palombo, Keane &Verfaellie, 2015; Schacter et al., 2015; Shohamy & Daw, 2015; 
+Wimmer & Büchel, 2016; Wolosin, Zeithamova, & Preston, 2012, 2013).
+Flexible Retrieval and Integrative Encoding
+As noted in the Introduction, previous research suggests that both integrative encoding 
+processes and flexible recombination mechanisms during retrieval play a role in successful 
+associative inference (Shohamy & Wagner, 2008; Zeithamova & Preston, 2010). If 
+integrative encoding is responsible for false value transfer or biased value-based decision-
+making in our current paradigm, then there should be higher false value transfer and 
+decision bias scores for successful than unsuccessful inferential retrieval before the 
+associative inference test; however, our results revealed such effects only when the value 
+memory and decision bias tests were given after the associative inference test. Previous 
+research identifying the role of integration during encoding on successful associative 
+inference has focused on instances where participants are able to learn the associations over 
+multiple repetitions, thus providing participants with more opportunities to bind the 
+overlapping AB and BC associations during the encoding phase (Shohamy & Wagner, 2008; 
+Zeithamova, Dominick & Preston, 2012). Critically, our paradigm utilizes single-trial 
+learning that targets flexible recombination mechanisms during successful inferential 
+retrieval (Carpenter & Schacter, 2017). While our results provide evidence for the link 
+Page 20
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+between recombination-related retrieval mechanisms and subsequent false value transfer and 
+decision bias, they do not rule out a similar link to integrative encoding under different 
+experimental conditions that more strongly target integrative encoding processes. Thus, it is 
+possible that under conditions where associations (AB and BC) are learned over multiple 
+repetitions during the encoding phase, integrative encoding may contribute to the type of 
+false value transfer across distinct events and value-based decision bias that we observed 
+here.
+Moreover, even under the current set of experimental conditions, it is theoretically possible 
+that integrative encoding contributes to, and is perhaps even necessary for, increased false 
+value transfer and decision bias for successful associative inference. By this view, false value 
+transfer and decision bias scores are increased for successful vs. unsuccessful inferences 
+only after the inference test is given because the inference test serves to remind participants 
+of a novel connection previously established via integrative encoding; increased false value 
+transfer and decision bias for successful inference are not observed prior to the inference test 
+because participants “forget” the across-episode link established by integrative encoding and 
+require a test-based reminder to retrieve that link. It is well known that test trials can serve as 
+powerful promoters of encoding and subsequent retention (Karpicke, 2012; Roediger & 
+Karpicke, 2006), and we believe that our findings can be viewed as another example of a 
+kind of “testing effect”. However, it is unclear why participants would forget the across-
+episode link established by integrative encoding and require a reminder of it during testing. 
+Thus, while we cannot rule out that integrative encoding played some role in our key 
+findings, we believe that our proposal that flexible recombination during the associative 
+inference test produces the observed false value transfer and decision bias effects is more 
+parsimonious than an account that seeks to attribute the effects to a combination of 
+integrative encoding and test-based reminding. Even though this issue cannot be settled 
+definitively, the current results highlight that successful associative inference results in a 
+more integrated representation, and that a byproduct of this flexible integration or 
+recombination is that elements of one event may be mistakenly bound to the overlapping 
+event. This is true whether 1) integration occurs during encoding and is further strengthened 
+by the retrieval of the integrated representation, or 2) the recombination occurs specifically 
+during retrieval. Nonetheless, future research should attempt to examine the role of 
+integrative encoding mechanisms on both subsequent false value transfer and value-based 
+decision-making.
+More generally, in line with arguments made by Carpenter and Schacter (2017), we do not 
+think that the present results should be conceived within a simple encoding-retrieval 
+dichotomy. Memory researchers have known for decades that encoding processes involve 
+retrieval and vice versa (e.g., Brainerd, Howe, & Desrochers, 1982; Howe, 1988; Schacter, 
+2001a). Thus in the present paradigm integrative encoding requires some amount of retrieval 
+(i.e., during study of BC, participants retrieve an overlapping AB pair in order to encode an 
+integrated ABC representation), and flexible retrieval results in some degree of encoding 
+that produces subsequent false value transfer and decision bias. Still, our data reveal clear 
+differences in patterns of false value transfer and decision bias before and after the 
+associative inference test.
+Page 21
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Implications for Reward-Related Learning
+Although we are not aware of any prior studies that have specifically linked successful 
+associative inference with false value transfer and value-based decision-making, as noted 
+earlier previous research has shown that specific reward-contexts can affect the value 
+attributed to unrewarded items that were previously tied to the rewarded item (Wimmer & 
+Shohamy, 2012). Importantly, there are several differences between the current experiments 
+and previous research by Wimmer and Shohamy (2012). Namely, past research required 
+participants to learn the direct relationships between two items implicitly over many 
+repeated trials, and thus they were not required to recombine elements in order to infer the 
+relationship between two distinct episodes (Wimmer & Shohamy, 2012). By contrast, in the 
+current experiments participants were only exposed to the paired items once and were 
+explicitly told to learn both the reward-context (i.e., no-value, low-value or high-value) and 
+the direct relationship between two simultaneously presented items (AB or BC). Further, in 
+our experiments participants were aware that they would be tested on the indirect 
+relationship between ‘A’ and ‘C’, which required them to infer the relationship between the 
+two overlapping yet distinct episodes. Thus, while results from Wimmer and Shohamy 
+(2012) provide strong support for an additional mechanism that is responsible for the 
+updating of value representations during the learning phase, thus bypassing the need for 
+effortful recombination at the time of retrieval or decision (for review see Shohamy & Daw, 
+2015), the current experiments more specifically target the role of a recombination-related 
+retrieval mechanism on subsequent reward-context memory and value-based decision-
+making. Accordingly, although our results do not indicate generalization or spreading of the 
+reward-context across items in the ABC triad during encoding, they do not preclude the 
+possibility that similar patterns of reward-context spreading within and potentially across 
+overlapping associations would emerge under experimental conditions more similar to those 
+used by Wimmer and Shohamy (2012) (i.e., utilizing an implicit encoding paradigm and 
+targeting integrative encoding mechanisms across multiple repetitions). It is likely that the 
+explicit encoding instructions and single-trial learning conditions used here are not sufficient 
+to support such generalized spreading of reward-contexts because participants are not given 
+multiple opportunities to strongly bind the item and its associate to the specific reward-
+context.
+How does successful inferential retrieval both support the transfer of reward-context across 
+event boundaries and bias novel value-based decisions? We suggest that the pattern of results 
+found here reflects the operation of two distinct mechanisms: reward-related learning (Murty 
+et al., 2016; Wimmer & Büchel, 2016; Wimmer & Shohamy, 2012; Wolosin, Zeithamova & 
+Preston, 2012, 2013) and flexible recombination-related retrieval processes (Carpenter & 
+Schacter, 2017; Hupbach, Gomez, Hardt, & Nadel, 2007; Schacter & Addis, 2007a, 2007b; 
+St. Jacques & Schacter, 2013). Reward-related learning processes allow one to encode the 
+relationship between a specific reward-context and a currently cued item, thereby linking a 
+specific item to its potential future value (Murty et al., 2016; Wimmer & Büchel, 2016; 
+Wimmer & Shohamy, 2012; Wolosin, Zeithamova & Preston, 2012, 2013). Thus, 
+representations of previously experienced events include the specific information identifying 
+the reward-context in which the information was encoded, which affects subsequent value-
+based decision-making. That is, participants are more likely to choose an option if it was 
+Page 22
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+previously associated (either directly or indirectly) with a positive outcome (Murty et al., 
+2016; Wimmer & Büchel, 2016; Wimmer & Shohamy, 2012). Further, previous research 
+suggests that the reward-context tied to a previously learned item can spread to an associated 
+item, indirectly linking the unrewarded associate to the reward-context itself (Wimmer & 
+Shohamy, 2012). Thus, reward-related learning mechanisms may allow for the 
+generalization or spreading of value within associative pairs (Wimmer & Shohamy, 2012; 
+for a discussion of how this spreading of value affects memory see Loh, Deacon, de Boer, 
+Dolan & Duzel, 2016).
+However, reward-related learning and the generalization of reward-context within 
+associative pairs alone cannot account for the key findings of our experiments – that 
+increased false value transfer and implicit decision bias scores were observed for correct 
+inference trials, but only when the value memory and decision bias tests were given after the 
+associative inference tests. In order for reward-contexts to be transferred across distinct 
+event boundaries, our results implicate retrieval-mediated recombination processes where 
+elements of both overlapping events (i.e., AB and BC) are reactivated and recombined in 
+order to link items ‘A’ and ‘C’ based on their shared relationship with item ‘B.’ That is, 
+when people make the correct inference about the relationship between elements from 
+overlapping yet distinct episodes (i.e., AC), they may more fully bind the reward-context 
+associated with item ‘A’ to their representation of the unrewarded item ‘C.’ Thus, previously 
+unrewarded items may gain a positive value simply by way of co-activating and recombining 
+elements of previously distinct experiences (for a similar mechanistic account see Carpenter 
+& Schacter, 2017, and see Bridge & Voss, 2014a, 2014b, for additional discussion of cross-
+episode binding and memory distortion). These findings fit well with previous research 
+showing that reactivating and recombining elements of distinct past events in order to 
+simulate possible future experiences allows one to link the prospective scenario to 
+experienced past and expected future rewards (Benoit, Gilbert & Burgess, 2011; Benoit et 
+al., 2014; Schacter, et al., 2015). From this perspective, in our experimental paradigm false 
+value transfer and value-based decision bias arise when overlapping AB and BC 
+relationships (along with their specific reward-context) are reactivated and flexibly 
+recombined in order to encode the novel inference between the previously unrelated ‘A’ and 
+‘C’ items. Consistent with our current results, findings from Benoit et al. (2014) suggest that 
+integrating elements from distinct autobiographical memories in order to imagine a possible 
+future event allows one to process the affective quality of the future episode. Therefore, 
+previous evidence supports the ideas that 1) reward-contexts can transfer affective value 
+within previously learned associations and 2) simulating potential future episodes allows one 
+to link elements of the simulated future episode to a previously experienced reward. The 
+present studies add to these findings by providing novel evidence that the same flexible 
+recombination mechanisms that support the ability to link together elements from two 
+distinct events, such as associative inference, also increases false value transfer of a specific 
+reward-context to a previously unrewarded item and further biases novel value-based 
+decision-making.
+Page 23
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Additional Implications
+While all three experiments reported here focus on recombination-related retrieval processes 
+that occurred during the associative inference test for successful inference (AC) trials, 
+participants were also tested for AB and BC items that did appear together previously. Thus, 
+it is possible that the increases in false value transfer and decision bias scores are linked to 
+retrieval of directly learned associations. However, two key features of our data speak 
+strongly against this possibility. First, if retrieval of directly learned associations were 
+responsible for the increase in false value transfer and decision bias scores, then scores after 
+the associative inference test should have been similar for both successful and unsuccessful 
+inferential retrieval. Second, if testing of directly learned pairs were responsible for the 
+increase in false value transfer and decision bias scores after as compared to before the 
+associative inference test, then these effects should have been found for unsuccessful 
+inference trials because only triads for which participants were able to remember the directly 
+learned associations were included in the subsequent analyses. Importantly, in neither 
+experiment did we find significant differences in false value transfer or decision bias scores 
+before as compared to after unsuccessful inferential retrieval. Moreover, our previous 
+research (Carpenter & Schacter, 2017, Experiment 4) experimentally assessed the effects of 
+testing directly learned associations on subsequent recombination-related source memory 
+errors by testing the directly learned associations only after both sets of detail and source 
+monitoring questions were completed. We still found an increase in source memory errors 
+only after successful inferential retrieval, thereby providing evidence that testing of directly 
+learned pairs during the associative inference test was not responsible for the increase in 
+source memory errors. In sum, in view of the aforementioned evidence from the present 
+experiments as well as our earlier work, it is highly unlikely that the current results linking 
+successful inferential retrieval to false value transfer and decision bias are attributable to 
+direct retrieval of previously studied pairs.
+Throughout the current set of experiments we have proposed that flexible recombination 
+during retrieval both supports successful inference and allows for the systematic updating of 
+value representations that further bias novel value-based choice. Neuroimaging studies have 
+implicated the hippocampus in flexible retrieval processes that support associative inference 
+(e.g., Zeithamova & Preston, 2010) and constructing episodic simulations of hypothetical 
+events based on recombining elements of past experiences (for a recent review, see Schacter, 
+Addis, & Szpunar, 2017). In addition, neuroimaging evidence also links the hippocampus 
+with the retrieval of the specific reward-context in which the information was originally 
+learned, specifically when its activity is coupled with reward-related regions such as the 
+ventral tegmental area and the nucleus accumbens (Wolosin et al., 2012, 2013). However, it 
+is not currently known what role, if any, the hippocampus or reward-related regions play in 
+the kinds of recombination-related false memories and false preferences documented here. 
+Future research should attempt to delineate the contributions of the hippocampus and 
+reward-related regions in recombination-related retrieval processes that support the 
+systematic updating of value representations in memory.
+Finally, it should be noted that the current experiments add to the growing body of evidence 
+conceptualizing various kinds of memory errors and distortions as products of adaptive 
+Page 24
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+cognitive processes (cf., Bridge & Voss, 2014a; Howe, Wilkinson, Garner, & Ball, 2016; 
+Hupbach et al., 2007; Lew & Howe, 2017; Schacter, 2001b; Schacter, Guerin, & St. Jacques, 
+2011; St. Jacques et al., 2013). Here we have extended the range of such distortions to the 
+domain of value-based decision-making. Although we have provided novel evidence linking 
+such adaptive processes as retrieval-related recombination and associative inference with 
+false value transfer and implicit decision bias, we should point out that similar adaptive 
+constructive processes (Schacter, 2012) played an important role in classic studies of 
+judgment and decision-making by Tversky and Kahneman (1974). They had the important 
+insight that memory-based heuristics that people commonly use under conditions of 
+uncertainty “are quite useful, but sometimes they lead to severe and systematic errors” 
+(1974, p. 1174). We believe that further investigations of the relations among flexible 
+episodic retrieval processes, memory errors and biases, and value-based decision-making are 
+likely to yield important new insights into the nature of constructive memory and cognition.
+Context of the Research
+Over the past decade there has been a large influx of literature that examines how memory-
+based processes affect the value associated with a specific event (or related events) and 
+further how these memory mechanisms bias participants’ future choices. The ideas for the 
+current set of experiments originated as an extension of the authors’ previous work 
+evaluating the role of recombination during retrieval on subsequent source memory errors, 
+where contextual details of one event are mistakenly bound to an overlapping event 
+following successful inferential retrieval (Carpenter & Schacter, 2017). The current set of 
+three experiments evaluate whether the reward-context associated with a single event may 
+similarly be mistakenly bound to an overlapping event following successful inferential 
+retrieval. The findings of the current experiments in concert with the authors’ past work fit 
+within a broader research program evaluating the flexibility of the episodic memory system 
+and further how such adaptive constructive processes may result in memory error as an 
+unintended consequence. The authors plan to extend the current work by utilizing 
+neuroimaging (fMRI) techniques to evaluate the neural correlates associated with associative 
+inference and false memory. Additionally, the authors plan to utilize the current paradigm to 
+examine age-related changes in associative inference and subsequent biases in future value-
+based decisions.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+This research was supported by National Institute of Mental Health grant MH060941 and National Institute on 
+Aging grant AG08441 to Daniel L. Schacter. We thank Aleea Devitt, Ciara Greene, Helen Jing, and Preston Thakral 
+for helpful comments on an earlier draft of the manuscript. Data from the current three experiments are original and 
+have not previously been disseminated.
+Page 25
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+References
+Adcock RA, Thangavel A, Whitfield-Gabrieli S, Knutson B, Gabrieli JD. Reward-motivated learning: 
+Mesolimbic activation precedes memory formation. Neuron. 2006; 50:507–517. DOI: 10.1016/
+j.neuron.2006.03.036 [PubMed: 16675403] 
+Benoit RG, Gilbert SJ, Burgess PW. A neural mechanism mediating the impact of episodic prospection 
+on farsighted decisions. Journal of Neuroscience. 2011; 31:6771–6779. DOI: 10.1523/JNEUROSCI.
+6559-10.2011 [PubMed: 21543607] 
+Benoit RG, Szpunar KK, Schacter DL. Ventromedial prefrontal cortex supports affective future 
+simulation by integrating distributed knowledge. PNAS. 2014; 111:16550–16555. DOI: 10.1073/
+pnas.1419274111 [PubMed: 25368170] 
+Bornstein AM, Norman KA. Reinstated episodic context guides sampling-based decisions for reward. 
+Nature Neuroscience. 2017; 20(7):997–1003. DOI: 10.1038/nn.4573 [PubMed: 28581478] 
+Bornstein AM, Khaw MW, Shohamy D, Daw ND. Reminders of past choices bias decisions for reward 
+in humans. Nature Communications. 2017; 8:15958.doi: 10.1038/ncomms15958
+Boyer P. Evolutionary economics of mental time travel? Trends in Cognitive Sciences. 2008; 12:219–
+224. DOI: 10.1016/j.tics.2008.03.003 [PubMed: 18468941] 
+Brainerd CJ, Howe ML, Desrochers A. The general theory of two-stage learning: A mathematical 
+review with illustrations from memory development. Psychological Bulletin. 1982; 91:634–665. 
+DOI: 10.1037/0033-2909.91.3.634
+Bridge DJ, Voss JL. Hippocampal binding of novel information with dominant memory traces can 
+support both memory stability and change. Journal of Neuroscience. 2014a; 34:2203–13. DOI: 
+10.1523/JNEUROSCI.3819-13.2014 [PubMed: 24501360] 
+Bridge DJ, Voss JL. Active retrieval facilitates across-episode binding by modulating the content of 
+memory. Neuropsychologia. 2014b; 63:154–64. DOI: 10.1016/j.neuropsychologia.2014.08.024 
+[PubMed: 25173711] 
+Carpenter AC, Schacter DL. Flexible retrieval: When true inferences produce false memories. Journal 
+of Experimental Psychology: Learning, Memory & Cognition. 2017; 43:335–349. DOI: 10.1037/
+xlm0000340
+Doll BB, Shohamy D, Daw ND. Multiple memory systems as substrates for multiple decision systems. 
+Neurobiology of Learning and Memory. 2015; 117:4–13. DOI: 10.1016/j.nlm.2014.04.014 
+[PubMed: 24846190] 
+Duncan KD, Shohamy D. Memory states influence value-based decisions. Journal of Experimental 
+Psychology: General. 2016; 145:1420–1426. DOI: 10.1037/xge0000231 [PubMed: 27797556] 
+Faul F, Erdfelder E, Lang AG, Buchner A. G*Power 3: A flexible statistical power analysis program 
+for the social, behavioral, and biomedical sciences. Behavior Research Methods. 2007; 39:175–
+191. DOI: 10.3758/BF03193146 [PubMed: 17695343] 
+Gluth SS, Sommer T, Reiskamp J, Büchel C. Effective connectivity between the hippocampus and 
+ventromedial prefrontal cortex controls preferential choices from memory. Neuron. 2015; 
+86:1078–1090. DOI: 10.1016/j.neuron.2015.04.023 [PubMed: 25996135] 
+Hennessee JP, Castel AD, Knowlton BJ. Recognizing what matters: Value improves recognition by 
+selectively enhancing recollection. Journal of Memory and Language. 2017; 94:195–205. DOI: 
+10.1016/j.jml.2016.12.004 [PubMed: 28827894] 
+Howe, ML. Measuring memory development in adulthood: A model-based approach to disentangling 
+storage-retrieval contributions. In: Howe, ML., Brainerd, CJ., editors. Cognitive development in 
+adulthood: Progress in cognitive development research. New York: Springer-Verlag; 1988. p. 
+39-64.
+Howe ML, Wilkinson S, Garner SR, Ball LJ. On the adaptive function of children’s and adults’ false 
+memories. Memory. 2016; 24(8):1062–77. DOI: 10.1080/09658211.2015.1068335 [PubMed: 
+26230151] 
+Hupbach A, Gomez R, Hardt O, Nadel L. Reconsolidation of episodic memories: A subtle reminder 
+triggers integration of new information. Learning and Memory. 2007; 14:47–53. DOI: 10.1101/lm.
+365707 [PubMed: 17202429] 
+Page 26
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Karpicke JD. Retrieval-Based Learning. Current Directions in Psychological Science. 2012; 21(3):
+157–163. DOI: 10.1177/0963721412443552
+Lew AR, Howe ML. Out of place, out of mind: Schema-driven false memory effects for object-
+location bindings. Journal of Experimental Psychology: Learning, Memory, and Cognition. 2017; 
+43:404–421. DOI: 10.1037/xlm0000317
+Loh E, Deacon M, de Boer L, Dolan RJ, Duzel E. Sharing a context with other rewarding events 
+increases the probability that neutral events will be recollected. Frontiers in Human Neuroscience. 
+2016; 9:683.doi: 10.3389/fnhum.2015.00683 [PubMed: 26778998] 
+Martinez JE, Mack ML, Gelman BD, Preston AR. Knowledge of social affiliations biases economic 
+decisions. PLoS ONE. 2016; 11(7):1–14. DOI: 10.1371/journal.pone.0159918
+Murty VP, FeldmanHall O, Hunter LE, Phelps EA, Davachi L. Episodic memories predict adaptive 
+value-based decision-making. Journal of Experimental Psychology: General. 2016; 145:548–558. 
+DOI: 10.1037/xge0000158 [PubMed: 26999046] 
+Palombo JD, Keane MM, Verfaellie M. How does the hippocampus shape decisions? Neurobiology of 
+Learning and Memory. 2015; 125:93–97. DOI: 10.1016/j.nlm.2015.08.005 [PubMed: 26297967] 
+Preston AR, Shrager Y, Dudukovic NM, Gabrieli JDE. Hippocampal contribution to the novel use of 
+relational information in declarative memory. Hippocampus. 2004; 14:148–52. DOI: 10.1002/hipo.
+20009 [PubMed: 15098720] 
+Roediger HL, Karpicke JD. Test-enhanced learning: Taking memory tests improves long-term 
+retention. Psychological Science. 2006; 17:249–255. DOI: 10.1111/j.1467-9280.2006.01693.x 
+[PubMed: 16507066] 
+Schacter, DL. Forgotten ideas, neglected pioneers: Richard Semon and the story of memory. 
+Philadelphia: Psychology Press; 2001a. 
+Schacter, DL. The seven sins of memory: How the mind forgets and remembers. Boston and New 
+York: Houghton Mifflin; 2001b. 
+Schacter DL. Adaptive constructive processes and the future of memory. The American Psychologist. 
+2012; 67doi: 10.1037/a0029869
+Schacter DL, Addis DR. The cognitive neuroscience of constructive memory: Remembering the past 
+and imagining the future. Philosophical Transactions of the Royal Society B: Biological Sciences. 
+2007a; 362:773–786. DOI: 10.1098/rstb.2007.2087
+Schacter DL, Addis DR. The ghosts of past and future. Nature. 2007b; 445:27.doi: 10.1038/445027a 
+[PubMed: 17203045] 
+Schacter DL, Benoit RG, Szpunar KK. Episodic future thinking: Mechanisms and functions. Current 
+Opinion in Behavioral Sciences. 2017; 17:41–50. DOI: 10.1016/j.cobeha.2017.06.002 [PubMed: 
+29130061] 
+Schacter DL, Guerin SA, St Jacques PL. Memory distortion: An adaptive perspective. Trends in 
+Cognitive Sciences. 2011; 15:467–474. DOI: 10.1016/j.tics.2011.08.004 [PubMed: 21908231] 
+Schacter DL, Benoit RG, De Brigard F, Szpunar KK. Episodic future thinking and episodic 
+counterfactual thinking: Intersections between memory and decisions. Neurobiology of Learning 
+and Memory. 2015; 117:14–21. DOI: 10.1016/j.nlm.2013.12.008 [PubMed: 24373942] 
+Schacter, DL., Addis, DR., Szpunar, KK. Escaping the past: Contributions of the hippocampus to 
+future thinking and imagination. In: Hannula, DE., Duff, MC., editors. The hippocampus from 
+cells to systems: Structure, connectivity, and functional contributions to memory and flexible 
+cognition. New York: Springer; 2017. p. 439-465.
+Schlichting ML, Preston AR. Memory integration: Neural mechanisms and implicatioms for behavior. 
+Current Opinion in Behavioral Sciences. 2015; 1:1–8. DOI: 10.1016/j.cobeha.2014.07.005 
+[PubMed: 25750931] 
+Shohamy D, Daw ND. Integrating memories to guide decisions. Current Opinion in Behavioral 
+Sciences. 2015; 5:85–90. DOI: 10.1016/j.cobeha.2015.08.010
+Shohamy D, Wagner AD. Integrating memories in the human brain: Hippocampal-midbrain encoding 
+of overlapping events. Neuron. 2008; 60:378–89. DOI: 10.1016/j.neuron.2008.09.023 [PubMed: 
+18957228] 
+Page 27
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+St Jacques PL, Olm C, Schacter DL. Neural mechanisms of reactivation-induced updating that enhance 
+and distort memory. Proceedings of the National Academy of Sciences. 2013; 110:19671–19678. 
+DOI: 10.1073/pnas.1319630110
+St Jacques PL, Schacter DL. Modifying memory: Selectively enhancing and updating personal 
+memories for a museum tour by reactivating them. Psychological Science. 2013; 24:537–543. 
+DOI: 10.1177/0956797612457377 [PubMed: 23406611] 
+Tversky A, Kahneman D. Judgment under uncertainty: Heuristics and biases. Science. 1974; 
+185:1124–1131. DOI: 10.1126/science.185.4157.1124 [PubMed: 17835457] 
+Wimmer GE, Büchel C. Reactivation of reward-related patterns from single past episodes supports 
+memory-based decision-making. The Journal of Neuroscience. 2016; 36:2868–2880. DOI: 
+10.1523/JNEUROSCI.3433-15.2016 [PubMed: 26961943] 
+Wimmer GE, Shohamy D. Preference by association: How memory mechanisms in the hippocampus 
+bias decisions. Science. 2012; 338:270–273. DOI: 10.1126/science.1223252 [PubMed: 23066083] 
+Wolosin SM, Zeithamova D, Preston AR. Reward modulation of hippocampal subfield activation 
+during successful associative encoding and retrieval. Journal of Cognitive Neuroscience. 2012; 
+24:1532–1547. DOI: 10.1162/jocn_a_00237 [PubMed: 22524296] 
+Wolosin SM, Zeithamova D, Preston AR. Distributed hippocampal patterns that discriminate reward 
+context are associated with enhanced associative binding. Journal of Experimental Psychology: 
+General. 2013; 142:1246–1276. DOI: 10.1037/a0033609
+Zeithamova D, Dominick AL, Preston AR. Hippocampal and ventral medial prefrontal activation 
+during retrieval-mediated learning supports novel inference. Neuron. 2012; 75:168–79. DOI: 
+10.1016/j.neuron.2012.05.010 [PubMed: 22794270] 
+Zeithamova D, Preston AR. Flexible memories: Differential roles for medial temporal lobe and 
+prefrontal cortex in cross-episode binding. Journal of Neuroscience. 2010; 30:14676–84. DOI: 
+10.1523/JNEUROSCI.3250-10.2010 [PubMed: 21048124] 
+Zeithamova D, Schlichting ML, Preston AR. The hippocampus and inferential reasoning: Building 
+memories to navigate future decisions. Frontiers in Human Neuroscience. 2012; 6:70.doi: 10.3389/
+fnhum.2012.00070 [PubMed: 22470333] 
+Page 28
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 1. 
+Illustration of materials, stimuli, and test displays from Experiments 2 and 3. (A) The 
+Session 1 section shows one example of an AB image in which the man is item ‘A’ and the 
+toy truck is item ‘B’ and the corresponding BC images in which the boy is item ‘C.’ Only 
+the ‘A’ item (man) is identified as a high-value item. (B) The Session 2 section shows the 
+Value Memory Test used in Experiment 2 (Experiment 1: 1) Valued Item ($$$), 2) No-Value 
+Item and 3) Unsure) and the Decision Bias Test used in Experiment 3. For each value 
+memory question participants saw a cutout of an item (A, B or C) presented to the right of 
+the question in order to indicate which event the question referred to. In Experiments 1 and 
+2, false value transfer occurred when participants chose the specific value (i.e., Experiment 
+1: valued; Experiment 2: high- or low-value) that was associated with the ‘A’ (or ‘C’) 
+individual and attributed this value to the unrewarded ‘C’ (or ‘A’) individual – as indicated 
+by the red (dark grey) circles. True memories occurred when participants correctly indicated 
+that the unrewarded ‘C’ individual was indeed a “no-value” item – as indicated by the green 
+(light grey) circles. In Experiment 3, participants were instructed to choose between two 
+unrewarded ‘C’ items. One of the unrewarded ‘C’ items was indirectly linked to a high-value 
+item (i.e., unrewarded high-value) whereas the other item was indirectly linked to a low-
+Page 29
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+value item (i.e., unrewarded low-value). False decision bias occurred when participants 
+chose the unrewarded high-value item as the “luckier” item meaning this item was more 
+likely to lead to a high-value reward at the end of the second session – as indicated by the 
+red (dark grey) circle. No decision bias occurred when participants equally chose the 
+unrewarded high- and low-value items as the “luckier” item. (C) The green (light grey) 
+circles indicate the correct answer for the associative inference and directly learned 
+questions. Participants saw these images without the red (dark grey) and green (light grey) 
+circles. Panel C of Figure 1 is reprinted from Carpenter, A.C. & Schacter, D.L. (2017). 
+Flexible retrieval: When true inferences produce false memories. Journal of Experimental 
+Psychology: Learning, Memory & Cognition, 43(3), 335–349. Reprinted with permission of 
+the American Psychological Association.
+Page 30
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 2. 
+Schematic depiction of predicted false value transfer (Experiments 1 and 2) and decision 
+bias (Experiment 3) results for each hypothesis. (H1) If flexible recombination during 
+retrieval both enhances associative inference performance and increases false value transfer 
+(or decision bias), then false value transfer (or decision bias) scores should be higher for 
+correct than incorrect inference trials, but only when the value memory (or decision bias) 
+test is given after the associative inference test (during which recombination occurs); there 
+should be no difference in the proportion of false value transfer (or decision bias) scores for 
+correct vs. incorrect inference trials when the value memory test is given before the 
+associative inference test. (H2) If integration during encoding supports both successful 
+associative inference and increases false value transfer (or decision bias), then false value 
+transfer (or decision bias) scores should higher for correct as compared to incorrect 
+inference trials when the value memory (or decision bias) tests are given both before and 
+after the associative inference test. (H3) If there is no link at all between recombination 
+during retrieval or integration during encoding and false value transfer (or decision bias) 
+then there should be no difference between the proportion of false value transfer (or decision 
+bias) scores for correct and incorrect inference trials regardless of when the value memory 
+(or decision bias) tests are given.
+Page 31
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 3. 
+Proportion of false value transfer scores in Experiment 1. Performance on the value memory 
+test was examined both before and after either successful or unsuccessful inference. 
+were included in this analysis. Results revealed a significant time by inference interaction in 
+Experiment 1. Subsequent t-tests confirm that false value transfer scores selectively 
+increased only following successful associative inference. Error bars represent ± 1 SEM.
+Page 32
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 4. 
+Proportion of true value memory scores in Experiments 1 and 2. Performance on the value 
+memory test was examined both before and after either successful or unsuccessful inference. 
+were included in this analysis. Error bars represent ± 1 SEM.
+Page 33
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 5. 
+Proportion of false value transfer scores in Experiment 2. Performance on the value memory 
+test was examined both before and after either successful or unsuccessful inference. 
+were included in this analysis. Results revealed a significant time by inference interaction in 
+Experiment 2. Subsequent t-tests confirm that false value transfer scores selectively 
+increased only following successful associative inference. Error bars represent ± 1 SEM.
+Page 34
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 6. 
+Proportion of decision bias scores in Experiment 3. Performance on the decision bias test 
+was examined both before and after either successful or unsuccessful inference. Importantly, 
+only trials for which participants responded correctly to directly learned trials were included 
+in this analysis. Results revealed a significant time by inference interaction in Experiment 3. 
+Subsequent t-tests confirm that decision bias scores selectively increased only following 
+successful associative inference. Dashed red (light grey) line represents decision bias scores 
+at chance levels (0.50). Error bars represent ± 1 SEM.
+Page 35
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript

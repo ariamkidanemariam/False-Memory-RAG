@@ -1,0 +1,860 @@
+Brief Communications
+False Recall Is Reduced by Damage to the Ventromedial
+Prefrontal Cortex: Implications for Understanding the
+Neural Correlates of Schematic Memory
+David E. Warren,1 Samuel H. Jones,1,4 Melissa C. Duff,1,2 and Daniel Tranel1,3
+1Department of Neurology, Carver College of Medicine and Departments of 2Communication Sciences and Disorders and 3Psychology, College of Liberal
+Arts and Sciences, University of Iowa, Iowa City, Iowa 52242, and 4Department of Psychology, University of Notre Dame, South Bend, Indiana 46556
+Schematicmemory,orcontextualknowledgederivedfromexperience(Bartlett,1932),benefitsmemoryfunctionbyenhancingretention
+and speeding learning of related information (Bransford and Johnson, 1972; Tse et al., 2007). However, schematic memory can also
+promotememoryerrors,producingfalsememories.Onedemonstrationisthe“falsememoryeffect”oftheDeese–Roediger–McDermott
+(DRM)paradigm(RoedigerandMcDermott,1995):studyingwordsthatfitacommonschema(e.g.,cold,blizzard,winter)oftenproduces
+memory for a nonstudied word (e.g., snow). We propose that frontal lobe regions that contribute to complex decision-making processes
+by weighting various alternatives, such as ventromedial prefrontal cortex (vmPFC), may also contribute to memory processes by weight-
+ingtheinfluenceofschematicknowledge.WeinvestigatedtheroleofhumanvmPFCinfalsememorybycombininganeuropsychological
+approach with the DRM task. Patients with vmPFC lesions (n  7) and healthy comparison participants (n  14) studied word lists that
+excluded a common associate (the critical item). Recall and recognition tests revealed expected high levels of false recall and recognition
+of critical items by healthy participants. In contrast, vmPFC patients showed consistently reduced false recall, with significantly fewer
+intrusions of critical items. False recognition was also marginally reduced among vmPFC patients. Our findings suggest that vmPFC
+increases the influence of schematically congruent memories, a contribution that may be related to the role of the vmPFC in decision
+making. These novel neuropsychological results highlight a role for the vmPFC as part of a memory network including the medial
+temporal lobes and hippocampus (Andrews-Hanna et al., 2010).
+Introduction
+Contextual knowledge derived from previous experience is re-
+ferred to as a schema (Bartlett, 1932; Alba and Hasher, 1983).
+Schemas exert a powerful organizing influence on memory that
+can produce improved recall (Bransford and Johnson, 1972), al-
+tered recall (Bartlett, 1932), or false recall (Roediger and McDer-
+mott, 1995). Here, false recall is plausible but inaccurate memory
+for events that allows related, nonspecific experience to proac-
+tively interfere with specific episodic memory. Therefore, accu-
+rate memory for a specific episode requires arbitration between
+competing schematic and episodic elements because a schema is
+likely to be partly consistent and partly inconsistent with a related
+episode. Although declarative memory for episodes and general
+knowledge is known to depend on the medial temporal lobe
+(MTL) and hippocampus (Scoville and Milner, 1957; Cohen and
+Squire, 1980), less is known about the brain regions supporting
+the integration of schematic memory.
+A recent proposal (van Kesteren et al., 2012) suggested that
+medial prefrontal cortex (PFC) plays a critical role for new mem-
+ories that overlap with existing knowledge, effectively weighting
+the influence of schematic memory. For example, increasing the
+weight of schematically related memories when recalling words
+fitting a “winter” schema would increase the probability of recall-
+ing the nonstudied word “snow” (as in the DRM paradigm). The
+ventromedial PFC (vmPFC) may serve as a neural substrate for
+this process because neuropsychological investigations have
+shown that vmPFC influences complex decision making by
+weighting different alternatives (Damasio, 1994; Bechara et al.,
+1997; Bechara and Damasio, 2005; Koenigs et al., 2007). More-
+over, the vmPFC is anatomically (Ongu ̈r and Price, 2000; Saleem
+et al., 2008) and functionally (Ranganath et al., 2005; Andrews-
+Hanna et al., 2010) connected with MTL regions supporting
+memory. Reflecting that connectivity, vmPFC (or a homologous
+region) is activated when schematic or contextual memory is
+exercised as shown in animal models (Euston and McNaughton,
+2006; Tse et al., 2007, 2011) and neuroimaging studies (Kumaran
+et al., 2009; van Kesteren et al., 2010; 2013; Bonnici et al., 2012;
+Zeithamova et al., 2012a). In this context, it is notable that severe
+declarative memory impairments after vmPFC damage are un-
+common (Janowsky et al., 1989; Stuss et al., 1994), although dam-
+age to vmPFC (sometimes extending to surrounding regions)
+Received Jan. 10, 2014; revised March 20, 2014; accepted April 23, 2014.
+Author contributions: D.E.W., S.H.J., M.C.D., and D.T. designed research; D.E.W. and S.H.J. performed research;
+D.E.W. and S.H.J. analyzed data; D.E.W., S.H.J., M.C.D., and D.T. wrote the paper.
+This work was supported by National Institute of Neurological Disorders and Stroke Grants P01 NS19632 (D.T.)
+and R01 DC011755 (M.C.D.) and National Institute of Mental Health Grant R01 MH062500 (D.E.W.). We thank D.
+Kumaran for commenting on a previous version of this manuscript.
+The authors declare no competing financial interests.
+Correspondence should be addressed to David E. Warren, 2155-H RCP, 200 Hawkins Drive, Iowa City, IA 52242.
+E-mail: david-e-warren@uiowa.edu.
+DOI:10.1523/JNEUROSCI.0119-14.2014
+Copyright © 2014 the authors
+0270-6474/14/347677-06$15.00/0
+The Journal of Neuroscience, May 28, 2014 • 34(22):7677–7682 • 7677
+
+may increase confabulation and false recognition (Delbecq-
+Derouesne ́ et al., 1990; Umeda and Kato, 2000; Umeda et al.,
+2001; Gilboa et al., 2006).
+We tested whether the vmPFC plays a role in weighting the
+influence of schematic memory by evaluating false recall and
+recognition in patients with vmPFC lesions. We used the DRM
+paradigm, which promotes schematically consistent false mem-
+ories (Roediger and McDermott, 1995). If vmPFC increases the
+weight of schematic memory, then damage to the vmPFC should
+change the relative influence of schematic and episodic knowl-
+edge by decreasing the influence of schematic memory and lead-
+ing to fewer false memories. Thus, we predict that patients with
+vmPFC damage will have reduced false memory. Alternatively,
+normal performance would be expected if the vmPFC does not
+influence schematic memory.
+Materials and Methods
+Participants
+Patients with vmPFC lesions (“vmPFC patients”; n  7; three males, four
+females; Table 1) were drawn from the Iowa Neurological Patient Regis-
+try, which contains data for patients with focal, stable brain lesions who
+underwent comprehensive neuropsychological testing at least 3 months
+after symptom onset. Lesions were verified using computerized tomog-
+raphy or magnetic resonance imaging and traced in a template space
+according to the MAP-3 lesion method (Damasio and Frank, 1992; Frank
+et al., 1997). Maximal overlap of the lesions was localized to the vmPFC
+(Fig. 1A). Healthy normal comparison participants (NC or “compari-
+sons”; n  14; six males and eight females) matched to the vmPFC
+patients (2:1) on sex, age, and education were recruited from the Iowa
+City community. All participants granted informed consent and were
+paid; all procedures were conducted according to the Declaration of
+Helsinki.
+Table 1. Demographic and neuropsychological information for the vmPFC patient group
+WAIS
+CF
+AVLT
+WMS
+ID
+Sex
+Hand
+Age
+Edu
+Eti
+Chr
+VIQ
+Sim
+Inf
+Voc
+COWA
+Raw
+Norm
+1/5/Delay
+GMI
+AI
+AD
+ADR
+0318
+M
+100
+73
+14
+Res.
+37
+142
+18
+16
+16
+54
+53
+0.49
+10/14/10
+109
+118
+114
+125
+2025
+F
+100
+60
+16
+Str.
+17
+113
+12
+11
+12
+50
+49
+1.08
+6/13/6
+114
+105
+99
+130
+2352
+F
+100
+64
+14
+SAH
+14
+108
+11
+11
+10
+34
+54
+0.61
+7/14/11
+109
+114
+111
+115
+2391
+F
+100
+67
+13
+Res.
+13
+110
+12
+12
+12
+59
+49
+0.01
+11/15/14
+132
+120
+124
+120
+3350
+M
+100
+61
+18
+Res.
+9
+119
+14
+12
+11
+40
+39
+1.92
+8/14/13
+108
+117
+114
+100
+3383
+M
+100
+63
+12
+SAH
+6
+95
+11
+7
+9
+47
+43
+0.76
+4/12/8
+100a
+98a
+106a
+105a
+3534
+F
+100
+74
+12
+Res.
+3
+107b
+14b
+11b
+9b
+32
+55
+0.74
+7/15/12
+117
+134
+114
+135
+Mean
+66.0
+14.1
+14.4
+113.4
+13.1
+11.4
+11.3
+45.1
+48.9
+0.28
+7.6/13.9/10.6
+112.7
+115.1
+111.7
+118.6
+SD
+5.6
+2.2
+9.7
+14.5
+2.5
+2.6
+2.4
+10.2
+6.0
+1.00
+2.4/1.1/2.8
+10.0
+11.5
+7.8
+12.8
+ThevmPFCpatientswerecognitivelyintactasagroup,combiningnormalintellectwithgenerallyintactverbalfunctionsandmemory.Healthycomparisonswerematchedtopatients2:1forsex,age,andeducation.ID,Patientidentification
+number; M, male; F, female; Hand, handedness, from 100 (fully right-handed) to 100 (fully left-handed); Edu, formal schooling in years; Eti, etiology, including resection (res.), stroke (str.), or subarachnoid hemorrhage (SAH); Chr,
+chronicity, years between brain injury and experimental task; WAIS, Weschler Adult Intelligence Scale, 3rd. edition; VIQ, WAIS-III verbal IQ (mean  SD, 100  15); Sim, Inf, and Voc, WAIS-III similarities, information, and vocabulary
+subtests,age-correctedscaledscores(meanSD,103);COWA,ControlledOralWordAssociationtask,age-andeducation-scaledscores(thenormalrangeis31–44,highnormalis45–52,andsuperioris53);CF,categoryfluencytask
+(testsgenerationofcategoryexemplarsforanimals,tools,fruits,andvegetables);Raw,rawscore;Norm,age-correctedZscore;AVLT,ReyAuditoryVerbalLearningTest,inwhich1indicatestrial1performance,5indicatestrial5performance,
+andDelayindicates30mindelayperformance(inallcases,scoreisrawrecallof15possible);WMS,WechslerMemoryScale-III(allWMSscoresareage-correctedandhavenormativemeanSDof10015);GMI,WMSgeneralmemory
+index; AI, WMS auditory immediate index; AD, WMS auditory delay index; ADR, WMS auditory delayed recognition index. Additional information on the neuropsychological tests has been described previously (Lezak et al., 2012).
+a WMS scores were prorated for 3383.
+b WAIS scores for 3534 are from WAIS-IV.
+Figure1.
+NeuroanatomyofthevmPFCpatientsandperformanceofbothgroupsontheDRMtask.HealthycomparisonsandvmPFCpatientscompletedtheDRMtask,whichprovokesfalserecall
+and recognition through omission of a strong associate from a studied list of schematically related words. A, Lesion overlap was concentrated in the vmPFC (hotter colors indicate more cases with
+overlapping lesions; see scale). Black lines in the medial view correspond to coronal slices (rostral to caudal; radiological convention, L marks left hemisphere). B, Left, The comparison and vmPFC
+groups recalled a similar proportion of studied items, but (right) the vmPFC group had fewer critical intrusions than the comparison group (error bars indicate SEM; *p  0.05; n.s., no statistical
+difference).C,Left,ThecomparisonandvmPFCgroupshadsimilarrecognitionofstudieditems,but(right)thevmPFCgroupwassomewhatlesslikelytoincorrectlyrecognizecriticalitemsasstudied
+(errorbarsindicateSEM;indicatesmarginalgroupdifference).SolidbarsindicatevmPFCgroupperformancewhenpatient0318wasexcluded;dashedbarsreflecttheinclusionofpatient0318
+(Table2).D,Duringrecall,bothgroupsshowedtypicalprimacyandrecencyeffects.Nosignificantbetween-groupdifferenceswereobserved(pointsindicategroupmeans;errorbarsindicateSEM).
+E,DRMlistsprovokeddifferentratesofcriticalintrusioninthetwogroups.Comparisonsproducedmorecriticalintrusionsregardlessofrankedlisteffectiveness(orderedfrommosttoleasteffective
+for each group independently). Prop., Proportion; CI, critical intrusion.
+7678 • J. Neurosci., May 28, 2014 • 34(22):7677–7682
+
+Materials
+False recall and recognition were evaluated using the DRM paradigm
+(Roediger and McDermott, 1995), which tests memory for word lists
+related to a nonpresented semantic associate, the critical item. By estab-
+lishing a schema consistent with the critical item, the word lists promote
+false memory: during recall, critical items often intrude, and during rec-
+ognition, critical items are often recognized. We selected 18 DRM word
+lists of 15 words each from published norms (Stadler et al., 1999). All
+words were pre-recorded by a female speaker. For the recognition task,
+54 studied words were selected (items 1, 8, and 10 from each list), along
+with the 18 critical words. New items were 54 nonstudied words from
+other DRM word lists.
+Procedure
+Recall. Participants were instructed to listen to and remember pre-
+recorded word lists played by a computer. Words were presented aurally
+at a rate of one every 2.5 s. Immediately after the final word, participants
+were cued (visually) to begin recalling as many words as possible starting
+with the last list items to control for any group differences in recall order
+(Stuss et al., 1994) that might influence serial position effects. Partici-
+pants recalled words until they indicated that they were finished, at which
+point the experimenter asked if they could recall any additional words.
+Afterward, the next list was presented. Participants practiced with one
+unique list before the main phase. After the final list was recalled, partic-
+ipants took a 3 min rest break.
+Recognition. Words were presented to participants visually one at a
+time. Participants responded “yes” or “no” with a key press to indicate
+whether each item had been presented by the computer in the recall
+phase and then rated their confidence (1–4, low to high).
+Analysis
+Scoring recall performance. Recall performance was scored manually dur-
+ing the session by the experimenter (D.E.W. or S.H.J.). For seven com-
+parisons and all vmPFC patients, scoring was confirmed by two raters
+who were blind to the experimental hypothesis using audio-video re-
+cordings. Blind-rater data were used in all analyses when available
+because it allowed measurement of order of recall and noncritical intru-
+sions. For one vmPFC patient, several recordings were unavailable (4 of
+18 lists for patient 3350); session-time scoring was used for those
+sessions.
+Statistics. Statistical analysis was performed using R software (3.0.1).
+Group mean differences were calculated along with 95% confidence in-
+tervals (CIs). Repeated-measures ANOVA tests were used to evaluate
+fixed effects of group and true versus false memory for recall and recog-
+nition. Additionally, planned comparisons were conducted using non-
+paired equal-variance t tests to test group differences. Permutation tests
+of the planned comparisons are reported as pperm and were calculated as
+follows: bootstrapped distributions were created by assigning group
+membership to the data in 10 5 randomly selected permutations, re-
+cording the statistic value for each permutation, and determining the
+percentile rank of the observed statistic value in the bootstrapped distri-
+bution. Effect size was measured with an unbiased variant of Cohen’s d
+that accounts for small sample sizes (dunb) (Grissom and Kim, 2012, p
+70). Paired equal-variance t tests, permutation tests, and Pearson’s r were
+used to evaluate the relationship between true recall and Rey Auditory Ver-
+bal Learning Test (AVLT) performance for patients; correlations between
+rates of false recall and other neuropsychological test scores were also evalu-
+ated. Between-group serial position effects were evaluated using a
+repeated-measures ANOVA implemented as a hierarchical linear model
+with participants as a random effect and post hoc linear contrasts at each
+serial position, corrected for multiple comparisons.
+Recall. Studied-item recall was summarized as mean proportion recall
+across all lists:  i1
+L
+Items Recalledi/Items Presentedi)/L, where L is the
+number of lists. Critical-item recall performance was summarized as the
+proportion of critical intrusions across all lists: Critical Intrusions/L.
+Corrected recognition. Recognition performance was characterized us-
+ing d
+ (Macmillan and Creelman, 2005). Corrected true recognition used
+the studied-item hit rate, corrected false recognition used the critical-
+item endorsement rate, and the false-alarm rate for new items was the
+same for both. Rates of 0 or 1 were replaced with values of 1/(2 
+ N) and
+1  [1/(2 
+ N)], respectively, before calculation, with N equal to the
+number of trials contributing to the analysis (Macmillan and Creelman,
+2005).
+Results
+Recall
+True recall performance was similar between the vmPFC and
+comparison groups, but the vmPFC group showed reduced false
+recall. Statistically, there was no main effect of group (F(1,19) 
+2.275, p  0.148) or accuracy of recall (F(1,19)  0.486, p  0.494),
+but the interaction of these factors was significant (F(1,19) 
+8.035, p  0.011). In planned comparisons, true recall was indis-
+tinguishable between the comparison and vmPFC groups (t(19) 
+0.482, p  0.635, pperm  0.684; Fig. 1B, left; Table 2) and across
+serial positions (F(14,265)  1.305, p  0.204; Fig. 1D). Further-
+more, vmPFC patients’ true recall was positively (although mar-
+ginally) correlated with previously measured word list recall
+[AVLT trial 1; Pearson’s r  0.687, p  0.088, 95% CI  (0.138,
+0.949)]. In support of our prediction, vmPFC patients reported
+significantly fewer critical items than comparisons (t(19)  2.424,
+Table 2. Individual and group performance for recall and recognition tasks
+Recall (prop.)
+Recognition (SDT, prop.)
+Recognition (d
+)
+Group/ID
+Studied items
+Critical intrusions
+Hit rate
+FA rate
+Crit. rate
+Studied items
+Critical items
+vmPFC
+0318
+0.493
+0.278
+0.981
+0.958
+0.972
+0.354
+0.183
+2025
+0.607
+0.389
+0.944
+0.278
+0.889
+2.183
+1.810
+2352
+0.441
+0.222
+0.870
+0.264
+0.944
+1.760
+2.225
+2391
+0.715
+0.389
+0.704
+0.153
+0.667
+1.560
+1.455
+3350
+0.476
+0.389
+0.963
+0.458
+0.972
+1.891
+2.019
+3383
+0.319
+0.444
+0.648
+0.111
+0.778
+1.601
+1.985
+3534
+0.493
+0.444
+0.852
+0.097
+0.944
+2.342
+2.891
+Mean  SEM
+0.506  0.047
+0.365  0.032
+0.852  0.049
+0.331  0.115
+0.881  0.044
+1.670  0.245
+1.795  0.316
+NC (group only)
+Mean  SEM
+0.485  0.021
+0.524  0.043
+0.863  0.025
+0.233  0.038
+0.933  0.017
+2.021  0.117
+2.430  0.130
+Group
+
+Difference
+0.021
+0.159
+0.011
+0.098
+0.052
+0.351
+0.635
+95% CI
+(0.113, 0.071)
+(0.022, 0.296)
+(0.093, 0.115)
+(0.298, 0.102)
+(0.029, 0.132)
+(0.147, 0.849)
+(0.035, 1.234)
+dunb
+0.214
+1.077
+0.099
+0.456
+0.595
+0.656
+0.985
+IndividualperformanceofallparticipatingvmPFCpatientsispresentedforproportion(prop.)recallofstudieditemsandcriticalitems(Crit.),forthreecategoriesofsignaldetectiontheory(SDT)responses,andforcorrectedrecognition(d
+)
+ofstudiedandcriticalitems.Groupmeansforeachmeasurearepresentedbelow,asaregroupmeandifferences,95%CIsforthemeandifferences,andastandardizedeffectsizemeasurewithacorrectionforsmallsamplesizes(dunb).Patient
+0318wasunusualinthatheshowedrecallperformancethatwastypicalofothervmPFCpatientswhilealsoshowinganextremelyhighfalse-alarm(FA)rate(bold)thatmarkedlyreducedhiscorrectedtrueandfalserecognitionperformance
+(italicized). Statistics in this table include the performance of patient 0318. For statistics excluding his data, see Results. ID, Patient identification number.
+J. Neurosci., May 28, 2014 • 34(22):7677–7682 • 7679
+
+p  0.025, pperm  0.006; Fig. 1B, right; Table 2). This pattern was
+exemplified by one vmPFC patient (2391) who had the best true
+recall performance observed in either group (proportion recall,
+0.715) but whose critical intrusion rate (0.389) was well below the
+normal mean of 0.524. Also, there was a global reduction in crit-
+ical intrusion rates for all 18 lists ranked on effectiveness for each
+group (Fig. 1E), a highly unlikely outcome if list effectiveness was
+similar across groups (binomial test, p  0.001). Meanwhile,
+similar numbers of noncritical intrusions were made by both
+groups (NC mean  SEM, 0.405  0.125; vmPFC mean, 0.468 
+0.074; t(12)  0.439, p  0.669, pperm  0.636, dunb  0.219).
+Recognition
+True recognition was similar for the vmPFC and comparison
+groups, but there was some evidence indicating reduced false
+recognition in the vmPFC group. The comparison and vmPFC
+groups correctly endorsed most studied items (hit rates, not sta-
+tistically different, t(19)  0.223, p  0.826, pperm  0.398), cor-
+rectly rejected most nonstudied items (false-alarm rates, not
+statistically different, t(19)  1.027, p  0.317, pperm  0.817), and
+incorrectly endorsed most critical items (critical endorsement
+rates; not statistically different, t(19)  1.338, p  0.197, pperm 
+0.095) with very high confidence [NC mean  SEM: old, 3.763 
+0.050; critical, 3.795  0.079; vmPFC mean  SEM: old, 3.572 
+0.090; critical, 3.610  0.202). Corrected recognition scores (d
+)
+showed that false recognition was greater than true recognition
+overall (F(1,19)  13.830, p  0.001). The effect of group was
+marginal (F(1,19)  3.966, p  0.061), and there was limited evi-
+dence of an interaction between factors (F(1,19)  2.496, p 
+0.131). Despite this, planned comparisons showed that the
+vmPFC group had reduced corrected false recognition (t(19) 
+2.216, p  0.039, pperm  0.023; Fig. 1C). Corrected true recog-
+nition differed no more than marginally between groups (t(19) 
+1.477, p  0.156, pperm  0.087). This analysis was repeated while
+excluding the data of one vmPFC patient with an unusually high
+false-alarm rate (Table 2), and the effect size of the group differ-
+ence in false recognition remained large (dunb  0.722) but was
+statistically marginal (t(18)  1.545, p  0.140, pperm  0.069).
+Supporting analyses
+We conducted several additional analyses to investigate the spec-
+ificity of the reduced false recall of the vmPFC group. For exam-
+ple, false recall could be reduced by defective semantic memory
+or impaired ability to generate words in response to cues. The
+patients did not have any notable learning impairment on several
+neuropsychological tests of memory, and their normal verbal IQ
+scores suggested intact semantic memory (note that verbal IQ
+subtests including Similarities, Information, and Vocabulary tax
+semantic memory; Table 1). Patients performed the Controlled
+Oral Word Association (COWA) test and a category fluency test
+normally on average, suggesting intact generation abilities. Addi-
+tionally, there were no significant correlations between false re-
+call and COWA (r  0.434, t(5)  1.076, p  0.331) or category
+fluency (r  0.048, t(5)  0.107, p  0.919) performance. These
+results show that vmPFC damage produced a specific reduction
+in false recall rather than a generalized deficit.
+There is some evidence (Deese, 1959) that schematic memory
+may improve recall of schematically consistent lists (e.g., DRM
+word lists) versus schematically inconsistent lists (e.g., AVLT
+word lists). If vmPFC damage alters schematic memory pro-
+cesses, beneficial schema-related effects should be reduced along-
+side negative effects. To the extent that this prediction would be
+true, then schematic consistency among DRM list items could
+have enhanced true recall for comparisons but not for vmPFC
+patients. Our design did not address this corollary prediction
+directly, but associative strength between items on a DRM list and
+the critical item is not correlated with true recall (Roediger et al.,
+2001). Consistent with this, we did not observe a group difference
+in true recall, nor did we find significant evidence for a schematic
+benefit to true recall in either group. Comparison participants
+did not complete the AVLT, but normative proportion recall
+expectations on AVLT trial 1 (Schmidt, 1996) were reported as
+mean of 0.393, 95% CI  (0.180, 0.607), which encompasses the
+true recall performance of both groups (NC, 0.485; vmPFC,
+0.506). Furthermore, contrasting the true recall of the vmPFC
+group with their AVLT trial 1 recall revealed no statistical differ-
+ence (AVLT trial 1 mean, 0.505  0.060; DRM mean, 0.506 
+0.047; t(6)  0.031, p  0.976, pperm  0.510, dunb  0.009). These
+supplemental analyses do not support the proposition that recall
+performance of either group benefitted from schematic consis-
+tency among word lists. Future investigations could evaluate ef-
+fects of vmPFC damage on schematic enhancement of memory
+directly. Based on previous research (Deese, 1959) and our find-
+ings, we predict that sensitive measurement could show a small
+but significant reduction in true recall complementing the reduc-
+tion in false recall we observed.
+Discussion
+We found that patients with vmPFC damage showed significantly
+reduced false recall of schematically consistent words and some
+evidence that false recognition was also reduced. These findings
+have important implications for the cognitive neuroscience of
+memory because they unite converging results from studies using
+animal models (Euston and McNaughton, 2006; Tse et al., 2007,
+2011) and functional neuroimaging of healthy participants (Ku-
+maran et al., 2009; van Kesteren et al., 2010, 2013; Bonnici et al.,
+2012; Zeithamova et al., 2012a,b) that suggested a key role for
+vmPFC in integrating information into schematic memory or
+weighting the influence of schematic memory. Notably, comple-
+mentary or alternative explanations for the observed contribu-
+tions of vmPFC to false memory are also plausible, including
+schema generation or maintenance.
+Schema acquisition is often operationalized as integrating
+conceptual knowledge about a novel task, a process that selec-
+tively engages hippocampus and vmPFC (Kumaran et al., 2009;
+Zeithamova et al., 2012b). Schemas should also support rapid
+new learning (Bransford and Johnson, 1972), and this ability has
+been directly tied to the rodent prelimbic region (a vmPFC ho-
+molog) (Tse et al., 2007, 2011). Evidence for a similar relationship
+in humans was found in neuroimaging data (van Kesteren et al.,
+2010): participants studied information presented in a schemat-
+ically consistent or inconsistent manner, and, for the schema-
+study group, delayed test performance was associated with
+increased functional connectivity between vmPFC and hippocam-
+pus.ThisresultconvergeswithotherworktoindicatethatvmPFCis
+stronglyrelatedtotheacquisitionanduseofschematicinformation.
+Our demonstration that vmPFC is important for normal false
+memory processes complements the acknowledged importance
+of the vmPFC as a convergence zone for environmental, physio-
+logical, and mnemonic signals arising from posterior cortical re-
+gions that can influence response selection in complex decisions
+(Damasio, 1994; Bechara et al., 1997; Bechara and Damasio,
+2005). From a lifespan development perspective, age-related
+changes to the neuroanatomy of PFC (Raz et al., 2005) or larger
+memory-related networks (Andrews-Hanna et al., 2007) may in-
+crease susceptibility to false memory phenomena, such as false
+7680 • J. Neurosci., May 28, 2014 • 34(22):7677–7682
+
+recall (Norman and Schacter, 1997; Schacter et al., 1997; Butler et
+al., 2004) that could manifest in real-world vulnerabilities (e.g., to
+deceptive advertising; Denburg et al., 2007). In the context of
+healthy aging, our findings resemble those of a previous investi-
+gation contrasting DRM recall of young and older adults (Nor-
+man and Schacter, 1997). Older adults in both studies (including
+vmPFC patients) showed similar true recall and false recall of
+healthy older participants was also similar. Intriguingly, false re-
+call by young adults was less frequent and closely resembled that
+of our vmPFC group, suggesting that vmPFC damage may offset
+age-related increases in false recall. We speculate that vulnerabil-
+ity to false recall in older adults could be attributable to overreli-
+ance on schematic memory because of age-related impairment of
+episodic memory functions (Balota et al., 2000) associated with
+reductions in hippocampal volume (Allen et al., 2005; Raz et al.,
+2005), and future research could address that relationship.
+We found some evidence that vmPFC damage reduces both
+false recall and false recognition, effects not reported previously
+to our knowledge. The smaller effect size of between-group dif-
+ferences in false recognition could potentially have been attribut-
+able to a ceiling effect. Our design included auditory study
+followed by visual recognition test and produced high false rec-
+ognition rates in both groups (Table 2), but future studies could
+potentially adapt our methodology to reduce false recognition for
+all groups (Gallo et al., 2001). Our findings differ from previous
+reports of DRM recognition by vmPFC patients which found that
+patients endorsed studied, unstudied, and critical items more
+frequently than comparisons (Umeda and Kato, 2000; Umeda et
+al., 2001). Nonspecific high rates of endorsement would suggest a
+general relaxation of recognition memory criteria that we ob-
+served in only one patient (Table 2), whereas the rest of the
+vmPFC group had normal true recognition. Furthermore, pa-
+tients in our study did not produce more studied or nonstudied
+items during recall (cf. Delbecq-Derouesne ́ et al., 1990), again
+suggesting normal response criteria. Differences with previous
+reports may be attributable to neuroanatomical, neuropsycho-
+logical, demographic, or task variables. We believe that our
+vmPFC sample is unusually intact neuropsychologically (Table
+1) and has a relatively focal and homogeneous distribution of
+lesions (Fig. 1A).
+Memory distortions are a pervasive phenomenon observed
+across healthy populations (Roediger and McDermott, 1995),
+patients with severe amnesia (Schacter et al., 1996), and even
+people with highly superior autobiographical memory (Patihis et
+al., 2013). The latter authors remarked that, “Although it is al-
+ways possible that some group might be found to be immune to
+memory distortions, none has as yet been discovered.” While
+vmPFC patients were not strictly “immune,” the pronounced
+reduction in the false recall of vmPFC patients suggests that the
+vmPFC plays an important role in false memory processes and in
+the weighting of schematic memories beyond its acknowledged
+role in decision making. Our findings provide novel insight
+into the role of the vmPFC in schematic memory, link the
+literatures of decision making and memory, and suggest that
+the vmPFC participates in a memory network that includes the
+MTL and hippocampus.
+References
+Alba J, Hasher L (1983) Is memory schematic? Psychol Bull 93:203–231.
+CrossRef
+Allen JS, Bruss J, Brown CK, Damasio H (2005) Normal neuroanatomical
+variation due to age: the major lobes and a parcellation of the temporal
+region. Neurobiol Aging 26:1245–1260, discussion 1279–1282. Medline
+Andrews-Hanna JR, Snyder AZ, Vincent JL, Lustig C, Head D, Raichle ME,
+Buckner RL (2007) Disruption of large-scale brain systems in advanced
+aging. Neuron 56:924–935. CrossRef Medline
+Andrews-Hanna JR, Reidler JS, Sepulcre J, Poulin R, Buckner RL (2010)
+Functional-anatomic fractionation of the brain’s default network. Neu-
+ron 65:550–562. CrossRef Medline
+Balota DA, Dolan PO, Ducheck JM (2000) Memory changes in healthy
+older adults. In: The Oxford handbook of memory, pp 395–409. New
+York: Oxford UP.
+Bartlett F (1932) Remembering. Cambridge, UK: Cambridge UP.
+Bechara A, Damasio AR (2005) The somatic marker hypothesis: a neural
+theory of economic decision. Games Econ Behav 52:336–372. CrossRef
+Bechara A, Damasio H, Tranel D, Damasio AR (1997) Deciding advanta-
+geously before knowing the advantageous strategy. Science 275:1293–
+1295. CrossRef Medline
+Bonnici HM, Chadwick MJ, Lutti A, Hassabis D, Weiskopf N, Maguire EA
+(2012) Detecting representations of recent and remote autobiographical
+memories in vmPFC and hippocampus. J Neurosci 32:16982–16991.
+CrossRef Medline
+Bransford JD, Johnson MK (1972) Contextual prerequisites for under-
+standing: some investigations of comprehension and recall. J Verbal
+Learn Verbal Behav 11:717–726. CrossRef
+Butler KM, McDaniel MA, Dornburg CC, Price AL, Roediger HL 3rd (2004)
+Age differences in veridical and false recall are not inevitable: the role of
+frontal lobe function. Psychon Bull Rev 11:921–925. CrossRef Medline
+Cohen NJ, Squire LR (1980) Preserved learning and retention of pattern-
+analyzing skill in amnesia: dissociation of knowing how and knowing
+that. Science 210:207–210. CrossRef Medline
+Damasio AR (1994) Descartes’ error: emotion, reason, and the human
+brain. New York: Putnam.
+Damasio H, Frank R (1992) Three-dimensional in vivo mapping of brain
+lesions in humans. Arch Neurol 49:137–143. CrossRef Medline
+Deese J (1959) Influence of inter-item associative strength upon immediate
+free recall. Psychol Rep 5:305–312. CrossRef
+Delbecq-Derouesne ́ J, Beauvois MF, Shallice T (1990) Preserved recall ver-
+sus impaired recognition. A case study. Brain 113:1045–1074. CrossRef
+Medline
+Denburg NL, Cole CA, Hernandez M, Yamada TH, Tranel D, Bechara A,
+Wallace RB (2007) The orbitofrontal cortex, real-world decision mak-
+ing, and normal aging. Ann N Y Acad Sci 1121:480–498. CrossRef
+Medline
+Euston DR, McNaughton BL (2006) Apparent encoding of sequential con-
+text in rat medial prefrontal cortex is accounted for by behavioral vari-
+ability. J Neurosci 26:13143–13155. CrossRef Medline
+Frank RJ, Damasio H, Grabowski TJ (1997) Brainvox: an interactive, mul-
+timodal visualization and analysis system for neuroanatomical imaging.
+Neuroimage 5:13–30. CrossRef Medline
+Gallo DA, McDermott KB, Percer JM, Roediger HL 3rd (2001) Modality
+effects in false recall and false recognition. J Exp Psychol Learn Mem Cogn
+27:339–353. CrossRef Medline
+Gilboa A, Alain C, Stuss DT, Melo B, Miller S, Moscovitch M (2006) Mech-
+anisms of spontaneous confabulations: a strategic retrieval account. Brain
+129:1399–1414. CrossRef Medline
+Grissom RJ, Kim JJ (2012) Effect sizes for research: univariate and multivar-
+iate applications. New York: Routledge.
+Janowsky JS, Shimamura AP, Kritchevsky M, Squire LR (1989) Cognitive
+impairment following frontal lobe damage and its relevance to human
+amnesia. Behav Neurosci 103:548–560. CrossRef Medline
+Koenigs M, Young L, Adolphs R, Tranel D, Cushman F, Hauser M, Damasio
+A (2007) Damage to the prefrontal cortex increases utilitarian moral
+judgements. Nature 446:908–911. CrossRef Medline
+Kumaran D, Summerfield JJ, Hassabis D, Maguire EA (2009) Tracking the
+emergence of conceptual knowledge during human decision making.
+Neuron 63:889–901. CrossRef Medline
+Lezak MD, Howieson DB, Bigler ED, Tranel D (2012) Neuropsychological
+assessment. New York: Oxford UP.
+Macmillan NA, Creelman CD (2005) Detection theory: a user’s guide. Mah-
+wah, NJ: Erlbaum.
+Norman KA, Schacter DL (1997) False recognition in younger and older
+adults: exploring the characteristics of illusory memories. Mem Cognit
+25:838–848. CrossRef Medline
+Ongu ̈r D, Price JL (2000) The organization of networks within the orbital
+J. Neurosci., May 28, 2014 • 34(22):7677–7682 • 7681
+
+and medial prefrontal cortex of rats, monkeys and humans. Cereb Cortex
+10:206–219. CrossRef Medline
+Patihis L, Frenda SJ, LePort AK, Petersen N, Nichols RM, Stark CE, McGaugh
+JL, Loftus EF (2013) False memories in highly superior autobiographical
+memory individuals. Proc Natl Acad Sci U S A 110:20947–20952.
+Medline
+Ranganath C, Heller A, Cohen MX, Brozinsky CJ, Rissman J (2005) Func-
+tional connectivity with the hippocampus during successful memory for-
+mation. Hippocampus 15:997–1005. CrossRef Medline
+Raz N, Lindenberger U, Rodrigue KM, Kennedy KM, Head D, Williamson A,
+Dahle C, Gerstorf D, Acker JD (2005) Regional brain changes in aging
+healthy adults: general trends, individual differences and modifiers. Cereb
+Cortex 15:1676–1689. CrossRef Medline
+Roediger HL 3rd, McDermott KB (1995) Creating false memories: remem-
+bering words not presented in lists. J Exp Psychol Learn Mem Cogn 21:
+803–814. CrossRef
+Roediger HL 3rd, Watson JM, McDermott KB, Gallo DA (2001) Factors
+that determine false recall: a multiple regression analysis. Psychon Bull
+Rev 8:385–407. CrossRef Medline
+Saleem KS, Kondo H, Price JL (2008) Complementary circuits connecting
+the orbital and medial prefrontal networks with the temporal, insular, and
+opercular cortex in the macaque monkey. J Comp Neurol 506:659–693.
+CrossRef Medline
+Schacter DL, Verfaellie M, Pradere D (1996) The neuropsychology of mem-
+ory illusions: false recall and recognition in amnesic patients. J Mem Lang
+35:319–334. CrossRef
+Schacter DL, Koutstaal W, Johnson MK, Gross MS, Angell KE (1997) False
+recollection induced by photographs: a comparison of older and younger
+adults. Psychol Aging 12:203–215. CrossRef Medline
+Schmidt M (1996) Rey auditory verbal learning test: a handbook. Los An-
+geles: Western Psychological Services.
+Scoville WB, Milner B (1957) Loss of recent memory after bilateral hip-
+pocampal lesions. J Neurol Neurosurg Psychiatr 20:11–21. CrossRef
+Medline
+Stadler MA, Roediger HL 3rd, McDermott KB (1999) Norms for word lists
+that create false memories. Mem Cognit 27:494–500. CrossRef Medline
+Stuss DT, Alexander MP, Palumbo CL, Buckle L, Sayer L, Pogue J (1994)
+Organizational strategies with unilateral or bilateral frontal lobe injury in
+word learning tasks. Neuropsychology 8:355–373. CrossRef
+Tse D, Langston RF, Kakeyama M, Bethus I, Spooner PA, Wood ER, Witter
+MP, Morris RGM (2007) Schemas and memory consolidation. Science
+316:76–82. CrossRef Medline
+Tse D, Takeuchi T, Kakeyama M, Kajii Y, Okuno H, Tohyama C, Bito H,
+Morris RGM (2011) Schema-dependent gene activation and memory
+encoding in neocortex. Science 333:891–895. CrossRef Medline
+Umeda S, Kato M (2000) Receiving emotional signals and retrieving past
+similar events: higher-order cognitive dysfunction following damage to
+the ventromedial prefrontal cortex. In: Affective minds (Hatano G, Okada
+N, Tanabe H, eds), pp 111–115. Amsterdam: Elsevier Science.
+Umeda S, Akine Y, Kato M (2001) False recognition in patients with ven-
+tromedial prefrontal lesions. Brain Cognit 47:362–365.
+van Kesteren MTR, Ferna ́ndez G, Norris DG, Hermans EJ (2010) Persistent
+schema-dependent hippocampal-neocortical connectivity during mem-
+ory encoding and postencoding rest in humans. Proc Natl Acad Sci U S A
+107:7550–7555. CrossRef Medline
+van Kesteren MTR, Ruiter DJ, Ferna ́ndez G, Henson RN (2012) How
+schema and novelty augment memory formation. Trends Neurosci 35:
+211–219. CrossRef Medline
+van Kesteren MT, Beul SF, Takashima A, Henson RN, Ruiter DJ, Ferna ́ndez G
+(2013) Differential roles for medial prefrontal and medial temporal cor-
+tices in schema-dependent encoding: from congruent to incongruent.
+Neuropsychologia 51:2352–2359. CrossRef Medline
+Zeithamova D, Schlichting ML, Preston AR (2012a) The hippocampus and
+inferential reasoning: building memories to navigate future decisions.
+Front Hum Neurosci 6:70. Medline
+Zeithamova D, Dominick AL, Preston AR (2012b) Hippocampal and ven-
+tral medial prefrontal activation during retrieval-mediated learning sup-
+ports novel inference. Neuron 75:168–179. CrossRef Medline
+7682 • J. Neurosci., May 28, 2014 • 34(22):7677–7682

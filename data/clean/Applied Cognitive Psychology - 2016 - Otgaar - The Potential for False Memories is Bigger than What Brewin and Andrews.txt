@@ -1,0 +1,246 @@
+The Potential for False Memories is Bigger than What Brewin and Andrews Suggest
+HENRY OTGAAR1,2*, HARALD MERCKELBACH1, MARKO JELICIC1 and TOM SMEETS1
+1Forensic Psychology Section, Faculty of Psychology and Neuroscience, Maastricht University, Maastricht, The Netherlands
+2City University London, London, UK
+Summary: Brewin and Andrews (2016) reviewed the literature on false memory propensity for childhood events. In this commen-
+tary, we critically evaluate their basic claim that proneness to false memories of childhood experiences is more limited than has
+been articulated in the literature. We show that Brewin and Andrews were selective in their inclusion of false memory studies,
+thereby ignoring relevant research related to autobiographical false memories. Equally important, and in contrast to what Brewin
+and Andrews claim, we show that implanted false memories elicited by misinformation are characterized by high confidence.
+Brewin and Andrews (B&A; 2016) have taken up the
+challenge to provide a review on false memory susceptibility
+for childhood events. This is a daunting task, as the psycho-
+logical literature is replete with studies on false memories
+using different paradigms, different populations, and differ-
+ent ways of defining false memory. Although B&A are to
+be commended with executing such an arduous exercise,
+we disagree with their central message that ‘susceptibility
+to false memories of childhood events appears more limited
+than has been suggested’ (p.1).
+First, B&A’s review is selective in that it only focusses on
+a subset of studies employing imagination inflation, false
+feedback, and memory implantation to elicit false childhood
+memories. Moreover, B&A did not include literature on
+other false memory paradigms (e.g. misinformation and doc-
+tored video) that relate to autobiographical false memories
+and that have been informative regarding false memory pro-
+pensity for childhood events. A case in point is their
+omission of several important imagination inflation studies
+—studies that have, for instance, looked at imagination infla-
+tion for action events (e.g. Goff & Roediger, 1998; Otgaar,
+Scoboria, Howe, Moldoveanu, & Smeets, in press). In con-
+trast to what B&A argue, these studies did find that false
+memories were accompanied by high confidence. For exam-
+ple, Goff and Roediger (1998) stated that ‘[t]he more errors
+[false memories] the subjects made, the higher their mean
+confidence ratings’ (p.29).
+One could argue that these studies did not tap into child-
+hood events. However, imagination inflation studies on
+memory for actions typically involve multiple events that
+the participant either has to perform or imagine, and these
+self-generated actions are—like childhood events—autobio-
+graphical in nature. If B&A had solely wanted to focus on
+studies concerning false memories for childhood events, then
+why did they include literature on the crashing memory
+paradigm (e.g. Smeets, Telgen, Ost, Jelicic, & Merckelbach,
+2009)? This paradigm focusses on ‘false memories’ for
+highly media-exposed, public events rather than childhood
+events. Likewise, B&A did not address studies on evidently
+wrong childhood memories, such as those of past lives
+(Peters, Horselenberg, Jelicic, & Merckelbach, 2007). Thus,
+it appears that B&A were rather selective in their inclusion
+of the extant literature, which makes their estimate of false
+memory vulnerability for childhood events provisional.
+Second, a problematic selectivity also invaded B&A’s
+evaluation of studies that were included in their review.
+B&A argued that a full false memory is a memory that
+encompasses a belief in the occurrence of the event,
+recollective details, and high confidence that these details
+are accurate. They correctly showed that many false memory
+implantation studies did not measure confidence but then
+omitted such studies when they calculated their percentage
+of full false memory (15%). It would have been more
+balanced to explain to the reader—and potential judges and
+juries—that depending on the criteria that one uses, full false
+memory creation can range from 15% up to 46%. Clearly,
+this range provides a more reliable estimate of the potential
+to implant false memories for entire events than the lower
+bound percentage.
+Third, it is remarkable that B&A did not examine false
+memories induced by misinformation (Loftus, 2005)—a
+type of false memory that has also been regarded as an
+implanted false memory (Brainerd, Reyna, & Ceci, 2008).
+Of course, false memories induced by misinformation are
+often about small details and do not pertain to entire events.
+Yet, and in contrast to B&A’s central message, the general
+picture seems to be that these implanted false memories are
+articulated with high confidence. Some researchers even
+observed that people are more confident in these implanted
+false memories than in true memories (Takarangi, Parker,
+& Garry, 2006).
+To examine whether implanted false memories induced
+by misinformation are indeed reported with high confidence,
+we conducted a small-scale review on misinformation stud-
+ies that measured confidence (Table 1). A search was
+performed on the Web of Science database using the search
+terms ‘misinformation’, ‘false memory’, and ‘confidence’.
+To be included in the review, studies were required to have
+used the misinformation paradigm and to have measured
+confidence in false memories. Of the 36 potential articles,
+nine papers (=12 studies) fulfilled our criteria. When reading
+the papers, an additional of two papers (=three studies;
+total = 15 studies) were identified that met our criteria (i.e.
+Assefi& Garry, 2003; Loftus, Donders, Hoffman, &
+Schooler, 1989).
+*Correspondence to: Henry Otgaar, Forensic Psychology Section, Faculty
+of Psychology and Neuroscience, Maastricht University, Maastricht, The
+Netherlands.
+E-mail: henry.otgaar@maastrichtuniversity.nl
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribu-
+tion in any medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+Applied Cognitive Psychology, Appl. Cognit. Psychol. 31: 24–25 (2017)
+Published online in Wiley Online Library (wileyonlinelibrary.com) DOI: 10.1002/acp.3262
+
+Although our review is by no means exhaustive, it does
+give a rough estimate of the relation between implanted false
+memories and confidence. Thus, in 93% (n = 14) of the
+studies, implanted false memories were associated with
+confidence ratings exceeding the midpoint of the scale. A
+weighted percentage of the data revealed a mean confidence
+rating of 74% [unweighted 95% CI (0.66, 0.78)]. Clearly
+then, confidence is often high in implanted false memories
+resulting from misinformation, a finding that runs counter
+to B&A’s idea that participants are often not very sure about
+their implanted false memories.
+Thus, the picture is much more complex than what B&A
+want the reader to believe on the basis of their selective
+review of the extant literature. Another issue is that B&A
+ignore courtroom realities, a point that we address in Smeets,
+Merckelbach, Jelicic, and Otgaar (in press).
+REFERENCES
+Assefi, S. L., & Garry, M. (2003). Absolut® memory distortions: Alcohol
+placebos influence the misinformation effect. Psychological Science,
+14, 77–80*.
+Brainerd, C. J., Reyna, V. F., & Ceci, S. J. (2008). Developmental reversals
+in false memory: A review of data and theory. Psychological Bulletin,
+134, 343–382.
+Brewin, C., & Andrews, B. (2016). Creating memories for false autobio-
+graphical memories in childhood: A systematic review. Applied
+Cognitive Psychology. DOI: 10.1002/acp.3220.
+Dodson, C. S., Powers, E., & Lytell, M. (2015). Aging, confidence, and
+misinformation: Recalling information with the cognitive interview.
+Psychology and Aging, 30, 46–61*.
+Fenn, K. M., Griffin, N. R., Uitvlugt, M. G., & Ravizza, S. M. (2014). The
+effect of Twitter exposure on false memory formation. Psychonomic
+Bulletin & Review, 21, 1551–1556*.
+Foster, J. L., Huthwaite, T., Yesberg, J. A., Garry, M., & Loftus, E. F.
+(2012). Repetition, not number of sources, increases both susceptibility
+to misinformation and confidence in the accuracy of eyewitnesses. Acta
+Psychologica, 139, 320–326*.
+Goff, L. M., & Roediger, H. L. (1998). Imagination inflation for action
+events: Repeated imaginings lead to illusory recollections. Memory &
+Cognition, 26, 20–33.
+Jack, F., Zydervelt, S., & Zajac, R. (2014). Are co-witnesses special?
+Comparing the influence of co-witness and interviewer misinformation
+on eyewitness reports. Memory, 22, 243–255*.
+Loftus, E. F. (2005). Planting misinformation in the human mind: A 30-year in-
+vestigation of the malleability of memory. Learning & Memory, 12, 361–366.
+Loftus, E. F., Donders, K., Hoffman, H. G., & Schooler, J. W. (1989).
+Creating new memories that are quickly accessed and confidently held.
+Memory & Cognition, 17, 607–616*.
+Mitchell, K. J., Johnson, M. K., & Mather, M. (2003). Source monitoring
+and suggestibility to misinformation: Adult age-related differences.
+Applied Cognitive Psychology, 17, 107–119*.
+Otgaar, H., Scoboria, A., Howe, M. L., Moldoveanu, G., & Smeets, T. (in press).
+Challenging memories in children and adults using an imagination inflation
+procedure. Psychology of Consciousness: Theory, Research, and Practice.
+Paz-Alonso, P. M., & Goodman, G. S. (2008). Trauma and memory: Effects
+of post-event misinformation, retrieval order, and retention interval.
+Memory, 16, 58–75*.
+Peters, M. J. V., Horselenberg, R., Jelicic, M., & Merckelbach, H. (2007).
+The false fame illusion in people with memories about a previous life.
+Consciousness and Cognition, 16, 162–169.
+Pickel, K. L. (1999). Distinguishing eyewitness descriptions of perceived
+objects from descriptions of imagined objects. Applied Cognitive
+Psychology, 13, 399–413*.
+Smeets, T., Telgen, S., Ost, J., Jelicic, M., & Merckelbach, H. (2009).
+What’s behind crashing memories? Plausibility, belief and memory in
+reports of having seen non-existent images. Applied Cognitive Psychol-
+ogy, 23, 1333–1341.
+Smeets, T., Merckelbach, H., Jelicic, M., & Otgaar, H. (in press). Danger-
+ously neglecting courtroom realities. Applied Cognitive Psychology.
+Takarangi, M. K. T., Parker, S., & Garry, M. (2006). Modernising the
+misinformation effect: The development of a new stimulus set. Applied
+Cognitive Psychology, 20, 583–590*.
+Van Damme, I., & Seynaeve, L. (2013). The effect of mood on confidence
+in false memories. Journal of Cognitive Psychology, 25, 309–318*.
+*Papers included in the review.
+Table 1. Implanted false memory studies elicited by the misinformation paradigm measuring confidence
+Authors
+Participants (adults)
+Confidence
+Rating scale
+Loftus et al. (1989); Exp. 1
+204
+3.5
+1–5
+Loftus et al. (1989); Exp. 2
+338
+4.1
+1–5
+Pickel (1999)
+86
+5.13
+1–10
+Assefiand Garry (2003)
+148
+3.3 and 3.6
+1–5
+Mitchell, Johnson, and Mather (2003)
+51
+1.49 and 2.20 (from figure)
+1–3
+Takarangi et al. (2006); Exp. 1
+40
+4.04
+1–5
+Takarangi et al. (2006); Exp. 2
+40
+3.74
+1–5
+Paz-Alonso and Goodman (2008)
+232
+3.76
+1–5
+Foster, Huthwaite, Yesberg, Garry, and Loftus (2012); Exp. 1
+64
+3.81
+1–5
+Foster et al. (2012); Exp. 2
+96
+3.80 and 4.40
+1–5
+Van Damme and Seynaeve (2013)
+300
+3.49
+1–5
+Fenn, Griffin, Uitvlugt, and Ravizza (2014)
+107
+3.61
+1–8
+Jack, Zydervelt, and Zajac (2014)
+48
+3.9 (from figure)
+1–5
+Dodson, Powers, and Lytell (2015); Exp. 1
+59
+76% and 84%
+50–100%
+Dodson et al. (2015); Exp. 2
+96
+75.3% and 76.3%
+50–100%
+Commentary
+25
+Appl. Cognit. Psychol. 31: 24–25 (2017)
+ 10990720, 2017, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.3262 by EBMG ACCESS - KENYA, Wiley Online Library on [30/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

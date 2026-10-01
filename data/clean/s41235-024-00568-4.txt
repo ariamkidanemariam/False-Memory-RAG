@@ -1,0 +1,1015 @@
+Martínez et al. 
+Cognitive Research: Principles and Implications (2024) 9:39 
+https://doi.org/10.1186/s41235-024-00568-4
+ORIGINAL ARTICLE
+Open Access
+© The Author(s) 2024. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http://creativecommons.org/licenses/by/4.0/.
+Cognitive Research: Principles
+and Implications
+Proneness to false memory generation 
+predicts pseudoscientific belief endorsement
+Naroa Martínez1, Itxaso Barberia1 and Javier Rodríguez‐Ferreiro1* 
+Abstract 
+Among cognitive factors that can influence the endorsement of pseudoscientific beliefs, our study focuses on prone‐
+ness to false memory generation. In this preregistered study, we presented 170 fluent English speakers residing 
+in the USA with a misinformation task aimed at generating false memories. In this task, they first completed an event 
+encoding stage, in which two events were narrated through sequentially presented pictures. One day later, they read 
+a series of sentences relating the same events but which included several inaccurate descriptions aimed at producing 
+a misinformation effect. Finally, we measured the influence of the misinformation manipulation over false memory 
+generation. After completing the misinformation task, participants responded to a questionnaire measuring pseudo‐
+scientific beliefs. Our results showed a positive correlation between pseudoscience endorsement and false memory 
+rates, which indicates that the latter might be a key factor influencing susceptibility to pseudoscience. To our knowl‐
+edge, this is the first study showing a link between the tendency to believe in pseudoscience and variability regard‐
+ing proneness to develop false memories. Practical implications for the design of new interventions to effectively 
+reduce pseudoscientific beliefs and their negative impact on our society are discussed.
+Keywords Unwarranted beliefs, Pseudoscience, False memory, Misinformation
+Introduction
+Unwarranted beliefs can be defined as those held in 
+absence of compelling evidence to support them (Lobato 
+et al., 2014). The term encompasses different kinds of 
+beliefs, like those referring to the paranormal (i.e., any 
+phenomenon which, if genuine, would violate the basic 
+principles of science, see Broad, 1949) and to pseudosci-
+ence (i.e., any corpus of knowledge presenting itself as 
+scientific but lacking the minimum requirements to be 
+so, see Fasce & Picó, 2019).
+Pseudoscientific beliefs related to health are quite prev-
+alent in Western societies. For instance, more than 70% 
+of US adults believe that alternative medicine is a good 
+complement to cancer treatment (American Society of 
+Clinical Oncology, 2019). As for European countries, 86% 
+of French respondents indicate very good or rather good 
+image of alternative medicine (Harris Interactive, 2019), 
+whereas more than 70% of Germans consider that “Alter-
+native medicine is useful for common illness without 
+health consequences” (Zukunftsinstitut, 2017).
+This predisposition to pseudotherapy use generates 
+a high cost for society’s economy and health. In this 
+regard, in 2022, the global complementary and alterna-
+tive medicine market was valued at $117.2 billion and it 
+is expected to reach $694.2 billion by 2030 (a compound 
+annual growth rate of 25.1% from 2023 to 2030; Grand 
+View Research, 2023). In USA, the total out-of-pocket 
+spending on complementary health approaches was 
+$30.2 billion in 2012 (Nahin et al., 2016), and the alter-
+native medicine sector’s earnings have been estimated to 
+increase in $8.9 billion in the last 10 years (IBISWorld, 
+2022). On a personal and social level, people who believe 
+*Correspondence:
+Javier Rodríguez‐Ferreiro
+rodriguezferreiro@ub.edu
+1 Grup de Recerca en Cognició i Llenguatge (GRECIL), Departament 
+de Cognició, Desenvolupament i Psicologia de la Educació, Secció 
+de Processos Cognitius, Institut de Neurociències (INUB), Facultat de 
+Psicologia, Universitat de Barcelona (UB), Passeig de La Vall d’Hebron, 171, 
+08035 Barcelona, Spain
+
+Page 2 of 10
+in alternative medicine are more resistant to vaccination 
+(Downey et al., 2010; Jones et al., 2010) and are less likely 
+to use empirically validated medical treatments (Utinans 
+& Ancane, 2014) in favor of pseudoscientific treatments, 
+which might even lead to fatal consequences and an 
+increase of morbidity (Johnson et al., 2018a, 2018b; Lim 
+et al., 2011).
+The presence of pseudoscientific beliefs among the gen-
+eral population constitutes a complex phenomenon most 
+certainly rooted in an intricate interplay between social- 
+and individual-level factors. The social component might 
+be especially relevant when referring to pseudoscientific 
+beliefs, as they are likely to proliferate through social 
+interactions such as conversations with relatives, or dis-
+cussions in online forums or social media. For instance, 
+in a recent survey to the Spanish population, 63.7% of the 
+respondents which had visited a professional with a pseu-
+doscientific approach (e.g., homeopathy, acupuncture, 
+reiki, etc.) reported that they had been informed about it 
+by friends or acquaintances, 22.1% by professionals, and 
+22.4% through the internet (CIS, 2018). Indeed, exposure 
+to (mis)information regarding pseudoscience (i.e., famili-
+arity) has been pointed out as a key aspect influencing 
+its endorsement (Piejka & Okruszek, 2020), even beyond 
+the preventive influence of disproving information in the 
+case of pseudotherapies (García-Arch et al., 2022; Piejka 
+& Okruszek, 2020).
+Nevertheless, it remains unclear why different indi-
+viduals, all of which have wide access to pseudoscience-
+related misinformation, present pseudoscientific beliefs 
+to different degrees. In this sense, endorsement of pseu-
+doscience is known to vary along with age (e.g., Torres 
+et al., 2023, though see Fjær et al., 2020), sex (e.g., Fasce 
+et al., 2020; Huete-Pérez et al., 2022; Kemppainen et al., 
+2018; Majima, 2015), personality (Fasce & Picó, 2019; 
+Furnham, 2007; García-Arch et al., 2022), income (e.g., 
+Eisenberg et al., 1993, 1998; Fjær et al., 2020; Kemppainen 
+et al., 2018), or education level (Astin, 1998; Barnes et al., 
+2008), among other variables.
+Of especial interest to the present study, cognitive fac-
+tors such as disinclination to analytic cognitive style 
+(Fasce & Picó, 2019; Majima, 2015; Majima et al., 2022) 
+have been hypothesized as possible mediators of the 
+endorsement of pseudoscientific beliefs too. More spe-
+cifically, cognitive biases such as the jump-to-conclusions 
+bias, i.e., low evidential criteria or a tendency to draw 
+conclusions based on insufficient information, have been 
+reported as possible modulators of the endorsement of 
+these kinds of beliefs (Rodríguez-Ferreiro & Barberia, 
+2021). In a similar vein, causal illusion, i.e., the false belief 
+that there is a cause-effect relationship between two 
+unrelated events, has been proposed as a basic founda-
+tion of pseudoscientific beliefs (Matute et al., 2011). To 
+this regard, individuals developing stronger causal illu-
+sions when exposed to non-contingent events in labo-
+ratory tasks have also been shown to present stronger 
+endorsement of pseudoscientific beliefs in their daily 
+lives (Torres et al., 2020, 2022).
+Following these last studies, the overarching con-
+cept driving the present research is that endorsement 
+of pseudoscientific beliefs might be related to variability 
+in the way different individuals process given informa-
+tion. More precisely, here we focus on a possible associa-
+tion between the propensity to endorse pseudoscientific 
+beliefs and the tendency to develop false memories, 
+which refer to “memories for events that never occurred 
+or memories for events that did occur that are grossly 
+distorted” (Lampinen et al., 1998, p. 181). Our proposal 
+is that proneness to false memory could contribute to 
+the development of pseudoscientific beliefs in daily life. 
+In this sense, distortions regarding either content or con-
+text of an event could promote the endorsement of differ-
+ent pseudotherapies. For example, falsely remembering 
+that a reiki session relieved your backpain when it did 
+not, misattributing the source of your improvement to 
+a homeopathic pill when you actually took a prescribed 
+med, or erroneously recalling that a health professional 
+recommended Bach flower remedies to you when you 
+actually read about their alleged effectiveness on social 
+media or heard about them from a friend.
+The idea that pseudoscience endorsement might be 
+associated in some way with susceptibility to memory 
+distortions has already been tested in previous studies. 
+For instance, in line with results observed regarding the 
+association between political views and false memory 
+promotion (Greene et al., 2021; Murphy et al., 2021), 
+beliefs about vaccination have been shown to influence 
+the generation of false memories for fabricated fake 
+news related with the COVID-19 pandemic, with indi-
+viduals falsely remembering more fake news congruent 
+with their prior beliefs (Greene et al., 2022; though see 
+King & Greene, 2024 for a lack of association between 
+previous pseudoscientific beliefs and false memories 
+for cancer-related fake news). From a different point of 
+view, Chow et al. (2021) observed that erroneous health 
+beliefs connecting different pseudotherapies and health 
+conditions were frequently associated with the percep-
+tion of nonzero contingency between those events expe-
+rienced in one’s daily life. For example, the intensity of 
+the unwarranted belief in herbal remedies as effective 
+treatments for the common cold was associated with the 
+individuals recalling that, among people they knew, the 
+percentage of those improving from their common cold 
+had been higher among the ones taking herbal remedies 
+compared to those not taking them. Even though there 
+exists no known cure for cold, this effect could be due to
+
+Page 3 of 10
+
+some individuals having experienced a positive contin-
+gency between taking herbal remedies and curing a cold 
+by chance. Nevertheless, as noted by Chow et al. (2021), 
+it is also possible that people better recall those observa-
+tions that confirm their initial expectations or, we could 
+add, they might even falsely remember them.
+These studies can be contextualized in the field of 
+motivated reasoning (Kunda, 1990), as they suggest 
+that pre-existing beliefs might influence the generation 
+of false memories congruent with them. In the present 
+research, nevertheless, we follow a different perspective. 
+Specifically, we propose that, when presented with cer-
+tain (false) information, a general context-independent 
+proneness to generate false memories could be associ-
+ated with the development of beliefs congruent with that 
+information. Bringing this idea to the domain of pseudo-
+scientific beliefs, after being exposed to similar degrees of 
+misinformation promoting pseudoscience, a differential 
+tendency to develop false memories could explain, along 
+with other variables, why different individuals end up 
+developing more or less pseudoscience endorsement (see 
+discussion section for alternative interpretations).
+Our hypothesis stems from previous results obtained 
+in the study of paranormal beliefs. Meyersburg et al. 
+(2009) observed that individuals presenting (false) mem-
+ories of past lives were also more prone to develop false 
+memories in the laboratory (see also Wilson & French, 
+2006, who observed an association between paranormal 
+beliefs and falsely remembering having seen inexistent 
+video footage of dramatic news events). Later on, dif-
+ferent authors have also explored a possible association 
+between proneness to false memory generation and mag-
+ical thinking (i.e., “the belief that events or the behavior 
+of others can be influenced by one’s thoughts, wishes, or 
+rituals”, APA Dictionary of Psychology, n.d.) with mixed 
+results (e.g., Gallo, 2010; Rodríguez-Ferreiro et al., 2020; 
+Saunders et al., 2012). In these studies, false memories 
+were generated by means of the Deese-Roediger-McDer-
+mott (DRM) paradigm (Roediger & McDermott, 1995) 
+in which the presentation of a list of words semantically 
+related to an unpresented one are expected to gener-
+ate false memories of the latter. Nevertheless, although 
+the DRM paradigm is commonly used in false memory 
+research, its relevance for more naturalistic contexts has 
+been criticized (e.g., Pezdek & Lam, 2007; Wade et al., 
+2007).
+In contrast, the misinformation paradigm (e.g., Loftus, 
+2005) seems more appropriate for our purposes because 
+it involves the construction of an erroneous memory 
+from suggestions and is, hence, more closely aligned 
+with false memories coming from social interaction (Zhu 
+et al., 2013). This paradigm consists of three phases: pres-
+entation of a series of pictures describing an original 
+event; presentation of a series of sentences describing 
+the same event but containing misinformation; and a 
+memory test. Studies using the misinformation para-
+digm show that participants exposed to misinformation 
+after an original event are, to some extent, likely to claim 
+to have seen the misleading details in the original event 
+(e.g., Okado & Stark, 2005). The tendency to develop 
+false memories in this paradigm has been shown to vary 
+between individuals. For instance, with regard to per-
+sonality, Zhu et al. (2010a) observed that volunteers with 
+lower scores in a novelty seeking scale were more prone 
+to generate misinformation-related false memories. 
+Interestingly, variability with regard to cognitive factors, 
+has also been shown to be associated with proneness to 
+false memory generation, with individuals scoring higher 
+on measures of intelligence, working memory and visual 
+perception, tending to develop less false memories (Zhu 
+et al., 2010b).
+All in all, we propose that proneness to generate false 
+memories from external (false) information could be 
+associated with willingness to endorse pseudoscientific 
+claims. To test this hypothesis, we presented volunteers 
+varying in their degree of endorsement of pseudoscien-
+tific beliefs with a misinformation task framed in non-
+pseudoscience-related scenarios. If pseudoscientific 
+beliefs are associated with proneness to memory distor-
+tions generated through misinformation, we predict a 
+positive correlation between the rate of the false memo-
+ries and the scores obtained on the scale measuring pseu-
+doscience endorsement.
+Method
+Participants
+We recruited a total of 170 participants (88 females, 
+mean age = 41.2, SD = 13.2), which is double the sample 
+size necessary to detect a medium-size effect (r = 0.3) 
+on the critical correlation analysis with a power of 0.80 
+as indicated by the power analysis performed with 
+G * Power (Faul et al., 2009). Volunteers took part in the 
+study through the online experimentation platform Pro-
+lific. All participants were fluent English speakers and 
+U.S. residents.
+Materials and procedure
+We implemented the experiment in Qualtrics. We con-
+structed an online false memory test using a misinforma-
+tion paradigm with the materials provided by Okado and 
+Stark (2005; https://​facul​ty.​sites.​uci.​edu/​stark​lab/​false-​
+memory-​eyewi​tness-​testi​mony/), and we included the 
+short version of the Pseudoscience Endorsement Scale 
+(sPES; Torres et al., 2023).
+Participants were tested over two sessions separated 
+by a period of 24–26 h. On the first day, the first stage
+
+Page 4 of 10
+of the false memory task was completed (i.e., the event 
+encoding stage, see below), while on the second day, the 
+second and third stages of the false memory task were 
+completed, followed by the sPES. The first session lasted 
+around 8 min and the second session lasted around 
+35 min.
+The false memory task
+The false memory task involved four stages: (1) event 
+encoding stage or pictures stage, (2) misinformation or 
+sentences stage, (3) memory test, (4) source monitor-
+ing test. Before starting, the participants were told that 
+they were completing a memory task. Following previ-
+ous studies using this paradigm (Frenda et al., 2014; Zhu 
+et al., 2010a, 2013), we used two different events from 
+the materials developed by Okado and Stark (2005). The 
+first event involved a man breaking into a car and steal-
+ing things (henceforth, car event), and the second event 
+comprised a repairman who allegedly comes to fix the 
+computer of a research assistant but steals her wallet 
+(henceforth, computer event). The order of presenta-
+tion of these two events was counterbalanced across 
+participants.
+Event encoding stage Participants were sequentially 
+exposed to images describing the two events. Each event 
+included a set of 50 digital color photographs. Each pic-
+ture was displayed for around 3,500 ms, with an inter-
+slide interval of approximately 500 ms. Participants were 
+asked to pay attention to the series of images since they 
+would be asked questions about them later.
+Misinformation stage Between 24 and 26 h later, the 
+participants read sentences about the same two events 
+that they had observed in the previous stage (the order in 
+which each event was presented to each participant was 
+the same as in the previous stage). For each event, 50 sen-
+tences were presented, one after the other. Thirty-eight of 
+those sentences involved accurate written descriptions of 
+the original event (i.e., the information conveyed by the 
+sentences was consistent with the pictures observed in 
+the previous stage). The other 12 (critical) sentences were 
+inaccurate descriptions (i.e., misinformation) of criti-
+cal pictures of the original event. Following Stark et al. 
+(2010), two alternative versions of each critical picture 
+and sentence were used. For instance, in one of the ver-
+sions the picture in the first stage showed a man using a 
+credit card to open a car door while the sentence in the 
+second stage described a man using a hanger to open the 
+car door. In the alternative version, the picture showed 
+the man using the hanger while the sentence indicated 
+that he used a credit card. Participants observing first the 
+car event were exposed to one of these versions (i.e., pic-
+tures from tray 2 from the materials provided by Okado 
+and Stark 2005) while participants observing first the 
+computer event were exposed to the other (i.e., pictures 
+from tray 1 from the materials provided by Okado and 
+Stark 2005). Like in the first stage, each sentence was dis-
+played for 3500 ms, with an inter-slide interval of 500 ms. 
+Within each event, the sentences were presented in the 
+same order as the previously seen pictures. Participants 
+were instructed to focus on the sentences without warn-
+ing them that they might encounter inconsistencies.
+Memory test After a 10–15-min delay (see filler task 
+below), participants were asked to answer 36 (18 per 
+event) forced-choice questions about the information 
+presented in the original event encoding stage (i.e., in the 
+pictures). Twenty-four (12 per event) of these questions 
+(critical questions) referred to critical pictures (those for 
+which the subsequent sentences had included misinfor-
+mation), and the remaining 12 (6 per event) questions 
+were control questions related to non-critical pictures 
+(pictures for which the subsequent sentences had pre-
+sented consistent information). We highlighted in the 
+instructions that they should answer based on what 
+they had seen in the pictures. Each question included 
+three possible answers. In the critical questions, one of 
+the alternatives matched the information presented in 
+the pictures of the original event encoding stage (correct 
+response), another alternative was consistent with the 
+misleading information given in the sentences (misin-
+formed response), and a third alternative referred to an 
+aspect neither seen in the pictures nor read in the sen-
+tences (new response). In the control questions, one of 
+the options corresponded to the correct response, and 
+the other two options involved new responses. The order 
+of presentation of the questions and the answer alterna-
+tives were randomized within each event and across sub-
+jects, but respecting the order of the events observed by 
+each participant on the first and second stages. Following 
+Zhu et al. (2010a), the answers to this test allowed us to 
+calculate false memory rate, our main dependent vari-
+able, which is the proportion of misinformed responses 
+on the critical questions presented in the memory test. 
+This rate represents the tendency of the participants to 
+incorporate misinformation from the sentences in their 
+responses to critical questions about the pictures. Addi-
+tionally, responses to this test allowed to calculate a 
+correct memory index (as in Frenda et al., 2014), as the 
+proportion of correct responses for the control items.
+Source monitoring test For consistency with previous 
+studies on the topic of false memories generated through 
+misinformation, we also gathered robust false memory 
+scores (i.e., rates of false memories mistakenly attributed 
+to the legitimate source). Immediately after the memory 
+test, participants completed the source monitoring test, 
+in which they were again presented with all the criti-
+cal questions of the memory test and they were asked
+
+Page 5 of 10
+
+to indicate the source that they had used to answer the 
+memory test. The four alternatives given were: "I saw it in 
+the pictures only," "I read it in the sentences only," "I both 
+saw it in the pictures and read it in the sentences," and 
+“I guessed.” These response options were adapted from 
+Zhu et al. (2010a), except that we changed the original 
+alternative “saw it in both and they were the same” to “I 
+both saw it in the pictures and read it in the sentences”, 
+and we also removed the alternative “saw it in both and 
+they conflicted with each other” because we considered 
+it to be ambiguous. Therefore, our source monitoring test 
+included 4 response alternatives instead of 5.
+Following Zhu et al. (2010a), the answers to these tests 
+allowed us to calculate robust false memory scores,1 
+which are calculated as the proportion of cases, among 
+those in which the participant chose the misinformed 
+alternative in the previous memory test, in which they 
+further answered "I saw it in the pictures only” or "I saw it 
+in both” on the present source memory test.
+Pseudoscience endorsement scale
+The short version of the Pseudoscience Endorsement 
+Scale (sPES; Torres et al., 2023) consists of 12 statements 
+aimed to assess the endorsement of pseudoscientific 
+beliefs (e.g. “Natural remedies, such as Bach flower rem-
+edies, help overcome emotional imbalances.”). Responses 
+are provided on a Likert-like scale ranging from 1 (i.e., 
+“Strongly disagree”) to 7 (i.e., “Strongly agree”). The 
+final sPES score is obtained by averaging the ratings 
+given to the different statements. This questionnaire has 
+obtained excellent internal consistency in previous stud-
+ies (McDonald’s ω = 0.90, see Torres et al., 2023). Scores 
+obtained on this scale have been shown to positively 
+correlate with variables such as age, right-wing ideol-
+ogy and receptivity to what is known in the literature as 
+“pseudo-profound bullshit” (i.e., obscure and vague lan-
+guage designed to impress but lacking actual meaning, 
+Pennycook et al., 2015, often used to support pseudosci-
+entific claims), and to negatively correlate with cognitive 
+reflection and science literacy (Torres et al., 2023). Inter-
+estingly, positive associations have also been observed 
+between PES scores and both intensity of causal illusions 
+(Torres et al., 2020, 2022) and proneness to overadminis-
+tration of ineffective treatments in a laboratory task (Tor-
+res et al., 2022, see filler task in the present study).
+Filler task
+As a filler task (introduced between the second and the 
+third stage of the false memory task), we adapted a stand-
+ard contingency judgment task that assesses the tendency 
+to develop causal illusions (e.g., Barberia et al., 2019; 
+see Matute et al., 2015, for a review). Responses to this 
+task, which have been shown to correlate with pseudo-
+scientific belief endorsement (Torres et al., 2020, 2022), 
+allowed us to explore a possible relation between prone-
+ness to false memory generation and the development of 
+causal illusions. Participants had to judge the effective-
+ness of a experimental substance to cure headache. A 
+sequence of trials corresponding to medical records of 
+patients suffering from headaches was presented to them 
+on a computer screen. Specifically, each record showed 
+whether a given patient had taken the substance or not 
+and they were asked whether they believed that the head-
+ache would disappear or not within the next two hours 
+(by giving a yes/no response). Then, they received feed-
+back indicating whether the patient’s headache disap-
+peared or not. Out of 48 patients presented, 36 took the 
+substance, whereby the headache disappeared in 27 cases 
+and persisted in 9. The remaining 12 patients did not take 
+the substance, from which the headache disappeared in 
+9 cases and persisted in 3. Therefore, the substance was 
+useless for treating headache, since the probability that 
+the headache would disappear after taking the substance 
+was the same as the probability that the headache would 
+disappear after not taking the substance, i.e., P(Cure|Su
+bstance) = P(Cure|¬Substance) = 0.75, making the contin-
+gency 0. The order of the different types of trials was ran-
+domized for each participant. After all medical records 
+had been presented, the participants were asked to judge 
+the effectiveness of the substance as a cure for headache 
+on a scale between 0 and 100 where 0 meant "not effec-
+tive" at all and 100 meant "fully effective." These effective-
+ness ratings indicate the extent to which a causal illusion 
+has been developed.
+Results
+The hypothesis, protocols, sample size, and analysis plan 
+were preregistered in AsPredicted [https://​aspre​dicted.​
+org/​sw3ki.​pdf], and the resulting dataset is available at 
+OSF [https://​osf.​io/​z69yk/]. Data were analyzed with 
+Jamovi (version 2.4.1). We conducted Kendall’s tau for all 
+correlation analyses since the Shapiro–Wilk test showed 
+that the mean false memory rate, robust false memory 
+score, correct memory index, sPES scores, and effective-
+ness ratings in the filler task did not follow a normal dis-
+tribution, all ps ≤ 0.004.
+Note that, as indicated in our preregistration, we 
+consider the overall false memory rate to be the main 
+dependent variable measuring false memory in our study, 
+1 Although the robust memory score has been calculated in previous stud-
+ies applying the misinformation paradigm (e.g., Zhu et al., 2010a), we deem 
+it potentially confusing for the participants, so in the present research we 
+focused our hypothesis on the general false memory rate, which we con-
+sider to be a purer measure of false memory generation (see preregistra-
+tion).
+
+Page 6 of 10
+and our preregistered hypothesis states that this value 
+should positively correlate with the level of endorse-
+ment of pseudoscience (sPES scores). The other indexes 
+derived from the false memory task (i.e., robust false 
+memory score and correct memory index) were consid-
+ered secondary and the analysis of their relationship with 
+pseudoscientific beliefs was planned as exploratory.
+Analyses of the false memory rates, mean = 0.44, 
+SD = 0.18, 95% CI [0.41, 0.47], showed acceptable reli-
+ability, ω = 0.74. However, note that, when analyzing each 
+event separately, we observed a value of ω = 0.71 for the 
+car event but a poorer ω = 0.50 for the computer event. 
+An inspection of the item-test correlation of this later 
+event revealed that one of the items was negatively asso-
+ciated with the total false memory rate (r = − 0.31). Fur-
+ther inspection of this item showed that its formulation 
+was problematic2 and its removal increased reliability for 
+this event up to ω = 0.58. Therefore, we opted to eliminate 
+this item from all of the subsequent analyses (new overall 
+mean false memory rate = 0.45, SD = 0.19, 95% CI [0.42, 
+0.48], ω = 0.77, after eliminating this item). Correlational 
+findings including this item did not differ from the find-
+ings presented here.
+With regard to the pseudoscientific endorsement scale, 
+sPES scores showed excellent consistency in our sample 
+(ω = 0.92). Participants obtained a mean score of 3.90, 
+SD = 1.20, 95% CI [3.72, 4.08], on a scale from 1 to 7, 
+where higher scores correspond to stronger pseudoscien-
+tific beliefs.
+Crucially, false memory rate was positively correlated 
+with endorsement of pseudoscientific beliefs, rτ = 0.11, 
+p = 0.036 (see Fig. 1). Although not contemplated in our 
+preregistered analysis, given the difference in terms of 
+reliability between the two events, we decided to con-
+duct separate correlational analyses for each of them, 
+in order to ascertain whether problems with the task 
+could be obscuring the results, especially after having 
+noted the reliability problems of one of them. Interest-
+ingly, the analyses showed that false memory rate was 
+positively correlated with the endorsement of pseudosci-
+entific beliefs in the (more reliable) car event, rτ = 0.14, 
+p = 0.012, but not in the (less reliable) computer event, 
+rτ = 0.08, p = 0.149.
+Finally, exploratory analyses involving the relationship 
+between either robust false memory score,3 mean = 0.49, 
+SD = 0.26, 95% CI [0.45, 0.53], or the correct memory 
+index, mean = 0.61, SD = 0.16, 95% CI [0.58, 0.63], and 
+pseudoscientific beliefs, showed no significant asso-
+ciations, rτ = 0.05, p = 0.36, and rτ = − 0.02, p = 0.77, for 
+robust false memory score and correct memory index, 
+respectively.
+Regarding the results of the filler task, although it was 
+not part of the main goal of the study, we ran a corre-
+lational analysis which returned a positive association 
+between the intensity of the causal illusion developed in 
+the contingency learning task and the level of endorse-
+ment of pseudoscientific beliefs, rτ = 0.134, p = 0.011, 
+but not with regard to performance on the false memory 
+task, rτ = 0.001, p = 0.979.
+Discussion
+Our study aimed to examine whether variability with 
+regard to the tendency to develop false memories from 
+misinformation contributes to the endorsement of pseu-
+doscientific beliefs. Our hypothesis is that individuals 
+more prone to develop false memories would also be 
+at a higher risk of developing pseudoscientific beliefs, 
+as these distorted memories would facilitate them to 
+hold beliefs at odds with the actual observed evidence. 
+Consistent with this hypothesis, we found a significant 
+positive correlation between the intensity of a range of 
+pseudoscientific beliefs held by our participants and their 
+Fig. 1 Correlation between false memory rates and scores 
+on the pseudoscience endorsement scale. The gray area indicates 
+95% confidence intervals
+2 We refer to the question “What did the repairman specifically put into 
+his tool bag?” of the computer event from the original materials, which 
+included the response options “A stack of CDs”, “A mouse” and “Printer 
+paper”. We consider that the question is invalid to capture false memory 
+because the sentence from the misinformation stage that should allegedly 
+produce a misinformation effect actually corresponds correctly to the pic-
+ture shown in the event encoding stage (i.e., when the picture showed the 
+repairman introducing a mouse in his tool bag, the sentence would read “He 
+put the computer mouse in his tool bag” and when the picture showed him 
+introducing a stack of CDs, the sentence would read “He put the stack of 
+CDs in his tool bag”).
+3 Note that the adaptations we conducted in the procedure to assess this 
+score make our results not directly comparable with those of previous stud-
+ies.
+
+Page 7 of 10
+
+rate of misinformed responses in a domain-independent 
+false memory task.
+Previous literature has shown that different cognitive 
+factors modulate the tendency to endorse pseudosci-
+entific beliefs, such as predisposition to analytic think-
+ing (Fasce & Picó, 2019; Majima et al., 2022) as well 
+as cognitive biases related to jumping to conclusions 
+(Rodríguez-Ferreiro & Barberia, 2021) and causal illu-
+sion (Torres et al., 2020, 2022). Although these results 
+already suggest that the tendency to believe in pseudosci-
+ence may be related to variability in cognitive processing, 
+to our knowledge, this is the first study showing a link 
+with proneness to develop false memories. Neverthe-
+less, the observed effect size is not large, thus aligning 
+with the idea that pseudoscientific belief endorsement 
+is influenced by a multiplicity of factors. To this respect, 
+proneness to false memory generation appears to be 
+independent from the tendency to develop a causal illu-
+sion, as suggested by the lack of correlation between the 
+measures of these two constructs in our results, despite 
+both of them being associated with the presence of pseu-
+doscientific beliefs. This observation points to a differen-
+tial role of cognitive processes responsible for integrating 
+given (mis)information as opposed to those involved in 
+learning from experience.
+Our results have both theoretical and practical impli-
+cations. On the one hand, they extend previous findings 
+on the cognitive aspects that may be modulating pseudo-
+scientific beliefs by providing evidence of an association 
+with proneness to false memory. The correlational nature 
+of our data does not allow us to establish a reliable cause-
+effect relationship between these two phenomena, nor to 
+determine the direction of the relation in case it is indeed 
+causal. In this sense, our hypothesis is that false memo-
+ries could lead to pseudoscience endorsement, which is 
+not incompatible with the possibility that individuals 
+who already believe in the efficacy of a given pseudother-
+apy, then generate false memories to support that belief 
+(see Greene et al., 2022). In fact, both could be true so 
+that beliefs and false memories feed back on each other 
+and are mutually reinforced.
+Still, in our view, the fact that the effect was observed 
+with a false memory task conceptually unrelated to 
+pseudoscientific claims indicates that the associa-
+tion does not rely on prior beliefs or expectations with 
+regard to any specific topic, thus giving support to our 
+original proposal. With regard to this, note that future 
+researchers should carefully consider which misin-
+formation events to incorporate in their experimental 
+design, taking into account the differences in reliability 
+observed in the present work, with the car event obtain-
+ing far better reliability values than the computer event. 
+In any case, experimental generation of false memories 
+regarding pseudo-treatments and subsequent assess-
+ment of their influence over pseudoscientific belief gen-
+eration or pseudoscience-associated behaviors could 
+be carried in the future to further corroborate our 
+hypothesis.
+Although the present research does not allow to deepen 
+into the cognitive mechanism underlying the observed 
+effect, it is worth contextualizing our results with regard 
+to the main hypothesis usually applied to the study of 
+false memory generation: the fuzzy trace theory (Reyna 
+& Brainerd, 1995) and the source monitoring framework 
+(Johnson et al., 1993). On the one hand, according to the 
+fuzzy trace theory (Reyna & Brainerd, 1995), memory 
+entails parallel encoding, storing and retrieving of ver-
+batim and gist representations. The former refers to spe-
+cific details of a sentence or situation, whereas the latter 
+refer to its general meaning. Interestingly, gist memory 
+has been shown to be more influential than verbatim 
+over decision making (see Blalock & Reyna, 2016, for a 
+review) and, as we have already mentioned in the intro-
+duction, individuals tend to falsely remember verbatim 
+details congruent with their beliefs or gist (Greene et al., 
+2022, see Langdon et al., 2024 for a review and commen-
+tary). From this perspective, false memories generated 
+in our task rely on verbatim traces as participants were 
+asked about specific details of the presented situations, 
+so the association between this kind of false memories 
+and beliefs do not necessarily align with the results of 
+previous studies. Note, however, that if a complementary 
+interplay between gist and verbatim memory is assumed, 
+an individual with a tendency to focus on gist informa-
+tion might also tend to ignore verbatim details, thus 
+leading to more false memories. In any case, it is worth 
+remembering that our novel hypothesis entails general 
+context-independent proneness to false memory gen-
+eration influencing belief endorsement (and not beliefs 
+influencing the generation of congruent false memories). 
+On the other hand, in the context of the source monitor-
+ing framework (Johnson et al., 1993) our results could be 
+interpreted as increased difficulties to correctly attribute 
+the observed information to its actual source for indi-
+viduals more strongly endorsing pseudoscientific beliefs. 
+From this perspective, the observed errors would indi-
+cate failures in either heuristic (e.g., based on perceptual 
+or temporal cues) or deliberate (e.g., systematic assess-
+ment of plausibility) judgments of truthfulness (see Mur-
+phy et al., 2021, for similar interpretations). For instance, 
+taking up one of the examples presented in the introduc-
+tion, believers would be more susceptible than sceptics 
+to mistakenly attribute a recommendation read in social 
+media to a health professional.
+As for the practical implications, this research may 
+serve as a basis for the design and implementation of
+
+Page 8 of 10
+strategies aimed at reducing the presence of pseudo-
+scientific beliefs in the population. According to our 
+results, and assuming that proneness to false memory 
+has a causal role over acceptance of pseudoscience, we 
+could expect that alerting about the fallibility of our 
+memory could lead to greater resistance to the mis-
+information effect and, in turn, less endorsement of 
+pseudoscientific beliefs. Additionally, and following 
+Larrick (2004) with regard to the necessity to comple-
+ment “training in bias” (i.e., educating regarding the 
+existence of specific cognitive biases) with “training in 
+rules” (i.e., providing strategies to overcome them or 
+guidance on how to optimally make decisions), a suc-
+cessful intervention might also need to include the 
+presentation of clear information about the efficacy of 
+the products and/or treatments, which should serve 
+as a basis to modify beliefs established resulting from 
+erroneous memories. In this sense, we strongly rec-
+ommend the implementation of empirically supported 
+methods to address pseudoscientific beliefs, such as the 
+motivational interview (Gagneur, 2020) or the empa-
+thetic motivational interview (Holford et al., 2024), 
+which emphasize the use of respectful and empathetic 
+approaches to avoid backfire effects.
+Significance Statement
+Despite their potentially harmful consequences over fields such as health and 
+education, pseudoscientific beliefs (e. g., reiki, homeopathy...) are widespread 
+in Western societies. For example, more than 70% of adults in the U.S. believe 
+that alternative medicine is a good complement to cancer treatment, even 
+though its usage leads to increased morbidity. Among the factors that can 
+contribute to the propagation of pseudoscientific beliefs, in this research we 
+focus on the human tendency to develop erroneous memories of past events. 
+Our results show that individuals more prone to generate false memories after 
+being exposed to misleading information are also more inclined to embrace 
+pseudoscientific beliefs. The identification of individual risk factors for pseudo‐
+science endorsement is a crucial first step for the development of successful 
+interventions aimed at reducing their negative impact in our communities.
+Author contributions
+NM, IB and JRF took part in study conceptualization, method design, data 
+curation and validation. NM programmed the tasks and collected the data. 
+NM and JRF analyzed the results and wrote the original draft. NM, IB and JRF 
+reviewed and edited the final version.
+Funding
+This study was funded by grants PID2019-106102GB-I00 (MCIN/AEI/https://
+doi.org/10.13039/501100011033) and PID2022-138016NB-I00 (MCIN/
+AEI/https://doi.org/10.13039/501100011033/ & FEDER, Una manera de hacer 
+Europa), as well as 2021 SGR 01102 by Agència de Gestió d’Ajuts Universitaris 
+i de Recerca (AGAUR). The funding bodies had no role in the design of the 
+study, collection, analysis, interpretation of data or in writing the manuscript.
+Availability of data and materials
+The raw data generated and/or analyzed during the current study are avail‐
+able at the Open Science Framework: https://​osf.​io/​z69yk/?​view_​only=​1e577​
+4aee5​22465​1a354​1892d​d0a91​4f
+Declarations
+Ethics approval and consent to participate
+Volunteers agreed to participate in the study by entering their Prolific ID in 
+response to the consent statement presented on the screen at the beginning 
+of the experiment. The university’s ethics committee approved the study 
+protocols (Institutional Review Board IRB00003099, Comissió de Bioètica de la 
+Universitat de Barcelona).
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 15 January 2024 Accepted: 11 June 2024
+References
+American Society of Clinical Oncology. (2019). Percentage of U.S. adults that 
+had select opinions on alternative medicine for cancer patients as of 
+2019, by political affiliation* [Graph]. In Statista. Retrieved September 14, 
+2023, from https://​www-​stati​sta-​com.​sire.​ub.​edu/​stati​stics/​944404/​alter​
+native-​medic​ine-​opini​ons-​for-​cancer-​treat​ment-​by-​polit​ical-​affil​iation/
+American Psychological Association. (2018). Magical Thinking. In APA Diction-
+ary of Psychology. Retrieved November 25, 2019 from https://​dicti​onary.​
+apa.​org/​magic​al-​think​ing
+Astin, J. A. (1998). Why patients use alternative medicine. JAMA, 279(19), 1548. 
+https://​doi.​org/​10.​1001/​jama.​279.​19.​1548
+Barberia, I., Vadillo, M. A., & Rodríguez-Ferreiro, J. (2019). Persistence of causal 
+illusions after extensive training. Frontiers in Psychology, 10, 24. https://​doi.​
+org/​10.​3389/​fpsyg.​2019.​00024
+Barnes, P. M., Bloom, B., & Nahin, R. L. (2008). Complementary and alternative 
+medicine use among adults and children: United States, 2007. National 
+Health Statistics Reports, 12, 1–23.
+Blalock, S. J., & Reyna, V. F. (2016). Using fuzzy-trace theory to understand and 
+improve health judgments, decisions, and behaviors: A literature review. 
+Health Psychology, 35(8), 781–792. https://​doi.​org/​10.​1037/​hea00​00384
+Broad, C. D. (1949). The relevance of psychical research to philosophy. Philoso-
+phy, 24(91), 291–309. https://​doi.​org/​10.​1017/​S0031​81910​00074​52
+Chow, J. Y., Colagiuri, B., Rottman, B. M., Goldwater, M., & Livesey, E. J. (2021). 
+Pseudoscientific health beliefs and the perceived frequency of causal 
+relationships. International Journal of Environmental Research and Public 
+Health, 18(21), 11196. https://​doi.​org/​10.​3390/​ijerp​h1821​11196
+CIS-Centro de Investigaciones Sociológicas. (2018). Barómetro de Febrero 
+2018. Estudio 3205. http://​www.​cis.​es/​cis/​opencm/​ES/1_​encue​stas/​estud​
+ios/​ver.​jsp?​estud​io=​14383
+Downey, L., Tyree, P. T., Huebner, C. E., & Lafferty, W. E. (2010). Pediatric vac‐
+cination and vaccine-preventable disease acquisition: Associations 
+with care by complementary and alternative medicine providers. 
+Maternal and Child Health Journal, 14, 922–930. https://​doi.​org/​10.​1007/​
+s10995-​009-​0519-5
+Eisenberg, D. M., Davis, R. B., Ettner, S. L., Appel, S., Wilkey, S., Van Rompay, M., 
+& Kessler, R. C. (1998). Trends in alternative medicine use in the United 
+States, 1990–1997: Results of a follow-up national survey. JAMA, 280(18), 
+1569–1575. https://​doi.​org/​10.​1001/​jama.​280.​18.​1569
+Eisenberg, D. M., Kessler, R. C., Foster, C., Norlock, F. E., Calkins, D. R., & Delbanco, 
+T. L. (1993). Unconventional medicine in the United States. Prevalence, 
+costs, and patterns of use. The New England Journal of Medicine, 328(4), 
+246–252. https://​doi.​org/​10.​1056/​NEJM1​99301​28328​0406
+Fasce, A., Adrián-Ventura, J., & Avendaño, D. (2020). Do as the Romans do: On 
+the authoritarian roots of pseudoscience. Public Understanding of Science, 
+29(6), 597–613. https://​doi.​org/​10.​1177/​09636​62520​935078
+Fasce, A., & Picó, A. (2019). Conceptual foundations and validation of the Pseu‐
+doscientific Belief Scale. Applied Cognitive Psychology, 33, 617–628. https://​
+doi.​org/​10.​1002/​acp.​3501
+
+Page 9 of 10
+
+Faul, F., Erdfelder, E., Buchner, A., & Lang, A.-G. (2009). Statistical power analyses 
+using G*Power 3.1: Tests for correlation and regression analyses. Behavior 
+Research Methods, 41, 1149–1160. https://​doi.​org/​10.​3758/​BRM.​41.4.​1149F​
+ECYT
+Fjær, E. L., Landet, E. R., McNamara, C. L., & Eikemo, T. A. (2020). The use 
+of complementary and alternative medicine (CAM) in Europe. BMC 
+Complementary Medicine and Therapies, 20, 1–9. https://​doi.​org/​10.​1186/​
+s12906-​020-​02903-w
+Frenda, S. J., Patihis, L., Loftus, E. F., Lewis, H. C., & Fenn, K. M. (2014). Sleep 
+deprivation and false memories. Psychological Science, 25(9), 1674–1681. 
+https://​doi.​org/​10.​1177/​09567​97614​534694
+Furnham, A. (2007). Are modern health worries, personality and attitudes 
+to science associated with the use of complementary and alternative 
+medicine? British Journal of Health Psychology, 12(2), 229–243. https://​doi.​
+org/​10.​1348/​13591​0706X​100593
+Gagneur, A. (2020). Motivational interviewing: A powerful tool to address 
+vaccine hesitancy. Canada Communicable Disease Report = Releve des 
+maladies transmissibles au Canada, 46(4), 93–97. https://​doi.​org/​10.​14745/​
+ccdr.​v46i0​4a06
+Gallo, D. A. (2010). False memories and fantastic beliefs: 15 years of the DRM 
+illusion. Memory & Cognition, 38, 833–848. https://​doi.​org/​10.​3758/​MC.​
+38.7.​833
+García-Arch, J., Ballestero-Arnau, M., Pérez Hoyas, L., & Giaiotti, F. (2022). 
+Disproven but still believed: The role of information and individual dif‐
+ferences in the prediction of topic-related pseudoscience acceptance. 
+Applied Cognitive Psychology, 36(2), 268–282. https://​doi.​org/​10.​1002/​acp.​
+3914
+Grand View Research (2023). Complementary and Alternative Medicine Market 
+(GVR No. 1-68038-725-4). Grand View Research. https://​www.​grand​
+viewr​esear​ch.​com/​indus​try-​analy​sis/​compl​ement​ary-​alter​native-​medic​
+ine-​market
+Greene, C. M., de Saint Laurent, C., Hegarty, K., & Murphy, G. (2022). False 
+memories for true and false vaccination information form in line with 
+pre-existing vaccine opinions. Applied Cognitive Psychology, 36(6), 
+1200–1208. https://​doi.​org/​10.​1002/​acp.​4002
+Greene, C. M., Nash, R. A., & Murphy, G. (2021). Misremembering Brexit: Partisan 
+bias and individual predictors of false memories for fake news stories 
+among Brexit voters. Memory, 29(5), 587–604. https://​doi.​org/​10.​1080/​
+09658​211.​2021.​19237​54
+Harris Interactive. (2019). Do you have a good image of alternative medicine? 
+[Graph]. In Statista. Retrieved 17 June 2024, from https://​www.​stati​sta.​
+com/​stati​stics/​11020​31/​medic​ine-​non-​conve​ntion​al-​perce​ption-​france/
+Holford, D., Schmid, P., Fasce, A., & Lewandowsky, S. (2024). The empathetic 
+refutational interview to tackle vaccine misconceptions: Four randomized 
+experiments. Health Psychology. https://​doi.​org/​10.​1037/​hea00​01354
+Huete-Pérez, D., Morales-Vives, F., Gavilán, J. M., Boada, R., & Haro, J. (2022). 
+Popular epistemically unwarranted beliefs inventory (PEUBI): A psy‐
+chometric instrument for assessing paranormal, pseudoscientific and 
+conspiracy beliefs. Applied Cognitive Psychology, 36(6), 1260–1276. https://​
+doi.​org/​10.​1002/​acp.​4010
+IBISWorld. (2022). Estimated alternative medicine industry revenue in the U.S. 
+from 2013 to 2023 (in billion U.S. dollars) [Graph]. In Statista. Retrieved 
+September 14, 2023, from https://​www.​stati​sta.​com/​stati​stics/​203972/​
+alter​native-​medic​ine-​reven​ue-​growth/
+Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. 
+Psychological Bulletin, 114(1), 3–28. https://​doi.​org/​10.​1037/​0033-​2909.​
+114.1.3
+Johnson, S. B., Park, H. S., Gross, C. P., & James, B. Y. (2018a). Complementary 
+medicine, refusal of conventional cancer therapy, and survival among 
+patients with curable cancers. JAMA Oncology, 4(10), 1375–1381. https://​
+doi.​org/​10.​1001/​jamao​ncol.​2018.​2487
+Johnson, S. B., Park, H. S., Gross, C. P., & Yu, J. B. (2018). Use of alternative medi‐
+cine for cancer and its impact on survival. JNCI: Journal of the National 
+Cancer Institute, 110(1), 121–124. https://​doi.​org/​10.​1093/​jnci/​djx145
+Jones, L., Sciamanna, C., & Lehman, E. (2010). Are those who use specific 
+complementary and alternative medicine therapies less likely to be 
+immunized? Preventive Medicine, 50, 148–154. https://​doi.​org/​10.​1016/j.​
+ypmed.​2009.​12.​001
+Kemppainen, L. M., Kemppainen, T. T., Reippainen, J. A., Salmenniemi, S. T., & 
+Vuolanto, P. H. (2018). Use of complementary and alternative medicine 
+in Europe: Health-related and sociodemographic determinants. 
+Scandinavian Journal of Public Health, 46(4), 448–455. https://​doi.​org/​
+10.​1177/​14034​94817​733869
+King, N., & Greene, C. M. (2024). Susceptibility to cancer misinformation: 
+Predictors of false belief and false memory formation. Applied Cognitive 
+Psychology, 38(1), e4184. https://​doi.​org/​10.​1002/​acp.​4184
+Kunda, Z. (1990). The case for motivated reasoning. Psychological Bulletin, 
+108(3), 480–498. https://​doi.​org/​10.​1037/​0033-​2909.​108.3.​480
+Lampinen, J. M., Neuschatz, J. S., & Payne, D. G. (1998). Memory illusions 
+and contiousness: Examining the phenomenology of true and false 
+memories. Current Psychology: Development, Learning, Personality, Social, 
+16, 181–224. https://​doi.​org/​10.​1007/​s12144-​997-​1000-5
+Langdon, J. A., Helgason, B. A., Qiu, J., & Effron, D. A. (2024). “It’s Not Literally 
+True But You Get the Gist”: How nuanced understandings of truth 
+encourage people to condone and spread misinformation. Current 
+Opinion in Psychology. https://​doi.​org/​10.​1016/j.​copsyc.​2024.​101788
+Larrick, R. P. (2004). Debiasing. In D. J. Koehler & N. Harvey (Eds.), Blackwell 
+Handbook of Judgment and Decision Making (pp. 316–338). Oxford: 
+Blackwell. https://​doi.​org/​10.​1002/​97804​70752​937.​ch16
+Lim, A., Cranswick, N., & South, M. (2011). Adverse events associated with 
+the use of complementary and alternative medicine in children. 
+Archives of Disease in Childhood, 96(3), 297–300. https://​doi.​org/​10.​
+1136/​adc.​2010.​183152
+Lobato, E., Mendoza, J., Sims, V., & Chin, M. (2014). Examining the relation‐
+ship between conspiracy theories, paranormal beliefs, and pseudosci‐
+ence acceptance among a university population. Applied Cognitive 
+Psychology, 28(5), 617–625. https://​doi.​org/​10.​1002/​acp.​3042
+Loftus, E. F. (2005). Searching for the neurobiology of the misinformation 
+effect. Learning and Memory, 12, 1–2. https://​doi.​org/​10.​1101/​lm.​90805
+Majima, Y. (2015). Belief in pseudoscience, cognitive style and science 
+literacy. Applied Cognitive Psychology, 29(4), 552–559. https://​doi.​org/​10.​
+1002/​acp.​3136
+Majima, Y., Walker, A. C., Turpin, M. H., & Fugelsang, J. A. (2022). Culture as a 
+moderator of epistemically suspect beliefs. Frontiers in Psychology, 13, 
+745580. https://​doi.​org/​10.​3389/​fpsyg.​2022.​745580
+Matute, H., Blanco, F., Yarritu, I., Díaz-Lago, M., Vadillo, M. A., & Barberia, I. 
+(2015). Illusions of causality: How they bias our everyday thinking and 
+how they could be reduced. Frontiers in Psychology, 6, 888. https://​doi.​
+org/​10.​3389/​fpsyg.​2015.​00888
+Matute, H., Yarritu, I., & Vadillo, M. A. (2011). Illusions of causality at the heart 
+of pseudoscience. British Journal of Psychology, 102(3), 392–405. https://​
+doi.​org/​10.​1348/​00071​2610X​532210
+Meyersburg, C. A., Bogdan, R., Gallo, D. A., & McNally, R. J. (2009). False 
+memory propensity in people reporting recovered memories of past 
+lives. Journal of Abnormal Psychology, 118(2), 399–404. https://​doi.​org/​
+10.​1037/​a0015​371
+Murphy, G., Murray, E., & Gough, D. (2021). Attitudes towards feminism 
+predict susceptibility to feminism-related fake news. Applied Cognitive 
+Psychology, 35(5), 1182–1192. https://​doi.​org/​10.​1002/​acp.​3851
+Nahin, R. L., Barnes, P. M., & Stussman, B. J. (2016). Expenditures on com‐
+plementary health approaches: United States, 2012. National Health 
+Statistics Reports. National Center for Health Statistics. https://​stacks.​
+cdc.​gov/​view/​cdc/​44841
+Okado, Y., & Stark, C. E. L. (2005). Neural activity during encoding predicts 
+false memories created by misinformation. Learning and Memory, 12, 
+3–11. https://​doi.​org/​10.​1101/​lm.​87605
+Pennycook, G., Cheyne, J. A., Barr, N., Koehler, D. J., & Fugelsang, J. A. (2015). 
+On the reception and detection of pseudo-profound bullshit. Judg-
+ment and Decision Making, 10, 549–563.
+Pezdek, K., & Lam, S. (2007). What research paradigms have cognitive psy‐
+chologists used to study “false memory”, and what are the implications 
+of these choices? Consciousness and Cognition, 16(1), 2–17. https://​doi.​
+org/​10.​1016/j.​concog.​2005.​06.​006
+Piejka, A., & Okruszek, Ł. (2020). Do you believe what you have been told? 
+Morality and scientific literacy as predictors of pseudoscience suscep‐
+tibility. Applied Cognitive Psychology, 34(5), 1072–1082. https://​doi.​org/​
+10.​1002/​acp.​3687
+Reyna, V. F., & Brainerd, C. J. (1995). Fuzzy-trace theory: An interim synthesis. 
+Learning and Individual Differences, 7(1), 1–75. https://​doi.​org/​10.​1016/​
+1041-​6080(95)​90031-4
+Rodríguez-Ferreiro, J., Aguilera, M., & Davies, R. (2020). Positive schizotypy 
+increases the acceptance of unpresented materials in false memory tasks
+
+Page 10 of 10
+in non-clinical individuals. Frontiers in Psychology, 11, 262. https://​doi.​org/​
+10.​3389/​fpsyg.​2020.​00262
+Rodríguez-Ferreiro, J., & Barberia, I. (2021). Believers in pseudoscience present 
+lower evidential criteria. Scientific Reports, 11(1), 24352. https://​doi.​org/​10.​
+1038/​s41598-​021-​03816-5
+Roediger, H. L., III., & McDermott, K. B. (1995). Creating false memories: Remem‐
+bering words not presented in lists. Journal of Experimental Psychology: 
+Learning, Memory, and Cognition, 21, 803–814. https://​doi.​org/​10.​1037/​
+0278-​7393.​21.4.​803
+Saunders, J., Randell, J., & Reed, P. (2012). Recall of false memories in individuals 
+scoring high in schizotypy: Memory distortions are scale specific. Journal 
+of Behavior Therapy and Experimental Psychiatry, 43, 711–715. https://​doi.​
+org/​10.​1016/j.​jbtep.​2011.​10.​003
+Stark, C. E. L., Okado, Y., & Loftus, E. F. (2010). Imaging the reconstruction of true 
+and false memories using sensory reactivation and the misinformation 
+paradigms. Learning and Memory, 17, 485–488. https://​doi.​org/​10.​1101/​
+lm.​18457​10
+Torres, M. N., Barberia, I., & Rodríguez-Ferreiro, J. (2020). Causal illusion as a 
+cognitive basis of pseudoscientific beliefs. British Journal of Psychology, 
+111(4), 840–852. https://​doi.​org/​10.​1111/​bjop.​12441
+Torres, M. N., Barberia, I., & Rodríguez-Ferreiro, J. (2022). Causal illusion in the 
+core of pseudoscientific beliefs: The role of information interpretation 
+and search strategies. PLoS ONE, 17(9), e0272201. https://​doi.​org/​10.​1371/​
+journ​al.​pone.​02722​01
+Torres, M. N., Barberia, I., & Rodríguez-Ferreiro, J. (2023). A validation of the 
+Pseudoscience Endorsement Scale and assessment of the cognitive 
+correlates of pseudoscientific beliefs. Humanities and Social Sciences Com-
+munications, 10(1), 1–8. https://​doi.​org/​10.​1057/​s41599-​023-​01681-3
+Utinans, A., & Ancane, G. (2014). Belief in the paranormal and modern health 
+worries. SHS Web of Conferences, 10, 00048. https://​doi.​org/​10.​1051/​shsco​
+nf/​20141​000048
+Wade, K. A., Sharman, S. J., Garry, M., Memon, A., Mazzoni, G., Merckelbach, H., 
+et al. (2007). False claims about false memory research. Consciousness and 
+Cognition, 16(1), 18–28. https://​doi.​org/​10.​1016/j.​concog.​2006.​07.​001
+Wilson, K., & French, C. C. (2006). The relationship between susceptibility to 
+false memories, dissociativity, and paranormal belief and experience. 
+Personality and Individual Differences, 41(8), 1493–1502. https://​doi.​org/​10.​
+1016/j.​paid.​2006.​06.​008
+Zhu, B., Chen, C., Loftus, E. F., Lin, C., & Dong, Q. (2013). The relationship 
+between DRM and misinformation false memories. Memory & Cognition, 
+41, 832–838. https://​doi.​org/​10.​3758/​s13421-​013-​0300-2
+Zhu, B., Chen, C., Loftus, E. F., Lin, C., He, Q., Chen, C., et al. (2010a). Individual 
+differences in false memory from misinformation: Personality character‐
+istics and their interactions with cognitive abilities. Personality and Indi-
+vidual Differences, 48, 889–894. https://​doi.​org/​10.​1016/j.​paid.​2010.​02.​016
+Zhu, B., Chen, C., Loftus, E. F., Lin, C., He, Q., Chen, C., & Dong, Q. (2010b). 
+Individual differences in false memory from misinformation: Cognitive 
+factors. Memory, 18(5), 543–555. https://​doi.​org/​10.​1080/​09658​211.​2010.​
+487051
+Zukunftsinstitut. (2017). Share of individuals who agree with the following 
+attitudes to alternative medicine in Germany in 2015, by gender [Graph]. 
+In Statista. Retrieved September 14, 2023, from https://​www.​stati​sta.​com/​
+stati​stics/​684658/​attit​udes-​to-​alter​native-​medic​ine-​in-​germa​ny/
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub‐
+lished maps and institutional affiliations.

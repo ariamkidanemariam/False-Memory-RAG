@@ -1,0 +1,1635 @@
+TYPE Review
+PUBLISHED 28 August 2023
+DOI 10.3389/fpsyg.2023.1081528
+OPEN ACCESS
+EDITED BY
+Iris Blandon-Gitlin,
+California State University, Fullerton,
+United States
+REVIEWED BY
+Stefanie Sharman,
+Deakin University, Australia
+Zhiwei Liu,
+Sichuan University of Science and Engineering,
+China
+*CORRESPONDENCE
+Henry Otgaar
+henry.otgaar@kuleuven.be;
+henry.otgaar@maastrichtuniversity.nl
+RECEIVED 27 October 2022
+ACCEPTED 31 July 2023
+PUBLISHED 28 August 2023
+CITATION
+Otgaar H, Mangiulli I, Battista F and Howe ML
+(2023) External and internal influences yield
+similar memory effects: the role of deception
+and suggestion.
+Front. Psychol. 14:1081528.
+doi: 10.3389/fpsyg.2023.1081528
+COPYRIGHT
+© 2023 Otgaar, Mangiulli, Battista and Howe.
+This is an open-access article distributed under
+the terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or
+reproduction in other forums is permitted,
+provided the original author(s) and the
+copyright owner(s) are credited and that the
+original publication in this journal is cited, in
+accordance with accepted academic practice.
+No use, distribution or reproduction is
+permitted which does not comply with
+these terms.
+External and internal influences
+yield similar memory effects: the
+role of deception and suggestion
+Henry Otgaar1,2*, Ivan Mangiulli1,3, Fabiana Battista3 and
+Mark L. Howe2,4
+1Leuven Institute of Criminology (LINC), Catholic University of Leuven, Leuven, Belgium, 2Faculty of
+Psychology and Neuroscience, Maastricht University, Maastricht, Netherlands, 3Department of
+Education, Psychology, and Communication Sciences, University of Bari Aldo Moro, Bari, Italy,
+4Department of Psychology, City, University of London, London, United Kingdom
+In legal cases, testimonies can become contaminated because of an amalgam of
+external and internal influences on memory. It is well-established that external
+influences (e.g., suggestive interviews) can hurt memory. However, less focus has
+been placed on the impact of internal influences (e.g., lying) on memory. In the
+current review, we show that the available evidence suggests that both external
+and internal influences exert similar effects on memory. That is, we review studies
+showing that suggesting non-occurrences and suggesting non-experiences can
+lead to omission errors and false memories, respectively. Likewise, these memory
+effects are also observed when focusing on internal influences. That is, false
+denials, feigning amnesia and fabrication have been shown to affect memory in
+terms of forgetting (i.e., omissions) and false memories (i.e., commissions). Also,
+we show that both external and internal influences can lead to changes in the
+belief that an event occurred. We argue that in legal cases, triers of fact should
+concentrate on whether both types of influences might have affected testimonial
+accuracy in witnesses, victims, and suspects.
+KEYWORDS
+lying, suggestion, forgetting, false memory, cognitive dissonance
+How internal and external influences can yield
+similar memory effects: the role of deception and
+suggestion
+What witnesses, victims, and suspects can accurately remember about their experiences
+is oftentimes a crucial issue in the court. The reason is straightforward. In many legal cases,
+objective evidence such as fingerprints or DNA samples is lacking (Howe and Knott, 2015).
+In these cases, triers of fact need to base their legal decision making on the memorial
+record of witnesses, victims, and suspects. Although triers of fact strive for memory reports
+containing a high degree of accuracy, this is frequently not what happens. Specifically, people
+might misremember details of, or even entire, autobiographical events. When triers of fact
+(e.g., judges) deem such statements to be authentic, miscarriages of justice might prevail (see
+Howe et al., 2018).
+In the (legal) psychological literature and case reports, memory failures are often
+depicted as arising from external sources such as the use of suggestive interviewing
+techniques by the police (e.g., Otgaar et al., 2019b). However, a new branch of research has
+01
+frontiersin.org
+
+Otgaar et al.
+shown that memory failures can also occur because of internal
+influences such as lying about a crime (see for a review, Otgaar and
+Baker, 2018; Battista and Otgaar, 2022).
+What we will show in the current review is that these
+external and internal factors oftentimes exert similar effects
+on memory, implying that similar mechanisms might underpin
+these memory effects. By assembling empirical research on these
+themes, our review will focus specifically on two factors, namely
+suggestion (i.e., suggesting non-experience/non-occurrences) and
+lying (fabrication, feigning amnesia, false denial) as external and
+internal influences, respectively. The reason why we focused on
+these influences is that they share important similarities in how
+they target memories. For one thing, suggesting and fabricating
+non-experiences both imply the invention of details and/or events
+that never occurred, while suggesting non-occurrence and feigning
+amnesia/falsely denying details both relate to rebutting experiences
+that did occur (see also Figure 1). Finally, we will show how relevant
+and informative these findings are for legal proceedings in which
+memory failures might play a pivotal role determining a verdict.
+What are memory failures?
+In the eyewitness memory field, much attention has been given
+to the following two memory failures: Omission and commission
+errors (e.g., Wright and Loftus, 1998; Loftus, 2005). When errors
+of omission take place, people who have experienced an event, fail
+to report (parts of) the experience. A notable example of omission
+errors is forgetting. Although forgetting is a normal memory
+phenomenon, it is often marshaled as an important memory failure
+(Fawcett and Hulbert, 2019). For example, forgetting is seen as
+a form of cognitive decline more likely to occur when getting
+older (e.g., Fraundorf et al., 2019). Moreover, forgetting important
+details of, say, a traumatic experience (e.g., sexual abuse) can be
+seen as a memory failure (e.g., Bell and Loftus, 1988; Ernberg
+et al., 2018; Shaw and Loftus, 2020) because less detailed statements
+can be unduly regarded as less accurate (e.g., Curci et al., 2020).
+However, forgetting can also be beneficial as, for instance, it aids in
+the facilitation of cognitive functioning (Nørby, 2015; Fawcett and
+Hulbert, 2019). Furthermore, a failure to report even a traumatic
+event (e.g., sexual abuse) does not entail an entire inability to
+remember it (McNally, 2005; Otgaar et al., 2019b).
+Several theoretical notions have been proposed to account
+for the occurrence of forgetting. Classic theories of forgetting
+have involved principles of decay and interference (Fawcett and
+Hulbert, 2019). Decay theory states that forgetting takes place
+due to the “wasting effects of time” (McGeoch, 1932, p. 354).
+Most evidence, however, points to the idea that interference is
+the main source of forgetting (Wixted, 2004, 2005). Interference
+can be broadly differentiated into proactive and retroactive
+interference. Proactive interference refers to forgetting occurring
+due to prior learning affecting the retention of current information.
+Retroactive interference, instead, involves the negative impact of
+new information on previously encoded information. Research
+suggests that retroactive interference is the most likely candidate
+to explain forgetting (Wixted, 2004, 2005).
+Forgetting can also be exerted intentionally (e.g., Anderson and
+Green, 2001; Macleod, 2012). For example, in the directed
+forgetting
+paradigm
+(word
+list
+variant)
+(Macleod,
+2012),
+participants receive two word lists and they are instructed to
+forget one word list while remembering the other one. When
+participants are asked to recall all of the words they were presented,
+they typically remember fewer words from the list that had to be
+forgotten than the list that had to be remembered (e.g., Bjork, 1989;
+Bjork and Bjork, 1996; Macleod, 1999, 2012; Conway et al., 2000).
+Furthermore, in the Think/No Think method (Anderson and
+Green, 2001), participants are trained on several unrelated word
+pairs (e.g., ordeal-roach). Next, participants are reminded of these
+word pairs by being presented with a cue word (e.g., ordeal) and for
+each cue, one of two instructions is provided: Participants have to
+either recall the associated item (e.g., roach) (“think” instruction)
+or have to not think of the associated response (“no-think”).
+During the last phase, participants receive all cue words and are
+asked to come up with the associated words. The general finding
+is a memory impairment for “no-think” items compared with
+memory for items that were only presented during the first and
+last phase (Anderson and Green, 2001). This memory suppression
+effect has also been conceptually replicated in other studies (e.g.,
+Joormann et al., 2005; Bergström et al., 2007).
+Moreover, forgetting can also occur because of the inhibitory
+processes that occur in retrieval. That is, retrieval of practiced
+information
+causes
+the
+suppression
+of
+unpracticed
+related
+information (i.e., retrieval-induced forgetting effect or RIF;
+Anderson et al., 1994). In the RIF paradigm, participants are asked
+to learn a set of category item pairs (e.g., fruit–apple and drink-gin)
+and then are instructed to practice half of the studied pairs from
+half of the categories (e.g., fruit–apple). Finally, participants are
+asked to recall all words they can remember from the first phase.
+The typical finding is that the unpracticed items (e.g., pear) from
+the practiced categories (e.g., fruit) are more poorly recalled than
+unpracticed items (e.g., gin) from unpracticed categories (e.g.,
+drink).
+Although several studies have been conducted on forgetting,
+there are also a plethora of studies focusing on errors of commission
+which are instances in which people either remember events or
+details that were not experienced or remember them differently
+as compared with what they really experienced. In this category
+of errors there are also false memories1 that can be elicited
+spontaneously (i.e., spontaneous false memories) or because of
+external suggestion (i.e., suggestive false memories). Here too, false
+memories are commonly regarded as dangerous memory failures in
+the courtroom as they can lead to false accusations and miscarriages
+of justice (e.g., Otgaar et al., 2022a,b). To be more specific, the
+main contributing factor of wrongful convictions - for around
+70%–is false testimony, wherein eyewitnesses have misidentified
+an innocent suspect during a line-up (Innocence Project, 2020).
+Another example concerns people who falsely remember having
+been abused, something that can lead to false accusations (e.g.,
+Otgaar et al., 2019b). However, just like forgetting, the production
+of false memories can be seen as an integral part of a normal
+and adaptive memory system. Indeed, having false memories can
+1
+In the current paper, we use the term “false memories” as referring to
+remembering non-experienced details/events and referring to instances in
+which details of events are remembered differently (also called memory
+distortions).
+Also, we use the terms omissions and forgetting, and
+commissions and false memories interchangeably in the current manuscript.
+02
+frontiersin.org
+
+Otgaar et al.
+sometimes even be beneficial in that it can aid in prospective
+problem-solving (Howe, 2011; Otgaar et al., 2015; Howe et al.,
+2017).
+Theories that explain the occurrence of false memories are,
+for example, source monitoring framework (SMF; Johnson et al.,
+1993), fuzzy-trace theory (FTT; Brainerd et al., 2008), and
+associative-activation theory (AAT; Howe et al., 2009). According
+to the source monitoring framework, people make attributions
+about the sources of their memories (Johnson et al., 1993). When
+mental representations contain a high degree of memory qualities
+usually associated with correct recollections, people frequently
+attribute these mental representations to memories of experienced
+events. However, when these representations contain qualities such
+as cognitive operations (e.g., thoughts), they are more likely to be
+attributed to imagination or reasoning processes. False memories
+originate from source monitoring errors when, for example, people
+attribute a mental representation to a memory for an experienced
+event while that experience was actually suggested by someone else
+(e.g., a police officer; Johnson et al., 1993).
+Fuzzy-trace theory stipulates that when experiencing an event,
+two independent memory traces are stored (Brainerd et al., 2008):
+Gist and verbatim traces. Verbatim traces are involved in the
+storage of specific details of an experience (e.g., remembering that
+the color of the jacket of a bank robber was red), whereas gist
+traces refer to the storage of the underlying meaning of an event
+(e.g., remembering that a bank was robbed). According to FTT,
+verbatim traces fade more rapidly than gist traces, making people
+more reliant on gist traces over time. False memories are assumed
+to occur when people rely on such gist traces.
+Associative-activation theory uses the principle of spreading
+activation to explain the formation of false memories (Howe et al.,
+2009; Otgaar et al., 2019a). According to the tenets of AAT, when
+experiencing an event, this experience leads to a spread of activation
+through a memory network containing nodes (e.g., memories) of
+related experiences. This spreading activation would also activate
+related nodes of events that were not experienced leading to false
+memories. False memories are especially likely to occur when
+spreading activation runs rapidly and automatically through a
+network and when relations between nodes are strong.
+In the current review, we will focus on how such memory
+failures can arise. Specifically, the center of our discussion lies
+between the impact of a specific set of external and internal
+influences on both forgetting (i.e., omission) and false memory
+production (i.e., commission). It is relevant to stress here that
+myriad forms of external and internal influences exist and
+an exhaustive review of all of these influences is beyond the
+scope of the current review. Here, therefore, our focus is on a
+certain selection of these influences, keeping the following three
+considerations in mind. First, our discussion will concentrate on
+influences in which there was an (externally or internally) “active”
+overt attempt to affect memory. Second, we will describe influences
+that are often discussed in the legal realm. Third, we discuss these
+influences in tandem because the available research suggests that
+they exert similar effects on memory. We will both discuss relevant
+research conducted with adult and child samples to show how these
+influences might affect memory.
+External influences on memory
+Several studies have underlined the robust effect of suggestion
+on memory. Suggestion is called an external influence because
+oftentimes it originates from an external source (e.g., police
+officer, therapist, etc.). An abundance of studies using a variety of
+paradigms (e.g., misinformation paradigm, memory conformity,
+etc.) have shown that external suggestion can taint someone’s
+memory (e.g., Loftus, 2005). Importantly, external suggestion can
+take two forms. People can suggest that details/events were present
+while actually they were not. However, people can also falsely
+suggest that certain details/events were not experienced, while in
+fact they were. These different variants of suggestion can lead
+to differential effects on memory (e.g., Merckelbach et al., 2007;
+Af Hjelmsäter et al., 2008; Wright et al., 2009; Otgaar et al.,
+2010a; Frenda et al., 2011; Scoboria et al., 2017; Azad et al., 2022;
+Rassin, 2022). We will now describe how these different forms
+of suggestion can lead to very specific memory effects (see also
+Figure 1).
+Suggesting non-experience can lead to
+false memories
+Several methods have been devised to investigate how
+suggestion of non-experienced details/events can impact memory.
+One of the most studied ones is the misinformation paradigm
+(Loftus, 2005). Basically, this paradigm follows a three-stage
+procedure. First, participants are presented with some stimuli (e.g.,
+video of a burglary) or are involved in an interactive event (e.g., a
+science demonstration). Then, participants receive misinformation
+in the form of, for example, an eyewitness account containing
+false details (e.g., that the burglar stole jewellery while money
+was really stolen). Finally, a memory test is provided in which
+participants have to state which details they can still recollect.
+The misinformation effect refers to the finding that suggested false
+details are often reported by participants as having occurred during
+the first phase (Frenda et al., 2011).
+Another paradigm used to externally engender entire false
+autobiographical experiences is the false memory implantation
+paradigm (Loftus and Pickrell, 1995). In this paradigm, participants
+are asked to report what they can still remember about events that
+ostensibly happened to them in their childhood. The important
+manipulation is that one of the events is false (i.e., being lost
+in a mall), being fabricated by the experimenters. After multiple
+interviews, during which the researchers suggested participants had
+experienced the false event, the canonical finding is that about
+30% of participants fall prey to the suggestion and report having
+experienced such false event (Scoboria et al., 2017). Researchers
+have successfully implanted a wide array of false autobiographical
+events that share characteristics with events such as sexual abuse.
+For example, researchers have succeeded to implant painful events
+(e.g., being bitten by a dog; Porter et al., 1999), shameful events
+(e.g., swimming trousers falling offduring swimming; Otgaar et al.,
+2021), and events that allegedly occurred more than once (Calado
+et al., 2021).
+An additional way to evoke false memories is the memory
+conformity paradigm (Wright et al., 2009). This paradigm has been
+03
+frontiersin.org
+
+Otgaar et al.
+used with three variants. In the first one, pairs of participants are
+presented with stimuli (e.g., picture of a desk). Participants are
+under the impression that they are witnessing the same stimuli,
+but each participant is viewing a slightly different version of the
+stimuli. For example, one participant might see a pen on the
+desk, while the other participant is presented with a desk without
+a pen. After the encoding phase, participants have to recall the
+stimuli collaboratively. What happens here is that participants will
+(unintentionally) suggestively influence each other’s statements.
+During a final memory test, participants have to individually report
+what they can still remember concerning the stimuli.
+In the second variant, group of participants are presented with
+the stimuli and, then, they discuss such stimuli. However, some
+participants are confederates of the experimenter who provide
+misleading information as actual elements of the stimuli. Finally, in
+the last variant, participants are simply presented with information
+of what was said by co-participants. Overall, these studies found
+that participants report having seen details that were actually
+suggested/discussed by the other participants (Wright et al., 2009).
+Collectively, these paradigms largely show that external
+suggestion can lead to the production of false memories. Several
+theoretical explanations exist to explain how suggestion can foment
+false memories creation, and one of the most popular ones is the
+source monitoring framework, such that false memories due to
+external suggestion are basically source monitoring errors (e.g.,
+Lindsay and Johnson, 2000).
+Suggesting non-occurrence can lead to
+omission errors
+Apart from suggesting that an event or detail was experienced
+while it was not, the reverse can also take place. That is, one can
+suggest that something was not experienced, while it actually was.
+Studies using this variant of suggestion have shown that this can
+lead to omission errors or failures to report experienced events
+(e.g., Pezdek and Roe, 1995; Wright et al., 2001; Merckelbach et al.,
+2007; Af Hjelmsäter et al., 2008; Otgaar et al., 2010a; Azad et al.,
+2022).
+Compared with work on suggesting non-experiences, empirical
+research focusing on the suggestion of non-occurrence is quite
+limited. To study this, researchers have simply tweaked the
+usual false memory methods and focused on suggesting non-
+occurrences instead of suggesting non-experiences. For example,
+in one of the first of these studies focusing on suggesting non-
+occurrences conducted by Pezdek and Roe (1995), 4- and 10-
+year old children were touched in a specific way (e.g., hand on
+the children’s shoulder) or not touched at all. Children were
+told that a different touch, a new touch, or no touch at all
+had happened. Of relevance to the current discussion is the
+condition in which children were touched but were told that
+nothing occurred. The authors found that children were not likely
+to accept the suggestion that no touch occurred and, hence, did
+not demonstrate significant more omission errors in their memory
+reports than children who did not receive the suggestion that no
+touch occurred.
+Other studies, however, have shown that suggestion of non-
+occurrences can lead to omission errors. In two experiments,
+Wright et al. (2001) showed that post-event information suggesting
+that event was not experienced could make the memory concerning
+that event less accessible. In their experiments, participants saw
+certain stimuli (e.g., a restaurant scene depicted in slides). After
+this, they were again provided with these stimuli, but a critical
+scene (e.g., waitress taking an order) was omitted. Participants were
+instructed to use these stimuli to generate a story (Experiment 1)
+or imagine a scene (Experiment 2). During a final memory task,
+the important result was that the post-event omission led people
+not to report the critical scene in free recall and recognition. This
+effect has also been demonstrated when children were involved as
+participants (Williams et al., 2002).
+In addition, recent work has extended our prior understanding
+of the memory consequences of suggestions of non-occurrence
+by further investigating this issue in a sample of adults (Azad
+et al., 2022). In three studies, Azad et al. (2022) asked
+participants to watch a video (i.e., child kidnapping case) and
+then exposed them to suggestions of non-occurrence once
+(Studies 1 and 3) or multiple times (Studies 2 and 3). In
+a final stage, participants’ memory for the video was tested.
+Interestingly, single suggestions of non-occurrence did not make
+participants prone to omissions, but they did find that repeated
+suggestions of non-occurrence led participants to omit video-
+related information.
+The just-mentioned studies used a rather subtle manipulation
+to induce omission errors. In Otgaar et al.’s (2010a) study, younger
+(4–5-year-olds) and older children (9–10-year-olds) had to remove
+three pieces of clothing of a puppet. In one condition, it was
+suggested to the children that they actually removed two pieces
+of clothing. This was done using a verbal suggestion and false
+evidence (putting one piece on the puppet again without the child
+noticing it). The authors found that although children initially
+claimed to take offthree pieces of clothing, after the suggestion,
+a significant minority of children reported to have only removed
+two pieces of clothing (Otgaar et al., 2010a; see for similar results,
+Merckelbach et al., 2007; Af Hjelmsäter et al., 2008). Moreover, in
+a second study, Otgaar et al. (2010b) asked children to erroneously
+report that they only removed two pieces of clothing. This group
+had to complete a choice reaction time task consisting of pictures
+of different types of clothing. Their instruction was to indicate
+whether they removed these pieces of clothing or not. The primary
+result was that children made significantly more errors for removed
+pieces of clothing that they failed to report than for those they had
+not removed.
+Contrary to the formation of false memories, little attention
+has been paid to the mechanisms underpinning omission errors.
+Pezdek and Roe (1995) referred to terms such as “erasing”
+memories thereby implying that the suggested memory is gone
+or –to use a less dramatic connotation– has become inaccessible
+to retrieval processes. However, it has also been shown that at
+least for omission errors in children, erasure was not a viable
+candidate to explain the failure to report experienced events
+(Otgaar et al., 2010b). Thus, a more promising explanation
+for omission errors is that suggesting non-occurrences does
+not impact the recollection of experienced events, but the
+belief that a particular event occurred. Alternatively, omission
+errors might simply refer to failures to report remembered
+information.
+04
+frontiersin.org
+
+Otgaar et al.
+Suggestion (of non-experience and
+non-occurrence) can lead to false beliefs
+and non-believed memories
+Previous research has mainly focused on the impact of
+suggesting
+non-experiences
+and
+non-occurrences
+on
+false
+memories and omission errors. However, recent research shows
+that these suggestions can even have more subtle effects on true
+and false memories. A recent surge of experimentation has shown
+that suggestion can impact the belief that an event occurred
+rather than the recollection of an event (e.g., Mazzoni et al.,
+2010; Clark et al., 2012; Otgaar et al., 2014b; Li et al., 2020).
+Believing that an event took place and recollecting an event are
+two different concepts contributing to the phenomenology of
+remembering. Belief refers to trusting that an event occurred,
+while recollection refers to re-experiencing an event including
+vivid images concerning this event (Scoboria et al., 2004, 2014).
+For perhaps most of our memories, we are prone to believe that
+an event occurred and to have vivid recollections concerning that
+event. However, for certain events, believing and recollecting are
+detached from each other. For example, people believe that they
+were born, but have no recollection of that event. Interestingly,
+for certain experiences, people have vivid recollections of an
+event, but no longer believe in the occurrence of that particular
+event. This latter type of memory has been called non-believed
+memories (Mazzoni et al., 2010; see for a review, Otgaar et al.,
+2014b). This counterintuitive memory phenomenon has stirred an
+abundance of research as it might clarify how suggestion can shape
+memory.
+For example, it has been suggested that before a false memory
+for an event can be evoked, the event should be first considered
+plausible and then a belief that the event has occurred should
+have been formed (e.g., Mazzoni et al., 2001). This implies that
+suggesting non-experiences might also lead to false beliefs. This
+is indeed what research has been showing. For example, Scoboria
+et al. (2012)–using the false memory implantation paradigm–found
+that false suggestions increased false beliefs of a non-experienced
+event. Furthermore, Scoboria et al. (2017) performed a mega-
+analysis on false memory implantation studies and it was found
+that participants often expressed high belief in the occurrence of
+the falsely suggested event.
+However, the reverse can occur as well. That is, when suggestion
+is provided about non-occurrences, belief can be affected as well.
+An increasing body of research is showing that suggesting non-
+occurrences can lead to reductions in belief and even end up in non-
+believed memories. In two experiments, Otgaar et al. (2013) used
+the false memory implantation paradigm to induce false memories
+of a hot air balloon ride. Adults (Experiment 1) and children
+(Experiment 2) were suggestively told that they experienced a
+hot air balloon ride when they were younger during multiple
+suggestive interviews. Importantly, when they were debriefed about
+true nature of the study, they were asked whether they still believed
+in the occurrence of the false event and still had recollections
+concerning the false event. The principal finding was that a
+significant proportion of subjects (13% for adults and 15% for
+children) developed non-believed memories after debriefing. That
+is, they still had a memory of going in a hot air balloon, but no
+longer believed that the event happened. Follow-up studies have
+confirmed the suggestion that non-occurrences can lead to belief
+changes and result in non-believed memories when (1) different
+paradigms are used (e.g., Clark et al., 2012), (2) suggestion is
+provided on true and false memories (e.g., Scoboria et al., 2012;
+Mazzoni et al., 2014), and (3) children and adults are tested
+(e.g., Otgaar et al., 2017). In addition, more recently, in two
+studies, Li et al. (2020) tested whether non-believed memories can
+also be reported for bizarre events in the standard imagination
+inflation paradigm. They asked participants to perform or imagine
+both simple familiar actions and bizarre actions. After 1 day,
+participants were invited to imagine simple actions of which some
+were new actions and some were actions performed the day
+before. After a week, participants completed a memory task and,
+when some actions were (correctly or incorrectly) recognized as
+performed, they were negatively challenged (i.e., participants were
+told that the action was not performed). The authors found that
+challenging actions that participants claimed to have performed
+decreased beliefs in these actions and led to the production
+of non-believed memories both for bizarre actions and familiar
+actions.
+To recap, external influences can affect memory in different
+forms. When someone is suggestively told that an event or detail
+was experienced, while in fact this was not, a multitude of
+studies shows that such suggestions can facilitate the formation of
+false beliefs and false memories. Furthermore, when someone is
+suggestively told that a certain event did not occur while in fact
+it did, research indicates that it can lead to omission errors, belief
+reductions, and even non-believed memories. We now turn our
+attention to influences that are exerted internally and how they
+might contaminate memory performance.
+Internal influences on memory
+An increasing body of research is currently showing that
+deception is a powerful internal influence that can affect memory
+(e.g., Otgaar and Baker, 2018; Paige et al., 2022; Vo et al., 2022). Vrij
+(2008) defined lying as a “a successful or unsuccessful deliberate
+attempt, without forewarning, to create in another a belief which
+the communicator considers to be untrue” (p. 5). According to this
+definition, lying is exerted intentionally by the one exercising the
+lie. This is relevant because self-generation might lead to stronger
+memory contamination because it could be speculated that such
+self-generation makes the lie also more personally relevant (e.g.,
+Howe et al., 2013; Wang et al., 2019; but see also Pezdek et al.,
+2009). Even though lying occurs on an almost daily basis in
+everyday life (Riesthuis et al., 2022a), this behavior is legally
+relevant because it is often exerted by suspects, victims, and
+witnesses (e.g., Vrij, 2008; Otgaar and Baker, 2018; Verigin et al.,
+2019).
+Several deceptive strategies can be exercised and evidence is
+accruing that different forms of deception can lead to different
+memory effects. Otgaar and Baker (2018) argued that these
+differential memory effects might be caused by differences in
+cognitive resources that are needed to exercise certain types of lies
+(see also Battista et al., 2021a,c). In this section, we will focus on the
+memory effects of three types of lying: Fabrication, false denials,
+and feigning amnesia (see also Figure 1).
+05
+frontiersin.org
+
+Otgaar et al.
+Fabrication can lead to false memories
+(and forgetting)
+In legal contexts, fabrication is a common phenomenon. For
+example, perpetrators might willingly distort the truth or invent
+an entire story in order to mislead the police. Still witnesses and
+victims might come up with false information while answering
+police interviews, such as accusatorial interviews (Garven et al.,
+1998; Meissner et al., 2014). One of the most often-used methods to
+examine the impact of (self-generated information) fabrications on
+memory is the forced confabulation paradigm (Ackil and Zaragoza,
+1998). In the first study using this paradigm, children and adults
+viewed a clip from a movie. After viewing the movie, participants
+were instructed to answer some questions concerning the movie. In
+the forced confabulation group, participants were told to provide
+an answer to every question and guess if they did not know the
+answer. By contrast, participants in the control condition only had
+to answer questions of which they were sure they knew the answer
+and were instructed not to guess. Importantly, participants were
+presented with questions about details that were presented in the
+movie, but were also presented with questions about non-presented
+details (e.g., a question about what was stolen when actually
+nothing was stolen). One week later, all participants received a
+source memory task. Specifically, they were asked whether they
+talked about certain details the week before and whether they saw
+these details in the video. The most important finding was that
+participants who were in the forced confabulation group claimed
+to have seen their own confabulations in the movie. In other words,
+forced confabulations led to the production of false memories for
+the confabulated responses.
+Subsequent research has extended this work and, for example,
+showed that forcing participants to fabricate entire events (instead
+of details) can also generate false memories (e.g., Pickel, 2004;
+Chroback and Zaragoza, 2008). For example, Chroback and
+Zaragoza (2008) had participants view a clip from a movie (i.e.,
+Looking for Miracles). Two days later, participants had to answer
+several interview questions of which some referred to false events.
+Participants were explicitly instructed to provide an answer to every
+question and guess if they did not know the answer. One week
+and 8 weeks after viewing the movie clip, participants received a
+recognition and recall test, respectively. Although false memory
+formation was limited after 1 week, after 8 weeks, participants
+claimed to have seen their own forced confabulations nearly 50%
+of the time.
+Furthermore, apart from using the forced confabulation
+paradigm, other related research has also shown that self-
+generated fabrications can lead to false memories. In fact, Pickel
+(2004) showed that participants who fabricated misinformation
+themselves started to falsely remember this misinformation as
+being true. Schreiber et al. (2001) showed that when children were
+instructed to speculate about what objects could do, after a 5–6-
+month delay, children formed false answers to what these objects
+could do. Specifically, in their study, children received atypical
+actions for common objects (e.g., throwing a knife away). One week
+later, children were asked to speculate what else these objects could
+do (e.g., “What else can could he have done with a knife?”). The
+researchers found that inviting children to speculate could lead to
+false answers of these speculations at follow-up memory tests.
+In short, lying, in the form of fabrication, can lead to
+the formation of false memories and this effect seems also
+to be not mitigated or exacerbated by other factors (e.g.,
+incentive
+to
+lie,
+cognitive
+resources,
+personality
+traits)
+as
+shown in some recent experiments (Battista et al., 2021b,c,
+2023; Riesthuis et al., 2022b; Battista et al., under review2).
+All these studies suggest that one explanation for this effect
+is that, just as false memories, fabrications can result in
+source
+monitoring
+errors
+because
+the
+fabrications
+appear
+phenomenologically
+similar
+to
+memories
+of
+experienced
+events.
+Meanwhile, there is some limited evidence demonstrating that
+fabrication can also engender forgetting effects as well. For example,
+Pickel (2004) not only showed that self-generated misinformation
+was misremembered but that it also led participants to remember
+less about the target stimulus. A similar finding was observed by
+Riesthuis et al. (2022b) who found that creating a false alibi not
+only generated false memories but also resulted in omission errors.
+A possible interpretation for why fabrication led to forgetting is
+because the act of fabrication prevented participants to rehearse
+the experienced stimuli. This lack of rehearsal might have led to
+the forgetting of details concerning the event (see also Pickel, 2004;
+Riesthuis et al., 2022b).
+False denials can lead to forgetting and
+false memories
+A simpler deceptive strategy than fabrication is falsely denying
+that an experienced event unfolded. There is a vast literature
+showing that offenders of violent crimes (e.g., homicide, sexual
+abuse) oftentimes falsely deny that they committed a criminal act
+(e.g., Henning et al., 2005; Watson et al., 2016). Furthermore,
+false denials have been mentioned as one of several strategies that
+victims use to cope with sexually abusive experiences (Romeo et al.,
+2018; Ahern et al., 2019; Bücken et al., 2022c). A fundamental
+question here is whether the act of false denials might have memory
+impairing effects.
+Research is amassing revealing that false denials can lead
+to omission errors. In the first study on this issue, Vieira and
+Lane (2013) instructed participants to study pictures of different
+objects (e.g., teacup). After this, participants received studied and
+unstudied objects and had to tell the truth or deny seeing these
+objects. The consequence was that for certain objects, they falsely
+denied studying these objects. Following this, participants were
+presented with a source memory test. Of relevance for the current
+discussion was the finding that participants forgot having falsely
+denied certain objects.
+Otgaar et al. (2014a) found similar memory effects of false
+denials. In their experiment, they adapted the forced confabulation
+paradigm and added a false denial condition. Specifically, in
+their experiments, children (6–8- and 10–12-year-olds) and adults
+viewed a video and then received a memory test about details of
+that video. After this, participants were invited to lie (i.e., falsely
+deny or fabricate) or tell the truth about what seen in the video.
+Of importance for the current discussion are the false denial and
+2
+Battista, F., Otgaar, H., Riesthuis, P., and Mangiulli, I. (under review). Lying
+on misleading information: False confirmation leads to fabricated memories.
+06
+frontiersin.org
+
+Otgaar et al.
+control conditions. After the memory test, participants in the
+false denial condition had to falsely deny seeing certain details
+while control participants had to tell the truth. One week later,
+participants received a source memory test in which they were
+asked whether they talked about certain details and whether they
+saw certain details in the video. The most interesting finding was
+that participants in the false denial forgot they had talked about
+certain details which in fact they did. This memory impairing effect
+of false denials has been dubbed denial-induced forgetting (Otgaar
+et al., 2016b).
+After this first demonstration, the denial-induced forgetting
+effect has been observed using various stimuli like pictures (Otgaar
+et al., 2016b), virtual reality (Romeo et al., 2019) or daily life actions
+(Li et al., 2022a,b), and memory tasks (i.e., recognition and recall)
+(Otgaar et al., 2018). Taken together, false denials have been shown
+to lead to omission errors and especially omissions errors for details
+that were discussed rather than to the forgetting of the event.
+Although some studies have found that false denials - in
+specific circumstances–might undermine our memory for the
+event, this work is limited. For instance, Battista et al. (2020) asked
+participants to repeatedly deny certain details while denying other
+details only once. They demonstrated that when details were denied
+four times, correct recall levels were lower than when details were
+denied once. Still, a detrimental effect of false denials on memory
+for the original event was also found by Romeo et al. (2019) in a
+study in which they tested the mnemonic impact of falsely denying
+emotional events. Similarly, another recent study (Battista et al.,
+2021a) found that when the false denials strategy requires a high
+involvement of cognitive resources to be employed, it can also result
+in a forgetting effect for the event (but see also Li and Liu, 2021).
+Recent experimentation has shifted attention to the question
+whether false denials might also affect false memory production.
+The reasoning here was as follows. If false denials lead to omission
+errors then, based on theories such as FTT and AAT, such omission
+errors should affect the risk of false memory production. AAT
+would, for example, predict that when omission errors occur,
+activation will spread less to neighboring nodes thereby reducing
+the production of false memories (Howe et al., 2009). Evidence for
+this was found by Otgaar et al. (2020). They showed participants
+lists containing associatively-related words (e.g., tears, sorrow,
+grief) linked to a non-presented theme word (i.e., cry). After the
+encoding phase, half of the participants had to falsely deny seeing
+these words, while the other half had to tell the truth. During a
+final memory task, participants who had to deny created fewer false
+memories than truth-tellers (Experiment 1).
+Recently, Bücken et al. (2022a,b), however, demonstrated that
+false denials can increase people’s willingness to go along with
+false information. In one of their studies (Bücken et al., 2022b),
+participants viewed a video of a car crash and following this,
+half of them falsely denied that certain details were in the video
+while others had to tell the truth. After 1-week participants
+received misinformation concerning what happened during the
+interview and the car crash. False denials increased susceptibility
+to misinformation concerning the interview.
+Scholars suggested that a lack of rehearsal might be a possible
+mechanism to explain the mnemonic consequences of false denials
+(Otgaar and Baker, 2018). Nevertheless, there are some recent
+indications that inhibition could be the mechanism underpinning
+the denial-induced forgetting effect and, occasionally, a forgetting
+of the event (Otgaar et al., 2020). The rationale here is that
+during the act of denial, retrieval of the-to-remembered event is
+temporarily inhibited leading to forgetting effects.
+Feigning amnesia can lead to forgetting
+and false memories
+A deceptive strategy that is also oftentimes used by offenders of
+violent crimes is pretending to suffer from memory loss for such
+event (e.g., Cima et al., 2002; Pyszora et al., 2003; Jelicic, 2018).
+Offenders claim amnesia for several reasons such as obstructing
+police investigations and interfering with legal proceedings (Tysse,
+2005; Tysse and Hafemeister, 2006). In general, prevalence data
+show that about 30% of offenders who have committed violent
+crimes claim memory loss (see for a review, Mangiulli et al., 2021).
+Like other deceptive strategies such as fabrication and false denials,
+feigning amnesia has been shown to exert memory undermining
+effects.
+Specifically, an increasing corpus of studies have shown that
+feigning amnesia can foster omission errors (e.g., Christianson
+and Bylin, 1999; Bylin and Christianson, 2002; Van Oorsouw and
+Merckelbach, 2004; Sun et al., 2009; Mangiulli et al., 2018a,b,
+2019a,b). In the first study of this kind (Christianson and Bylin,
+1999), participants were presented with a description of a crime
+and had to imagine being the offender of that particular crime.
+During a memory test, one group was instructed to feign memory
+loss for the crime while another group had to report the same
+event truthfully. One week later, all participants had to respond
+truthfully during a final memory test. The central finding was that
+those participants who feigned amnesia remembered fewer details
+(i.e., omissions) than truthful responders. Since then, research has
+replicated this effect using different stimuli (e.g., Van Oorsouw
+and Merckelbach, 2004; Sun et al., 2009; Mangiulli et al., 2018a,b).
+The memory undermining effect of feigning amnesia has been
+mostly attributed to a lack of rehearsal (but see for an alternative
+explanation, Mangiulli et al., 2019b). Indeed, studies that included
+a third group that was only tested after a delay showed that
+those feigning amnesia and participants in this delayed control
+did not statistically differ from each other in terms of memory
+performance. The reason for this is because both groups were less
+likely to rehearse the stimuli than the honest control group (Bylin
+and Christianson, 2002; Van Oorsouw and Merckelbach, 2004).
+Apart from the finding that feigning amnesia can lead to
+omission errors, studies have also revealed that it can engender
+false memory creation. The explanation behind this is that feigning
+amnesia does not involve a single concrete deceptive strategy
+(see Mangiulli et al., 2020, 2021). That is, people who choose
+to feign amnesia can do so by just claiming memory loss (“I
+do not remember”), but also by adding fictitious details to their
+amnesic claim (“I cannot remember because I was somewhere else
+during the crime”). Interestingly, research in which participants
+were specifically instructed not to just deny the experience (and
+thus potentially fabricate details) demonstrated that they had
+elevated levels of false memories (Van Oorsouw and Giesbrecht,
+2008). Recent research has shown that those feigning amnesia
+who decided to omit information were the ones with the lowest
+memory performance while those who also added false details in
+their feigned account for a crime reported the highest amount of
+commission errors (Mangiulli et al., 2019b, 2020).
+07
+frontiersin.org
+
+Otgaar et al.
+However, when Mangiulli et al. (2020) examined whether
+feigning amnesia would also increase the risk of reporting
+misinformation, no evidence was observed. Thus, although the
+act of simulating amnesia can lead to errors of omission and
+commission, it does not seem to increase people’s susceptibility to
+external pressure.
+Lying can lead to changes in belief
+Lying not only leads to false memories and omission errors,
+but there is some research showing that it can also affect the
+belief that an event took place (Polage, 2004, 2012, 2019; Romeo
+et al., 2018). For example, Polage (2004) asked participants to
+rate the likelihood that certain events happened to them before
+the age of ten. Approximately 2 weeks later, participants had to
+falsely claim to an experimenter that they experienced an event
+that they previously rated as unlikely to have happened them. One
+week later, participants had to truthfully rate the same events and
+indicate how likely it was that these events happened to them
+before the age of ten. In general, participants rated the events as
+less likely to have occurred to them after lying about them: An
+effect called fabrication deflation. However, what was also found
+was that a small subset of participants (10–16% in two studies)
+were more likely to claim that the events happened to them after
+lying about them, which Polage (2012) referred to as fabrication
+inflation effect. Interestingly, individual differences might play a
+role in this fabrication inflation effect as there is some preliminary
+evidence showing that high levels of dissociative experience might
+be positively related to the fabrication inflation effect (Polage,
+2012).
+So, it seems that fabrication might lead to increases in the belief
+that a non-experienced event occurred (but see also Riesthuis et al.,
+2020). Recent research has also focused on whether false denials
+might lead to decreases in the belief that an event occurred. Otgaar
+et al. (2016b) examined the denial-induced forgetting effect and
+compared a group that had to falsely deny that certain details
+were experienced and a group that was falsely suggested by an
+experimenter that certain details were not experienced. Decreases
+in belief were not found for the false denial group. However, Polage
+(2019) used a similar methodology in her fabrication inflation work
+and included a false denial condition and she did find that false
+denials led to decreases in the belief that events were experienced.
+Furthermore, Romeo et al. (2018) showed that feigning amnesia
+led to decreases in belief as well as recently Li et al. (2022b) found
+that when people mix different type of lies (i.e., false denial and
+fabrication) their beliefs for the occurrence of event-related details
+can decrease.
+Taken together, the work on internal influences and memory,
+and more specifically the work on the impact of lying on memory,
+has shown that lying has differential effects on memory. Fabrication
+has been shown to lead to increases in belief in the occurrence of the
+self-generated information and false memories, while false denials
+have primarily been found to lead to omission errors. In addition,
+depending on which specific strategy is used, feigning amnesia has
+been found to lead to belief changes, omission errors, and false
+memories (see also Figure 1).
+Future perspectives
+Despite one being other-generated and the other self-generated,
+it is evident throughout this review that external and internal
+influences oftentimes exert similar effects on memory. For example,
+as displayed above, suggesting false experiences as well as self-
+generating false information (and feigning amnesia) can lead to
+false memories. Moreover, suggesting non-occurrence and falsely
+denying or feigning amnesia for experienced event can both lead
+FIGURE 1
+Schematic overview on how internal and external influences affect memory. In the figure, it can be seen that there are different internal and external
+influences and that they both can lead to changes in memory and belief. Please note that dotted lines indicate that only some studies detected a
+relationship between the specific factor and memory outcome.
+08
+frontiersin.org
+
+Otgaar et al.
+to forgetting. Finally, it appears that both types of influences can
+impact the belief in the truth value of an experienced event.
+Having established the effects of both external and internal
+influences on memory, a timely question arises. This question–
+which
+likely
+could
+orient
+future
+research
+paths–concerns
+examining whether these effects are (partially) driven by a
+common mechanism. We propose that one such a mechanism
+could be cognitive dissonance (i.e., a displeasing psychological
+state caused by a mismatch between two or more elements in a
+cognitive structure; Festinger, 1957, 1962). That is, dissonance
+is thought to play an essential role in whether belief is reduced
+or not when suggestion is provided about non-occurrences
+(Scoboria et al., 2014). According to the model postulated by
+Scoboria and Henkel (2020), when someone is suggestively told
+that their memory is incorrect, dissonance arises. Such dissonance
+can be at an interpersonal or intrapersonal level. Concerning
+interpersonal dissonance, the idea is that people would evaluate
+the costs and benefits of (dis)agreeing with the suggestion. If
+people agree with the suggestion, a reduction in belief might take
+place. On an intrapersonal level, instead, people would evaluate
+the suggestion with their own memory (e.g., if the suggestion
+pertains to a memory which is vague). Here too, if the suggestion
+is accepted, it is likely that belief in the occurrence of an event will
+be undermined. Evidence of this possibility comes also from recent
+studies investigating a possible relationship between non-believed
+memories and memory distrust (i.e., people’s distrust toward
+their own memories) (Zhang et al., 2022a,b). These studies found
+support for a positive association between memory distrust and
+non-believed memories such that memory distrust was assumed
+to be a reason why people reduce beliefs in the occurrence of
+events. In addition, the idea that cognitive dissonance can play a
+crucial role in how internal and external influences can affect our
+memory comes from work–albeit limited–showing that dissonance
+is also related to the production of false memories and lying (e.g.,
+Merckelbach and Merten, 2012; Rodriguez and Strange, 2015).
+For example, Rodriguez and Strange (2014) had participants make
+an easy or difficult choice between two smartphones. Following
+this, participants were instructed to remember their decision
+experience. Participants receiving the difficult choice experienced
+cognitive dissonance and were more likely to misremember their
+initial decisions than participants receiving the easy choice.
+Cognitive dissonance might also be related to when people
+lie and then come forward with the truth. That is, some lies
+(e.g., false denials) might be displeasing if they are exercised
+under pressure and hence, create a mismatch with a memory
+for an experienced event. Therefore, based on the proposition
+that cognitive dissonance is assumed to play a role in in how
+external and internal influences affect memory, several specific
+future research enterprises and predictions can be postulated.
+For example, if dissonance plays a role in how false denials
+lead to omission errors, then the following might be expected:
+Omission errors would be more likely to occur when, for example,
+the memory of the experienced event is weak because of high
+intrapersonal dissonance. The reason is because when dissonance
+takes place, people will simply try to resolve it. So, people would
+only agree to the false denial of the event if the denial does not
+conflict too much with their own experience. This means that when
+people have difficulties in remembering an event, the act of false
+denials will more likely be accepted, hence leading to omission
+errors. A possible way to empirically test this idea in future studies
+is by having participants experience an event and then assigning
+some of them to a group that has to immediately deny experiencing
+the event, while others have to falsely deny experiencing the event
+a week later (i.e., delayed group). The prediction would be that the
+latter group will have a weaker memory performance for the event
+than the other one, making it more susceptible to intrapersonal
+dissonance. This, in turn, would lead the false denials to robust
+memory undermining effects.
+Beyond the idea of testing a possible effect of dissonance,
+there are also other routes that might be fruitful to explore. For
+example, one interesting avenue is to examine when external or
+internal influences affect memory and/or belief. Based on earlier
+models and research (e.g., Mazzoni et al., 2001; Scoboria et al.,
+2004, 2014), the idea is that people first form a belief that an
+event happened and after that a recollection of an event is created.
+This work has also shown that beliefs are more malleable than
+recollections (e.g., Otgaar et al., 2014b). A critical question for
+future experimentations is to investigate whether manipulating the
+levels of the impact of external/internal influences can divergently
+affect beliefs and recollections. That is, there might be some
+forms of dose-response relationship in that weaker forms of
+external/internal influences (e.g., subtle external suggestion using
+misinformation in an eyewitness testimony) are more likely to
+affect belief, while stronger forms of external/internal influences
+(e.g., a policeman providing harsh suggestive interviewing tactics)
+are more likely to target recollection.
+One might also wonder whether the observed effects of lying on
+memory are perhaps due to fact that participants were “instructed”
+to lie, while in real life settings, witnesses, victims, and suspects
+frequently choose to lie. An imperative question is to empirically
+test the proposition that “instructed” lies have different effects on
+memory than “voluntary” lies. Although limited, recent research
+has examined whether the volitional act of lying has different
+effects on people’s memory than when they are instructed to
+lie. Interestingly, these studies observed that similar memory
+undermining effects are detected when participants can freely
+choose to deceive, thereby suggesting that the act of lie is the
+determining factor in the observed memory effects (Dianiska and
+Meissner, 2022; Li et al., 2022a; Riesthuis et al., 2022d). Of course,
+future research could increase the knowledge base in this area and
+attempt to replicate these recent studies.
+Another important avenue for research could be investigating
+what are the memory consequences caused by the interplay of
+different influences. Indeed, in the current review, we have focused
+on how lying and external suggestions can taint memory and
+result in forgetting and false memories. However, it is important
+to be cognizant of the fact that such memory failures can also
+arise because these influences might well work in tandem (e.g.,
+Mangiulli et al., 2020; Bücken et al., 2022a,b; see text footnote 2).
+The investigation of such interactions might result into a more all-
+encompassing understanding on how different types of influences
+impact memory.
+Legal implications
+Wrongful convictions can be caused by memory failures. For
+example, suggestive therapeutic sessions can lead to false memories
+09
+frontiersin.org
+
+Otgaar et al.
+of sexual abuse leading to false accusations and miscarriages
+of justice (Howe et al., 2018; Otgaar et al., 2019b). Also, data
+from the American Innocence Project has revealed that about
+70% of wrongful convictions were the result of eyewitness
+misidentification (Innocence Project, 2020; see also Wells and
+Olson, 2003; Saks and Koehler, 2005). Such misidentifications,
+which may lead innocent people to be imprisoned, are memory
+failures and they have received a wealth of empirical attention
+within the psychological and legal realm. Importantly, such false
+positives are sometimes regarded as more serious than false
+negatives (acquitting a guilty person), an adage also known as the
+Blackstone ratio (Blackstone, 1765; see also de Keijser et al., 2014).
+However, likely because of sentiments as the Blackstone ratio,
+other memory impairments (e.g., forgetting) perhaps did not
+receive so much attention as the former. However, omission errors
+and not believing that a certain event took place can have egregious
+consequences in police investigations and legal cases. For example,
+when witnesses are unable to remember how a certain criminal
+experience exactly unfolded, it might become difficult for the
+police to find a suspect, wasting unnecessary resources. Also, if a
+victim of abuse expresses low belief that the abusive event truly
+happened, an accusation might not be taken seriously and would
+hinder fact-finding in a criminal investigation. But also suggesting
+non-experiences to victims, witnesses, and suspects might lead to
+misidentifications and false confessions (e.g., Zajac and Henderson,
+2009; Frenda et al., 2011; Scherr et al., 2020), such as when the
+perpetrators silence their victims claiming that nothing happened
+(e.g., Shepp et al., 2019).
+Interestingly, we have additionally shown that memory failures
+such as forgetting and false memories can not only be prompted
+by external influences, but can also be initiated by means of
+internal influences. What we have shown is that false denials (and
+feigning amnesia too) can result into forgetting and decreases
+in belief, while fabrication (and as well as feigning amnesia in
+certain circumstances) can boost false beliefs and false memory
+formation. Collectively, this work has demonstrated that lying can
+exert similar effects on memory as external influences. However,
+from a practical perspective, research on how lying affects memory
+is still limited (see also Battista and Otgaar, 2022). The issue of lying
+has often been examined, but this examination is predominantly
+in the context of deception detection (e.g., Granhag et al., 2015).
+Although research in the area of deception detection sometimes
+uses principles of memory (e.g., recognition) to detect concealed
+knowledge (e.g., Verschuere et al., 2011), the work described here
+ascribes causal effects of lying on memory, clearly demonstrating
+that the act of lying can have deteriorating effects on memory. This
+pattern of results can be relevant for different professionals working
+in the legal arena. For example, memory researchers working
+as expert witnesses are often asked to estimate the reliability of
+testimonies of witnesses, victims, and suspects (Otgaar et al., 2017).
+What such expert witnesses basically do is to evaluate whether
+statements might have been affected by, for example, suggestive
+interviewing techniques. However, so far, the impact of internal
+influences on testimonial accuracy is not clear yet. To give a case
+example, it is common that victims of sexual abuse falsely deny
+being abused and only after a certain period of time come forward
+with the truth (Magnusson et al., 2017). Memory experts who are
+asked to evaluate the reliability of this victim’s statement might
+now also note that false denials can have detrimental effects on
+memory too. Similarly, legal professionals (e.g., police officers), who
+know that fabrication can result into false memories, would dismiss
+the use of coercive and accusatorial interrogations that make the
+interviewee more likely to come up with false information for the
+forgotten crime-related details (Garven et al., 1998).
+On a related note, one issue that has to be at the foreground
+concerning the legal implications of the reviewed work is to what
+extent effects observed in experiments on external and internal
+influences on memory are meaningful and practically relevant.
+That is, although the reviewed literature shows that these influences
+can negatively impact memory, a basic but forthright question is
+whether these findings have any practical meaning. So, experiments
+conducted in this area should establish certain effect sizes and the
+question is whether such effect sizes bear any relevance in actual
+legal cases. This question can only be answered if, as a field, we
+agree to some extent on which effect sizes are of relevance in
+practical settings. In other words, the problem is understanding
+to what extent the achieved results of psychological studies are
+sufficiently informative and can bring a significant contribution for
+legal professionals’ practice (Riesthuis et al., 2022c). Specifically,
+this question is related to what the smallest effect size is of interest
+in these memory experiments (see Lakens et al., 2018). That
+is, we recently argued that memory experiments should contain
+elements that can generate effects of interest for the (legal) field
+(see Otgaar et al., 2022b). If we consider what the smallest effect
+size is of interest for research on external and internal influences
+on memory, our argument is that even when such influences
+(e.g., false denial, suggestion non-experiences) lead to increases
+or decreases of only one (falsely) remembered detail, this might
+be of high value to the legal field. This is vital because even
+one remembered (or forgotten) detail can be determining, for
+instance, in the reconstruction of the crime (see also Mangiulli
+et al., 2021; Riesthuis et al., 2022b). Taken together, establishing
+which effects are of interest concerning the impact of external and
+internal influences on memory might lead to stronger experiments
+to demonstrate such effects. This might also reveal whether internal
+or external influences evince larger effects on memory and which
+one might be more practically relevant. Hence, we believe that if
+memory researchers are planning new studies and want to conduct
+an a priori power analysis, they should estimate which effect size
+is needed to establish an effect of interest. If the field agrees that
+effect sizes such as the one explained above (i.e., increase/decrease
+one remembered/forgotten detail) are of practical interest, stronger
+memory experiments can be built.
+Concluding remarks
+In what way can memory be shaped? In the present review,
+we have demonstrated that external and internal influences can
+exert similar effects on memory. Specifically, we showed that
+forgetting and false memories can arise when people are exposed to
+suggestion of non-occurrences and non-experiences, respectively.
+Similarly, such forgetting and false memories can also be produced
+when people falsely deny, feign amnesia for, and fabricate events.
+Furthermore, we have demonstrated that these influences can
+also lead to amplifications and reductions in the belief that
+an event occurred. We speculated that focusing on whether
+cognitive dissonance might be a centerpiece mechanism will likely
+10
+frontiersin.org
+
+Otgaar et al.
+engender novel research on how internal and external influences
+can shape memory.
+Author contributions
+HO conceived the project and wrote the manuscript. MH, IM,
+and FB wrote the manuscript and critically revised it. All authors
+contributed to the article and approved the submitted version.
+Funding
+The current manuscript has been supported by a C1
+(Application number: C14/19/013) and FWO Research Project
+grant (Application number: G0D3621N; Research Foundation—
+Flanders, Belgium) awarded to HO.
+Conflict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or financial relationships that could be
+construed as a potential conflict of interest.
+Publisher’s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their affiliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+References
+Ackil, J. K., and Zaragoza, M. S. (1998). Memorial consequences of forced
+confabulation: Age differences in susceptibility to false memories. Dev. Psychol. 34,
+1358–1372. doi: 10.1037/0012-1649.34.6.1358
+Af Hjelmsäter, E. R., Granhag, P. A., Strömwall, L. A., and Memon, A. (2008). The
+effects of social influence on children’s memory reports: The omission and commission
+error asymmetry. Scand. J. Psychol. 49, 507–513. doi: 10.1111/j.1467-9450.2008.00679.
+x
+Ahern, E. C., Hershkowitz, I., Lamb, M. E., Blasbalg, U., and Karni-Visel, Y. (2019).
+Examining reluctance and emotional support in forensic interviews with child victims
+of substantiated physical abuse. Appl. Dev. Sci. 23, 227–238. doi: 10.1080/10888691.
+2017.1387057
+Anderson, M. C., Bjork, R. A., and Bjork, E. L. (1994). Remembering can cause
+forgetting: Retrieval dynamics in long-term memory. J. Exp. Psychol. Learn. Mem.
+Cogn. 20, 1063–1087.
+Anderson, M. C., and Green, C. (2001). Suppressing unwanted memories by
+executive control. Nature 410, 366–369. doi: 10.1038/35066572
+Azad, T., Lindsay, D. S., and Zaragoza, M. S. (2022). Can suggestions of non-
+occurrence lead to claims that witnessed events did not happen? J. Gen. Psychol. 149,
+349–370. doi: 10.1080/00221309.2020.1860889
+Battista, F., Curci, A., Mangiulli, I., and Otgaar, H. (2021a). What can we remember
+after complex denials? The impact of different false denials on memory. Psychol. Crime
+Law 27, 914–931. doi: 10.1080/1068316X.2020.1865956
+Battista, F., Mangiulli, I., Riesthuis, P., Curci, A., and Otgaar, H. (2021c). Do liars
+really remember what they lied upon? The impact of fabrication on memory. Memory
+29, 1076–1090. doi: 10.1080/09658211.2021.1960380
+Battista, F., Otgaar, H., Mangiulli, I., and Curci, A. (2021b). The role of executive
+functions in the effects of lying on memory. Acta Psychol. 215:103295. doi: 10.1016/j.
+actpsy.2021.103295
+Battista, F., Lanciano, T., Curci, A., Mirandola, C., and Otgaar, H. (2023). I lie
+because I am good at: Psychopathic traits do not influence the effects of fabrication
+on memory. J. Cogn. Psychol. doi: 10.1080/20445911.2023.2245603
+Battista, F., Mangiulli, I., Herter, H., Curci, A., and Otgaar, H. (2020). The effects
+of repeated denials and fabrication on memory. J. Cogn. Psychol. 32, 369–381. doi:
+10.1080/20445911.2020.1767626
+Battista, F., and Otgaar, H. (2022). Research on the effects of lying on memory:
+A scientometric analysis and a call for new studies. Front. Psychol. 13:837265. doi:
+10.3389/fpsyg.2022.837265
+Bell, D. E., and Loftus, E. F. (1988). Degree of detail of eyewitness testimony and
+mock juror judgments. J. Appl. Soc. Psychol. 18, 1171–1192. doi: 10.1111/j.1559-1816.
+1988.tb01200.x
+Bergström, Z. M., Velmans, M., de Fockert, J., and Richardson-Klavehn, A. (2007).
+ERP evidence for successful voluntary avoidance of conscious recollection. Brain Res.
+1151, 119–133.
+Bjork, E. L., and Bjork, R. A. (1996). Continuing influences of to-be-forgotten
+information. Conscious. Cogn. 5, 176–196. doi: 10.1006/ccog.1996.0011
+Bjork, R. A. (1989). “Retrieval inhibition as an adaptive mechanism in human
+memory,” in Varieties of memory and consciousness: Essays in honor of Endel Tulving,
+eds H. L. Roediger and F. I. M. Craik (Hillsdale, NJ: Erlbaum), 309–330.
+Blackstone, W. (1765). Commentaries on the Laws of England. Oxford: Clarendon
+Press.
+Brainerd, C. J., Reyna, V. F., and Ceci, S. J. (2008). Developmental reversals in false
+memory: A review of data and theory. Psychol. Bull. 134, 343–382. doi: 10.1037/0033-
+2909.134.3.343
+Bücken, C. A., Otgaar, H., London, K., Riesthuis, P., Battista, F., and Mangiulli,
+I. (2022c). ‘Nothing happened’: Legal implications of false denials among abused
+children. Child Abuse Rev. 32, e2791. doi: 10.1002/car.2791
+Bücken, C. A., Mangiulli, I., and Otgaar, H. (2022a). Simulating denial increases
+false memory rates for abuse unrelated information. Behav. Sci. Law 40, 433–451.
+doi: 10.1002/bsl.2566
+Bücken, C. A., Mangiulli, I., Uzun, S., and Otgaar, H. (2022b). False denials increase
+false memories for trauma-related discussions. Memory 30, 1158–1171. doi: 10.1080/
+09658211.2022.2094964
+Bylin, S., and Christianson, S. Å (2002). Characteristics of malingered amnesia:
+Consequences of withholding vs. distorting information on later memory of a crime
+event. Legal Criminol. Psychol. 7, 45–61. doi: 10.1348/135532502168379
+Calado, B., Luke, T. J., Connolly, D. A., Landström, S., and Otgaar, H. (2021).
+Implanting false autobiographical memories for repeated events. Memory 29, 1320–
+1341. doi: 10.1080/09658211.2021.1981944
+Christianson, S. A., and Bylin, S. (1999). Does simulating amnesia mediate genuine
+forgetting for a crime event? Appl. Cogn. Psychol. 13, 495–511. doi: 10.1002/(SICI)
+1099-0720(199912)13:6<495::AID-ACP615>3.0.CO;2-0
+Chroback, Q. M., and Zaragoza, M. S. (2008). Inventing stories: Forcing witnesses to
+fabricate entire fictitious events leads to freely reported false memories. Psychon. Bull.
+Rev. 15, 1190–1195. doi: 10.3758/PBR.15.6.1190
+Cima, M., Merckelbach, H. L. G. J., Nijman, H., Knauer, E., and Hollnack, S. (2002).
+I can’t remember your honor: Offenders who claim amnesia. German J. Psychiatry 5,
+24–34.
+Clark, A., Nash, R. A., Fincham, G., and Mazzoni, G. (2012). Creating non-believed
+memories for recent autobiographical events. PLoS One 7:32998. doi: 10.1371/journal.
+pone.0032998
+Conway, M. A., Harries, K., Noyes, J., Racsma’ny, M., and Frankish, C. R.
+(2000).
+The
+disruption
+and
+dissolution
+of
+directed
+forgetting:
+Inhibitory
+control of memory. J. Memory Lang. 43, 409–430. doi: 10.1006/jmla.2000.
+2706
+Curci, A., Lanciano, T., Curtotti, D., and Sartori, G. (2020). Lessons for the
+courtroom from the study of Flashbulb memory: An integrative review. Memory 28,
+441–449. doi: 10.1080/09658211.2020.1727522
+de Keijser, J. W., de Lange, E. G., and van Wilsem, J. A. (2014). Wrongful convictions
+and the Blackstone ratio: An empirical analysis of public attitudes. Punish. Soc. 16,
+32–49. doi: 10.1177/1462474513504800
+11
+frontiersin.org
+
+Otgaar et al.
+Dianiska, R. E., and Meissner, C. A. (2022). The effect of lying on memory and
+metamemory when deception is repeated and volitional. J. Appl. Res. Mem. Cogn. 12,
+128–140. doi: 10.1037/mac0000036
+Ernberg, E., Magnussen, M., Landström, S., and Tidefors, I. (2018). Court
+evaluations of young children’s testimony in child sexual abuse cases. Legal Criminol.
+Psychol. 23, 176–191. doi: 10.1111/lcrp.12124
+Fawcett, J. M., and Hulbert, J. C. (2019). The many faces of forgetting. Toward a
+constructive view of forgetting in everyday life. J. Appl. Res. Memory Cogn. 9, 1–18.
+doi: 10.1016/j.jarmac.2019.11.002
+Festinger, L. (1957). A theory of cognitive dissonance. Standford, CA: Standford
+University Press. doi: 10.1515/9781503620766
+Festinger, L. (1962). A theory of cognitive dissonance. Standford, CA: Stanford
+university press. doi: 10.1038/scientificamerican1062-93
+Fraundorf, S. H., Hourihan, K. L., Peters, R. A., and Benjamin, A. S. (2019). Aging
+and recognition memory: A meta-analysis. Psychol. Bull. 145, 339–371. doi: 10.1037/
+bul0000185
+Frenda, S. J., Nichols, R. M., and Loftus, E. F. (2011). Current issues and
+advances in misinformation research. Curr. Dir. Psychol. Sci. 20, 20–23. doi: 10.1177/
+0963721410396620
+Garven, S., Wood, J. M., Malpass, R. S., and Shaw, J. S. (1998). More than suggestion:
+The effect of interviewing techniques from the McMartin preschool case. J. Appl.
+Psychol. 83, 347–359. doi: 10.1037/0021-9010.83.3.347
+Granhag, P. A., Vrij, A., and Verschuere, B. (eds) (2015). Detecting deception.
+Current challenges and cognitive approaches. Chichester: Wiley. doi: 10.1002/
+9781118510001
+Henning, K., Jones, A. R., and Holdford, R. (2005). “I didn’t do it, but if I did I
+had a good reason”: Minimization, denial, and attributions of blame among male and
+female domestic violence offenders. J. Family Viol. 20, 131–139. doi: 10.1007/s10896-
+005-3647-8
+Howe, M. L. (2011). The adaptive nature of memory and its illusions. Curr. Dir.
+Psychol. Sci. 20, 312–315. doi: 10.1177/0963721411416571
+Howe, M. L., and Knott, L. M. (2015). The fallibility of memory in judicial processes:
+Lessons from the past and their modern consequences. Memory 23, 633–656. doi:
+10.1080/09658211.2015.1010709
+Howe, M. L., Knott, L. M., and Conway, M. A. (2018). Memory and Miscarriages of
+Justice. Abingdon: Routledge. doi: 10.4324/9781315752181
+Howe, M. L., Threadgold, E., Norbury, J., Garner, S., and Ball, L. J. (2013). Priming
+children’s and adults’ analogical problem solutions with true and false memories.
+J. Exp. Child Psychol. 116, 96–103. doi: 10.1016/j.jecp.2013.03.006
+Howe, M. L., Threadgold, E., Wilkinson, S., Garner, S. R., and Ball, L. J. (2017). “The
+positive side of memory illusions: New findings about how false memories facilitate
+reasoning and problem solving,” in False and distorted memories, eds R. A. Nash and J.
+Ost (Abingdon: Psychology Press), 127–140.
+Howe, M. L., Wimmer, M. C., Gagnon, N., and Plumpton, S. (2009). An associative-
+activation theory of children’s and adults’ memory illusions. J. Memory Lang. 60,
+229–251. doi: 10.1016/j.jml.2008.10.002
+Innocence Project (2020). We work to free the innocent, prevent wrongful convictions,
+and create fair, compassionate, and equitable systems of justice for everyone. New York,
+NY: Innocence Project.
+Jelicic, M. (2018). Testing claims of crime-related amnesia. Front. Psychiatry 9:617.
+doi: 10.3389/fpsyt.2018.00617
+Johnson, M. K., Hashtroudi, S., and Lindsay, D. S. (1993). Source monitoring.
+Psychol. Bull. 114, 3–28. doi: 10.1037/0033-2909.114.1.3
+Joormann, J., Hertel, P. T., Brozovich, F., and Gotlib, I. H. (2005). Remembering the
+good, forgetting the bad: Intentional forgetting of emotional material in depression. J.
+Abnorm. Psychol. 114:640.
+Lakens, D., Scheel, A. M., and Isager, P. M. (2018). Equivalence testing for
+psychological research: A tutorial. Adv. Methods Pract. Psychol. Sci. 1, 259–269. doi:
+10.1177/2515245918770963
+Li, C., Wang, J., and Otgaar, H. (2020). Creating nonbelieved memories for bizarre
+actions using an imagination inflation procedure. Appl. Cogn. Psychol. 34, 1277–1286.
+doi: 10.1002/acp.3722
+Li, Y., and Liu, Z. (2021). Involvement modulates the effects of deception on
+memory in daily life. Front. Psychol. 12:4639. doi: 10.3389/fpsyg.2021.756297
+Li, Y., Liu, Z., and Liu, X. (2022a). Who did I lie to that day? Deception impairs
+memory in daily life. Psychol. Res. 86, 1763–1773. doi: 10.1007/s00426-021-01619-x
+Li, Y., Liu, Z., and Liu, X. (2022b). More lies lead to more memory impairments in
+daily life. Front. Psychol. 13:822788. doi: 10.3389/fpsyg.2022.822788
+Lindsay, D. S., and Johnson, M. K. (2000). False memories and the source
+monitoring framework: Reply to Reyna and Lloyd (1997). Learn. Ind. Differ. 12,
+145–161. doi: 10.1016/S1041-6080(01)00035-8
+Loftus, E. F. (2005). Planting misinformation in the human mind: A 30-year
+investigation of the malleability of memory. Learn. Mem. 12, 361–366. doi: 10.1101/
+lm.94705
+Loftus, E. F., and Pickrell, J. E. (1995). The formation of false memories. Psychiatr.
+Ann. 25, 720–725. doi: 10.3928/0048-5713-19951201-07
+Macleod, C. M. (1999). The item and list methods of directed forgetting: Test
+differences and the role of demand characteristics. Psychon. Bull. Rev. 6, 123–129.
+doi: 10.3758/BF03210819
+Macleod, C. M. (2012). Directed forgetting. Encycloped. Sci. Learn. 993–995. doi:
+10.1007/978-1-4419-1428-6_1084
+Magnusson, M., Ernberg, E., and Landström, S. (2017). Preschoolers’ disclosures of
+child sexual abuse: Examining corroborated cases from Swedish courts. Child Abuse
+Neglect 70, 199–209. doi: 10.1016/j.chiabu.2017.05.018
+Mangiulli, I., Lanciano, T., Jelicic, M., van Oorsouw, K., Battista, F., and Curci, A.
+(2018a). Can implicit measures detect source information in crime-related amnesia?
+Memory 26, 1019–1029. doi: 10.1080/09658211.2018.1441421
+Mangiulli, I., Van Oorsouw, K., Curci, A., Merckelbach, H., and Jelicic, M. (2018b).
+Feigning amnesia moderately impairs memory for a mock crime video. Front. Psychol.
+6:625. doi: 10.3389/fpsyg.2018.00625
+Mangiulli, I., Lanciano, T., van Oorsouw, K., Jelicic, M., and Curci, A. (2019a).
+Do reminders of the crime reverse the memory-undermining effects of simulating
+amnesia? Memory Cogn. 47, 1375–1385. doi: 10.3758/s13421-019-00939-z
+Mangiulli, I., Van Oorsouw, K., Curci, A., and Jelicic, M. (2019b). Retrieval-induced
+forgetting in the feigning amnesia for a crime paradigm. Front. Psychol. 10:928. doi:
+10.3389/fpsyg.2019.00928
+Mangiulli, I., Otgaar, H., Curci, A., and Jelicic, M. (2020). An experimental
+investigation of the misinformation effect in crime-related amnesia claims. Appl. Cogn.
+Psychol. 34, 1092–1100. doi: 10.1002/acp.3697
+Mangiulli, I., Riesthuis, P., and Otgaar, H. (2021). The memory-undermining effect
+of simulated crime-related amnesia and its legal implications: A review. Psychol. Injury
+Law 15, 213–226. doi: 10.1007/s12207-021-09441-x
+Mazzoni, G., Clark, A., and Nash, R. A. (2014). Disowned recollections: Denying
+true experiences undermines belief in occurrence but not judgments of remembering.
+Acta Psychol. 145, 139–146. doi: 10.1016/j.actpsy.2013.11.007
+Mazzoni, G., Scoboria, A., and Harvey, L. (2010). Nonbelieved memories. Psychol.
+Sci. 21, 1334–1340. doi: 10.1177/0956797610379865
+Mazzoni, G. A., Loftus, E. F., and Kirsch, I. (2001). Changing beliefs about
+implausible autobiographical events: A little plausibility goes a long way. J. Exp.
+Psychol. 7:51. doi: 10.1037/1076-898X.7.1.51
+McGeoch, J. A. (1932). Forgetting and the law of disuse. Psychol. Rev. 39, 352–370.
+doi: 10.1037/h0069819
+McNally, R. J. (2005). Debunking myths about trauma and memory. Can. J.
+Psychiatry 50, 817–822. doi: 10.1177/070674370505001302
+Meissner, C. A., Redlich, A. D., Michael, S. W., Evans, J. R., Camilletti, C. R., Bhatt,
+S., et al. (2014). Accusatorial and information-gathering interrogation methods and
+their effects on true and false confessions: A meta-analytic review. J. Exp. Criminol. 10,
+459–486. doi: 10.1007/s11292-014-9207-6
+Merckelbach, H., and Merten, T. (2012). A note on cognitive dissonance and
+malingering. Clin. Neuropsychol. 26, 1217–1229. doi: 10.1080/13854046.2012.710252
+Merckelbach, H., Van Roermund, H., and Candel, I. (2007). Effects of collaborative
+recall: Denying true information is as powerful as suggesting misinformation. Psychol.
+Crime Law 13, 573–581. doi: 10.1080/10683160601160679
+Nørby, S. (2015). Why forget? On the adaptive value of memory loss. Perspect.
+Psychol. Sci. 10, 551–578. doi: 10.1177/1745691615596787
+Otgaar, H., and Baker, A. (2018). When lying changes memory for the truth. Memory
+26, 2–14. doi: 10.1080/09658211.2017.1340286
+Otgaar, H., Candel, I., Smeets, T., and Merckelbach, H. (2010a). ‘You didn’t take
+Lucy’s skirt off’: The effect of misleading information on omissions and commissions
+in children’s memory reports. Legal Criminol. Psychol. 15, 229–241. doi: 10.1348/
+135532509X471951
+Otgaar, H., Meijer, E. H., Giesbrecht, T., Smeets, T., Candel, I., and Merckelbach,
+H. (2010b). Children’s suggestion-induced omission errors are not caused by memory
+erasure. Conscious. Cogn. 19, 265–269. doi: 10.1016/j.concog.2009.09.015
+Otgaar, H., Curci, A., Mangiulli, I., Battista, F., Rizzotti, E., and Sartori, G. (2022a).
+A court ruled case on therapy-induced false memories. J. For. Sci. 67, 2122–2129.
+doi: 10.1111/1556-4029.15073
+Otgaar, H., Howe, M. L., and Dodier, O. (2022b). What can expert witnesses reliably
+say about memory in the courtroom? For. Sci. Int. 3:100106. doi: 10.1016/j.fsiml.2022.
+100106
+Otgaar, H., de Ruiter, C., Howe, M. L., Hoetmer, L., and van Reekum, P. (2017).
+A case concerning children’s false memories of abuse: Recommendations regarding
+expert witness work. Psychiatry Psychol. Law 24, 365–378. doi: 10.1080/13218719.2016.
+1230924
+Otgaar, H., Howe, M. L., Smeets, T., and Wang, J. (2016b). Denial-induced
+forgetting: False denials undermine memory, but external denials undermine belief.
+J. Appl. Res. Memory Cogn. 5, 168–175. doi: 10.1016/j.jarmac.2016.04.002
+Otgaar,
+H.,
+Howe,
+M.
+L.,
+Brackmann,
+N.,
+and
+Smeets,
+T.
+(2016a).
+The
+malleability
+of
+developmental
+trends
+in
+neutral
+and
+negative
+12
+frontiersin.org
+
+Otgaar et al.
+memory
+illusions.
+J.
+Exp.
+Psychol.
+145,
+31–55.
+doi:
+10.1037/xge0000
+127
+Otgaar, H., Howe, M. L., Mangiulli, I., and Bücken, C. (2020). The impact of
+false denials on forgetting and false Memory. Cognition 202:104322. doi: 10.1016/j.
+cognition.2020.104322
+Otgaar, H., Howe, M. L., Memon, A., and Wang, J. (2014a). The development of
+differential mnemonic effects of false denials and forced confabulations. Behav. Sci.
+Law 32, 718–731. doi: 10.1002/bsl.2148
+Otgaar, H., Scoboria, A., and Mazzoni, G. (2014b). On the existence and implications
+of nonbelieved memories. Curr. Dir. Psychol. Sci. 23, 349–354. doi: 10.1177/
+0963721414542102
+Otgaar, H., Howe, M. L., Patihis, L., Merckelbach, H., Lynn, S. J., Lilienfeld,
+S. O., et al. (2019b). The return of the repressed: The persistent and problematic
+claims of long-forgotten trauma. Perspect. Psychol. Sci. 14, 1072–1095. doi: 10.1177/
+1745691619862306
+Otgaar, H., Howe, M. L., Muris, P., and Merckelbach, H. (2019a). Associative
+activation as a mechanism underlying false memory formation. Clin. Psychol. Sci. 7,
+191–195. doi: 10.1177/2167702618807189
+Otgaar, H., Howe, M. L., van Beers, J., van Hoof, R., Bronzwaer, N., and Smeets, T.
+(2015). The positive ramifications of false memories using a perceptual closure task.
+J. Appl. Res. Mem. Cogn. 4, 43–50. doi: 10.1016/j.jarmac.2014.12.001
+Otgaar, H., Moldoveanu, G., Melis, V., and Howe, M. L. (2021). A new method to
+implant false autobiographical memories: Blind implantation. J. Appl. Res. Mem. Cogn.
+[Epub ahead of print]. doi: 10.1037/mac0000028
+Otgaar, H., Romeo, T., Ramakers, N., and Howe, M. L. (2018). Forgetting having
+denied: The “amnesic” consequences of denial. Memory Cogn. 46, 520–529. doi: 10.
+3758/s13421-017-0781-5
+Otgaar, H., Scoboria, A., and Smeets, T. (2013). Experimentally evoking nonbelieved
+memories for childhood events. J. Exp. Psychol. 39:717. doi: 10.1037/a0029668
+Paige, L. E., Wolf, J. M., and Gutchess, A. (2022). Evaluating heart rate variability as
+a predictor of the influence of lying on memory. Memory 30, 785–795. doi: 10.1080/
+09658211.2020.1849307
+Pezdek, K., Lam, S. T., and Sperry, K. (2009). Forced confabulation more strongly
+influences event memory if suggestions are other-generated than self-generated. Legal
+Criminol. Psychol. 14, 241–252. doi: 10.1348/135532508X344773
+Pezdek, K., and Roe, C. (1995). The effect of memory trace strength on suggestibility.
+J. Exp. Child Psychol. 60, 116–128. doi: 10.1006/jecp.1995.1034
+Pickel, K. (2004). When a lie becomes the truth: The effects of self-
+generated misinformation on eyewitness memory. Memory 12, 14–26. doi: 10.1080/
+09658210244000072
+Polage, D. C. (2004). Fabrication deflation? The mixed effects of lying on memory.
+Appl. Cogn. Psychol. 18, 455–465. doi: 10.1002/acp.995
+Polage, D. C. (2012). Fabrication inflation increases as source monitoring ability
+decreases. Acta Psychol. 139, 335–342. doi: 10.1016/j.actpsy.2011.12.007
+Polage, D. C. (2019). Liar, liar: Consistent lying decreases belief in the truth. Appl.
+Cogn. Psychol. 33, 527–536. doi: 10.1002/acp.3489
+Porter, S., Yuille, J. C., and Lehman, D. R. (1999). The nature of real, implanted, and
+fabricated memories for emotional childhood events: Implications for the recovered
+memory debate. Law Hum. Behav. 23, 517–537. doi: 10.1023/A:1022344128649
+Pyszora, N. M., Barker, A. F., and Kopelman, M. D. (2003). Amnesia for criminal
+offences: A study of life sentence prisoners. J. For. Psychiatry 14, 475–490. doi: 10.1080/
+14789940310001599785
+Rassin, E. (2022). Suggested false memories of a non-existent film: Forensically
+relevant individual differences in the crashing memories paradigm. Memory 30, 1205–
+1211. doi: 10.1080/09658211.2022.2085750
+Riesthuis, P., Otgaar, H., Battista, F., and Mangiulli, I. (2022a). Public beliefs on
+the relationship between lying and memory. Psychol. Crime Law 28, 545–568. doi:
+10.1080/1068316X.2021.1929979
+Riesthuis, P., Otgaar, H., De Cort, A., Bogaard, G., and Mangiulli, I. (2022b).
+Creating a false alibi leads to errors of commission and omission. Appl. Cogn. Psychol.
+36, 936–945. doi: 10.1002/acp.3982
+Riesthuis, P., Mangiulli, I., Broers, N., and Otgaar, H. (2022c). Expert opinions on
+the smallest effect size of interest in false memory research. Appl. Cogn. Psychol. 36,
+203–215. doi: 10.1002/acp.3911
+Riesthuis, P., Otgaar, H., Hope, L., and Mangiulli, I. (2022d). Registered report:
+The effects of incentivized lies on memory. Appl. Cogn. Psychol. 36, 1150–1161. doi:
+10.1002/acp.3986
+Riesthuis, P., Otgaar, H., Mangiulli, I., and de Tauzia, R. (2020). Adopting a fictitious
+autobiography: Fabrication inflation or deflation? Memory 28, 741–752. doi: 10.1080/
+09658211.2020.1771371
+Rodriguez, D. N., and Strange, D. (2014). Dissonance-induced false memories:
+Evidence from a free-choice paradigm. J. Cogn. Psychol. 26, 571–579. doi: 10.1080/
+20445911.2014.925459
+Rodriguez, D. N., and Strange, D. (2015). False memories for dissonance inducing
+events. Memory 23, 203–212. doi: 10.1080/09658211.2014.881501
+Romeo, T., Otgaar, H., and Landström, S. (2018). Coping with Sexual Abuse.
+Psychol. Res. Urban Soc. 1, 46–54. doi: 10.7454/proust.v1i1.11
+Romeo, T., Otgaar, H., Smeets, T., Landstrom, S., and Boerboom, D. (2019). The
+impact of lying about a traumatic virtual reality experience on memory. Memory Cogn.
+47, 485–495. doi: 10.3758/s13421-018-0885-6
+Saks, M. J., and Koehler, J. J. (2005). The coming paradigm shift in forensic
+identification science. Science 309, 892–895. doi: 10.1126/science.1111565
+Scherr, K. C., Redlich, A. D., and Kassin, S. M. (2020). Cumulative disadvantage: A
+psychological framework for understanding how innocence can lead to confession,
+wrongful conviction, and beyond. Perspect. Psychol. Sci. 15, 353–383. doi: 10.1177/
+1745691619896608
+Schreiber, N., Wentura, D., and Bilsky, W. (2001). “What else could he have done?”
+Creating false answers in child witnesses by inviting speculation. . J. Appl. Psychol. 86,
+525–532. doi: 10.1037/0021-9010.86.3.525
+Scoboria, A., and Henkel, L. (2020). Defending or relinquishing belief in occurrence
+for remembered events that are challenged: A social-cognitive model. Appl. Cogn.
+Psychol. 34, 1243–1252. doi: 10.1002/acp.3713
+Scoboria, A., Jackson, D. L., Talarico, J., Hanczakowski, M., Wysman, L., and
+Mazzoni, G. (2014). The role of belief in occurrence within autobiographical memory.
+J. Exp. Psychol. 143:1242. doi: 10.1037/a0034110
+Scoboria, A., Mazzoni, G., Kirsch, I., and Relyea, M. (2004). Plausibility and belief in
+autobiographical memory. Appl. Cogn. Psychol. 18, 791–807. doi: 10.1002/acp.1062
+Scoboria, A., Wade, K. A., Lindsay, D. S., Azad, T., Strange, D., Ost, J., et al.
+(2017). A mega-analysis of memory reports from eight peer-reviewed false memory
+implantation studies. Memory 25, 146–163. doi: 10.1080/09658211.2016.1260747
+Scoboria, A., Wysman, L., and Otgaar, H. (2012). Credible suggestions affect false
+autobiographical beliefs. Memory 20, 429–442. doi: 10.1080/09658211.2012.677449
+Shaw, E. V., and Loftus, E. F. (2020). Punishing the crime of forgetting. J. Appl. Res.
+Mem. Cogn. 9, 24–28. doi: 10.1016/j.jarmac.2019.11.003
+Shepp, V., O’Callaghan, E., and Ullman, S. E. (2019). Interactions with offenders
+post-assault and their impacts on recovery: A qualitative study of sexual assault
+survivors and support providers. J. Aggress. Maltreat. Trauma 29, 725–747. doi: 10.
+1080/10926771.2019.1660443
+Sun, X., Punjabi, P. V., Greenberg, L. T., and Seamon, J. G. (2009). Does feigning
+amnesia impair subsequent recall? Mem. Cogn. 37, 81–89. doi: 10.3758/MC.37.1.81
+Tysse, J. E. (2005). Note: The right to an imperfect trial – Amnesia, malingering, and
+competency to stand trial. Wm. Mitchell L. Rev. 32:353.
+Tysse, J. E., and Hafemeister, T. L. (2006). Amnesia and the determination of
+competency to stand trial. Dev. Mental Health Law 25, 65–80.
+Van Oorsouw, K., and Giesbrecht, T. (2008). Minimizing culpability increases
+commission errors in a mock crime paradigm. Legal Criminol. Psychol. 13, 335–344.
+doi: 10.1348/135532507X228539
+Van Oorsouw, K., and Merckelbach, H. (2004). Feigning amnesia undermines
+memory for a mock crime. Appl. Cogn. Psychol. 18, 505–518. doi: 10.1002/acp.999
+Verigin, B. L., Meijer, E. H., Bogaard, G., and Vrij, A. (2019). Lie prevalence,
+lie characteristics and strategies of self-reported good liars. PLoS One 14:e0225566.
+doi: 10.1371/journal.pone.0225566
+Verschuere, B., Spruyt, A., Meijer, E. H., and Otgaar, H. (2011). The ease of lying.
+Cons. Cogn. 20, 908–911.
+Vieira, K. M., and Lane, S. M. (2013). How you lie affects what you remember.
+J. Appl. Res. Mem. Cogn. 2, 173–178. doi: 10.1016/j.jarmac.2013.05.005
+Vo, T. V. A., Gunderson, C. A., and Ten Brinke, L. (2022). How deception and
+believability feedback affect recall. Memory 30, 706–714. doi: 10.1080/09658211.2021.
+1883064
+Vrij, A. (2008). Detecting lies and deceit: Pitfalls and opportunities. Chichester: John
+Wiley and Sons.
+Wang, J., Otgaar, H., Howe, M. L., and Zhou, C. (2019). A self-reference false
+memory effect in the DRM paradigm: Evidence from Eastern and Western samples.
+Mem. Cogn. 47, 76–86. doi: 10.3758/s13421-018-0851-3
+Watson, S., Harkins, L., and Palmer, M. (2016). The experience of deniers on a
+community sex offender group program. J. For. Psychol. Pract. 16, 374–392. doi:
+10.1080/15228932.2016.1219219
+Wells, G. L., and Olson, E. A. (2003). Eyewitness testimony. Annu. Rev. Psychol. 54,
+277–295. doi: 10.1146/annurev.psych.54.101601.145028
+Williams, S. J., Wright, D. B., and Freeman, N. H. (2002). Inhibiting children’s
+memory of an interactive event: The effectiveness of a cover-up. Appl. Cogn. Psychol.
+16, 651–664. doi: 10.1002/acp.821
+Wixted,
+J.
+T.
+(2004).
+The
+psychology
+and
+neuroscience
+of
+forgetting.
+Annu.
+Rev.
+Psychol.
+55,
+235–269.
+doi:
+10.1146/annurev.psych.55.090902.14
+1555
+13
+frontiersin.org
+
+Otgaar et al.
+Wixted, J. T. (2005). A theory about why we forget what we once knew. Curr. Dir.
+Psychol. Sci. 14, 6–9. doi: 10.1111/j.0963-7214.2005.00324.x
+Wright, D. B., and Loftus, E. F. (1998). How misinformation alters memories. J. Exp.
+Child Psychol. 71, 155–164.
+Wright, D. B., Loftus, E. F., and Hall, M. (2001). Now you see it; now you don’t:
+Inhibiting recall and recognition of scenes. Appl. Cogn. Psychol. 15, 471–482. doi:
+10.1002/acp.719
+Wright, D. B., Memon, A., Skagerberg, E. M., and Gabbert, F. (2009). When
+eyewitnesses talk. Curr. Dir. Psychol. Sci. 18, 174–178. doi: 10.1111/j.1467-8721.2009.
+01631.x
+Zajac, R., and Henderson, N. (2009). Don’t it make my brown eyes blue: Co-
+witness misinformation about a target’s appearance can impair target-absent
+line-up
+performance.
+Memory
+17,
+266–278.
+doi:
+10.1080/0965821080262
+3950
+Zhang, Y., Battista, F., Thissen, D., Otgaar, H., Wang, J., and Jelicic, M. (2022a).
+Examining the associations between nonbelieved memories and memoryd, self-
+esteem, and rumination. Psychol. Conscious. [Epub ahead of print]. doi: 10.1037/
+cns0000344
+Zhang, Y., Otgaar, H., and Wang, J. (2022b). Memory distrust is related to memory
+errors, self-25 esteem, and personality. Appl. Cogn. Psychol. 36, 283–292. doi: 10.1002/
+acp.3917
+14
+frontiersin.org

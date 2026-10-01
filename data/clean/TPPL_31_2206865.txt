@@ -1,0 +1,2731 @@
+If you express it in the form of a negation, you can expect an effect
+similar to misinformation
+Iwona Dudeka,b
+and Romuald Polczykb
+aDoctoral School in the Social Sciences, Jagiellonian University, Cracow, Poland; bInstitute of
+Psychology, Jagiellonian University, Cracow, Poland
+The primary goal of the presented research was to investigate how processing post-event
+information affects memory of details in an event viewed on video. We used two forms of
+post-event information: classic misinformation (changing or implanting new information
+into memory) and a new form that involves a correct explicit or implicit negation of the
+existence of an object in the video. We followed the three-step procedure used in studies on
+the misinformation effect, with a final memory test that was either immediate or delayed by
+a week and consisted in indicating which objects appeared in the video. We replicated the
+misinformation effect. More importantly, in the delayed test condition, both explicitly and
+implicitly negated objects were falsely recalled more often than unmentioned objects. These
+results indicate that it is possible to induce negation-related false memories; they also show
+that memory is impaired by negated post-event information or misleading post-event
+information.
+Key words: explicit negation; eyewitness memory; false memory; implicit negation;
+memory distortion; misinformation effect; negation memory; negation-related false
+memories; post-event information; witness testimony.
+Article History: Received 18 October 2022; Accepted 28 March 2023
+Introduction
+‘Saw the burglar up close and personal - no
+balaclava in sight! Hope my eyewitness
+account
+can
+help
+catch
+the
+culprit.
+#NoBalaclava
+#CaughtInTheAct.’
+Imagine
+that you are the person who yesterday wit-
+nessed a burglary and is now reading this post.
+Like the author of the tweet, you also remem-
+ber that the perpetrator was not wearing a bala-
+clava on his face. The results of our study
+show that if you were interviewed later and
+asked if the perpetrator was wearing a bala-
+clava, you would be less likely to answer cor-
+rectly than an eyewitness who had not read
+about the balaclava: ‘No, he was not.’ Our
+results suggests that both explicitly and impli-
+citly negating the presence of an object produ-
+ces an effect similar to the misinformation
+effect.
+Intensive research on memory distortions
+has been conducted since the 1970s, since
+when it has been shown that exposure to mis-
+information can have a considerable influence
+on
+our
+thoughts,
+memories
+and
+actions.
+Greenspan and Loftus (2021) pointed out that
+media coverage abounds with a lot of misin-
+formation about a given disease and its effects
+during global pandemics such as COVID-19.
+Supplemental data for this article can be accessed online at https://doi.org/10.1080/13218719.2023.
+2206865.
+Correspondence: Iwona Dudek, Instytut Psychologii UJ, ul. Ingardena 6, 30-060 Cracow, Poland.
+E-mail: iwona.dudek@doctoral.uj.edu.pl
+© 2023 The Australian and New Zealand Association of Psychiatry, Psychology and Law
+Psychiatry, Psychology and Law, 2024
+Vol. 31, No. 4, 638–658, https://dx.doi.org/10.1080/13218719.2023.2206865
+
+The term ‘infodemic’, which refers to a media
+environment with abundant reliable and unreli-
+able
+information,
+has
+even
+been
+coined
+(Greenspan & Loftus, 2021, see also World
+Health Organisation, WHO, 2020). As a con-
+sequence, retractions and corrections of the
+information that reaches people have become
+commonplace.
+Knowledge
+needs
+to
+be
+updated, but correcting misinformation is
+challenging
+(M.
+S.
+Chan
+et
+al.,
+2017;
+Lewandowsky et al., 2012), though not impos-
+sible (Walter & Tukachinsky, 2020). It has
+also been shown that false news on social
+media reaches more people and spreads faster
+than
+the
+truth
+(Vosoughi
+et
+al.,
+2018).
+Unfortunately, research shows that when faced
+with an imminent threat (in this case, an elec-
+tric shock), people’s ability to label negated
+associations as false is impaired, while memo-
+ries
+of
+‘true’
+associations
+remain
+intact
+(Newman et al., 2021).
+Crucial aspects affected by misinforma-
+tion and its denial or correction are part of the
+field of forensic psychology and, in particular,
+eyewitness testimony. Because of the recon-
+structive nature of memory (Bartlett, 1932),
+eyewitness testimony is susceptible to various
+types of distortion, which can occur during a
+criminal trial. Like physical evidence, such as
+fingerprints on a smartphone, bloodstains on a
+carpet or e-mails secured on the offender’s
+computer, eyewitness memory traces can be
+contaminated, lost or even fabricated (Wells
+& Loftus, 2003).
+This legal context of memory malleability
+is within the area of interest of cognitive psy-
+chologists such as Elizabeth Loftus. In the pro-
+cedure developed by her research team (Loftus
+et al., 1978), participants first viewed slides
+depicting a crime or accident, then were pre-
+sented with information about the event pep-
+pered with misinformation, and finally their
+memory of the original event was tested. The
+results of their studies show that exposing peo-
+ple to misinformation can have a negative
+effect on their memory of past material.
+This
+phenomenon
+is
+referred
+to
+as
+the
+misinformation effect (Loftus, 2005). The
+results of dozens of subsequent studies con-
+firm that information that eyewitnesses are
+exposed to after an event or during a trial can
+distort their memory (see, e.g. Loftus, 2005,
+for a summary). These memory distortions can
+include both fine details of events (e.g. Dalton
+& Daneman, 2006; Heath & Erickson, 1998;
+Takarangi et al., 2006) and entire false events
+(e.g. Chrobak & Zaragoza, 2008; Lindsay
+et al., 2004; Pickrell et al., 2016; Wade et al.,
+2002). In the legal context, this means that
+suggestive questioning or suggestive lineup
+procedures can lead to false testimony by eye-
+witnesses. For example, recollections of events
+that never occurred may be confused with rec-
+ollections of actual events (see Wells &
+Loftus, 2003).
+Nonetheless, eyewitness testimony has
+been considered one of the most persuasive
+types of evidence in criminal trials. (e.g.
+Benton et al., 2006). The severity of the prob-
+lem is illustrated by the startling data from the
+Innocence Project (2023). They show that a
+total of 375 wrongful convictions have been
+overturned by DNA testing in the United
+States since 1989. In nearly 69% of these
+cases, witness misidentification was identified
+as a contributing factor to the wrongful convic-
+tion, making it the leading cause of innocent
+convictions.
+Negation
+The results of previous research that was con-
+ducted in a wide range of research paradigms
+using a variety of experimental tasks have
+shown that negation processing is typically
+difficult,
+time-consuming
+and
+resource-
+demanding
+(e.g.
+Deutsch
+et
+al.,
+2006;
+Dudschig et al., 2019; Ferguson et al., 2008;
+Grant et al., 2004; Just & Carpenter, 1976;
+Kaup et al., 2006; Wason, 1959, but see also
+Nieuwland & Kuperberg, 2008; for review see
+Kaup & Dudschig, 2020). What is more, it is
+also not always effective and sometimes pro-
+duces the opposite effect than intended (e.g.
+639
+
+Maciuszek, 2013; Wegner et al., 1998). The
+harmful effects of negation are perfectly illus-
+trated by the results of research on the ‘white
+bear effect’. In this experiment, participants
+who actively tried not to think about a white
+bear were haunted by exactly this image
+(Wegner et al., 1987). However, negation
+processing appears to not only use (or fall
+back on) the cognitive control mechanisms
+that are typically reported during action control
+(de Vega et al., 2016; Dudschig & Kaup,
+2018; Wirth et al., 2019).
+The examples are research on the backfire
+effect, in which correction of misinformation
+inadvertently increases belief in the misinfor-
+mation compared to the pre- correction or no-
+correction baseline (Swire-Thompson et al.,
+2020). There are two types of backfire effects:
+the worldview backfire effect and the familiar-
+ity backfire effect, both of which appear to be
+based on different psychological mechanisms.
+The worldview backfire effect occurs when a
+correction challenges a person’s belief system
+(Cook & Lewandowsky, 2012), and the famil-
+iarity backfire effect occurs when misinforma-
+tion is repeated as part of a correction
+(Schwarz et al., 2007). This correction, in
+which misinformation is repeated to invalidate
+it, can increase the familiarity of the informa-
+tion, and thus unintentionally increase belief in
+the claim (Prike et al., 2023). Recent meta-
+analyses suggest that the backfire effect occurs
+rather rarely and, if so, only under specific
+conditions
+(Ecker
+et
+al.,
+2022;
+Swire-
+Thompson et al., 2020, 2022). For example,
+Autry and Duarte (2021) found that when par-
+ticipants were not initially exposed to novel
+misinformation and were then exposed to a
+correction, it had an adverse effect, resulting in
+even greater reliance on the misinformation
+than if they were not exposed to either the mis-
+information or the correction. Autry and
+Duarte (2021) explain this familiarity backfire
+effect by arguing that the negation effect is
+context-dependent–that is, if the presuppos-
+ition being denied is known or can be easily
+processed, the negation is licensed and may
+produce the negation effect. Remarkably,
+Autry and Duarte (2021) found a significant
+backfire effect only in their first experiment;
+moreover, Prike et al. (2023) failed to replicate
+this effect in their three experiments.
+Negation-related false memories
+Other general cognitive mechanisms utilized
+in non-linguistic cognition involved in neg-
+ation processing is memory (e.g. Deutsch
+et al., 2006; Fiedler et al., 1996; Mayo et al.,
+2004, 2014). A fairly new trend in negation
+research was initiated by Maciuszek and col-
+leagues (Maciuszek et al., 2019a, 2019b;
+Maciuszek & Polczyk, 2017), focusing on the
+discovery of the paradoxical effect of negation.
+This effect, called negation-related false mem-
+ories (NRFM), consists in a false memory that
+the negated object was actually present or that
+the negated behavior actually occurred.
+Researchers initially focused on the effect
+of explicit negation, which is constituted in
+English by words such as no, not, never,
+nobody and affixes such as unhappy, as well
+as explicitly negative quantifiers such as
+scarcely, hardly, few, seldom, little, only
+(Clark, 1980). In a series of three experiments,
+Maciuszek and Polczyk (2017) demonstrated
+and replicated the NRFM effect. In their study,
+the participants were familiarized with a
+description of a house (or activities performed
+by a car driver) in which some items (or activ-
+ities) were mentioned, some were explicitly
+negated, and some were not mentioned (i.e.
+they did not appear in the description and
+served as control items in the memory test).
+The negation was contained in the sentences
+that comprised the description played back to
+the participants–for example, ‘There is a living
+room in the house, but there is no porch’. The
+final memory test occurred either 5 min after
+the presentation of the description or 1 week
+later. The test asked participants to mark for
+each item whether it was ‘Present’ (i.e. listed
+in the recording as being present in the home)
+or ‘Not present’ in the home. In the 5-min
+delay condition, there were no statistically
+640
+
+significant differences in recognition between
+negated and unmentioned items. In contrast, in
+the 1-week delay condition, participants recog-
+nized negated items as present more frequently
+than unmentioned items (they committed more
+false recognitions). This pattern of results was
+repeated in all three experiments. Furthermore,
+in the second and the third experiments, the
+difference in the number of false recognitions
+of negated items did not differ significantly
+from the number of correct recognitions of
+items indicated as present in the description.
+Subsequent studies (Maciuszek et al.,
+2019a) compared the effect of explicit and
+implicit negation. The latter is constituted by
+pragmatic inferences and includes expressions
+like forget, fail, doubt, deny (Xiang et al.,
+2016). Similarly, to the previous study, partici-
+pants listened to a recording in which some
+objects were mentioned as present, some were
+mentioned as absent, and some were not men-
+tioned at all. In one study condition, the
+absence of objects was expressed using expli-
+cit negation, while in the second condition it
+was expressed using implicit negation. The
+memory test took place either 5 min or 1 week
+after participants heard the recording of the
+house description. The results indicate that
+explicit and implicit negation led to almost
+identical
+false
+recall
+of
+negated
+items.
+However, items not mentioned in the record-
+ing (i.e. controls– namely, items that were nei-
+ther mentioned nor negated in the recording)
+were more often recognized as present by par-
+ticipants exposed to implicit negation than by
+those
+exposed
+to
+explicit
+negation.
+The
+researchers indicated that the mechanism that
+was possibly responsible for the false recall of
+negated
+items
+could
+be
+that
+participants
+remember the item itself but forget the context
+in which it was present (an affirmative or
+negative utterance), hence items would be
+recalled as present only because they were
+mentioned.
+The latest research on NRFM compared
+the memory effects of implicit negation and
+explicit
+negation
+and
+tested
+whether
+processing
+the
+former
+type
+of
+negation
+requires more cognitive effort (Maciuszek
+et al., 2019b). Three experiments were con-
+ducted using the same methodology as that in
+the authors’ previous study (Maciuszek &
+Polczyk, 2017; Maciuszek et al., 2019a) – that
+is, by presenting to the participants source
+material consisting of a recorded description
+of a house in which the existence of certain
+objects was negated explicitly or implicitly
+(depending on the group) or was not men-
+tioned; then the number of false alarms com-
+mitted by the participants in the memory test
+was compared. In the first experiment, how-
+ever,
+participants
+independently
+read
+the
+source material at their own pace, which was
+measured. No differences were demonstrated
+between explicit and implicit negation in the
+number of false alarms for negated and
+unmentioned items, answer time or time spent
+reading the description. In the next two experi-
+ments, the researchers manipulated the time
+spent reading the source material (in the
+second experiment, the exposure time was
+fixed, unlike in the first experiment, where
+participants read the description at their own
+pace) or the information about the upcoming
+memory test (in the third experiment, partici-
+pants were warned about the test, unlike in the
+other studies). The results of these three stud-
+ies
+were
+summarized
+as
+indicating
+that
+‘implicit and explicit negation have very simi-
+lar
+if
+not
+identical
+effects
+on
+memory’
+(Maciuszek et al., 2019b, p. 301), and both
+need comparable cognitive effort because they
+require a similar amount of processing time.
+In addition to the paradigm described
+above, in order to investigate whether a state-
+ment in the original material that negates the
+existence of an object (or action) can increase
+false memories of that object (or action), there
+are other strands of research investigating the
+effect of negation on memory. In the context
+of the present experiment, the strand identified
+as ‘the effect on memory of correct denying’
+is important (see Maciuszek & Polczyk,
+2017). It examines the effect on participants’
+641
+
+memory of their negation of the existence of
+certain objects or object properties in a subse-
+quent memory test. The sequence of the study
+was as follows: participants were exposed to
+original material (e.g. a video showing the
+interior of the house) in which there was no
+negation; they then answered questions about
+the existence of certain objects (Fiedler et al.,
+1996) or object features (Mayo et al., 2014).
+Correctly answering some of the questions
+required the participant to negate the existence
+of an object or object feature. For example, in
+a study by Fiedler et al. (1996), participants
+were asked whether there was a teddy bear in
+the living room (which there really was not);
+in a study by Mayo et al. (2014), participants
+in one condition were asked whether a sculp-
+ture in a glass case was blue, and in the second
+condition they were asked whether it was red
+(it actually was red). In the study by Fiedler
+et al. (1996), study participants correctly
+negated the presence of objects that were not
+present; in Mayo et al.’s study, participants
+correctly answered ‘no’ or ‘yes’, respectively.
+This was followed by a final memory test in
+which participants were asked whether some
+items were in the original material. Fiedler
+et al. (1996) revealed that although participants
+correctly negated the presence of absent
+objects in the first memory test, they failed to
+do so in the second memory test. For example,
+correctly negating the presence of a teddy bear
+in the living room in the first memory test
+resulted in participants incorrectly indicating
+the presence of a teddy bear in the second,
+final memory test. In a series of four experi-
+ments performed by Mayo et al. (2014), it was
+found that correct negation of a feature of an
+object led to greater memory loss for that
+object than correct affirmation of that feature.
+That is, participants showed greater memory
+loss regarding the sculpture in the display case
+when they were in the ‘no’ condition than
+when they were in the ‘yes’ condition.
+Interestingly, the rate of memory loss in the
+negation condition was still greater than for
+items
+not
+followed
+by
+a
+question.
+In
+conclusion, repetition in the form of a question
+increased recall, but the increase was smaller
+in the ‘no’ response condition.
+The study conducted by Mayo et al.
+(2014) fits into research on the misinformation
+effect. They investigated whether information
+received after the event impairs an existing
+memory. On the surface, the research para-
+digms of Mayo et al. (2014) and Fiedler et al.
+(1996) were similar, but the research results
+produced seemingly contradictory findings.
+The study by Fiedler et al. (1996) shows that
+negation of a non-existent object can lead to
+false memory of that object. Simply put, they
+demonstrated that when propositions are proc-
+essed in the form of ‘no-XYZ’, participants
+are prone to losing the ‘no’ and remembering
+the ‘XYZ’. The researchers explain this by
+suggesting that thinking about an object and
+negating it during the first memory test leads
+to the creation of a transient representation of
+that object, which is activated during the final
+memory test and results in false memories.
+However, in the Mayo et al. (2014) study, the
+negation of an attribute of a present object
+might make participants forget the object. The
+mechanism
+of
+negation-induced
+forgetting
+remains unexplored, but Mayo et al. (2014)
+speculate that it may be related to the inhibi-
+tory character of the negation process: inhib-
+ition of the negated feature appears to spread
+to the object to which the feature is attributed.
+That is, during the first memory test, the par-
+ticipants presuppose the negated feature and
+thus generate a transient memory representa-
+tion of the object with the incorrect feature;
+they then correctly negate it, which leads to
+the object representation being inhibited and
+its presence being forgotten (Mayo et al.,
+2014).
+Overview of the present study
+Using the classic three-step procedure for
+investigating the misinformation effect (Loftus
+et al., 1978), the aim of our study was to repli-
+cate the NRFM effect and compare its magni-
+tude with that of the misinformation effect.
+642
+
+As in previous NRFM studies (Maciuszek
+et al., 2019a, 2019b), we concentrated on
+explicit and implicit negation ‘as a function of
+informing the absence of objects and, more
+specifically, in the context of memory recogni-
+tion
+of
+implicitly
+and
+explicitly
+negated
+objects.’ (Maciuszek et al., 2019b, p. 294). In
+our study, explicit negation means that we
+informed about the absence of an object by
+means of a sentence in which the expression
+‘not’ or ‘no’ occurred (see examples in the
+Materials section). In a forensic context, con-
+sider a description of the crime scene, which
+people become familiar with – for example,
+when reading a newspaper and are later inter-
+rogated. The description of the same situation
+can be expressed by explicit or implicit neg-
+ation: The case was difficult to unravel. There
+were no witnesses at the crime scene. The per-
+petrator left no fingerprints. There were no
+traces of the victim’s blood (explicit negation).
+or All witnesses were absent. If the perpetrator
+had left fingerprints or if traces of the victim’s
+blood had been found, the case would have
+been easier to unravel (implicit negation).
+A secondary goal of the study was to
+examine whether the typicality of details mod-
+erated the effect of post-event information pre-
+sented in the form of explicit, implicit and
+misinformation on recognition. We considered
+that the typicality of details in post-event infor-
+mation is a factor that has important implica-
+tions
+for
+the
+psychology
+of
+eyewitness
+testimony. As mentioned earlier, eyewitnesses
+are exposed to different information from dif-
+ferent sources. On the one hand, if the post-
+event information contains atypical details,
+this may increase the likelihood of memory
+distortion because atypical details are better
+remembered than typical ones (this is called
+the ‘typicality effect,’ e.g. Davidson, 1994).
+This could lead to the atypical details being
+included in the memory of the original event.
+On the other hand, in research on the NRFM
+(Maciuszek & Polczyk, 2017, Exp. 1), the typ-
+icality effect occurred only for not-mentioned
+items. In the case of mentioned and negated
+items, the differences between typical and
+non-typical
+items
+were
+not
+significant.
+However, Maciuszek and Polczyk’s (2017)
+research design consisted of two phases: famil-
+iarization with the source material and a recog-
+nition test. It also included one type of
+negation (explicit negation). Thus, our goal
+was to investigate the role of typicality in a
+three-stage paradigm in which post-event
+information takes the form of two types of
+negations and misinformation.
+Our study was therefore part of a narrow
+line of research investigating whether post-
+event information (PEI) can affect memory
+accessibility (Ayers & Reder, 1998; Wright
+et al., 2001). Post-event information has so far
+taken the following forms (for a detailed
+description, see Mayo et al., 2014; Wright
+et al., 2001): (a) changing one piece of infor-
+mation to another (e.g. in the original material
+someone is playing a guitar, and in the post-
+event material someone is playing a piano;
+Loftus et al., 1978); (b) implanting information
+into memory (e.g. the original material does
+not show a guitarist, but a guitarist appears in
+the post-event material, e.g. Loftus & Pickrell,
+1995); (c) omitting in the PEI the information
+shown in the original material (e.g. a person
+playing a guitar appears in the original mater-
+ial but is not mentioned in the post-event
+material, e.g. Loehr & Marche, 2006); (d) the
+post-event material consists of questions about
+items or item features from the original mater-
+ial (Mayo et al., 2014). A correct answer to a
+question requires a ‘no’ answer (for example,
+the original material shows an acoustic guitar,
+and the question is whether the guitar was
+electric). In our study, we tested whether PEI
+influences memory in the first and second
+ways, and we proposed testing yet another
+form of PEI influence– namely, providing in
+the form of negation true information that was
+not mentioned at all in the original material.
+Referring to the example with the guitarist and
+the guitar, in our experiment there would be
+no guitarist in the original material, and PEI
+would say that ‘There was no guitarist’
+643
+
+(explicit negation) or ‘If only there were a gui-
+tarist’ (implicit negation).
+Our study is similar to the original NRFM
+study in the sense that it also tests whether a
+statement that negates the existence of an
+object can increase false memories of that
+object. However, it differs from the original
+NRFM study in that the statement is included
+in the post-event material. Like Maciuszek
+(Maciuszek & Polczyk, 2017; Maciuszek
+et al., 2019a, 2019b), as material we used a
+coherent story that contained negation. Unlike
+the methodology of the studies by Mayo et al.
+(2014) and Fiedler et al. (1996), where partici-
+pants generated negation on their own, in our
+study the negation was administered to partici-
+pants in PEI.
+Hypotheses
+In the present research, the following hypothe-
+ses were formulated:
+Hypothesis 1: The misinformation effect will
+be replicated: the number of ‘Present’ answers
+for misleading items (i.e. those mentioned in
+PEI but not present in the original material),
+will be significantly higher than that for
+unmentioned (control) items. The occurrence
+of the misinformation effect has already been
+confirmed so many times (see Loftus, 2005)
+that it is even sometimes referred to as one of
+the most important discoveries of psychology
+(Zaragoza et al., 2007).
+Hypothesis 2: After a 1-week interval, both
+explicit and implicit negation will result in
+false recall of negated details as being present
+in
+the
+original
+material:
+the
+number
+of
+‘Present’ responses in the 1-week delay condi-
+tion will be higher for explicitly negated
+(Hypothesis
+2a)
+and
+implicitly
+negated
+(Hypothesis 2b) objects than for unmentioned
+(control) items.
+The assumption that a time delay is needed
+for the NRFM effect to manifest itself requires
+a comment. In all the NRFM studies to date,
+the effect in the immediate recall condition
+was non-significant but was revealed in the
+delayed memory test condition (Maciuszek &
+Polczyk, 2017; Maciuszek et al., 2019a,
+2019b). This is probably because the memory
+of negated items during the immediate mem-
+ory test is still strong, thus there is not yet
+room for NRFM effects. It is indicated that the
+integration of negation during comprehension
+is usually delayed and requires more attention
+(Kaup & Dudschig, 2020). Increased attention
+during PEI familiarization may lead to better
+recall of PEI and fewer errors in the immediate
+memory test. This beneficial effect of attention
+does not occur in the delayed memory test
+condition, thus resulting in the NRFM effect.
+Since explicit and implicit negation appear to
+have the same effect on memory (Maciuszek
+et al., 2019a, 2019b), we assume that the
+NRFM effect will also manifest itself after a
+time delay in the case of implicit negation.
+Hypothesis 3: Both the NRFM and the misin-
+formation effect will be stronger for typical
+details than for atypical details because of the
+tendency to fill memory gaps with items that
+conform to schemas and scripts and are there-
+fore typical. Schemas can enhance memory
+formation (Alba & Hasher, 1983; Stangor &
+McMillan, 1992) and help in understanding
+and retrieving information. People use sche-
+mas to compensate for lost, uncoded or miss-
+ing information (Luna & Seco, 2008). The
+information extracted from schemas tends to
+be typical information – that is, information
+that frequently appears in similar situations
+(e.g. Brewer & Treyens, 1981; Garcıa-Bajos
+& Migueles, 2003). Previous research has
+demonstrated that, on the one hand, during
+recollection there are more hits for typical
+information if it is true for the given situation
+(i.e. the content of the schema corresponds to
+reality); on the other hand, there are also more
+false alarms for highly typical information if it
+is false for the given situation (the content of
+the schema does not correspond to the actual
+situation; Bower et al., 1979; Brewer &
+Treyens, 1981; Garcıa-Bajos & Migueles,
+2003; Lampinen et al., 2001; Nakamura et al.,
+644
+
+1985). The relationship between the typicality
+of details and the misinformation effect has
+been studied by, for example, Holst & Pezdek
+(1992); Luna &
+Seco (2008); Smith &
+Studebaker (1996, Exp. 1). The results of these
+studies indicate that the misinformation effect
+is greater for details with high typicality than
+for details with low typicality (Luna & Seco,
+2008; Smith & Studebaker, 1996, Exp. 1). For
+example, in the Luna and Seco (2008) study,
+participants incorporated more high-typicality
+information into memory than low-typicality
+information, regardless of whether it was true
+or false (in other words, for high-typicality
+details, there were more of both hits and false
+alarms). Their study used implanted and
+altered PEI; the results indicate that there were
+no differences between altered and added
+details in terms of the number of false alarms
+(Luna & Seco, 2008).
+Exposure to post-event information leads
+to the inclusion of elements in memories that
+were not present in the original event (Lindsay
+& Johnson, 1989; Loftus et al., 1978). In the
+context of misleading PEI (changing or adding
+elements), this is explained in such a way that
+exposure to PEI leads to a more liberal
+response criterion based on a sense of familiar-
+ity and, consequently, acceptance of the misin-
+formation (Hekkanen & McEvoy, 2002; Luna
+& Migueles, 2009). The effects of negating
+PEI have not yet been studied, but we predict
+that participants in this case will also produce
+more false alarms for typical details (explicitly
+or implicitly negated) than for atypical details
+because they will remember the detail but not
+the context in which it occurred (explicit or
+implicit negation). This can lead to the same
+effect as presenting PEI in the form of misin-
+formation: an increased tendency to respond
+‘present’ for typical items.
+In conclusion, compared to atypical items
+of each of these types, we hypothesize that
+there will be more false alarms for typical
+items: misleading (Hypothesis 3a), negated
+explicitly (Hypothesis 3b), negated implicitly
+(Hypothesis
+3c),
+but
+also
+unmentioned
+(control) (Hypothesis 3d). Since details with
+high typicality are part of the schema (Bartlett,
+1932), when presented in a recognition mem-
+ory test, participants will be able to retrieve
+them from memory, either because they will
+recall that memory or because they will extract
+them from the schema. Similarly, as in other
+studies, we assume that participants will tend
+to respond that they had seen typical objects
+before (Martın-Luengo et al., 2013).
+Method
+Prior to data collection, a positive opinion
+from the Jagiellonian University Institute of
+Psychology Research Ethics Committee in
+Cracow, Poland was obtained as written con-
+sent for participation from all persons in the
+study.
+Participants
+Two hundred participants recruited through
+social media advertisements took part in the
+study and were paid 25 PLN net for their par-
+ticipation. Data from 159 people (64.2%
+women)
+aged
+18–72 years
+(M 1⁄4 26.45,
+SD 1⁄4 10.31) were included in the analysis.
+Data from 41 participants were excluded on
+the basis of post-experimental interviews,
+because these subjects had previously partici-
+pated in memory distortion studies or guessed
+hypotheses.
+Materials
+‘1’ Original material: A silent video clip
+depicting the theft of a laptop, lasting
+1 min 32 s (a detailed description of the
+clip
+is
+included
+in
+Supplementary
+materials).
+‘2’ Post-event material: A story (193
+words) describing the content of the
+original video. Eight different stories
+were prepared. Each story contained
+four misleading details, four explicitly
+negated details (information that the
+645
+
+object was not in the video, while it
+was actually not in the video), four
+implicitly
+negated
+details
+(their
+absence was mentioned in a certain
+context, and they were indeed not in
+the video). We created two versions of
+the post-event material: one contained
+rather
+typical
+objects
+(such
+as
+a
+printer, sandwich, necklace), while the
+other included rather atypical objects
+(such as a cassette, collar necklace,
+poncho). In each of the versions of the
+story, four details were not mentioned
+(used as a control in the memory test),
+explicitly negated, implicitly negated
+or misleading (see Table 1 with exam-
+ples of how misinformation and expli-
+cit
+and
+implicit
+negations
+were
+introduced).
+Full counterbalancing was used so that
+each of the items appeared in each of the
+four
+conditions: misleading,
+explicitly
+negated,
+implicitly
+negated
+and
+not
+mentioned. In sum, to assure counterbal-
+ancing there were four versions of each of
+the two conditions (typical and atypical
+items). The stories were recorded and
+played to the participants, who also fol-
+lowed the text on a computer screen.
+‘3’ Memory test: The memory test consisted
+of 20 items, 16 of which related to crit-
+ical details (four misleading, four expli-
+citly negated, four implicitly negated
+and four not mentioned), and four buffer
+details, which were actually present in
+the video. Separate memory tests were
+created for typical and atypical details.
+Depending
+on
+which
+version
+was
+assigned to a participant, a particular
+detail might have served for this partici-
+pant as misleading, explicitly negated,
+implicitly negated or a control item (not
+mentioned). The participants’ task was
+to mark whether the given item was pre-
+sent or absent in the original material–
+that is, in the video.
+Table 1.
+Examples of how misinformation and explicit and implicit negations were introduced.
+Detail
+Examples of sentences with:
+Misinformation
+Explicit negation
+Implicit negation
+Binder (typical)
+The office could use a
+printer, but there is a
+binder.
+There is a calendar in
+the office, but no
+binder.
+If there were a binder,
+the papers from the
+desk could be
+organised
+Motorcycle (typical)
+The thief turns the
+corner of the
+building, where her
+motorcycle is parked
+Her motorcycle, on
+which she can
+quickly escape, is
+not there
+If her motorcycle had
+been standing there,
+she could have
+quickly escaped
+Collar (atypical)
+The employee’s neck is
+adorned with a
+collar.
+The employee’s neck is
+not adorned with a
+collar.
+The employee has no
+ornaments around
+her neck, perhaps
+she will wear a
+collar after work
+Trolleybus (atypical)
+On the street, a
+trolleybus can be
+seen moving.
+The street is empty, not
+even a trolleybus is
+running.
+The street wouldn’t be
+so empty if a
+trolleybus were
+running.
+646
+
+Procedure
+Participants were tested individually using a
+computerized procedure. At the beginning,
+they were familiarized with the original mater-
+ial (they watched the video). Then, they solved
+the filler tasks (these were questionnaires, used
+for the purpose of another study), then they
+listened to the recorded post-event material –
+that is, one of the eight stories. The text of the
+story was displayed on their computer screen
+so that they could follow it with their eyes.
+They then continued to complete their filler
+tasks. Later, depending on the condition, they
+either were dismissed (delayed memory test
+condition) or proceeded to complete the mem-
+ory test (immediate memory test condition).
+According to the instructions, they had to indi-
+cate, on the basis of what they remembered
+from the video, whether a given object was
+present or absent in the video they had
+watched. The 20 objects were listed in alpha-
+betical order. Afterwards, they were asked
+about previous participation in psychological
+studies and their predictions about the real pur-
+pose of the study, after which they were de-
+briefed. Participants in the delayed memory
+test condition took the test a week later and
+then answered the same questions as partici-
+pants in the immediate memory test condition,
+after which they were debriefed.
+Experimental design
+A 2  2  4 design was applied, with two
+between-participants factors: delay (immediate
+vs. 1 week) and the version of the story
+(typical vs. atypical items). There was one
+within-participants factor: type of information
+(misleading vs. explicitly negated vs. impli-
+citly negated vs. not mentioned). The depend-
+ent variable was the number of ‘Present’
+answers in the memory test; for each of the
+four types of information, the possible range
+of answers was from 0 to 4. For all four types
+of information, the ‘Present’ response was
+incorrect (representing a false alarm).
+Power analysis
+The experimental design used in the present
+research included two between-subjects factors
+(with two levels each), one repeated-measures
+factor (four levels) and interactions between
+the grouping factors with the repeated meas-
+ures. The analyses were performed for small,
+medium and large effects according to conven-
+tions suggested by Cohen (1988): g2
+p 1⁄4 .01,
+.06 and .14, which correspond to Cohen f 1⁄4
+0.1, 0.25 and 0.44. The software GPower
+was used for the analyses (Faul et al., 2007).
+Assuming 80% of the required power, the
+sample sizes for the three effect sizes were
+138, 26 and 12. The final sample size used in
+the
+present
+research
+(N1⁄4 159)
+assures
+adequate power even for small effects.
+Results
+The descriptive statistics across all conditions
+are presented in Table 2 and Figure 1.
+Using the proportion of false alarms for
+the 16 critical items in the recognition test
+(four misleading, four explicitly negated, four
+implicitly negated and four not mentioned,
+serving
+as
+control)
+–
+that
+is,
+‘Present’
+responses – we performed an analysis of vari-
+ance (ANOVA): 4 (type of information: mis-
+leading, explicitly negated, implicitly negated,
+unmentioned)  2 (typicality: typical, atyp-
+ical)  2 (delay: immediate, 1 week). We for-
+mulated all of our hypotheses a priori and
+referred to specific combinations of factor lev-
+els. Consequently, we adopted the strategy of
+planned comparisons: we report the results of
+the ANOVAs for the main effects and interac-
+tions; however, when verifying particular
+hypotheses, we rely on simple effects as these
+are best suited to a priori hypotheses (Keppel
+& Wickens, 2004; Rosenthal & Rosnow,
+1985; Rosnow & Rosenthal, 1989). In addition
+to the frequentist approach, we also used the
+Bayesian approach in our analyses, using the
+method proposed by Masson (2011). To inter-
+pret the resulting Bayes factors, we used the
+classification proposed by van Doorn et al.
+647
+
+(2021). According to this, a Bayes factor (BF)
+of less than 0.1 indicates strong evidence; a
+factor between 0.1 and 0.3 indicates moderate
+evidence for the null hypothesis (H0); a factor
+between 0.3 and 3 indicates weak/inconclusive
+evidence; a factor between 3 and 10 indicates
+moderate evidence; while a factor greater than
+10 indicates strong evidence in favour of the
+alternative hypothesis (H1; van Doorn et al.,
+2021).
+Overall, the type of information (mislead-
+ing, explicitly negated, implicitly negated and
+unmentioned)
+significantly
+influenced
+the
+number of ‘Present’ answers, F(3, 465) 1⁄4
+14.53, p < .001, g2
+p 1⁄4 .09, BF10 > 100; it was
+higher in the case of misleading items than in
+the remaining three cases.
+There were more false alarms for the mis-
+leading details (M 1⁄4 1.82) than for unmen-
+tioned (control) items (M 1⁄4 1.24), F(1, 155) 1⁄4
+27.06, p < .001, g2
+p 1⁄4 .15, BF10 > 100, indi-
+cating the detrimental effect of misleading
+post-event information on memory. This effect
+was present in both the immediate condition
+and the delayed condition: questions regarding
+misleading items in the description were more
+often answered as ‘Present’ than those regard-
+ing unmentioned items: F(1, 155) 1⁄4 13.05, p
+< .001, g2
+p 1⁄4 .08, BF10 1⁄4 49.25; F(1, 155) 1⁄4
+13.99, p < .001, g2
+p 1⁄4 .08, BF10 1⁄4 76.10,
+respectively. There was no difference between
+the number of ‘present’ responses for mislead-
+ing details between the immediate and delayed
+test conditions, F(1, 155) 1⁄4 0.14, p 1⁄4 .703,
+Table 2.
+Means and standard deviations for the ‘Present’ answers across experimental conditions.
+Delay
+Typicality
+Misleading
+M (SD)
+Explicitly negated
+M (SD)
+Implicitly negated
+M (SD)
+Control
+M (SD)
+N
+Immediate
+Typical
+2.13 (1.03)
+1.23 (0.96)
+0.85 (0.99)
+1.67 (0.96)
+39
+Atypical
+1.43 (1.26)
+0.89 (0.94)
+0.62 (0.79)
+0.70 (0.91)
+37
+Total
+1.79 (1.19)
+1.07 (0.96)
+0.74 (0.90)
+1.20 (1.05)
+76
+One week
+Typical
+1.98 (1.02)
+1.98 (1.02)
+1.91 (1.10)
+1.59 (1.11)
+44
+Atypical
+1.72 (1.12)
+1.31 (1.17)
+1.31 (1.24)
+0.92 (0.96)
+39
+Total
+1.86 (1.07)
+1.66 (1.14)
+1.63 (1.20)
+1.28 (1.09)
+83
+Total
+Typical
+2.05 (1.02)
+1.63 (1.06)
+1.41 (1.17)
+1.63 (1.03)
+83
+Atypical
+1.58 (1.19)
+1.11 (1.08)
+0.97 (1.10)
+0.82 (0.93)
+76
+Total
+1.82 (1.13)
+1.38 (1.09)
+1.20 (1.15)
+1.24 (1.06)
+159
+k
+e
+e
+w
+e
+n
+O
+etaid
+e
+m
+m
+I
+0
+0.5
+1
+1.5
+2
+2.5
+Misleading Explicitly
+negated
+Implicitly
+negated
+Control
+Means fo 'Present' answers
+Typical
+Atypical
+0
+0.5
+1
+1.5
+2
+2.5
+Misleading Explicitly
+negated
+Implicitly
+negated
+Control
+Means fo 'Present' answers
+Typical
+Atypical
+Figure 1. Mean numbers of ‘Present’ answers across experimental conditions.
+648
+
+g2
+p < .01; also, the Bayesian analysis provided
+support for no between-condition differences
+(BF10 1⁄4 0.09). Significantly more false alarms
+for misleading items than for unmentioned
+items were committed for both typical and
+atypical details: F(1, 155) 1⁄4 7.20, p 1⁄4 .008,
+g2
+p 1⁄4 .04, BF10 1⁄4 2.94 (the Bayes factor was
+rather moderate in this case); F(1, 155) 1⁄4
+21.33, p < .001, g2
+p 1⁄4 .12, BF10 > 100,
+respectively.
+Thus,
+these
+results
+support
+Hypothesis 1, which assumes the existence of
+the misinformation effect.
+The interaction between the type of infor-
+mation (misleading, explicitly negated, impli-
+citly negated and unmentioned) and delay was
+statistically significant, although the Bayesian
+analysis did not confirm it, F(3, 465) 1⁄4 6.71,
+p < .001, g2
+p 1⁄4 .04, BF10 1⁄4 0.08. The planned
+comparisons revealed that, in the immediate
+condition, the items explicitly negated in the
+description were not more often indicated as
+‘Present’ than were unmentioned items, F(1,
+155) 1⁄4 0.68, p 1⁄4 .410, g2
+p 1⁄4 .00, BF10 1⁄4
+0.11. In contrast, the items implicitly negated
+in the description were significantly less fre-
+quently indicated as ‘Present’ than unmen-
+tioned items, F(1, 155) 1⁄4 8.69, p 1⁄4 .004, g2
+p
+1⁄4 .05, BF10 1⁄4 6.06. The difference between
+‘Present’ indications for explicitly negated and
+implicitly negated items in the immediate con-
+dition was significant, F(1, 155) 1⁄4 5.16, p 1⁄4
+.024, g2
+p 1⁄4 .03, BF10 1⁄4 1.09. The explicitly
+negated items were more often (M1⁄4 1.07)
+indicated as ‘Present’ than implicitly negated
+ones (M 1⁄4 0.74). The number of ‘Present’
+indications for the unmentioned items did not
+differ significantly between the immediate and
+the 1-week delay conditions, F(1, 155) 1⁄4
+0.21, p 1⁄4 .646, g2
+p 1⁄4 .00, BF10 1⁄4 0.09.
+The hypothesized NRFM effect was pre-
+sent in the delayed condition: items that were
+both explicitly negated (M1⁄4 1.66) and impli-
+citly negated (M 1⁄4 1.63) in the description
+were more often reported as ‘Present’ than
+items
+that
+were
+not
+mentioned
+at
+all
+(M 1⁄4 1.28): F(1, 155) 1⁄4 7.25, p 1⁄4 .008, g2
+p 1⁄4
+.04, BF10 1⁄4 3.00; F(1, 155) 1⁄4 5.70, p 1⁄4 .018,
+g2
+p 1⁄4 .04, BF10 1⁄4 1.44, respectively. This
+pattern of results confirms that negated
+items tend to be remembered as present
+more often than unmentioned items, which
+supports Hypotheses 2a and 2b regarding
+the NRFM effect. From the perspective of
+frequency statistics, the results are statistic-
+ally significant and support Hypotheses 2a
+and 2b regarding the NRFM effect. From
+the perspective of Bayesian statistics, the
+results remain inconclusive. The difference
+between explicitly negated items and impli-
+citly negated items in the delayed condition
+was not significant, F(1, 155) 1⁄4 0.06, p 1⁄4
+.805, g2
+p < .01. Bayesian analysis sup-
+ported the nonexistence of a difference,
+BF10 1⁄4 0.08.
+Furthermore, in the delayed memory test
+condition, there were no statistically signifi-
+cant differences between the number of false
+alarms for misleading (that is, mentioned;
+M1⁄4 1.86) versus explicitly negated details,
+F(1, 155) 1⁄4 1.61, p 1⁄4 .206, g2
+p 1⁄4 .01, as well
+as between the number of false alarms for mis-
+leading versus implicitly negated details, F(1,
+155) 1⁄4 2.41, p 1⁄4 .123, g2
+p 1⁄4 .02. The
+Bayesian analysis revealed that the Bayes fac-
+tor for the differences between misleading and
+explicitly
+negated
+details
+remembered
+as
+‘present’ was BF10 1⁄4 0.18, which means that
+there were no differences.
+Similarly, when comparing misleading and
+implicitly negated details, the Bayesian ana-
+lysis indicated that there were no differences
+(BF10 1⁄4 0.27).
+In contrast to the significant interaction of
+delay with the type of information, the inter-
+action of type of information with typicality
+was not significant, F(3, 465) 1⁄4 1.36, p 1⁄4
+.253, g2
+p 1⁄4 .01, BF10 1⁄4 0.16. There was a sig-
+nificant main effect of typicality on the num-
+ber of ‘Present’ responses overall, F(1, 155) 1⁄4
+31.20, p < .001, g2
+p 1⁄4 .17, BF10 > 100. In
+general,
+typical
+items
+(M 1⁄4 1.67)
+were
+reported as ‘Present’ more often than atypical
+ones (M 1⁄4 1.11). For every type of informa-
+tion, there were more false alarms for typical
+649
+
+details than for their atypical counterparts.
+Thus, there were significantly more false
+alarms for misleading typical items then for
+misleading atypical items, F(1, 155) 1⁄4 7.38,
+p 1⁄4 .007, g2
+p 1⁄4 .45, BF10 1⁄4 3.16, which sup-
+ported Hypothesis 3a. More false alarms were
+noted for explicitly negated typical items than
+for explicitly negated atypical items, F(1, 155)
+1⁄4 9.56, p 1⁄4 .002, g2
+p 1⁄4 .06, BF10 1⁄4 9.09,
+which means Hypothesis 3b was supported.
+Likewise, there were more false alarms for
+implicitly negated typical items than for impli-
+citly negated atypical items, F(1, 155) 1⁄4 6.19,
+p 1⁄4 .014, g2
+p 1⁄4 .04, BF10 1⁄4 1.76, which sup-
+ported Hypothesis 3c, but the Bayes factor did
+not support it. Finally, there were also more
+false alarms for unmentioned typical items
+than for unmentioned atypical items, F(1, 155)
+1⁄4 27.01, p < .001, g2
+p 1⁄4 .15, BF10 > 100,
+which means Hypothesis 3d was confirmed.
+Taken together, Hypothesis 3 was supported,
+according to which there should be more false
+alarms
+for
+typical
+misleading,
+explicitly
+negated, implicitly negated and unmentioned
+items than for atypical items of each of these
+types.
+Finally, the three-way interaction of type
+of information, delay and typicality was not
+significant, F(3, 465) 1⁄4 1.87, p 1⁄4 .135, g2
+p 1⁄4
+.01, BF 1⁄4 2.30.
+Discussion
+The goal of this study was to examine how
+memory concerning the presence of given
+items is affected by PEI in the form of misin-
+formation or information that correctly neg-
+ates, explicitly or implicitly, some items. The
+results of our study support the widely held
+view in the literature that ‘human memory is
+not a recording device, but rather a process of
+(re)construction that is vulnerable to both
+internal and external influences’ (Van Damme
+& Smets, 2014, p. 310). There have been hun-
+dreds of studies on misinformation over the
+past 40 years, most of which have focused on
+post-event
+information
+that
+implants
+new
+memories or alters existing ones (Loftus,
+2005), thus demonstrating that suggestion is a
+powerful tool that can elicit vivid false memo-
+ries. Surprisingly little research, however, has
+addressed the question of whether negation
+can distort memories of witnessed events. To
+answer this question, in our experiment we
+applied a three-step procedure that is com-
+monly used to study the misinformation effect.
+In the first phase, participants witnessed an
+event by watching a short video. In the second
+phase, they were exposed to misleading, expli-
+citly negated and implicitly negated informa-
+tion about some critical details of the event
+(some details were also not mentioned and
+served as control items). This information was
+presented by means of a narrative. In the third
+and final phase, a recognition memory test
+about the original event was administered: par-
+ticipants were asked to indicate whether a
+given item was present in the video.
+Our first hypothesis regarding replication
+of the misinformation effect was supported.
+Regardless of time delay and the typicality of
+details, participants were more likely to indi-
+cate that misleading items were present in the
+original watched material – that is, the video –
+than unmentioned items. Like numerous previ-
+ous studies, our experiment demonstrated that
+people often remember misleading informa-
+tion from post-event information as part of the
+original witnessed event; that is, they are prone
+to incorporating external suggestions into their
+memory of the event (e.g. Belli et al., 1994;
+Calvillo et al., 2016; Loftus, 1979; Loftus
+et al., 1978; McCloskey & Zaragoza, 1985;
+Takarangi et al., 2006). According to the effect
+size classification proposed by Cohen (1969;
+see also Richardson, 2011), an effect for which
+the partial eta squared reaches a value of .1279
+is considered large. Thus, the misinformation
+effect from our study, with a value of .15, can
+be interpreted as large.
+The most important findings of the present
+experiment concern the NRFM effect. In the
+1-week
+time
+delay
+condition,
+explicitly
+negated details were more often indicated as
+650
+
+present in the original material than unmen-
+tioned details. Similarly, implicitly negated
+details were more frequently indicated as pre-
+sent in the video after 1 week than unmen-
+tioned details. It should obviously be noted
+that these results should be treated with cau-
+tion because the Bayes factor was not large.
+According to the adopted interpretation frame-
+work, this means that, in the case of explicitly
+negated details, evidence was weak at best in
+favour of the alternative hypothesis, which
+states that the number of ‘Present’ responses
+in the 1-week delay condition will be higher
+than for unmentioned items. In the case of
+implicitly negated details, the Bayes factor
+pointed to weak evidence in favour of the
+alternative hypothesis, which states that the
+number of ‘Present’ responses in the one-week
+delay condition will be higher for these objects
+than for unmentioned items.
+In line with the Bayesian analyses, there is
+strong support for the idea that implicit and
+explicit negation have analogous effects on
+memory: there were no differences between
+implicit and explicit negation as regards the
+number of false alarms. As in the study by
+Maciuszek et al. (2019b), our results also sug-
+gest that these two types of negation can result
+in the same memory quality.
+This
+result
+seems
+to
+be
+unexpected
+because most studies show that negation is
+more difficult to process, and when comparing
+explicit and implicit negation, the former is
+more difficult. One proposed explanation for
+the ‘negation effect’ assumes that the use of
+negation can lead to processing challenges,
+especially in early childhood, because of its
+negative connotation, which is strongly associ-
+ated with prohibitions (Kaup & Dudschig,
+2020). According to Kaup and Dudschig
+(2020), in the case of implicit negation, the
+negation marker responsible for unpleasant
+connotations with prohibitions is not present in
+the sentence; therefore, implicit negation leads
+to smaller negation effects than explicit neg-
+ation. This hypothesis is supported by the
+results of several studies (Eifermann, 1961,
+Jones, 1968; Wason & Jones, 1963, but see:
+Clark, 1974). This was also true for the imme-
+diate memory test condition in our study. If we
+consider the number of false alarms as an indi-
+cator of negation processing efficiency (the
+lower the number of false alarms, the better
+the negation processing), then in the immedi-
+ate condition implicit negation indeed gener-
+ates
+fewer
+errors
+than
+explicit
+negation.
+However, no such effect was observed for the
+delayed memory test condition, in which there
+was an NRFM effect. An explanation for why,
+in the delayed condition, both negations have
+the same effect on memory and on misinfor-
+mation might be that participants forget the
+context in which a particular word appeared. It
+may be that, after a week, participants remem-
+ber that the object appeared somewhere, but
+they do not remember the content of the ori-
+ginal and subsequent material well enough (or
+they confuse the two sources) to be able to cor-
+rectly reconstruct the source and context in
+which the object was mentioned. In subse-
+quent studies, it would be worthwhile to test
+the context hypothesis – for example, using a
+memory test that employs cued recall or
+reminding subjects of the context in which the
+object appeared.
+In our study, we used a set of typical and
+atypical details. As predicted, typical details
+were more often remembered as ‘present’ than
+atypical details. This relationship was signifi-
+cant for each type of detail: misleading, expli-
+citly
+negated,
+implicitly
+negated
+and
+unmentioned. This is consistent with our pre-
+diction, based on findings from previous stud-
+ies, that typical details may be more easily
+implemented into memory and that when
+memory gaps occur, the person may resort to
+schemata to fill them (e.g. Garcıa-Bajos &
+Migueles, 2003; Lampinen et al., 2001; Luna
+& Seco, 2008).
+Our results can also be considered from
+the point of view of the violation of communi-
+cation norms. The negations we used in our
+post-event
+materials
+negated
+side
+details.
+Participants may have felt that they were not
+651
+
+paying attention to the presence or absence of
+these details in the original material (because
+they were focused on the action of the video,
+for example). Denying the presence of these
+elements may be considered as unlicensed
+negation, which contradicts Grice’s (1975)
+maxims
+of
+relevance
+in
+communication.
+Therefore, they could have perceived the neg-
+ation of, for example, the presence of the mir-
+ror in the travel agency as unexpected or odd.
+As a result, participants may conclude that the
+negation of information that is irrelevant from
+their point of view has a hidden purpose,
+which makes them sceptical of the informa-
+tion, and although they may not remember
+whether the mirror was present or not, they
+begin to believe that it was. This may be espe-
+cially true for details that fit a schema, such as
+a typical office or the clothing of a motorcyc-
+list. However, in the absence of a pilot test on
+typical and atypical details, the conclusions we
+can draw in this regard are limited.
+Practical implications, limitations and
+future directions
+It is not hard to imagine that the situation
+described in the introduction really happened.
+Thus, the results of our study may have serious
+applied implications as they show the danger
+that lurks during interrogations: a witness
+exposed to PEI that implants or alters certain
+details about an event may inadvertently give
+false testimony, thus risking a potentially inno-
+cent person spending years in prison for some-
+thing they did not do. Worse yet, an honest
+witness who encounters truthful PEI that
+something was not present or that something
+did not happen may later develop false memo-
+ries about the presence of that thing or the
+occurrence of the event.
+An undeniable weakness of the study was
+that we did not conduct a pilot study to con-
+firm the selection of details considered typical
+and atypical. However, as mentioned previ-
+ously, the analyses related to the effect of typ-
+icality
+of
+details
+on
+memory
+were
+an
+additional objective of the study.
+As the typicality was manipulated as a
+between-participants design, one of the groups
+of participants had all critical statements with
+low typicality. This might have created some
+suspicions which in turn might have impacted
+the credibility of the post-event information.
+This must be regarded as a weakness of the
+present study.
+From both a theoretical and a practical
+point of view, it seems important to clarify the
+boundary conditions for the generation of the
+NRFM effect. For example, future studies
+could use materials other than the video and
+audio recording used in the current study to
+examine the influence of the nature of the ori-
+ginal material and critical items on the forma-
+tion of memory distortions. In addition, it
+would seem interesting to compare the influ-
+ence of PEI in the form of explicit and implicit
+negation against PEI in the form of questions.
+We are not thinking of questions with false
+presuppositions but about the form of senten-
+ces in PEI. For example, if an explicit negated
+PEI reads ‘There was no kitten there’, a ques-
+tion form of PEI could read ‘Was there a kit-
+ten?’. There is an experiment in which PEI in
+the form of a question eliminated the misinfor-
+mation effect, but in this study the final mem-
+ory test was preceded by a warning (Lee &
+Chen, 2013). From there, ways to prevent
+NRFM are certainly worth exploring. Several
+methods have been tested to reduce the nega-
+tive impact of misleading PEI on memory.
+These include warning (for review: Blank &
+Launay, 2014), change-detection (Bailey et al.,
+2021), Cognitive Interview (CI; e.g. Holliday
+et al., 2012), mental warm-up (Szpitalak &
+Polczyk, 2014) and reinforced self-affirmation
+(RSA; Szpitalak, 2022; Szpitalak & Polczyk,
+2013). It is possible that some of these could
+prove effective in reducing the deleterious
+effect of negation on witnesses’ memory.
+This study used a three-step procedure to
+study the misinformation effect. Its shortcom-
+ing is that it does not allow us to check
+whether, at the time of the final memory test,
+the participant had both correct pieces of
+652
+
+information (from the original material and
+PEI) in their memory, or whether they remem-
+bered only one of them, had incorrect memo-
+ries or had none at all. It was found that there
+are people who are aware of the discrepancies
+between original material and PEI but still suc-
+cumb to the misinformation effect (Blank,
+1998; Polczyk, 2017). It would therefore be
+worthwhile to design a procedure to distin-
+guish such individuals in the context of
+NRFM. This is important because techniques
+that reduce the deleterious effects of PEI on
+memory are effective mainly in these subjects
+(e.g. RSA; Szpitalak & Polczyk, 2015).
+From the perspective of eyewitness testi-
+mony practice, another aspect may also be
+important. Eyewitnesses may encounter sev-
+eral mutually contradictory pieces of informa-
+tion after an event. A new line of research on
+the influence of multiple pieces of mutually
+contradictory misinformation was opened by
+Blank’s team (Blank et al., 2022). In a series
+of three experiments, they showed the com-
+plex effect of multiple pieces of misinforma-
+tion. On one hand, becoming aware of internal
+contradictions between pieces of misinforma-
+tion reduced the effects of these contradictions
+on memory. On the other hand, in the case of
+subtle misinformation, which is more difficult
+to capture, being exposed to multiple pieces of
+misinformation increases the chances that at
+least one of them will be noticed and then
+included in memory. It would be interesting to
+examine how multiple pieces of post-event
+information in the form of correct negation
+and misinformation affect witness memory.
+The present study suggests that explicit and
+implicit negation and misinformation have
+similar effects after a 1-week interval. It would
+therefore be worthwhile to test their combined
+effects on memory, taking into account longer
+and shorter time intervals and varying the dis-
+tinctiveness of details (distinct misinformation
+is easier to detect, Polczyk, 2007).
+Another interesting development in our
+research could be to add an additional phase to
+the procedure we use: participants’ memory
+would be tested before exposing them to post-
+event material. Extensive research on the
+phenomenon
+known
+as
+retrieval-enhanced
+suggestibility (RES; e.g. J. C. Chan et al.,
+2009; 2017), suggests that witnesses may be
+more susceptible to misinformation if their
+memory for the witnessed event was tested
+before they were exposed to the misinforma-
+tion. It would be interesting to investigate
+whether, as in the case of misinformation, the
+initial testing enhances the NRFM effect.
+Ethical standards
+Declaration of conflicts of interest
+Iwona Dudek has declared no conflicts of
+interest
+Romuald Polczyk has declared no conflicts of
+interest
+Ethical approval
+All procedures performed in studies involving
+human participants were in accordance with
+the
+ethical
+standards
+of
+the
+Jagiellonian
+University Institute of Psychology Research
+Ethics Committee (opinion no. KE/35_2020)
+and with the 1964 Helsinki declaration and its
+later
+amendments
+or
+comparable
+ethical
+standards.
+Informed consent
+Informed consent was obtained from all indi-
+vidual participants included in the study
+Funding
+This study was supported by a mini-grant
+dedicated to PhD students in the School of
+Social Sciences at Jagiellonian University,
+Krakow, Poland, received by Iwona Dudek.
+ORCID
+Iwona Dudek
+http://orcid.org/0000-0002-
+6487-1214
+Romuald Polczyk
+http://orcid.org/0000-
+0002-0158-7742
+653
+
+References
+Alba, J. W., & Hasher, L. (1983). Is memory
+schematic?
+Psychological
+Bulletin,
+93(2),
+203–231.
+https://doi.org/10.1037/0033-2909.
+93.2.203
+Autry, K. S., & Duarte, S. E. (2021). Correcting
+the
+unknown:
+Negated
+corrections
+may
+increase belief in misinformation. Applied
+Cognitive
+Psychology,
+35(4),
+960–975.
+https://doi.org/10.1002/acp.3823
+Ayers, M. S., & Reder, L. M. (1998). A theoret-
+ical review of the misinformation effect:
+Predictions from an activation-based memory
+model.
+Psychonomic
+Bulletin
+&
+Review,
+5(1),
+1–21.
+https://doi.org/10.3758/BF032
+09454
+Bailey, N. A., Olaguez, A. P., Klemfuss, J. Z.,
+& Loftus, E. F. (2021). Tactics for increas-
+ing resistance to misinformation. Applied
+Cognitive
+Psychology,
+35(4),
+863–872.
+https://doi.org/10.1002/acp.3812
+Bartlett, F. A. (1932). A study in experimental and
+social
+psychology.
+Cambridge
+University
+Press.
+Belli, R. F., Lindsay, D. S., Gales, M. S., &
+McCarthy, T. T. (1994). Memory impair-
+ment and source misattribution in postevent
+misinformation experiments with short reten-
+tion intervals. Memory & Cognition, 22(1),
+40–54. https://doi.org/10.3758/BF03202760
+Benton, T. R., Ross, D. F., Bradshaw, E.,
+Thomas, W. N., & Bradshaw, G. S. (2006).
+Eyewitness memory is still not common
+sense: Comparing jurors, judges and law
+enforcement to eyewitness experts. Applied
+Cognitive
+Psychology,
+20(1),
+115–129.
+https://doi.org/10.1002/acp.1171
+Blank, H. (1998). Memory states and memory
+tasks: An integrative framework for eyewit-
+ness memory and suggestibility. Memory
+(Hove, England), 6(5), 481–529. https://doi.
+org/10.1080/741943086
+Blank, H., & Launay, C. (2014). How to protect
+eyewitness memory against the misinforma-
+tion effect: A meta-analysis of post-warning
+studies.
+Journal
+of
+Applied
+Research
+in
+Memory and Cognition, 3(2), 77–88. https://
+doi.org/10.1037/h0101798
+Blank, H., Panday, A., Edwards, R., Skopicz-
+Radkiewicz, E., Gibson, V., & Reddy, V.
+(2022). Double misinformation: Effects on
+eyewitness remembering. Journal of Applied
+Research in Memory and Cognition, 11(1),
+97–105.
+https://doi.org/10.1016/j.jarmac.2021.
+08.001
+Bower, G. H., Black, J. B., & Turner, T. J. (1979).
+Scripts
+in
+memory
+for
+text.
+Cognitive
+Psychology, 11(2), 177–220. https://doi.org/10.
+1016/0010-0285(79)90009-4
+Brewer, W. F., & Treyens, J. C. (1981). Role of
+schemata in memory for places. Cognitive
+Psychology, 13(2), 207–230. https://doi.org/
+10.1016/0010-0285(81)90008-6
+Calvillo,
+D.
+P.,
+Parong,
+J.
+A.,
+Peralta,
+B.,
+Ocampo, D., & Van Gundy, R. (2016).
+Sleep increases susceptibility to the misinfor-
+mation effect. Applied Cognitive Psychology,
+30(6),
+1061–1067.
+https://doi.org/10.1002/
+acp.3259
+Chan, J. C., Manley, K. D., & Lang, K. (2017).
+Retrieval-enhanced suggestibility: A retro-
+spective and a new investigation. Journal of
+Applied Research in Memory and Cognition,
+6(3), 213–229. https://doi.org/10.1016/j.jar-
+mac.2017.07.003
+Chan, J. C., Thomas, A. K., & Bulevich, J. B.
+(2009). Recalling a witnessed event increases
+eyewitness suggestibility: The reversed test-
+ing effect. Psychological Science, 20(1), 66–
+73. https://doi.org/10.1111/j.1467-9280.2008.
+02245.x
+Chan, M. S., Jones, C. R., Hall Jamieson, K., &
+Albarracın, D. (2017). Debunking: A meta-
+analysis of the psychological efficacy of
+messages
+countering
+misinformation.
+Psychological Science, 28(11), 1531–1546.
+https://doi.org/10.1177/0956797617714579
+Chrobak, Q. M., & Zaragoza, M. S. (2008).
+Inventing stories: Forcing witnesses to fabri-
+cate entire fictitious events leads to freely
+reported
+false
+memories.
+Psychonomic
+Bulletin
+&
+Review,
+15(6),
+1190–1195.
+https://doi.org/10.3758/PBR.15.6.1190
+Clark, H. H. (1974). Semantics and comprehen-
+sion. In T. A. Sebeok (Ed.), Current trends
+in linguistics, vol. 12: Linguistics and adja-
+cent arts (pp. 1291–1428). Mouton.
+Clark, H. H. (1980). Semantics and comprehen-
+sion. De Gruyter Mouton.
+Cohen, J. (1969). Statistical power analysis for
+the behavioral sciences. Academic Press.
+Cohen, J. (1988). Statistical power analysis for
+the
+behavioral
+sciences
+(2nd
+ed.).
+L.
+Erlbaum Associates.
+Cook, J., & Lewandowsky, S. (2012). The debunk-
+ing handbook. University of Queensland.
+Dalton, A. L., & Daneman, M. (2006). Social
+suggestibility to central and peripheral misin-
+formation. Memory (Hove, England), 14(4),
+486–501.
+https://doi.org/10.1080/096582105
+00495073
+Davidson, D. (1994). Recognition and recall of
+irrelevant and interruptive atypical actions in
+script-based stories. Journal of Memory and
+654
+
+Language, 33(6), 757–775. https://doi.org/10.
+1006/jmla.1994.1036
+de Vega, M., Morera, Y., Leon, I., Beltran, D.,
+Casado, P., & Martın-Loeches, M. (2016).
+Sentential negation might share neurophysio-
+logical mechanisms with action inhibition.
+Evidence from frontal theta rhythm. The
+Journal
+of
+Neuroscience
+:
+The
+Official
+Journal of the Society for Neuroscience,
+36(22), 6002–6010. https://doi.org/10.1523/
+JNEUROSCI.3736-15.2016
+Deutsch, R., Gawronski, B., & Strack, F. (2006).
+At the boundaries of automaticity: Negation
+as
+reflective
+operation.
+Journal
+of
+Personality and Social Psychology, 91(3),
+385–405.
+https://doi.org/10.1037/0022-3514.
+91.3.385
+Dudschig, C., & Kaup, B. (2018). How does “not
+left”
+become
+“right”?
+Electrophysiological
+evidence for a dynamic conflict-bound neg-
+ation
+processing
+account.
+Journal
+of
+Experimental Psychology. Human Perception
+and Performance, 44(5), 716–728. https://doi.
+org/10.1037/xhp0000481
+Dudschig, C., Mackenzie, I. G., Maienborn, C.,
+Kaup, B., & Leuthold, H. (2019). Negation
+and the N400: Investigating temporal aspects
+of negation integration using semantic and
+world-knowledge
+violations.
+Language.
+Cognition and Neuroscience, 34(3), 309–
+319.
+https://doi.org/10.1080/23273798.2018.
+1535127
+Ecker, U. K. H., Lewandowsky, S., Cook, J.,
+Schmid,
+P.,
+Fazio,
+L.
+K.,
+Brashier,
+N.,
+Kendeou, P., Vraga, E. K., & Amazeen,
+M. A. (2022). The psychological drivers of
+misinformation belief and its resistance to
+correction. Nature Reviews Psychology, 1(1),
+13–29.
+https://doi.org/10.1038/s44159-021-
+00006-y10.1038/s44159-021-00006-y
+Eifermann, R. R. (1961). Negation: A linguistic
+variable.
+Acta
+Psychologica,
+18,
+269–
+278.
+https://doi.org/10.1016/0001-6918(61)9
+0016-6
+Faul, F., Erdfelder, E., Lang, A.-G., & Buchner,
+A. (2007). GPower 3: A flexible statistical
+power
+analysis
+program
+for
+the
+social,
+behavioral,
+and
+biomedical
+sciences.
+Behavior Research Methods, 39(2), 175–191.
+https://doi.org/10.3758/bf03193146
+Ferguson, H. J., Sanford, A. J., & Leuthold, H.
+(2008). Eye-movements and ERPs reveal the
+time
+course
+of
+processing
+negation
+and
+remitting
+counterfactual
+worlds.
+Brain
+Research, 1236, 113–125. https://doi.org/10.
+1016/j.brainres.2008.07.099
+Fiedler, K., Walther, E., Armbruster, T., Fay, D.,
+& Naumann, U. (1996). Do you really know
+what you have seen? Intrusion errors and
+presuppositions effects on constructive mem-
+ory.
+Journal
+of
+Experimental
+Social
+Psychology, 32(5), 484–511. https://doi.org/
+10.1006/jesp.1996.0022
+Garcıa-Bajos, E., & Migueles, M. (2003). False
+memories for script actions in a mugging
+account.
+European
+Journal
+of
+Cognitive
+Psychology, 15(2), 195–208. https://doi.org/
+10.1080/09541440244000102
+Grant, S. J., Malaviya, P., & Sternthal, B.
+(2004). The influence of negation on product
+evaluations. Journal of Consumer Research,
+31(3),
+583–591.
+https://doi.org/10.1086/
+425093
+Greenspan, R. L., & Loftus, E. F. (2021).
+Pandemics and infodemics: Research on the
+effects
+of
+misinformation
+on
+memory.
+Human
+Behavior
+and
+Emerging
+Technologies, 3(1), 8–12. https://doi.org/10.
+1002/hbe2.228
+Grice, H. P. (1975). Logic and conversation. In
+P. Cole & J. L. Morgan (Eds.), Syntax and
+semantics: Vol. 3: Speech acts (pp. 41–58).
+Academic Press.
+Heath, W. P., & Erickson, J. R. (1998). Memory
+for central and peripheral actions and props
+after varied post-event presentation. Legal
+and Criminological Psychology, 3(2), 321–
+346.
+https://doi.org/10.1111/j.2044-8333.
+1998.tb00369.x
+Hekkanen, S. T., & McEvoy, C. (2002). False
+memories and source-monitoring problems:
+Criterion
+differences.
+Applied
+Cognitive
+Psychology, 16(1), 73–85. https://doi.org/10.
+1002/acp.753
+Holliday, R. E., Humphries, J. E., Milne, R.,
+Memon, A., Houlder, L., Lyons, A., & Bull,
+R. (2012). Reducingmisinformation effects
+in older adults with cognitive interview mne-
+monics. Psychology and Aging, 27(4), 1191–
+1203. https://doi.org/10.1037/a002203
+Holst, V. F., & Pezdek, K. (1992). Scripts for
+typical crimes and their effects on memory
+for eyewitness testimony. Applied Cognitive
+Psychology, 6(7), 573–587. https://doi.org/
+10.1002/acp.2350060702
+Innocence Project. (2023). DNA exonerations in
+the United States. Retrieved March 4, 2023,
+from
+http://www.innocenceproject.org/dna-
+exonerations-in-the-united-stateshttp://www.
+innocenceproject.org/dna-exonerations-in-the-
+united-states
+Jones, S. (1968). Instructions, self-instructions,
+and performance. The Quarterly Journal of
+655
+
+Experimental
+Psychology,
+20(1),
+74–78.
+https://doi.org/10.1080/14640746808400130
+Just, M. A., & Carpenter, P. A. (1976). Eye fixa-
+tions
+and
+cognitive
+processes.
+Cognitive
+Psychology, 8(4), 441–480. https://doi.org/
+10.1016/0010-0285(76)90015-3
+Kaup, B., & Dudschig, C. (2020). Understanding
+negation: Issues in the processing of neg-
+ation. In V. Deprez & T. Espinal (Eds.), The
+Oxford handbook of negation (pp. 635–655).
+Oxford University Press.
+Kaup, B., L€udtke, J., & Zwaan, R. A. (2006).
+Processing negated sentences with contra-
+dictory predicates: Is a door that is not open
+mentally
+closed?
+Journal
+of
+Pragmatics,
+38(7), 1033–1050. https://doi.org/10.1016/j.
+pragma.2005.09.012
+Keppel, G., & Wickens, T. D. (2004). Design
+and analysis (4th ed.). Prentice-Hall.
+Lampinen, J. M., Copeland, S. M., & Neuschatz,
+J. S. (2001). Recollections of things sche-
+matic: Room schemas revisited. Journal of
+Experimental
+Psychology.
+Learning,
+Memory, and Cognition, 27(5), 1211–1222.
+https://doi.org/10.1037/0278-7393.27.5.1211
+Lee, Y., & Chen, K.-N. (2013). Post-event infor-
+mation presented in a question form elimi-
+nates
+the
+misinformation
+effect.
+British
+Journal of Psychology (London, England :
+1953), 104(1), 119–129. https://doi.org/10.
+1111/j.2044-8295.2012.02109.x
+Lewandowsky, S., Ecker, U. K. H., Seifert,
+C. M., Schwarz, N., & Cook, J. (2012).
+Misinformation and its correction: Continued
+influence
+and
+successful
+debiasing.
+Psychological Science in the Public Interest
+: A Journal of the American Psychological
+Society, 13(3), 106–131. https://doi.org/10.
+1177/1529100612451018
+Lindsay, D. S., & Johnson, M. K. (1989). The
+eyewitness suggestibility effect and memory
+for source. Memory & Cognition, 17(3), 349–
+358. https://doi.org/10.3758/BF03198473
+Lindsay, D. S., Hagen, L., Read, J. D., Wade,
+K. A., & Garry, M. (2004). True photo-
+graphs and false memories. Psychological
+Science, 15(3), 149–154. https://doi.org/10.
+1111/j.0956-7976.2004.01503002.x
+Loehr, J., & Marche, T. (2006). Omitting details
+from post-event information: Are true and
+false memory affected in the same way?
+Memory
+(Hove,
+England),
+14(1),
+17–26.
+https://doi.org/10.1080/09658210444000467
+Loftus, E. F. (1979). The malleability of human
+memory. American Scientist, 67(3), 312–320.
+Loftus, E. F. (2005). Planting misinformation in
+the human mind: A 30-year investigation of
+the malleability of memory. Learning &
+Memory (Cold Spring Harbor, N.Y.), 12(4),
+361–366. https://doi.org/10.1101/lm.94705
+Loftus, E. F., & Pickrell, J. E. (1995). The for-
+mation
+of
+false
+memories.
+Psychiatric
+Annals, 25(12), 720–725. https://doi.org/10.
+3928/0048-5713-19951201-07
+Loftus, E. F., Miller, D. G., & Burns, H. J.
+(1978). Semantic integration of verbal infor-
+mation into a visual memory. Journal of
+Experimental Psychology: Human Learning
+and Memory, 4(1), 19–31. https://doi.org/10.
+1037/0278-7393.4.1.19
+Luna, K., & Migueles, M. (2009). Acceptance
+and confidence of central and peripheral
+misinformation.
+The
+Spanish
+Journal
+of
+Psychology, 12(2), 405–413. https://doi.org/
+10.1017/S1138741600001797
+Luna, K., & Seco, M. M. (2008). Typicality and
+misinformation: Two sources of distortion.
+Psicologica:
+Revista
+de
+Metodologıa
+y
+Psicologıa Experimental, 29(2), 171–187.
+Maciuszek, J. (2013). Don’t pay attention to
+what
+you
+see!
+Negative
+commands
+and
+attention bias. Polish Psychological Bulletin,
+44(1),
+70–84.
+https://doi.org/10.2478/ppb-
+2013-0008
+Maciuszek, J., & Polczyk, R. (2017). There was
+not, they did not: May negation cause the
+negated ideas to be remembered as existing?
+PloS One, 12(4), e0176452. https://doi.org/
+10.1371/journal.pone.0176452
+Maciuszek,
+J.,
+Polak,
+M.,
+&
+Sekulak,
+M.
+(2019a). There is no item vs. I wish there
+were an item: Implicit negation causes false
+recall just as well as explicit negation. PLOS
+One,
+14(4),
+e0215283.
+https://doi.org/10.
+1371/journal.pone.0215283
+Maciuszek,
+J.,
+Polak,
+M.,
+&
+Sekulak,
+M.
+(2019b). Memory effects of implicit and
+explicit
+negation
+in
+a
+visual
+setting:
+Negation based on implicatures leads to a
+similar number of false memory alarms as
+overt
+negation.
+Polish
+Psychological
+Bulletin, 50(4), 293–302. https://doi.org/10.
+24425/ppb.2019.131002
+Martın-Luengo, B., Luna, K., & Migueles, M.
+(2013). Memory for radio advertisements:
+The
+effect
+of
+program
+and
+typicality.
+The Spanish Journal of Psychology, 16(e80),
+E80. https://doi.org/10.1017/sjp.2013.80
+Masson, M. E. J. (2011). A tutorial on a prac-
+tical Bayesian alternative to null-hypothesis
+significance
+testing.
+Behavior
+Research
+Methods, 43(3), 679–690. https://doi.org/10.
+3758/s13428-010-0049-5
+656
+
+Mayo, R., Schul, Y., & Burnstein, E. (2004). I
+am not guilty” vs “I am innocent”: Successful
+negation may depend on the schema used for
+its encoding. Journal of Experimental Social
+Psychology, 40(4), 433–449. https://doi.org/
+10.1016/j.jesp.2003.07.008
+Mayo, R., Schul, Y., & Rosenthal, M. (2014). If
+you negate, you may forget: Negated repeti-
+tions impair memory compared with affirma-
+tive
+repetitions.
+Journal
+of
+Experimental
+Psychology.
+General,
+143(4),
+1541–1552.
+https://doi.org/10.1037/a0036122
+McCloskey,
+M.,
+&
+Zaragoza,
+M.
+(1985).
+Misleading postevent information and mem-
+ory for events: Arguments and evidence
+against
+memory
+impairment
+hypotheses.
+Journal
+of
+Experimental
+Psychology.
+General,
+114(1),
+1–16.
+https://doi.org/10.
+1037/0096-3445.114.1.1
+Nakamura, G. V., Graesser, A. C., Zimmerman,
+J. A., & Riha, J. (1985). Script processing in a
+natural situation. Memory & Cognition, 13(2),
+140–144. https://doi.org/10.3758/bf03197006
+Newman, V. E., Yee, H. F., Walker, A. R.,
+Toumbelekis, M., & Most, S. B. (2021). Out
+of fright, out of mind: Impaired memory for
+information negated during looming threat.
+Cognitive
+Research:
+Principles
+and
+Implications,
+6(1),
+36.
+https://doi.org/10.
+1186/s41235-021-00302-4
+Nieuwland, M. S., & Kuperberg, G. R. (2008).
+When the truth is not too hard to handle: An
+event-related potential study on the prag-
+matics of negation. Psychological Science,
+19(12), 1213–1218. https://doi.org/10.1111/j.
+1467-9280.2008.02226.x
+Pickrell, J. E., McDonald, D. L., Bernstein,
+D.
+M.,
+&
+Loftus,
+E.
+F.
+(2016).
+Misinformation effect. In Cognitive illusions
+(pp. 416–433). Psychology Press.
+Polczyk, R. (2007). Mechanizmy efektu dezinfor-
+macji w kontekscie zeznan swiadka naocz-
+nego. [Mechanisms of the misinformation
+effect in the context of eyewitness memory].
+Wydawnictwo Uniwersytetu Jagiellonskiego.
+Polczyk, R. (2017). The “memory” misinforma-
+tion effect may not be caused by memory
+failures: Exploring memory states of misin-
+formed
+subjects.
+Polish
+Psychological
+Bulletin, 48(3), 388–400. https://doi.org/10.
+1515/ppb-2017-0045
+Prike, T., Blackley, P., Swire-Thompson, B., &
+Ecker, U. K. (2023). It was not drugs! No
+evidence for corrections backfiring when
+presented
+without
+initial
+misinformation
+exposure. PsyArXiv. https://doi.org/10.31234/
+osf.io/u7s2b
+Richardson, J. T. E. (2011). Eta squared and par-
+tial eta squared as measures of effect size in
+educational research. Educational Research
+Review,
+6(2),
+135–147.
+https://doi.org/10.
+1016/j.edurev.2010.12.001
+Rosenthal,
+R.,
+&
+Rosnow,
+R.
+L.
+(1985).
+Contrasts analysis: Focused comparisons in
+the
+analysis
+of
+variance.
+Cambridge
+University Press.
+Rosnow, R. L., & Rosenthal, R. (1989). Definition
+and
+interpretation
+of
+interaction
+effects.
+Psychological
+Bulletin,
+105(1),
+143–146.
+https://doi.org/10.1037/0033-2909.105.1.143
+Schwarz, N., Sanna, L. J., Skurnik, I., & Yoon,
+C. (2007). Metacognitive experiences and
+the intricacies of setting people straight:
+Implications for debiasing and public infor-
+mation
+campaigns.
+Advances
+in
+Experimental Social Psychology, 39, 127–
+161.
+https://doi.org/10.1016/S0065-2601(06)
+39003-X10.1016/S0065-2601(06)39003-X
+Smith, V. L., & Studebaker, C. A. (1996). What
+do you expect?: The influence of people’s
+prior
+knowledge
+of
+crime
+categories
+on
+fact-finding.
+Law
+and
+Human
+Behavior,
+20(5),
+517–532.
+https://doi.org/10.1007/BF0
+1499039
+Stangor, C., & McMillan, D. (1992). Memory
+for expectancy-congruent and expectancy-
+incongruent information: A review of the
+social and social developmental literatures.
+Psychological
+Bulletin,
+111(1),
+42–61.
+https://doi.org/10.1037/0033-2909.111.1.42
+Swire-Thompson, B., DeGutis, J., & Lazer, D.
+(2020). Searching for the backfire effect:
+Measurement
+and
+design
+considerations.
+Journal of Applied Research in Memory and
+Cognition, 9(3), 286–299. https://doi.org/10.
+1016/j.jarmac.2020.06.006
+Swire-Thompson, B., Miklaucic, N., Wihbey,
+J. P., Lazer, D., & DeGutis, J. (2022). The
+backfire effect after correcting misinforma-
+tion is strongly associated with reliability.
+Journal
+of
+Experimental
+Psychology.
+General, 151(7), 1655–1665. https://doi.org/
+10.1037/xge000113110.1037/xge0001131
+Szpitalak, M. (2022). Reinforced self-affirmation
+as a method of reducing the misinformation
+effect:
+Towards
+ecological
+validity.
+Psychology, Crime & Law, 1–29. https://doi.
+org/10.1080/1068316X.2022.2093872
+Szpitalak, M., & Polczyk, R. (2013). Promoting
+eyewitness testimony quality: Warning vs.
+Reinforced self-affirmation as methods of
+reduction
+of
+the
+misinformation
+effect.
+Polish Psychological Bulletin, 44(1), 85–91.
+https://doi.org/10.2478/ppb-2013-0009
+657
+
+Szpitalak, M., & Polczyk, R. (2014). Mental
+fatigue, mental warm-up, and self-reference
+as determinants of the misinformation effect.
+The
+Journal
+of
+Forensic
+Psychiatry
+&
+Psychology, 25(2), 135–151. https://doi.org/
+10.1080/14789949.2014.895024
+Szpitalak, M., & Polczyk, R. (2015). Reinforced
+self-affirmation as a method for reducing the
+eyewitness misinformation effect. Psychology,
+Crime & Law, 21(10), 911–938. https://doi.
+org/10.1080/1068316X.2015.1077243
+Takarangi, M. K. T., Parker, S., & Garry, M.
+(2006).
+Modernising
+the
+misinformation
+effect: The development of a new stimulus
+set. Applied Cognitive Psychology, 20(5),
+583–590. https://doi.org/10.1002/acp.1209
+Van Damme, I., & Smets, K. (2014). The power
+of emotion versus the power of suggestion:
+Memory for emotional events in the misin-
+formation paradigm. Emotion (Washington,
+D.C.),
+14(2),
+310–320.
+https://doi.org/10.
+1037/a0034629
+van Doorn, J., van den Bergh, D., B€ohm, U.,
+Dablander, F., Derks, K., Draws, T., Etz, A.,
+Evans, N. J., Gronau, Q. F., Haaf, J. M.,
+Hinne, M., Kucharsky, S., Ly, A., Marsman,
+M.,
+Matzke,
+D.,
+Gupta,
+A.
+R.
+K.
+N.,
+Sarafoglou, A., Stefan, A., Voelkel, J. G., &
+Wagenmakers,
+E.-J.
+(2021).
+The
+JASP
+guidelines for conducting and reporting a
+Bayesian analysis. Psychonomic Bulletin &
+Review, 28(3), 813–826. https://doi.org/10.
+3758/s13423-020-01798-5
+Vosoughi, S., Roy, D., & Aral, S. (2018). The
+spread of true and false news online. Science
+(New York, N.Y.), 359(6380), 1146–1151.
+https://doi.org/10.1126/science.aap9559
+Wade, K. A., Garry, M., Don Read, J., &
+Lindsay, D. S. (2002). A picture is worth a
+thousand lies: Using false photographs to
+create
+false
+childhood
+memories.
+Psychonomic Bulletin & Review, 9(3), 597–
+603. https://doi.org/10.3758/bf03196318
+Walter, N., & Tukachinsky, R. (2020). A meta-
+analytic examination of the continued influ-
+ence
+of
+misinformation
+in
+the
+face
+of
+correction: How powerful is it, why does it
+happen, and how to stop it? Communication
+Research, 47(2), 155–177. https://doi.org/10.
+1177/0093650219854600
+Wason, P. C. (1959). The processing of positive
+and
+negative
+information.
+Quarterly
+Journal of Experimental Psychology, 11(2),
+92–107. https://doi.org/10.1080/1747021590
+8416296
+Wason, P. C., & Jones, S. (1963). Negatives:
+Denotation and connotation. British Journal
+of Psychology (London, England : 1953),
+54(4),
+299–307.
+https://doi.org/10.1111/j.
+2044-8295.1963.tb00885.x
+Wegner, D. M., Ansfield, M., & Pilloff, D.
+(1998). The putt and the pendulum: Ironic
+effects of
+the
+mental control of action.
+Psychological
+Science,
+9(3),
+196–199.
+https://doi.org/10.1111/1467-9280.00037
+Wegner, D. M., Schneider, D. J., Carter, S. R.,
+& White, T. L. (1987). Paradoxical effects
+of
+thought
+suppression.
+Journal
+of
+Personality and Social Psychology, 53(1), 5–
+13. https://doi.org/10.1037/0022-3514.53.1.5
+Wells, G. L., & Loftus, E. F. (2003). Eyewitness
+memory for people and events. In A. M.
+Goldstein (Ed.), Handbook of psychology:
+Forensic psychology (Vol. 11, pp. 149–160).
+John Wiley & Sons Inc.
+Wirth, R., Kunde, W., & Pfister, R. (2019). How
+not to fall for the white bear: Combined fre-
+quency and recency manipulations diminish
+negation effects on overt behavior. Journal
+of
+Cognition,
+2(1),
+11.
+https://doi.org/10.
+5334/joc.62
+World
+Health
+Organization
+(WHO).
+(2020).
+Novel Coronavirus (2019-nCoV): Situation
+report.
+WHO.
+https://www.who.int/docs/
+defaultsource/coronaviruse/situation-reports/
+20200202-sitrep-13-ncovv3.pdf
+Wright, D. B., Loftus, E. F., & Hall, M. (2001).
+Now you see it; now you don’t: Inhibiting
+recall and recognition of scenes. Applied
+Cognitive
+Psychology,
+15(5),
+471–482.
+https://doi.org/10.1002/acp.719
+Xiang, M., Grove, J., & Giannakidou, A. (2016).
+Semantic and pragmatic processes in the
+comprehension of negation: An event related
+potential study of negative polarity sensitiv-
+ity. Journal of Neurolinguistics, 38, 71–88.
+https://doi.org/10.1016/j.jneuroling.2015.11.
+001
+Zaragoza, M. S., Belli, R. F., & Payment,
+K. E. (2007). Misinformation effects and
+the suggestibility of eyewitness memory.
+In
+Do
+justice
+and
+let
+the
+sky
+fall:
+Elizabeth Loftus and her contributions to
+science, law, and academic freedom (pp.
+35–63).
+Lawrence
+Erlbaum
+Associates
+Publishers.
+658
